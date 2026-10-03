@@ -1,0 +1,31 @@
+-- Script path: ReplicatedStorage.Packages.Sift.Array.differenceSymmetric.spec
+-- Decompile time: 1.02 ms
+
+return function() -- Line: 1
+    local differenceSymmetric = require(script.Parent.differenceSymmetric)
+    it("should return the symmetric difference between two arrays", function() -- Line: 4 -- upvalues: differenceSymmetric (val)
+        local v1 = differenceSymmetric({"hello", "world"}, {"cat", "dog", "hello"})
+        expect(v1).to.be.a("table")
+        expect(#v1).to.equal(3)
+        expect(table.find(v1, "world")).to.be.ok()
+        expect(table.find(v1, "cat")).to.be.ok()
+        expect(table.find(v1, "dog")).to.be.ok()
+    end)
+    it("should accept vararg nil values", function() -- Line: 18 -- upvalues: differenceSymmetric (val)
+        local v1 = differenceSymmetric({"hello", "world"}, nil, {"cat", "dog", "hello"})
+        expect(v1).to.be.a("table")
+        expect(#v1).to.equal(3)
+        expect(table.find(v1, "world")).to.be.ok()
+        expect(table.find(v1, "cat")).to.be.ok()
+        expect(table.find(v1, "dog")).to.be.ok()
+    end)
+    it("should accept multiple arrays", function() -- Line: 32 -- upvalues: differenceSymmetric (val)
+        local v1 = differenceSymmetric({"hello", "world"}, {"cat", "dog", "hello"}, {"hello", "panda"})
+        expect(v1).to.be.a("table")
+        expect(#v1).to.equal(4)
+        expect(table.find(v1, "world")).to.be.ok()
+        expect(table.find(v1, "cat")).to.be.ok()
+        expect(table.find(v1, "dog")).to.be.ok()
+        expect(table.find(v1, "panda")).to.be.ok()
+    end)
+end

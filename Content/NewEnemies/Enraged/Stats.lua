@@ -1,0 +1,42 @@
+-- Script path: ReplicatedStorage.Content.NewEnemies.Enraged.Stats
+-- Decompile time: 0.18 ms
+
+return {
+    Speed = 7.5,
+    MaxHealth = 60,
+    HealthPerDifficulty = {
+        Easy = 165,
+        Casual = 60,
+        Intermediate = 75,
+        PVP_lowRanks = 60,
+        PVP_midRanks = 80,
+        PVP_highRanks = 100,
+        SummerMedium = 150,
+        Trial = 400,
+        Act1 = 200,
+        Chapter1Mission4 = 125,
+        Chapter1Mission7 = 150,
+        Chapter1Mission8 = 250,
+    },
+    Reward = {
+        Easy = 200,
+        Casual = 60,
+        Intermediate = 50,
+        PizzaParty = 50,
+        Badlands = 50,
+        Molten = 50,
+        Fallen = 50,
+        PVP_lowRanks = 50,
+        PVP_midRanks = 50,
+        PVP_highRanks = 50,
+        PlsDonateHard = 50,
+        PollutedWasteland = 50,
+        SummerMedium = 125,
+        Trial = 250,
+        Act1 = 200,
+        Chapter1Mission4 = 100,
+        Chapter1Mission7 = 150,
+        Chapter1Mission8 = 200,
+    },
+    Attributes = {},
+}

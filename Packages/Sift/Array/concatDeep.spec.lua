@@ -1,0 +1,41 @@
+-- Script path: ReplicatedStorage.Packages.Sift.Array.concatDeep.spec
+-- Decompile time: 1.13 ms
+
+return function() -- Line: 1
+    local concatDeep = require(script.Parent.concatDeep)
+    it("should join multiple arrays together into a single array", function() -- Line: 4 -- upvalues: concatDeep (val)
+        local v1 = concatDeep({1, 2, 3}, {4, 5, 6})
+        expect(v1).to.be.a("table")
+        expect(v1[1]).to.equal(1)
+        expect(v1[2]).to.equal(2)
+        expect(v1[3]).to.equal(3)
+        expect(v1[4]).to.equal(4)
+        expect(v1[5]).to.equal(5)
+        expect(v1[6]).to.equal(6)
+    end)
+    it("should return an empty array if no arrays are given", function() -- Line: 20 -- upvalues: concatDeep (val)
+        local v1 = concatDeep()
+        expect(v1).to.be.a("table")
+        expect(#v1).to.equal(0)
+    end)
+    it("should accept nil values", function() -- Line: 27 -- upvalues: concatDeep (val)
+        local v1 = concatDeep(nil, {1, 2, 3})
+        local v2 = concatDeep({1, 2, 3}, nil)
+        expect(v1).to.be.a("table")
+        expect(#v1).to.equal(3)
+        expect(v2).to.be.a("table")
+        expect(#v2).to.equal(3)
+    end)
+    it("should join multiple arrays, copying nested arrays", function() -- Line: 38 -- upvalues: concatDeep (val)
+        local v1 = {1, 2, {3, 4}}
+        local v2 = {5, 6, {7, 8}}
+        local v3 = concatDeep(v1, v2)
+        expect(v3).to.be.a("table")
+        expect(v3[1]).to.equal(1)
+        expect(v3[2]).to.equal(2)
+        expect(v3[3]).never.to.equal(v1[3])
+        expect(v3[4]).to.equal(5)
+        expect(v3[5]).to.equal(6)
+        expect(v3[6]).never.to.equal(v2[3])
+    end)
+end

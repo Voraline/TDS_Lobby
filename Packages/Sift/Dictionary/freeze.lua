@@ -1,0 +1,10 @@
+-- Script path: ReplicatedStorage.Packages.Sift.Dictionary.freeze
+-- Decompile time: 0.19 ms
+
+require(script.Parent.Parent.Types)
+local copy = require(script.Parent.copy)
+return function(a1) -- Line: 23 -- upvalues: copy (val)
+    local v1 = copy(a1)
+    table.freeze(v1)
+    return v1
+end

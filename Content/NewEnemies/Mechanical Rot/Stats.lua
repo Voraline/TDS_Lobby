@@ -1,0 +1,55 @@
+-- Script path: ReplicatedStorage.Content.NewEnemies.Mechanical Rot.Stats
+-- Decompile time: 0.65 ms
+
+return {
+    Description = "When the world went blank, the mechanical rot was cast into the Nil Zone. Memory stripped and soul hollowed, the actor rebuilt himself and his machine anew — not from purpose, but from the echo of what purpose once was.",
+    Speed = 1,
+    MaxHealth = 600000,
+    Reward = 850000,
+    RewardThreshold = 0.05,
+    Scale = 1.5,
+    Attributes = {},
+    AttackInfo = {
+        Range = 30,
+        Summon = {
+            recharge = 6,
+            Length = NumberRange.new(6, 16),
+            Spawns = {
+                {Name = "Unknown Small", Chance = 30, Delay = 1},
+                {Name = "Unknown Boss", Chance = 20, Delay = 2},
+                {Name = "Enigma", Chance = 20, Delay = 1.5},
+                {Name = "Actor1", Chance = 10, Delay = 1.5},
+                {Name = "Actor2", Chance = 10, Delay = 2},
+                {Name = "Actor3", Chance = 5, Delay = 3},
+                {Name = "Executioner", Chance = 2, Delay = 3},
+                {Name = "Null Beast", Chance = 5, Delay = 2},
+                {Name = "Nulling", Chance = 30, Delay = 0.25},
+                {Name = "Corrupted Terror", Chance = 30, Delay = 0.25},
+                {Name = "Corrupted Revenant", Chance = 30, Delay = 0.5},
+                {Name = "Corrupted Wraith", Chance = 30, Delay = 0.25},
+                {Name = "Corrupted Horror", Chance = 30, Delay = 0.25},
+            },
+        },
+        Minigun = {
+            fireLength = 8,
+            rageFireLength = 15,
+            radius = 6,
+            stunLength = 6,
+            damage = 50,
+            range = 20,
+            recharge = 12,
+        },
+        Cannon = {
+            count = 6,
+            rageCount = 12,
+            cooldown = 0.8,
+            radius = 6,
+            stunLength = 6,
+            damage = 50,
+            range = 35,
+            aimTime = 0.5,
+            recharge = 12,
+            projData = {dtMultiplier = 6, gravity = -1.8, velocity = 4},
+        },
+    },
+}

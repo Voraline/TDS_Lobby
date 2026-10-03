@@ -1,0 +1,386 @@
+-- Script path: ReplicatedStorage.Content.Tower.Elementalist.Stats
+-- Decompile time: 3.17 ms
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Enum = require(ReplicatedStorage.Shared.Modules.Enum)
+local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)
+return {
+    Stats = {
+        Default = {
+            Upgrades = {
+                {
+                    Image = 136223791844063,
+                    Title = "Elemental Armory",
+                    Cost = 1500,
+                    Stats = {
+                        Range = 15,
+                        Damage = 5,
+                        Cooldown = 0.6,
+                        Attributes = {
+                            BurstSize = 4,
+                            BurstCooldown = 0.2,
+                            FrostDebuff = {
+                                Duration = 2,
+                                Damage = 0,
+                                DefenseMelt = 0,
+                                SlowPercent = 2.5,
+                                MaxSlow = 10,
+                                TickRate = 0.5,
+                                CanFreeze = false,
+                                FreezeTime = 0,
+                            },
+                            BurnDebuff = {
+                                Duration = 3,
+                                BurnTickRate = 0.5,
+                                BurnDamage = 8,
+                                DefenseMelt = 0,
+                                EnemyBuff = 0,
+                            },
+                        },
+                        Extras = {},
+                    },
+                    Tooltips = {
+                        {
+                            ButtonText = "Upgraded <font color=\"rgb(255,185,0)\"><b>Burst</b></font>",
+                            Header = "Burst Upgrade",
+                            Content = {{Text = "Burst Size: 3 -> 4"}},
+                        },
+                        {
+                            ButtonText = "Upgraded <font color=\"rgb(255,185,0)\"><b>Frost</b></font>",
+                            Header = "Frost Upgrade",
+                            Content = {{Text = "Chill Percent on hit: 2% -> 2.5% Seconds"}},
+                        },
+                        {
+                            ButtonText = "Upgraded <font color=\"rgb(255,185,0)\"><b>Fire</b></font>",
+                            Header = "Fire Upgrade",
+                            Content = {{Text = "Burn Duration: 2 -> 3 Seconds"}, {Text = "Burn Damage: 5 -> 8"}},
+                        },
+                    },
+                },
+                {
+                    Image = 124219033045691,
+                    Title = "Experimental Tech",
+                    Cost = 4000,
+                    Stats = {
+                        Range = 17,
+                        Damage = 10,
+                        Cooldown = 0.6,
+                        Attributes = {
+                            BurstSize = 4,
+                            BurstCooldown = 0.2,
+                            HeatWave = {
+                                Damage = 150,
+                                Radius = 12.5,
+                                Duration = 5,
+                                BurnTickRate = 0.5,
+                                BurnDamage = 10,
+                                Knockback = 20,
+                                DefenseMelt = 0,
+                                EnemyBuff = 0,
+                                Speed = 2,
+                            },
+                            FrostDebuff = {
+                                Duration = 2,
+                                Damage = 0,
+                                DefenseMelt = 0,
+                                SlowPercent = 2.5,
+                                MaxSlow = 15,
+                                TickRate = 0.5,
+                                CanFreeze = false,
+                                FreezeTime = 0,
+                            },
+                            BurnDebuff = {
+                                Duration = 4,
+                                BurnTickRate = 0.5,
+                                BurnDamage = 8,
+                                DefenseMelt = 0,
+                                EnemyBuff = 0,
+                            },
+                        },
+                        Extras = {},
+                        Detections = {[Enum.StatusEffect.HiddenDetection] = true},
+                    },
+                    Tooltips = {
+                        {
+                            ButtonText = "Upgraded <font color=\"rgb(255,185,0)\"><b>Frost</b></font>",
+                            Header = "Frost Upgrade",
+                            Content = {{Text = "Max Chill: 10% -> 15%"}},
+                        },
+                        {
+                            ButtonText = "Upgraded <font color=\"rgb(255,185,0)\"><b>Fire</b></font>",
+                            Header = "Fire Upgrade",
+                            Content = {{Text = "Burn Duration: 3 -> 4 Seconds"}},
+                        },
+                        {
+                            ButtonText = "Unlock <font color=\"rgb(255,185,0)\"><b>Ice Turret</b></font>",
+                            Header = "Ice Turret",
+                            Content = {
+                                {Text = "Damage: 10"},
+                                {Text = "Cooldown: 0.45"},
+                                {Text = "Range: 10"},
+                                {Text = "Duration: 40 seconds"},
+                                {Text = "Chill Percent on hit: 2.5%"},
+                                {Text = "Max Chill: 15%"},
+                                {Text = "Can Freeze"},
+                            },
+                        },
+                        {
+                            ButtonText = "Unlock <font color=\"rgb(255,185,0)\"><b>Heatwave</b></font>",
+                            Header = "Heatwave",
+                            Content = {
+                                {Text = "Damage: 150"},
+                                {Text = "Range: 12.5"},
+                                {Text = "Burn Duration: 5 Seconds"},
+                                {Text = "Burn Tick Rate: 0.5 Seconds"},
+                                {Text = "Burn Damage: 10"},
+                                {Text = "Knockback: 20"},
+                            },
+                        },
+                    },
+                },
+                {
+                    Image = 77890912829468,
+                    Title = "Improved Exhaust Systems",
+                    Cost = 8000,
+                    Stats = {
+                        Range = 17,
+                        Damage = 12,
+                        Cooldown = 0.5,
+                        Attributes = {
+                            BurstSize = 5,
+                            BurstCooldown = 0.2,
+                            HeatWave = {
+                                Damage = 250,
+                                Radius = 13.5,
+                                Duration = 5,
+                                BurnTickRate = 0.5,
+                                BurnDamage = 14,
+                                Knockback = 22.5,
+                                DefenseMelt = 0,
+                                EnemyBuff = 0,
+                                Speed = 2,
+                            },
+                            FrostDebuff = {
+                                Duration = 2,
+                                Damage = 0,
+                                DefenseMelt = 0,
+                                SlowPercent = 5,
+                                MaxSlow = 15,
+                                TickRate = 0.5,
+                                CanFreeze = false,
+                                FreezeTime = 0,
+                            },
+                            BurnDebuff = {
+                                Duration = 2,
+                                BurnTickRate = 0.25,
+                                BurnDamage = 10,
+                                DefenseMelt = 0,
+                                EnemyBuff = 0,
+                            },
+                        },
+                    },
+                    Tooltips = {
+                        {
+                            ButtonText = "Upgraded <font color=\"rgb(255,185,0)\"><b>Burst</b></font>",
+                            Header = "Burst Upgrade",
+                            Content = {{Text = "Burst Size: 4 -> 5"}},
+                        },
+                        {
+                            ButtonText = "Upgraded <font color=\"rgb(255,185,0)\"><b>Frost</b></font>",
+                            Header = "Frost Upgrade",
+                            Content = {{Text = "Chill Percent on hit: 2.5% -> 5%"}},
+                        },
+                        {
+                            ButtonText = "Upgraded <font color=\"rgb(255,185,0)\"><b>Fire</b></font>",
+                            Header = "Fire Upgrade",
+                            Content = {
+                                {Text = "Burn Duration: 4 -> 2 Seconds"},
+                                {Text = "Burn Damage: 8 -> 10"},
+                                {Text = "Burn Tick Rate: 0.5 -> 0.25"},
+                            },
+                        },
+                        {
+                            ButtonText = "Upgrade <font color=\"rgb(255,185,0)\"><b>Ice Turret</b></font>",
+                            Header = "Ice Turret",
+                            Content = {
+                                {Text = "Damage: 10 -> 20"},
+                                {Text = "Range: 10 -> 12.5"},
+                                {Text = "Cooldown: 0.45 -> 0.35"},
+                                {Text = "Chill Percent on hit: 2.5 -> 5%"},
+                            },
+                        },
+                        {
+                            ButtonText = "Upgrade <font color=\"rgb(255,185,0)\"><b>Heatwave</b></font>",
+                            Header = "Heatwave",
+                            Content = {
+                                {Text = "Damage: 150 -> 250"},
+                                {Text = "Range: 12.5 -> 13.5"},
+                                {Text = "Burn Damage: 10 -> 15"},
+                                {Text = "Knockback: 20 -> 22.5"},
+                            },
+                        },
+                    },
+                },
+                {
+                    Image = 90889171304008,
+                    Title = "Frost Fire Specialist",
+                    Cost = 15000,
+                    Stats = {
+                        Range = 17,
+                        Damage = 16,
+                        Cooldown = 0.4,
+                        Attributes = {
+                            BurstSize = 7,
+                            BurstCooldown = 0.125,
+                            HeatWave = {
+                                Damage = 400,
+                                Radius = 15,
+                                Duration = 5,
+                                BurnTickRate = 0.5,
+                                BurnDamage = 18,
+                                Knockback = 25,
+                                DefenseMelt = 0,
+                                EnemyBuff = 0,
+                                Speed = 2,
+                            },
+                            FrostDebuff = {
+                                Duration = 2,
+                                Damage = 0,
+                                DefenseMelt = 0,
+                                SlowPercent = 5,
+                                MaxSlow = 20,
+                                TickRate = 0.5,
+                                CanFreeze = false,
+                                FreezeTime = 0,
+                            },
+                            BurnDebuff = {
+                                Duration = 4,
+                                BurnTickRate = 0.25,
+                                BurnDamage = 10,
+                                DefenseMelt = 0,
+                                EnemyBuff = 0,
+                            },
+                        },
+                    },
+                    Tooltips = {
+                        {
+                            ButtonText = "Upgraded <font color=\"rgb(255,185,0)\"><b>Burst</b></font>",
+                            Header = "Burst Upgrade",
+                            Content = {{Text = "Burst Size: 5 -> 7"}, {Text = "Burst Cooldown: 0.2 -> 0.125"}},
+                        },
+                        {
+                            ButtonText = "Upgraded <font color=\"rgb(255,185,0)\"><b>Frost</b></font>",
+                            Header = "Frost Upgrade",
+                            Content = {{Text = "Max Chill: 15% -> 20%"}},
+                        },
+                        {
+                            ButtonText = "Upgraded <font color=\"rgb(255,185,0)\"><b>Fire</b></font>",
+                            Header = "Fire Upgrade",
+                            Content = {{Text = "Burn Duration: 2 -> 4 Seconds"}},
+                        },
+                        {
+                            ButtonText = "Upgrade <font color=\"rgb(255,185,0)\"><b>Ice Turret</b></font>",
+                            Header = "Ice Turret",
+                            Content = {
+                                {Text = "Damage: 20 -> 30"},
+                                {Text = "Cooldown: 0.35 -> 0.3"},
+                                {Text = "Range: 12.5 -> 15"},
+                                {Text = "Max Chill: 15% -> 20%"},
+                            },
+                        },
+                        {
+                            ButtonText = "Upgrade <font color=\"rgb(255,185,0)\"><b>Heatwave</b></font>",
+                            Header = "Heatwave",
+                            Content = {
+                                {Text = "Damage: 250 -> 400"},
+                                {Text = "Range: 13.5 -> 15"},
+                                {Text = "Burn Damage: 15 -> 20"},
+                                {Text = "Knockback: 22.5 -> 25"},
+                            },
+                        },
+                    },
+                },
+            },
+            Defaults = {
+                Price = 2000,
+                Range = 12,
+                Cooldown = 0.6,
+                Damage = 3,
+                Limit = 5,
+                Attributes = {
+                    BurstSize = 3,
+                    BurstCooldown = 0.2,
+                    FrostDebuff = {
+                        Duration = 2,
+                        Damage = 0,
+                        DefenseMelt = 0,
+                        SlowPercent = 2,
+                        MaxSlow = 10,
+                        TickRate = 0.5,
+                        CanFreeze = false,
+                        FreezeTime = 0,
+                    },
+                    BurnDebuff = {
+                        Duration = 2,
+                        BurnTickRate = 0.5,
+                        BurnDamage = 5,
+                        DefenseMelt = 0,
+                        EnemyBuff = 0,
+                    },
+                },
+                Abilities = {
+                    {
+                        Name = "Ice Turret",
+                        Description = "Deploy an ice turret that attacks enemies with frost damage, applying chill effects to slow them.",
+                        Icon = 90574233330483,
+                        Price = 0,
+                        Level = 2,
+                        Debounce = 50,
+                    },
+                    {
+                        Name = "Heatwave",
+                        Description = "Unleash a wave of fire that burns enemies within its range, dealing damage over time and applying burn effects.",
+                        Icon = 102536701896068,
+                        Price = 0,
+                        Level = 2,
+                        Debounce = 40,
+                    },
+                },
+            },
+        },
+    },
+    Properties = {
+        Description = "An elemental specialist capabale of switching between frost and fire modes to apply debuffs.",
+        Height = 0,
+        BoundingSize = Vector3.new(0, 0, 0),
+        DPS_Display = {
+            Default = {
+                Calculate = TowerDPS.BurstWindow,
+                Option = {
+                    Name = "Element",
+                    Value = {Enum.Element.Frost, Enum.Element.Fire},
+                },
+            },
+            ["Burn DPS"] = {
+                Calculate = TowerDPS.Burn,
+                Option = {Name = "Element", Value = Enum.Element.Fire},
+            },
+            ["Total DPS"] = {
+                Calculate = TowerDPS.BurstWindowDamageOverTime,
+                Option = {Name = "Element", Value = Enum.Element.Fire},
+            },
+        },
+        Role = Enum.TowerRole.Defense,
+        Class = Enum.TowerType.Ground,
+        SkinData = {},
+        Preview = {
+            FieldOfView = 60,
+            TowerOffset = Vector3.new(0, 0, 0),
+            Icon = 78382857674962,
+            Thumbnail = 0,
+            TowerRotation = CFrame.Angles(0, 3.9269908169872414, 0),
+            CameraOffset = CFrame.new(0, 0, 6),
+        },
+        Category = Enum.TowerCategory.Exclusive,
+    },
+}

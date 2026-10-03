@@ -1,0 +1,36 @@
+-- Script path: ReplicatedStorage.Content.NewEnemies.Breaker.Stats
+-- Decompile time: 0.19 ms
+
+return {
+    Speed = 5.35,
+    MaxHealth = 15,
+    Reward = 5,
+    HealthPerDifficulty = {
+        Baby = 10,
+        Easy = 10,
+        Casual = 15,
+        Intermediate = 20,
+        PizzaParty = 50,
+        Badlands = 40,
+        Fallen = 50,
+        Molten = 40,
+        Frost = 50,
+        PVP = 25,
+        PVP_lowRanks = 20,
+        PVP_midRanks = 30,
+        PVP_highRanks = 50,
+        PlsDonateHard = 40,
+        PollutedWasteland = 75,
+        Trial = 75,
+        SummerEasy = 20,
+        SummerMedium = 40,
+        SummerHard = 50,
+        Act1 = 60,
+        NilZone = 40,
+        Chapter0Mission2 = 15,
+        Chapter1Mission6 = 25,
+        Chapter1Mission7 = 25,
+        Chapter1Mission8 = 15,
+    },
+    Attributes = {},
+}

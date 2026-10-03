@@ -1,0 +1,47 @@
+-- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-config@3.10.0.jest-config.Defaults
+-- Decompile time: 0.39 ms
+
+local v1 = {}
+require(script.Parent.Parent:WaitForChild("jest-types"))
+v1.default = {
+    automock = false,
+    bail = 0,
+    changedFilesWithAncestor = false,
+    ci = false,
+    clearMocks = false,
+    coveragePathIgnorePatterns = {},
+    expand = false,
+    globals = {},
+    injectGlobals = true,
+    listTests = false,
+    maxConcurrency = 5,
+    maxWorkers = "50%",
+    noStackTrace = false,
+    notify = false,
+    oldFunctionSpying = true,
+    passWithNoTests = false,
+    resetMocks = false,
+    resetModules = false,
+    restoreMocks = false,
+    roots = {"<rootDir>"},
+    runTestsByPath = false,
+    runner = "jest-runner",
+    setupFiles = {},
+    setupFilesAfterEnv = {},
+    skipFilter = false,
+    slowTestThreshold = 5,
+    snapshotSerializers = {},
+    testEnvironment = "jest-environment-roblox",
+    testEnvironmentOptions = {},
+    testFailureExitCode = 1,
+    testLocationInResults = false,
+    testMatch = {"**/__tests__/**/*", "**/?(*.)+(spec|test)"},
+    testPathIgnorePatterns = {},
+    testRegex = {},
+    timers = "real",
+    useStderr = false,
+    watch = false,
+    watchPathIgnorePatterns = {},
+    watchman = true,
+}
+return v1

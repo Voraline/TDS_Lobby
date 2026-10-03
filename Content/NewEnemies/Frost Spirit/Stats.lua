@@ -1,0 +1,87 @@
+-- Script path: ReplicatedStorage.Content.NewEnemies.Frost Spirit.Stats
+-- Decompile time: 0.82 ms
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Enum = require(ReplicatedStorage.Shared.Modules.Enum)
+return {
+    Scale = 1.05,
+    Health = 350000,
+    Shield = 0,
+    Defense = 20,
+    RewardThreshold = 0.04,
+    Speed = 1.45,
+    EliteHealthMultiplier = 1.5,
+    Description = "The Frost Spirit is one of the most powerful entities in the Frost Realm. Leading his own army, he commands all creatures under his domain. His followers fight unwaveringly for his cause as he demands absolute order and sacrifice to fulfill his desires. Once enraged, his arrack patterns change.",
+    HealthPerDifficulty = {Easy = 250000, Hard = 1000000, Frost = 350000},
+    Reward = {Easy = 300000, Hard = 1500000, Frost = 500000},
+    Phases = {Phase2Threshold = 0.8, HiddenModePerc = 0.32},
+    HealthMarkers = {
+        first = {value = 0.8, color = Color3.fromRGB(255, 170, 0)},
+        second = {value = 0.32, color = Color3.fromRGB(255, 0, 0)},
+    },
+    Attributes = {Enum.Modifier.Boss, Enum.Modifier.FreezeImmune},
+    Moveset = {
+        FrostSpikes = {
+            Phase = 1,
+            Range = 25,
+            Radius = 20,
+            Angle = 110,
+            UnitDamage = 1600,
+            FreezeTime = 4,
+            Cooldown = 24,
+            AttackCooldown = 4,
+            FrostSpeed = 50,
+        },
+        IceStorm = {
+            Phase = 2,
+            Radius = 1.5,
+            Range = 55,
+            UnitDamage = 3200,
+            FreezeTime = 7.5,
+            Height = 50,
+            Count = 120,
+            Cooldown = 35,
+            MinDelay = 2,
+            MaxDelay = 25,
+            AttackCooldown = 2,
+        },
+        Summon = {
+            Phase = 1,
+            Count = 5,
+            Cooldown = 25,
+            AttackCooldown = 1,
+            Spawns = {
+                {Name = "Yeti", Chance = 50, Delay = 1.5},
+                {Name = "Elite Snow Golem", Chance = 35, Delay = 0.75},
+                {Name = "Frost Acolyte", Chance = 15, Delay = 1.5},
+            },
+            Modifiers = {{Chance = 80}, {Chance = 20, Value = Enum.Modifier.Bloated}},
+        },
+        SwitchPath = {
+            Phase = 2,
+            AttackCooldown = 0.5,
+            Cooldown = 25,
+            DefaultOffset = -5,
+            MapOffsets = {["Outpost 32"] = {-2, -2, -2}},
+        },
+        LaserSweep = {
+            Phase = 2,
+            Range = 35,
+            LaserRange = 35,
+            Radius = 3,
+            UnitDamage = 1000,
+            FreezeTime = 6,
+            LaserTime = 3,
+            Angle = 360,
+            Cooldown = 30,
+            AttackCooldown = 0.75,
+        },
+        IceBeacon = {
+            Phase = 2,
+            Count = 3,
+            Cooldown = 35,
+            AttackCooldown = 17.5,
+            HealthRegenRate = {Easy = 2400, Hard = 2400, Frost = 4500},
+        },
+    },
+}

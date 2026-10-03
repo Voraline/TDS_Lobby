@@ -1,0 +1,37 @@
+-- Script path: ReplicatedStorage.Packages.Sift.Array.flatten.spec
+-- Decompile time: 1.09 ms
+
+return function() -- Line: 1
+    local flatten = require(script.Parent.flatten)
+    it("should return a flattened array", function() -- Line: 4 -- upvalues: flatten (val)
+        local v1 = flatten({1, 2, {3, 4}})
+        expect(v1).to.be.a("table")
+        expect(#v1).to.equal(4)
+        expect(v1[1]).to.equal(1)
+        expect(v1[2]).to.equal(2)
+        expect(v1[3]).to.equal(3)
+        expect(v1[4]).to.equal(4)
+    end)
+    it("should not flatten nested arrays if depth = 0", function() -- Line: 18 -- upvalues: flatten (val)
+        local v1 = {1, 2, {3, 4}}
+        local v2 = flatten(v1, 0)
+        expect(v2).to.be.a("table")
+        expect(#v2).to.equal(3)
+        expect(v2[1]).to.equal(1)
+        expect(v2[2]).to.equal(2)
+        expect(v2[3]).to.equal(v1[3])
+    end)
+    it("should flatten as deeply as possible", function() -- Line: 31 -- upvalues: flatten (val)
+        local v1 = flatten({1, 2, {3, 4, {5, 6, {7, 8}}}})
+        expect(v1).to.be.a("table")
+        expect(#v1).to.equal(8)
+        expect(v1[1]).to.equal(1)
+        expect(v1[2]).to.equal(2)
+        expect(v1[3]).to.equal(3)
+        expect(v1[4]).to.equal(4)
+        expect(v1[5]).to.equal(5)
+        expect(v1[6]).to.equal(6)
+        expect(v1[7]).to.equal(7)
+        expect(v1[8]).to.equal(8)
+    end)
+end

@@ -1,0 +1,351 @@
+-- Script path: ReplicatedStorage.Shared.Data.Newsfeeds.v1.58.0
+-- Decompile time: 2.39 ms
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local ImageCaption = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.News.ImageCaption)
+return {
+    UpdateName = "Titles & Achievements",
+    ImageId = 80160895304928,
+    Sections = {
+        {
+            Name = "📜 Update Log:",
+            Content = {
+                {
+                    Type = "Log",
+                    Props = {
+                        HeaderName = "NEW Achivement System!",
+                        Points = {
+                            "Achievements are earned through completing specific in-game challenges.",
+                            "Each achievement you unlock adds to your profile, and many come with fantastic rewards like Coins, Crates, Spin Tickets, Time-scale Tickets, and even Gems.",
+                            "Custom Titles: As you progress and earn achievements, you'll unlock exclusive custom titles in your inventory. These titles can be equipped to your profile to show off your accomplishments!",
+                            "Equip your favorite title and wear it with pride to stand out from the crowd.",
+                        },
+                    },
+                },
+                {
+                    Type = "Log",
+                    Props = {
+                        SubjectName = "Damage Achievements:",
+                        Points = {
+                            "First Contact: Deal 100,000 Damage",
+                            "Decimator: Deal 1,000,000 Damage",
+                            "Doom-bringer: Deal 10,000,000 Damage",
+                            "Harbinger: Deal 100,000,000 Damage",
+                            "Scorched Earth: Deal 1,000,000,000 Damage",
+                            "Living Weapon: Deal 10,000,000,000 Damage",
+                        },
+                    },
+                },
+                {
+                    Type = "Log",
+                    Props = {
+                        Minimize = 0.65,
+                        SubjectName = "Triumph Achievements:",
+                        Points = {
+                            "Recruit: Triumph in Easy mode",
+                            "Average Joe: Triumph in Casual mode",
+                            "Battle Hardened: Triumph in Intermediate mode",
+                            "Warlord: Triumph in Molten mode",
+                            "Usurper: Triumph in Fallen mode",
+                            "Security Guard: Triumph in Pizza Party",
+                            "Buckshot: Triumph in Badlands",
+                            "Plague Doctor: Triumph in Polluted Wastelands 2",
+                            "Cursed Soul: Triumph in Pizza Party (Solo)",
+                            "Outlaw: Triumph in Badlands (Solo)",
+                        },
+                    },
+                },
+                {
+                    Type = "Log",
+                    Props = {
+                        SubjectName = "Logbook Achievements:",
+                        Points = {
+                            "Student: Collect 10 Logbooks",
+                            "Undergrad: Collect 35 Logbooks",
+                            "Scholar: Collect 75 Logbooks",
+                            "Keeper of Knowledge: Collect 150 Logbooks",
+                        },
+                    },
+                },
+                {
+                    Type = "Log",
+                    Props = {
+                        SubjectName = "Triumph Count Achievements:",
+                        Points = {
+                            "Officer: 50 Triumphs in any map or gamemode",
+                            "Warhawk: 100 Triumphs in any map or gamemode",
+                            "The Gambit: 250 Triumphs in any map or gamemode",
+                            "Mastermind: 500 Triumphs in any map or gamemode",
+                            "Commander in Chief: 1000 Triumphs in any map or gamemode",
+                        },
+                    },
+                },
+                {
+                    Type = "Log",
+                    Props = {
+                        SubjectName = "Solo Match Achievements:",
+                        Points = {
+                            "Paladin: Complete a match of Molten on a Hard map (Solo)",
+                            "Slayer: Complete a match of Molten on an Insane map (Solo)",
+                            "Sentinel: Complete a match of Fallen on a Hard map (Solo)",
+                            "Ascended: Complete a match of Fallen on an Insane map (Solo)",
+                        },
+                    },
+                },
+                {
+                    Type = "Log",
+                    Props = {
+                        SubjectName = "Tower Achievements:",
+                        Points = {
+                            "Fully Loaded: Collect 5 Towers",
+                            "Arsenal: Collect 10 Towers",
+                            "Weaponsmith: Collect 20 Towers",
+                            "Master of Arms: Collect 30 Towers",
+                        },
+                    },
+                },
+                {
+                    Type = "Log",
+                    Props = {
+                        SubjectName = "Tower Skins Achievements:",
+                        Points = {
+                            "Thrifty: Collect 5 Tower Skins",
+                            "Stylist: Collect 10 Tower Skins",
+                            "Hype Beast: Collect 20 Tower Skins",
+                            "Collector: Collect 40 Tower Skins",
+                            "The Vault: Collect 80 Tower Skins",
+                            "One of a Kind: Collect 120 Tower Skins",
+                        },
+                    },
+                },
+                {
+                    Type = "Log",
+                    Props = {
+                        SubjectName = "Mission Quest Achievements:",
+                        Points = {
+                            "Errand Boy: Complete 1 Mission Quest",
+                            "Special Agent: Complete 3 Mission Quests",
+                            "Black Ops: Complete 5 Mission Quests",
+                            "Commander's Favorite: Complete 10 Mission Quests",
+                            "Task Master: Complete 20 Mission Quests",
+                        },
+                    },
+                },
+                {Type = "Log", Props = {HeaderName = "Some Titles", Points = {}}},
+                {
+                    Type = "Items",
+                    Props = {
+                        Minimize = 0.6,
+                        Items = {
+                            {Type = "flair", Name = "Living Weapon"},
+                            {Type = "flair", Name = "Cursed Soul"},
+                            {Type = "flair", Name = "Outlaw"},
+                            {Type = "flair", Name = "The Cure"},
+                            {Type = "flair", Name = "Commander in Chief"},
+                            {Type = "flair", Name = "tH3 GL1tcH"},
+                            {Type = "flair", Name = "One of a kind"},
+                            {Type = "flair", Name = "Task Master"},
+                        },
+                    },
+                },
+                {
+                    Type = "Log",
+                    Props = {
+                        HeaderName = "🔥 Coming Soon 🔥",
+                        Points = {
+                            function(a1, a2) -- Line: 186 -- upvalues: ImageCaption (val)
+                                return ImageCaption({
+                                    Image = 120455413169383,
+                                    Transparency = a2.Transparency,
+                                    LayoutOrder = a1,
+                                })
+                            end,
+                            "...keep an eye on our socials for more info! 📢",
+                        },
+                    },
+                },
+            },
+        },
+        {
+            Name = "🔨 Game Changes:",
+            Content = {
+                {
+                    Type = "Log",
+                    Props = {
+                        SubjectName = "Improvements",
+                        Points = {
+                            "Fixed Maid Commander's bow being incorrectly welded",
+                            "Fixed Lovestriker Brawler's max boots being visible on upgrade 0",
+                            "Fixed Plushie Minigunner selection issue",
+                            "Fixed Max Cookie Scout selection issue",
+                            "Fixed Steampunk Rocketeer's hair z-fighting",
+                            "Fixed Korblox Electroshocker being unavailable for a short period of time",
+                        },
+                    },
+                },
+                {
+                    Type = "ItemChange",
+                    Props = {
+                        SubjectName = "Golden Scout",
+                        Points = {
+                            "Lvl 0 Cost: 250 → <font color=\"rgb(100,255,100)\">300</font>",
+                            "Lvl 1 Cost: 200 → <font color=\"rgb(255,100,100)\">100</font>",
+                            "Lvl 2 Cost: 650 → <font color=\"rgb(255,100,100)\">500</font>",
+                            "Lvl 0 Range: 12 → <font color=\"rgb(100,255,100)\">14</font>",
+                            "Lvl 1 Range: 12 → <font color=\"rgb(100,255,100)\">14</font>",
+                            "Lvl 2 Range: 14 → <font color=\"rgb(100,255,100)\">16</font>",
+                            "Lvl 3 Range: 16.5 → <font color=\"rgb(100,255,100)\">18</font>",
+                            "Lvl 4 Range: 16.5 → <font color=\"rgb(100,255,100)\">18</font>",
+                            "Lvl 0 Cooldown: 1.2 → <font color=\"rgb(255,100,100)\">1</font>",
+                            "Lvl 1 Cooldown: 1.2 → <font color=\"rgb(255,100,100)\">1</font>",
+                            "Lvl 2 Cooldown: 1 → <font color=\"rgb(255,100,100)\">0.75</font>",
+                            "Lvl 3 Cooldown: 0.8 → <font color=\"rgb(255,100,100)\">0.6</font>",
+                            "Lvl 4 Cooldown: 0.4 → <font color=\"rgb(255,100,100)\">0.3</font>",
+                            "Lvl 2 Damage: 8 → <font color=\"rgb(255,100,100)\">6</font>",
+                            "Lvl 3 Damage: 15 → <font color=\"rgb(255,100,100)\">12</font>",
+                            "Lvl 4 Damage: 20 → <font color=\"rgb(255,100,100)\">16</font>",
+                        },
+                    },
+                },
+                {
+                    Type = "ItemChange",
+                    Props = {
+                        SubjectName = "Scout",
+                        Points = {
+                            "Lvl 0 Cost: 200 → <font color=\"rgb(255,100,100)\">150</font>",
+                            "Lvl 1 Cost: 25 → <font color=\"rgb(100,255,100)\">50</font>",
+                            "Lvl 2 Cost: 250 → <font color=\"rgb(255,100,100)\">200</font>",
+                            "Lvl 3 Cost: 750 → <font color=\"rgb(100,255,100)\">950</font>",
+                            "Lvl 4 Cost: 2250 → <font color=\"rgb(100,255,100)\">2500</font>",
+                            "Lvl 0 Cooldown: 1.2 → <font color=\"rgb(255,100,100)\">1.1</font>",
+                            "Lvl 1 Cooldown: 1 → <font color=\"rgb(255,100,100)\">0.8</font>",
+                            "Lvl 2 Cooldown: 1 → <font color=\"rgb(255,100,100)\">0.8</font>",
+                            "Lvl 3 Cooldown: 0.6 → <font color=\"rgb(100,255,100)\">0.7</font>",
+                            "Lvl 4 Cooldown: 0.3 → <font color=\"rgb(100,255,100)\">0.35</font>",
+                            "Lvl 3 Damage: 4 → <font color=\"rgb(100,255,100)\">6</font>",
+                            "Lvl 4 Damage: 5 → <font color=\"rgb(100,255,100)\">8</font>",
+                        },
+                    },
+                },
+                {
+                    Type = "ItemChange",
+                    Props = {
+                        SubjectName = "Toxic Gunner",
+                        Points = {
+                            "Lvl 0 Cost: 675 → <font color=\"rgb(255,100,100)\">525</font>",
+                            "Lvl 2 Cost: 750 → <font color=\"rgb(100,255,100)\">800</font>",
+                            "Lvl 4 Cost: 9250 → <font color=\"rgb(255,100,100)\">1400</font>",
+                            "Lvl 0 Cooldown: 0.12 → <font color=\"rgb(255,100,100)\">0.1</font>",
+                            "Lvl 3 Cooldown: 0.1 → <font color=\"rgb(255,100,100)\">0.085</font>",
+                            "Lvl 4 Cooldown: 0.1 → <font color=\"rgb(255,100,100)\">0.085</font>",
+                            "Lvl 0 Burst: 6 → <font color=\"rgb(255,100,100)\">4</font>",
+                            "Lvl 2 Burst: 6 → <font color=\"rgb(100,255,100)\">8</font>",
+                            "Lvl 3 Burst: 10 → <font color=\"rgb(100,255,100)\">20</font>",
+                            "Lvl 0 Reload Speed: 10 → <font color=\"rgb(100,255,100)\">12</font>",
+                            "Lvl 1 Reload Speed: 5 → <font color=\"rgb(100,255,100)\">6</font>",
+                            "Lvl 0 Poison Length: 0 → <font color=\"rgb(100,255,100)\">6</font>",
+                            "Lvl 1 Poison Length: 0 → <font color=\"rgb(100,255,100)\">6</font>",
+                            "Lvl 0 Poison Damage: 0 → <font color=\"rgb(100,255,100)\">1</font>",
+                            "Lvl 1 Poison Damage: 0 → <font color=\"rgb(100,255,100)\">1</font>",
+                            "Lvl 2 Poison Damage: 2 → <font color=\"rgb(100,255,100)\">4</font>",
+                            "Lvl 3 Poison Damage: 3 → <font color=\"rgb(100,255,100)\">4</font>",
+                            "Lvl 4 Poison Damage: 5 → <font color=\"rgb(100,255,100)\">10</font>",
+                            "Poison Tick Rate: 0.5s → <font color=\"rgb(100,255,100)\">1s</font>",
+                            "Lvl 0 Defense Melt: 1 → <font color=\"rgb(255,100,100)\">0</font>",
+                            "Lvl 1 Defense Melt: 1 → <font color=\"rgb(255,100,100)\">0</font>",
+                            "Lvl 2 Defense Melt: 1 → <font color=\"rgb(255,100,100)\">0</font>",
+                            "Lvl 3 Defense Melt: 1 → <font color=\"rgb(100,255,100)\">3</font>",
+                            "Lvl 4 Defense Melt: 1 → <font color=\"rgb(100,255,100)\">3</font>",
+                            "Lvl 2 Slowness on Hit: 10% → <font color=\"rgb(100,255,100)\">20%</font>",
+                            "Lvl 3 Slowness on Hit: 10% → <font color=\"rgb(100,255,100)\">20%</font>",
+                            "Lvl 4 Slowness on Hit: 10% → <font color=\"rgb(100,255,100)\">30%</font>",
+                        },
+                    },
+                },
+                {
+                    Type = "ItemChange",
+                    Props = {
+                        SubjectName = "Pursuit",
+                        Points = {
+                            "Lvl 3 Cost: 4750 → <font color=\"rgb(100,255,100)\">5000</font>",
+                            "Lvl 4A Cost: 17500 → <font color=\"rgb(255,100,100)\">16000</font>",
+                            "Lvl 4B Cost: 13500 → <font color=\"rgb(255,100,100)\">10000</font>",
+                            "Lvl 5A Cost: 45000 → <font color=\"rgb(255,100,100)\">42500</font>",
+                            "Lvl 5B Cost: 40000 → <font color=\"rgb(255,100,100)\">28500</font>",
+                            "Lvl 4A Removed Hidden Detection",
+                            "Lvl 4B Gained Hidden Detection",
+                            "Lvl 4A Range: 10.5 → <font color=\"rgb(100,255,100)\">11</font>",
+                            "Lvl 4B Range: 10.5 → <font color=\"rgb(100,255,100)\">11</font>",
+                            "Lvl 5B Range: 10.5 → <font color=\"rgb(100,255,100)\">12</font>",
+                            "Lvl 4B Explosion Damage: 45 → <font color=\"rgb(255,100,100)\">25</font>",
+                            "Lvl 4B Explosion Radius: 5 → <font color=\"rgb(100,255,100)\">6</font>",
+                            "Lvl 4B Missile Cooldown: 5 → <font color=\"rgb(255,100,100)\">3</font>",
+                            "Lvl 5B Missile Cooldown: 3.5 → <font color=\"rgb(255,100,100)\">3</font>",
+                            "Lvl 5A Damage: 28 → <font color=\"rgb(255,100,100)\">26</font>",
+                            "Lvl 5B Damage: 20 → <font color=\"rgb(255,100,100)\">12</font>",
+                            "Lvl 4B Reload Speed: 2.25 → <font color=\"rgb(100,255,100)\">3.5</font>",
+                        },
+                    },
+                },
+                {
+                    Type = "ItemChange",
+                    Props = {
+                        SubjectName = "Militant",
+                        Points = {
+                            "Lvl 1 Cost: 250 → <font color=\"rgb(255,100,100)\">200</font>",
+                            "Lvl 2 Cost: 1250 → <font color=\"rgb(255,100,100)\">900</font>",
+                            "Lvl 3 Cost: 3000 → <font color=\"rgb(255,100,100)\">2750</font>",
+                            "Lvl 4 Cost: 7500 → <font color=\"rgb(100,255,100)\">9000</font>",
+                            "Lvl 0 Cooldown: 0.25 → <font color=\"rgb(255,100,100)\">0.2</font>",
+                            "Lvl 1 Cooldown: 0.25 → <font color=\"rgb(255,100,100)\">0.18</font>",
+                            "Lvl 0 Range: 14 → <font color=\"rgb(255,100,100)\">13</font>",
+                            "Lvl 1 Range: 17 → <font color=\"rgb(255,100,100)\">16</font>",
+                            "Lvl 2 Range: 17 → <font color=\"rgb(255,100,100)\">16</font>",
+                            "Lvl 3 Range: 19 → <font color=\"rgb(255,100,100)\">18</font>",
+                            "Lvl 4 Damage: 8 → <font color=\"rgb(100,255,100)\">12</font>",
+                        },
+                    },
+                },
+                {
+                    Type = "ItemChange",
+                    Props = {
+                        SubjectName = "Ace Pilot",
+                        Points = {
+                            "Reverse Cooldown 10s → <font color=\"rgb(255,100,100)\">8s</font>",
+                            "Lvl 0 Cost: 450 → <font color=\"rgb(100,255,100)\">550</font>",
+                            "Lvl 1 Cost: 300 → <font color=\"rgb(255,100,100)\">200</font>",
+                            "Lvl 3 Cost: 1500 → <font color=\"rgb(100,255,100)\">1850</font>",
+                            "Lvl 4 Cost: 3500 → <font color=\"rgb(255,100,100)\">3200</font>",
+                            "Lvl 5 Cost: 7500 → <font color=\"rgb(100,255,100)\">8000</font>",
+                            "Lvl 0 Damage: 1 → <font color=\"rgb(100,255,100)\">2</font>",
+                            "Lvl 1 Damage: 2 → <font color=\"rgb(100,255,100)\">3</font>",
+                            "Lvl 3 Damage: 3 → <font color=\"rgb(100,255,100)\">4</font>",
+                            "Lvl 4 Damage: 6 → <font color=\"rgb(100,255,100)\">7</font>",
+                            "Lvl 5 Damage: 10 → <font color=\"rgb(100,255,100)\">14</font>",
+                            "Lvl 0 Cooldown: 0.15 → <font color=\"rgb(100,255,100)\">0.2</font>",
+                            "Lvl 1 Cooldown: 0.15 → <font color=\"rgb(100,255,100)\">0.2</font>",
+                            "Lvl 2 Cooldown: 0.15 → <font color=\"rgb(100,255,100)\">0.2</font>",
+                            "Lvl 3 Cooldown: 0.125 → <font color=\"rgb(255,100,100)\">0.1</font>",
+                            "Lvl 4 Cooldown: 0.125 → <font color=\"rgb(255,100,100)\">0.1</font>",
+                            "Lvl 0 Range: 7 → <font color=\"rgb(100,255,100)\">7.5</font>",
+                            "Lvl 1 Range: 7 → <font color=\"rgb(100,255,100)\">7.5</font>",
+                            "Lvl 2 Range: 7 → <font color=\"rgb(100,255,100)\">7.5</font>",
+                            "Lvl 3 Range: 7.5 → <font color=\"rgb(100,255,100)\">8</font>",
+                            "Lvl 4 Range: 8 → <font color=\"rgb(100,255,100)\">8.5</font>",
+                            "Lvl 5 Range: 9 → <font color=\"rgb(100,255,100)\">9.5</font>",
+                            "Lvl 2 Explosion Radius: 2 → <font color=\"rgb(100,255,100)\">2.5</font>",
+                            "Lvl 3 Explosion Radius: 2.25 → <font color=\"rgb(100,255,100)\">2.5</font>",
+                            "Lvl 4 Explosion Radius: 2.25 → <font color=\"rgb(100,255,100)\">2.75</font>",
+                            "Lvl 5 Explosion Radius: 2 → <font color=\"rgb(100,255,100)\">3</font>",
+                            "Lvl 4 Bomb Time: 1.75 → <font color=\"rgb(100,255,100)\">2</font>",
+                            "Lvl 5 Bomb Time: 1.25 → <font color=\"rgb(100,255,100)\">1.5</font>",
+                            "Lvl 3 Explosion Damage: 18 → <font color=\"rgb(100,255,100)\">20</font>",
+                            "Lvl 4 Explosion Damage: 25 → <font color=\"rgb(100,255,100)\">30</font>",
+                            "Lvl 5 Explosion Damage: 35 → <font color=\"rgb(100,255,100)\">40</font>",
+                        },
+                    },
+                },
+            },
+        },
+    },
+}

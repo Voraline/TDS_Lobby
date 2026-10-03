@@ -1,0 +1,43 @@
+-- Script path: ReplicatedStorage.Packages.Sift.Array.insert.spec
+-- Decompile time: 0.95 ms
+
+return function() -- Line: 1
+    local insert = require(script.Parent.insert)
+    it("should insert the given values into an array at the given index, shifting all values after it to the right", function() -- Line: 6 -- upvalues: insert (val)
+        local v1 = insert({1, 2, 3}, 2, 4, 5)
+        expect(v1).to.be.a("table")
+        expect(#v1).to.equal(5)
+        expect(v1[1]).to.equal(1)
+        expect(v1[2]).to.equal(4)
+        expect(v1[3]).to.equal(5)
+        expect(v1[4]).to.equal(2)
+        expect(v1[5]).to.equal(3)
+    end)
+    it("should accept negative indices", function() -- Line: 22 -- upvalues: insert (val)
+        local v1 = {1, 2, 3}
+        local v2 = insert(v1, 0, 4, 5)
+        local v3 = insert(v1, -1, 4, 5)
+        expect(v2).to.be.a("table")
+        expect(#v2).to.equal(5)
+        expect(v2[5]).to.equal(5)
+        expect(v3).to.be.a("table")
+        expect(#v3).to.equal(5)
+        expect(v3[3]).to.equal(4)
+        expect(v3[5]).to.equal(3)
+    end)
+    it("should accept length+1", function() -- Line: 38 -- upvalues: insert (val)
+        local v1 = {1, 2, 3}
+        local v2 = insert(v1, 4, 4, 5)
+        local v3 = insert(v1, 5, 4)
+        local v4 = insert(v1, 0, 4)
+        expect(v2).to.be.a("table")
+        expect(#v2).to.equal(5)
+        expect(v2[5]).to.equal(5)
+        expect(v3).to.be.a("table")
+        expect(#v3).to.equal(3)
+        expect(v3[3]).to.equal(3)
+        expect(v4).to.be.a("table")
+        expect(#v4).to.equal(4)
+        expect(v4[4]).to.equal(4)
+    end)
+end

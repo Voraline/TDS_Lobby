@@ -1,0 +1,216 @@
+-- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles.Effects.NullDimension
+-- Decompile time: 4.61 ms
+
+local Create = require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)
+local v1 = {}
+local v2 = {Name = "Attachment"}
+v2[Create.Children] = {
+    Create("ParticleEmitter", {
+        Name = "Shards",
+        Brightness = 4,
+        LightEmission = 1,
+        LockedToPart = true,
+        Rate = 1,
+        Texture = "rbxassetid://120071436306492",
+        ZOffset = 0.22,
+        Color = ColorSequence.new({
+            ColorSequenceKeypoint.new(0, Color3.fromRGB(135, 0, 245)),
+            (ColorSequenceKeypoint.new(1, Color3.fromRGB(135, 0, 245))),
+        }),
+        FlipbookFramerate = NumberRange.new(14, 16),
+        FlipbookLayout = Enum.ParticleFlipbookLayout.Grid4x4,
+        FlipbookMode = Enum.ParticleFlipbookMode.OneShot,
+        Lifetime = NumberRange.new(2, 3),
+        Rotation = NumberRange.new(-360, 360),
+        Size = NumberSequence.new({NumberSequenceKeypoint.new(0, 1.24), (NumberSequenceKeypoint.new(1, 1.24))}),
+        Speed = NumberRange.new(0.000823),
+        Transparency = NumberSequence.new({
+            NumberSequenceKeypoint.new(0, 1),
+            NumberSequenceKeypoint.new(0.501, 0),
+            (NumberSequenceKeypoint.new(1, 1)),
+        }),
+    }),
+}
+local v3 = Create("Attachment", v2)
+local v4 = Create("ParticleEmitter", {
+    Name = "BackgroundSmoke",
+    Brightness = 12,
+    Drag = 3,
+    FlipbookStartRandom = true,
+    LightEmission = 0.1,
+    LockedToPart = true,
+    Rate = 16,
+    Texture = "rbxassetid://17285277195",
+    ZOffset = -0.2,
+    Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(80, 0, 145)),
+        (ColorSequenceKeypoint.new(1, Color3.fromRGB(0, 3, 17))),
+    }),
+    FlipbookFramerate = NumberRange.new(0),
+    FlipbookLayout = Enum.ParticleFlipbookLayout.Grid4x4,
+    FlipbookMode = Enum.ParticleFlipbookMode.OneShot,
+    Lifetime = NumberRange.new(2, 3),
+    RotSpeed = NumberRange.new(-33, 33),
+    Rotation = NumberRange.new(-360, 360),
+    Size = NumberSequence.new({
+        NumberSequenceKeypoint.new(0, 0.572, 0.191),
+        NumberSequenceKeypoint.new(0.1, 0.745, 0.191),
+        NumberSequenceKeypoint.new(0.2, 0.867, 0.191),
+        NumberSequenceKeypoint.new(0.3, 0.962, 0.191),
+        NumberSequenceKeypoint.new(0.4, 1.04, 0.191),
+        NumberSequenceKeypoint.new(0.5, 1.1, 0.191),
+        NumberSequenceKeypoint.new(0.6, 1.15, 0.191),
+        NumberSequenceKeypoint.new(0.7, 1.19, 0.191),
+        NumberSequenceKeypoint.new(0.8, 1.22, 0.191),
+        NumberSequenceKeypoint.new(0.9, 1.23, 0.191),
+        NumberSequenceKeypoint.new(1, 1.24, 0.191),
+        (NumberSequenceKeypoint.new(1, 1.24, 0.191)),
+    }),
+    Speed = NumberRange.new(0.0476, 0.238),
+    SpreadAngle = Vector2.new(-360, 360),
+    Transparency = NumberSequence.new({
+        NumberSequenceKeypoint.new(0, 1),
+        NumberSequenceKeypoint.new(0.505, 0.246, 0.113),
+        (NumberSequenceKeypoint.new(1, 1)),
+    }),
+})
+v2 = Create("ParticleEmitter", {
+    Name = "BackgroundSmoke",
+    Drag = 3,
+    FlipbookStartRandom = true,
+    LightEmission = 0.1,
+    LockedToPart = true,
+    Rate = 16,
+    Texture = "rbxassetid://11881355186",
+    ZOffset = -3,
+    Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(4, 10, 29)),
+        (ColorSequenceKeypoint.new(1, Color3.fromRGB(4, 10, 29))),
+    }),
+    FlipbookFramerate = NumberRange.new(0),
+    FlipbookLayout = Enum.ParticleFlipbookLayout.Grid2x2,
+    Lifetime = NumberRange.new(2, 3),
+    RotSpeed = NumberRange.new(-33, 33),
+    Rotation = NumberRange.new(-360, 360),
+    Size = NumberSequence.new({
+        NumberSequenceKeypoint.new(0, 0.518, 0.173),
+        NumberSequenceKeypoint.new(0.1, 0.676, 0.173),
+        NumberSequenceKeypoint.new(0.2, 0.786, 0.173),
+        NumberSequenceKeypoint.new(0.3, 0.872, 0.173),
+        NumberSequenceKeypoint.new(0.4, 0.942, 0.173),
+        NumberSequenceKeypoint.new(0.5, 0.999, 0.173),
+        NumberSequenceKeypoint.new(0.6, 1.04, 0.173),
+        NumberSequenceKeypoint.new(0.7, 1.08, 0.173),
+        NumberSequenceKeypoint.new(0.8, 1.1, 0.173),
+        NumberSequenceKeypoint.new(0.9, 1.12, 0.173),
+        NumberSequenceKeypoint.new(1, 1.12, 0.173),
+        (NumberSequenceKeypoint.new(1, 1.12, 0.173)),
+    }),
+    Speed = NumberRange.new(0.0432, 0.216),
+    SpreadAngle = Vector2.new(-360, 360),
+    Transparency = NumberSequence.new({
+        NumberSequenceKeypoint.new(0, 1),
+        NumberSequenceKeypoint.new(0.497, 0.469, 0.113),
+        (NumberSequenceKeypoint.new(1, 1)),
+    }),
+})
+local v5 = Create("ParticleEmitter", {
+    Name = "BaseSmoke",
+    Acceleration = Vector3.new(0, -1.4500000476837158, 0),
+    FlipbookStartRandom = true,
+    LockedToPart = true,
+    Texture = "rbxassetid://16815669870",
+    ZOffset = -1,
+    Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(14, 0, 36)),
+        (ColorSequenceKeypoint.new(1, Color3.fromRGB(14, 0, 36))),
+    }),
+    FlipbookFramerate = NumberRange.new(0),
+    FlipbookLayout = Enum.ParticleFlipbookLayout.Grid2x2,
+    Lifetime = NumberRange.new(1, 2),
+    Rotation = NumberRange.new(-360, 360),
+    Shape = Enum.ParticleEmitterShape.Cylinder,
+    ShapeStyle = Enum.ParticleEmitterShapeStyle.Surface,
+    Size = NumberSequence.new({
+        NumberSequenceKeypoint.new(0, 0.338, 0.169),
+        NumberSequenceKeypoint.new(0.1, 0.503, 0.169),
+        NumberSequenceKeypoint.new(0.2, 0.633, 0.169),
+        NumberSequenceKeypoint.new(0.3, 0.736, 0.169),
+        NumberSequenceKeypoint.new(0.4, 0.818, 0.169),
+        NumberSequenceKeypoint.new(0.5, 0.883, 0.169),
+        NumberSequenceKeypoint.new(0.6, 0.933, 0.169),
+        NumberSequenceKeypoint.new(0.7, 0.97, 0.169),
+        NumberSequenceKeypoint.new(0.8, 0.995, 0.169),
+        NumberSequenceKeypoint.new(0.9, 1.01, 0.169),
+        NumberSequenceKeypoint.new(1, 1.01, 0.169),
+        (NumberSequenceKeypoint.new(1, 1.01, 0.169)),
+    }),
+    Speed = NumberRange.new(0),
+    Transparency = NumberSequence.new({
+        NumberSequenceKeypoint.new(0, 1),
+        NumberSequenceKeypoint.new(0.499, 0),
+        (NumberSequenceKeypoint.new(1, 1)),
+    }),
+})
+local v6 = Create("ParticleEmitter", {
+    Name = "BigFlecks",
+    Brightness = 12,
+    FlipbookStartRandom = true,
+    LockedToPart = true,
+    Rate = 5,
+    ShapePartial = -1,
+    Texture = "rbxassetid://11496820521",
+    ZOffset = 0.121,
+    Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(157, 0, 255)),
+        (ColorSequenceKeypoint.new(1, Color3.fromRGB(157, 0, 255))),
+    }),
+    FlipbookFramerate = NumberRange.new(0),
+    FlipbookLayout = Enum.ParticleFlipbookLayout.Grid2x2,
+    Lifetime = NumberRange.new(0.5, 1),
+    Orientation = Enum.ParticleOrientation.VelocityPerpendicular,
+    RotSpeed = NumberRange.new(-5, 5),
+    Rotation = NumberRange.new(-360, 3600),
+    Shape = Enum.ParticleEmitterShape.Sphere,
+    ShapeStyle = Enum.ParticleEmitterShapeStyle.Surface,
+    Size = NumberSequence.new({NumberSequenceKeypoint.new(0, 1.37), (NumberSequenceKeypoint.new(1, 1.37))}),
+    Speed = NumberRange.new(0.00401),
+    Transparency = NumberSequence.new({
+        NumberSequenceKeypoint.new(0, 1),
+        NumberSequenceKeypoint.new(0.496, 1),
+        NumberSequenceKeypoint.new(0.599, 0.8, 0.15),
+        (NumberSequenceKeypoint.new(1, 1)),
+    }),
+})
+local v7 = {
+    Name = "Shard1",
+    Drag = 10,
+    FlipbookStartRandom = true,
+    LightEmission = 1,
+    LockedToPart = true,
+    Rate = 12,
+    Texture = "rbxassetid://77460092990810",
+    Color = ColorSequence.new({
+        ColorSequenceKeypoint.new(0, Color3.fromRGB(124, 77, 255)),
+        (ColorSequenceKeypoint.new(1, Color3.fromRGB(47, 34, 255))),
+    }),
+    EmissionDirection = Enum.NormalId.Front,
+    FlipbookFramerate = NumberRange.new(12),
+    FlipbookLayout = Enum.ParticleFlipbookLayout.Grid8x8,
+    Lifetime = NumberRange.new(0.5, 0.9),
+    Orientation = Enum.ParticleOrientation.VelocityParallel,
+    Size = NumberSequence.new({
+        NumberSequenceKeypoint.new(0, 0),
+        NumberSequenceKeypoint.new(0.0999, 0.662),
+        (NumberSequenceKeypoint.new(1, 0)),
+    }),
+    Speed = NumberRange.new(-1, 1),
+    SpreadAngle = Vector2.new(-360, 360),
+}
+v1[1] = v3
+v1[2] = v4
+v1[3] = v2
+v1[4] = v5
+v1[5] = v6
+v1[6] = Create("ParticleEmitter", v7)
+return v1

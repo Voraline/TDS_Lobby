@@ -1,0 +1,32 @@
+-- Script path: ReplicatedStorage.Shared.Modules.GameRules.spec
+-- Decompile time: 0.75 ms
+
+return function() -- Line: 1
+    local GameRules = require(script.Parent.GameRules)
+    describe("Sensible defaults", function() -- Line: 4 -- upvalues: GameRules (val)
+        it("Should have Invincible set to false", function() -- Line: 5 -- upvalues: GameRules (upval)
+            expect(GameRules.Get("Invincible")).to.equal(false)
+        end)
+        it("Should have InfiniteConsumables set to false", function() -- Line: 9 -- upvalues: GameRules (upval)
+            expect(GameRules.Get("InfiniteConsumables")).to.equal(false)
+        end)
+        it("Should have NoConsumableCooldowns set to false", function() -- Line: 13 -- upvalues: GameRules (upval)
+            expect(GameRules.Get("NoConsumableCooldowns")).to.equal(false)
+        end)
+        it("Should have InfiniteCash set to false", function() -- Line: 17 -- upvalues: GameRules (upval)
+            expect(GameRules.Get("InfiniteCash")).to.equal(false)
+        end)
+        it("Should have ProgressionDisabled set to false", function() -- Line: 21 -- upvalues: GameRules (upval)
+            expect(GameRules.Get("ProgressionDisabled")).to.equal(false)
+        end)
+        it("Should have MusicEnabled set to true", function() -- Line: 25 -- upvalues: GameRules (upval)
+            expect(GameRules.Get("MusicEnabled")).to.equal(true)
+        end)
+        it("Should have VoteSkipEnabled set to true", function() -- Line: 29 -- upvalues: GameRules (upval)
+            expect(GameRules.Get("VoteSkipEnabled")).to.equal(true)
+        end)
+        it("Should have HiddenWave set to false", function() -- Line: 33 -- upvalues: GameRules (upval)
+            expect(GameRules.Get("HiddenWave")).to.equal(false)
+        end)
+    end)
+end

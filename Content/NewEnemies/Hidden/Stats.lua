@@ -1,0 +1,47 @@
+-- Script path: ReplicatedStorage.Content.NewEnemies.Hidden.Stats
+-- Decompile time: 0.31 ms
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+return {
+    Speed = 4,
+    MaxHealth = 15,
+    Hidden = true,
+    HealthPerDifficulty = {
+        Easy = 15,
+        Normal = 10,
+        Casual = 24,
+        Tutorial = 8,
+        Intermediate = 35,
+        Molten = 40,
+        Insane = 15,
+        Frost = 50,
+        PVP_lowRanks = 25,
+        PVP_midRanks = 30,
+        PVP_highRanks = 40,
+        NilZone = 60,
+        Chapter1Mission2 = 25,
+        Chapter1Mission3 = 40,
+        Chapter1Mission5 = 40,
+        Chapter1Mission6 = 75,
+        Chapter1Mission7 = 75,
+        Chapter1Mission8 = 100,
+    },
+    Reward = {
+        Easy = 20,
+        Normal = 10,
+        Intermediate = 20,
+        Casual = 24,
+        Insane = 15,
+        Frost = 50,
+        PVP = 12,
+        Molten = 50,
+        NilZone = 160,
+        Chapter1Mission2 = 50,
+        Chapter1Mission3 = 50,
+        Chapter1Mission5 = 50,
+        Chapter1Mission6 = 60,
+        Chapter1Mission7 = 60,
+        Chapter1Mission8 = 60,
+    },
+    Attributes = {(require(ReplicatedStorage.Shared.Modules.Enum)).Modifier.Hidden},
+}
