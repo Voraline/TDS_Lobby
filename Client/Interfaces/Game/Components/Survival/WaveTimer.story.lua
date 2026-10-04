@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Survival.WaveTimer.story
--- Decompile time: 0.92 ms
+-- Decompile time: 1.93 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local React = require(ReplicatedStorage.Shared.UI.React)

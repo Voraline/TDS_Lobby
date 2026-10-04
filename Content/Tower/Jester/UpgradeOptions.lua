@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Jester.UpgradeOptions
--- Decompile time: 0.88 ms
+-- Decompile time: 0.61 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {

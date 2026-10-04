@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.BBQ Pyromancer
--- Decompile time: 0.19 ms
+-- Decompile time: 0.14 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

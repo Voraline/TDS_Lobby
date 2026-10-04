@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Animations.Types.Spring
--- Decompile time: 1.16 ms
+-- Decompile time: 1.17 ms
 
 local Base = require(script.Parent.Parent.Base)
 local Promise = require(script.Parent.Parent.Parent.Promise)

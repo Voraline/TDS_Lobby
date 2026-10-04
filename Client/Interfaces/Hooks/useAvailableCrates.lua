@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useAvailableCrates
--- Decompile time: 1.99 ms
+-- Decompile time: 3.92 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Hooks = ReplicatedStorage.Client.Interfaces.Hooks

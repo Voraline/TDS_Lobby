@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles.Effects.PVPTag
--- Decompile time: 0.94 ms
+-- Decompile time: 0.80 ms
 
 local Create = require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)
 local Children = Create.Children

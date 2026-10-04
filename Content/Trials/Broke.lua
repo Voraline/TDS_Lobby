@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Trials.Broke
--- Decompile time: 0.19 ms
+-- Decompile time: 0.14 ms
 
 return {
     title = "Broke",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Effects.Text.Glitchy
--- Decompile time: 0.97 ms
+-- Decompile time: 0.88 ms
 
 local Create = require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)
 local v1 = {DesiredType = "Letter", Particle = "Glitchy"}

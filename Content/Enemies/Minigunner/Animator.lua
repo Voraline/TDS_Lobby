@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Minigunner.Animator
--- Decompile time: 2.31 ms
+-- Decompile time: 2.36 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

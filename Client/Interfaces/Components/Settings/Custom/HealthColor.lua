@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Settings.Custom.HealthColor
--- Decompile time: 0.75 ms
+-- Decompile time: 1.77 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SegmentedButton = require(ReplicatedStorage.Client.Interfaces.Components.SegmentedButton)

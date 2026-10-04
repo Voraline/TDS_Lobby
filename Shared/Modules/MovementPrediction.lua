@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.MovementPrediction
--- Decompile time: 1.88 ms
+-- Decompile time: 1.83 ms
 
 local u0 = {}
 local GameState = require(game:GetService("ReplicatedStorage").Shared.Modules.GameState)

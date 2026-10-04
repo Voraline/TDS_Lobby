@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.ImageButton
--- Decompile time: 1.71 ms
+-- Decompile time: 3.52 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local UI = ReplicatedStorage.Shared.UI

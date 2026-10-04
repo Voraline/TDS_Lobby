@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Mark2.Stats
--- Decompile time: 0.37 ms
+-- Decompile time: 0.28 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.SkillTree
--- Decompile time: 5.46 ms
+-- Decompile time: 10.40 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Controllers = ReplicatedStorage.Client.Interfaces.LegacyInterface.Controllers

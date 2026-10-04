@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Components.ShopButton
--- Decompile time: 2.22 ms
+-- Decompile time: 4.60 ms
 
 local Elements = require(script.Parent.Elements)
 local Fusion = require(game.ReplicatedStorage.Shared.UI.Fusion)

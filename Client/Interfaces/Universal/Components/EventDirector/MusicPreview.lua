@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.EventDirector.MusicPreview
--- Decompile time: 1.44 ms
+-- Decompile time: 2.91 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Controls = require(script.Parent.Controls)

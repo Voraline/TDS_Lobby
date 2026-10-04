@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Gatekeeper.Stats
--- Decompile time: 0.22 ms
+-- Decompile time: 0.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.SoundCompressor
--- Decompile time: 2.78 ms
+-- Decompile time: 5.60 ms
 
 local CollectionService = game:GetService("CollectionService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Enraged.Stats
--- Decompile time: 0.18 ms
+-- Decompile time: 0.36 ms
 
 return {
     Speed = 7.5,

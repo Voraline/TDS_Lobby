@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-globals@3.10.0.jest-globals.index
--- Decompile time: 0.29 ms
+-- Decompile time: 0.59 ms
 
 local Error = (require((script.Parent.Parent:WaitForChild("luau-polyfill")))).Error
 require(script.Parent.Parent:WaitForChild("jest-environment"))

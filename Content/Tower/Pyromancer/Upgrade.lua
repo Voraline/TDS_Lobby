@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Pyromancer.Upgrade
--- Decompile time: 1.94 ms
+-- Decompile time: 2.64 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

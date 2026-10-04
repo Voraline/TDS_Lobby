@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.checkPropTypes
--- Decompile time: 5.84 ms
+-- Decompile time: 5.40 ms
 
 local Error = (require((script.Parent.Parent:WaitForChild("luau-polyfill")))).Error
 local console = require(script.Parent:WaitForChild("console"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.StatusEffects.StatusEffectRegistry
--- Decompile time: 1.81 ms
+-- Decompile time: 1.62 ms
 
 require(script.Parent.Parent.Parent.Types.StatusEffects)
 local u8 = {}

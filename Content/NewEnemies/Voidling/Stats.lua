@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Voidling.Stats
--- Decompile time: 0.24 ms
+-- Decompile time: 0.20 ms
 
 return {
     Description = "Voidlings are the army’s standard issue. They are an Odd crammed into a set of armor and set loose into the world. When possible, they will throw themselves across the field and continue their path towards the enemy without any regard to their safety. They simply go where they are told and will do everything they can to get there.",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.LogBook.SideBar
--- Decompile time: 2.74 ms
+-- Decompile time: 5.59 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Sidebars = script.Parent.Sidebars

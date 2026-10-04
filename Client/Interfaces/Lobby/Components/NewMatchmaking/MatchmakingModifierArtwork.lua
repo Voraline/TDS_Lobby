@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.NewMatchmaking.MatchmakingModifierArtwork
--- Decompile time: 4.80 ms
+-- Decompile time: 9.02 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local React = require(ReplicatedStorage.Shared.UI.React)

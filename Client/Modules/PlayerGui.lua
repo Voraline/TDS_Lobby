@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.PlayerGui
--- Decompile time: 0.34 ms
+-- Decompile time: 0.87 ms
 
 local v1
 local PlayerGui = game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui")

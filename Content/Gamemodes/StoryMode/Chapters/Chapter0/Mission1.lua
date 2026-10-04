@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.StoryMode.Chapters.Chapter0.Mission1
--- Decompile time: 0.17 ms
+-- Decompile time: 0.13 ms
 
 return {
     Id = "boot-camp",

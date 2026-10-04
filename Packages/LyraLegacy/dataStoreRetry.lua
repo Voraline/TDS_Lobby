@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.LyraLegacy.dataStoreRetry
--- Decompile time: 0.77 ms
+-- Decompile time: 0.73 ms
 
 local Promise = require(script.Parent.Promise)
 local u5 = {301, 302, 303, 304, 305, 306, 500, 501, 502, 503, 504, 505}

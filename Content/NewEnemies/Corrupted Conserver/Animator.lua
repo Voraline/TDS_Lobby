@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Corrupted Conserver.Animator
--- Decompile time: 4.81 ms
+-- Decompile time: 4.32 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

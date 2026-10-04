@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Blind Faith.Animator.Events.MapEffects
--- Decompile time: 4.58 ms
+-- Decompile time: 4.38 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Bezier = require(ReplicatedStorage.Shared.Modules.Bezier)

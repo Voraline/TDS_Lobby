@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Fallen Guardian.Animator
--- Decompile time: 0.68 ms
+-- Decompile time: 0.67 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

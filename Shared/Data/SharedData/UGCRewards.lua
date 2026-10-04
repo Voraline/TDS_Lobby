@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.SharedData.UGCRewards
--- Decompile time: 0.29 ms
+-- Decompile time: 0.24 ms
 
 return {
     ExecutionerHelmet = {AssetId = 15169242735, Difficulty = "Act1", Weight = 5},

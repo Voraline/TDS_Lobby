@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Game.AbilityAmmoStore
--- Decompile time: 3.51 ms
+-- Decompile time: 7.62 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u12, u13 = (require(ReplicatedStorage.Packages.Charm)).signal({})

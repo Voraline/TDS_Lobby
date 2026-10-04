@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Previews.CharmPreview.story
--- Decompile time: 0.53 ms
+-- Decompile time: 1.28 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CharmPreview = require(script.Parent.CharmPreview)

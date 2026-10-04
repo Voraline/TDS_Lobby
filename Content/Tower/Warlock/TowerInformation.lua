@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Warlock.TowerInformation
--- Decompile time: 1.06 ms
+-- Decompile time: 0.90 ms
 
 return {
     ToolTip = {

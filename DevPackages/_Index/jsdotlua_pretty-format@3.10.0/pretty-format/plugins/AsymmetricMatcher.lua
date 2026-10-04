@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_pretty-format@3.10.0.pretty-format.plugins.AsymmetricMatcher
--- Decompile time: 1.22 ms
+-- Decompile time: 1.40 ms
 
 local Symbol = (require((script.Parent.Parent.Parent:WaitForChild("luau-polyfill")))).Symbol
 local Collections = require(script.Parent.Parent:WaitForChild("Collections"))

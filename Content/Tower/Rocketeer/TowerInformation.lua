@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Rocketeer.TowerInformation
--- Decompile time: 0.62 ms
+-- Decompile time: 0.55 ms
 
 return {
     ToolTip = {

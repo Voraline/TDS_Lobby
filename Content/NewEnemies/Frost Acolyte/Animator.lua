@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Frost Acolyte.Animator
--- Decompile time: 1.10 ms
+-- Decompile time: 0.93 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

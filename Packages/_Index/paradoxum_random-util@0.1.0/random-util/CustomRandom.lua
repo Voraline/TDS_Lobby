@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_random-util@0.1.0.random-util.CustomRandom
--- Decompile time: 7.12 ms
+-- Decompile time: 7.57 ms
 
 local function isFinite(a1) -- Line: 9 -- types: a1: number
     local v1 = false

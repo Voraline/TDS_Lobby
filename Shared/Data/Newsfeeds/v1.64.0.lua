@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Newsfeeds.v1.64.0
--- Decompile time: 0.57 ms
+-- Decompile time: 0.51 ms
 
 return {
     UpdateName = "🗺️ New Maps",

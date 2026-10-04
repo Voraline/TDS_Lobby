@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Inventory.Loadouts
--- Decompile time: 18.14 ms
+-- Decompile time: 60.32 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local UserInputService = game:GetService("UserInputService")

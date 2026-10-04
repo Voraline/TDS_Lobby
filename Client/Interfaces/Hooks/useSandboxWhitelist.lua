@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useSandboxWhitelist
--- Decompile time: 0.93 ms
+-- Decompile time: 2.35 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SandboxWhitelistHandler = require(ReplicatedStorage.Shared.Data.SharedData.SandboxWhitelistHandler)

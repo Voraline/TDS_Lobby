@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Forest Camp.Animator.Events.ThunderStorm
--- Decompile time: 3.66 ms
+-- Decompile time: 2.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Create = require(ReplicatedStorage.Shared.Modules.Standalone.Create)

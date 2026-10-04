@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Tags.Champion
--- Decompile time: 0.33 ms
+-- Decompile time: 0.25 ms
 
 return require(script.Parent.Parent.Parent.Types)({
     id = "leaderboard-tag",

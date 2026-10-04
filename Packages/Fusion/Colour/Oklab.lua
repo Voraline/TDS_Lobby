@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Colour.Oklab
--- Decompile time: 1.06 ms
+-- Decompile time: 1.16 ms
 
 return {
     to = function(a1) -- Line: 13 -- types: a1: userdata

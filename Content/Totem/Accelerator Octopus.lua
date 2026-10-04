@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Totem.Accelerator Octopus
--- Decompile time: 0.06 ms
+-- Decompile time: 0.04 ms
 
 return {
     Name = "Accelerator Octopus",

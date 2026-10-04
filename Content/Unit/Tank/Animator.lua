@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Tank.Animator
--- Decompile time: 9.51 ms
+-- Decompile time: 9.16 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

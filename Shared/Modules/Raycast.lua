@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Raycast
--- Decompile time: 1.12 ms
+-- Decompile time: 1.16 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local UserInputService = game:GetService("UserInputService")

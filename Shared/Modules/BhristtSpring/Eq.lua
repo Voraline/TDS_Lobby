@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.BhristtSpring.Eq
--- Decompile time: 3.32 ms
+-- Decompile time: 2.57 ms
 
 local v1 = {}
 

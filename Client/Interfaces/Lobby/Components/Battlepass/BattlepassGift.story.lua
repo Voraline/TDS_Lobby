@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Battlepass.BattlepassGift.story
--- Decompile time: 2.26 ms
+-- Decompile time: 2.78 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local BattlepassGift = require(script.Parent.BattlepassGift)

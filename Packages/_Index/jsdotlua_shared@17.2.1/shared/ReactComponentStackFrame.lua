@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.ReactComponentStackFrame
--- Decompile time: 6.32 ms
+-- Decompile time: 5.14 ms
 
 local describeUnknownElementTypeFrameInDEV
 require(script.Parent:WaitForChild("ReactElementType"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_scheduler@17.2.1.scheduler.SchedulerFeatureFlags
--- Decompile time: 0.12 ms
+-- Decompile time: 0.07 ms
 
 return {
     enableSchedulerDebugging = false,

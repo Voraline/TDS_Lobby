@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles.Effects.GraveDigger
--- Decompile time: 1.39 ms
+-- Decompile time: 1.34 ms
 
 local Create = require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)
 return {

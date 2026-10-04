@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.The Narratorium.Animator
--- Decompile time: 4.12 ms
+-- Decompile time: 2.38 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Players = game:GetService("Players")

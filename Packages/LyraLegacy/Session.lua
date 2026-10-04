@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.LyraLegacy.Session
--- Decompile time: 12.87 ms
+-- Decompile time: 11.76 ms
 
 local HttpService = game:GetService("HttpService")
 local Constants = require(script.Parent.Constants)

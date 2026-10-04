@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Asset.Handlers.Crates
--- Decompile time: 0.59 ms
+-- Decompile time: 0.57 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Utils.math)

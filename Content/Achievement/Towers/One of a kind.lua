@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Towers.One of a kind
--- Decompile time: 0.12 ms
+-- Decompile time: 0.09 ms
 
 return {
     title = "One of a kind",

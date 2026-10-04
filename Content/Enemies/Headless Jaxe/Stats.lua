@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Headless Jaxe.Stats
--- Decompile time: 0.19 ms
+-- Decompile time: 0.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

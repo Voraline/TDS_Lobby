@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Patient Zero.Animator
--- Decompile time: 11.30 ms
+-- Decompile time: 11.00 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

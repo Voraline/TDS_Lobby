@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Prompt.Icons
--- Decompile time: 0.26 ms
+-- Decompile time: 0.51 ms
 
 local v1 = {
     Cash = 9245490334,

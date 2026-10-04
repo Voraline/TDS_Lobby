@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.LogBook.Information
--- Decompile time: 31.87 ms
+-- Decompile time: 66.99 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Interfaces = ReplicatedStorage.Client.Interfaces

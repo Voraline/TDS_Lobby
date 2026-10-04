@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LiveEventVisuals.Explosion
--- Decompile time: 19.70 ms
+-- Decompile time: 55.81 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SoundService = game:GetService("SoundService")

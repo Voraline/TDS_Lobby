@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade.Alignments.Components.AmmoPanel
--- Decompile time: 3.79 ms
+-- Decompile time: 8.73 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Interfaces = ReplicatedStorage.Client.Interfaces

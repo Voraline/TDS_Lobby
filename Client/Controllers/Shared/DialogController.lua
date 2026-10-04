@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.DialogController
--- Decompile time: 2.36 ms
+-- Decompile time: 5.09 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

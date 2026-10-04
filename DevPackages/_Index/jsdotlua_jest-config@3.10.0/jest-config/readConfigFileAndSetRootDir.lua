@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-config@3.10.0.jest-config.readConfigFileAndSetRootDir
--- Decompile time: 0.74 ms
+-- Decompile time: 1.79 ms
 
 local Error = (require((script.Parent.Parent:WaitForChild("luau-polyfill")))).Error
 local promise = require(script.Parent.Parent:WaitForChild("promise"))

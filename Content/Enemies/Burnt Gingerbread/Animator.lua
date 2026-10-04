@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Burnt Gingerbread.Animator
--- Decompile time: 0.99 ms
+-- Decompile time: 0.92 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

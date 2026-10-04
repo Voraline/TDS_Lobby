@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Mecha Base.Upgrade
--- Decompile time: 1.21 ms
+-- Decompile time: 1.00 ms
 
 local RunService = game:GetService("RunService")
 return {

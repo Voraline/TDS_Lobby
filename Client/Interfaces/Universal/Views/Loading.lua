@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.Loading
--- Decompile time: 1.19 ms
+-- Decompile time: 4.40 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Loader = require(ReplicatedStorage.Client.Interfaces.Components.Loader)

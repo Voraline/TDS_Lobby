@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Slime Trooper.Sounds
--- Decompile time: 0.19 ms
+-- Decompile time: 0.17 ms
 
 return {
     Fire = {id = 105109742017250, volume = 0.5, audioGroup = "Towers"},

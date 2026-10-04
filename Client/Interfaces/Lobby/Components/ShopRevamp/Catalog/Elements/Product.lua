@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.Catalog.Elements.Product
--- Decompile time: 5.69 ms
+-- Decompile time: 14.95 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Comma = require(ReplicatedStorage.Client.Modules.Comma)

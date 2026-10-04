@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.MerchShop.ShopItemButton
--- Decompile time: 4.08 ms
+-- Decompile time: 9.87 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Hooks = ReplicatedStorage.Client.Interfaces.Hooks

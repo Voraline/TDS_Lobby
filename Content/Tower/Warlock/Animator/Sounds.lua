@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Warlock.Animator.Sounds
--- Decompile time: 0.36 ms
+-- Decompile time: 0.24 ms
 
 return {
     Default = {

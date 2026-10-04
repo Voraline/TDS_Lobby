@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Replicators.GlobalModifierReplicator
--- Decompile time: 1.17 ms
+-- Decompile time: 2.76 ms
 
 local u0 = {}
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

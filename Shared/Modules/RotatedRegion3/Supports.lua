@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.RotatedRegion3.Supports
--- Decompile time: 1.50 ms
+-- Decompile time: 1.53 ms
 
 local function rayPlane(a1, a2, a3, a4) -- Line: 6
     local v1 = -(a1 - a3):Dot(a4) / a2:Dot(a4)

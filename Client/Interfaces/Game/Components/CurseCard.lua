@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.CurseCard
--- Decompile time: 6.23 ms
+-- Decompile time: 6.89 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.CatRom
--- Decompile time: 8.68 ms
+-- Decompile time: 8.17 ms
 
 local Spline = require(script.Spline)
 local u4 = {}

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_scheduler@17.2.1.scheduler.forks.SchedulerHostConfig.default
--- Decompile time: 2.24 ms
+-- Decompile time: 1.99 ms
 
 local performWorkUntilDeadline
 local v1 = require(script.Parent.Parent.Parent:WaitForChild("luau-polyfill"))

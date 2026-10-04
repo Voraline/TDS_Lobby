@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared
--- Decompile time: 1.01 ms
+-- Decompile time: 0.92 ms
 
 require(script.Parent:WaitForChild("luau-polyfill"))
 local ReactTypes = require(script:WaitForChild("ReactTypes"))

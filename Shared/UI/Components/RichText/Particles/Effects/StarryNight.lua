@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles.Effects.StarryNight
--- Decompile time: 2.40 ms
+-- Decompile time: 2.28 ms
 
 local Create = require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.CommunicationSuggestions
--- Decompile time: 9.15 ms
+-- Decompile time: 20.68 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

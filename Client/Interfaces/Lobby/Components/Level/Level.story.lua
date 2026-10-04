@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Level.Level.story
--- Decompile time: 1.37 ms
+-- Decompile time: 2.99 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Experience = require(ReplicatedStorage.Shared.Modules.Experience)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Monster Mash.Data
--- Decompile time: 0.12 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "Do the monster mash!",

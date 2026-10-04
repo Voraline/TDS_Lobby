@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Animation.Spring
--- Decompile time: 2.31 ms
+-- Decompile time: 2.47 ms
 
 local Parent = script.Parent.Parent
 require(Parent.PubTypes)

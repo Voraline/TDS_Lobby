@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_console@1.2.7.console.makeConsoleImpl
--- Decompile time: 1.27 ms
+-- Decompile time: 1.23 ms
 
 local inspect = require(script.Parent.Parent:WaitForChild("collections")).inspect
 return function() -- Line: 5 -- upvalues: inspect (val)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.LogBook.Sidebars.MapSidebar.MapSidebarModes
--- Decompile time: 4.88 ms
+-- Decompile time: 11.63 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Hooks = ReplicatedStorage.Client.Interfaces.Hooks

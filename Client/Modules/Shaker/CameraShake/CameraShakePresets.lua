@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Shaker.CameraShake.CameraShakePresets
--- Decompile time: 0.98 ms
+-- Decompile time: 2.52 ms
 
 local CameraShakeInstance = require(script.Parent.CameraShakeInstance)
 local u5 = {}

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.CloneSelectTower
--- Decompile time: 9.29 ms
+-- Decompile time: 20.84 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CircularRangeRing = require(ReplicatedStorage.Client.Interfaces.Game.Components.NewTowerRange.CircularRangeRing)

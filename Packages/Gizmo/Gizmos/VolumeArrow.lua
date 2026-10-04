@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Gizmo.Gizmos.VolumeArrow
--- Decompile time: 0.96 ms
+-- Decompile time: 1.45 ms
 
 local u0 = {}
 u0.__index = u0

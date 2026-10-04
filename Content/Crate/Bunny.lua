@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Crate.Bunny
--- Decompile time: 0.37 ms
+-- Decompile time: 0.27 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

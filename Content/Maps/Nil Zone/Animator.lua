@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Nil Zone.Animator
--- Decompile time: 5.64 ms
+-- Decompile time: 5.26 ms
 
 local RunService = game:GetService("RunService")
 return function(a1, a2) -- Line: 30 -- upvalues: RunService (val)

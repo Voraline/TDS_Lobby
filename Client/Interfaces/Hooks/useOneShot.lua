@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useOneShot
--- Decompile time: 1.48 ms
+-- Decompile time: 3.10 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")

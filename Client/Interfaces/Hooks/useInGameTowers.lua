@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useInGameTowers
--- Decompile time: 2.96 ms
+-- Decompile time: 6.48 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Maid = require(ReplicatedStorage.Shared.Modules.Maid)

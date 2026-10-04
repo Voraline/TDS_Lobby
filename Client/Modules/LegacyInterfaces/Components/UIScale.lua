@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LegacyInterfaces.Components.UIScale
--- Decompile time: 0.87 ms
+-- Decompile time: 1.76 ms
 
 local u0 = {}
 local CurrentCamera = workspace.CurrentCamera

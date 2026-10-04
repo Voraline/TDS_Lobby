@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Maps.Survival.Badlands II
--- Decompile time: 0.07 ms
+-- Decompile time: 0.08 ms
 
 return {
     Icon = 11125481434,

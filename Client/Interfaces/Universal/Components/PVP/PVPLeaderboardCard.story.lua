@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.PVP.PVPLeaderboardCard.story
--- Decompile time: 0.63 ms
+-- Decompile time: 2.64 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PVPLeaderboardCard = require(script.Parent.PVPLeaderboardCard)

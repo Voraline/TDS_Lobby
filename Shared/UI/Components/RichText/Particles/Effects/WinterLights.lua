@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles.Effects.WinterLights
--- Decompile time: 7.20 ms
+-- Decompile time: 6.35 ms
 
 local Create = require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)
 local Children = Create.Children

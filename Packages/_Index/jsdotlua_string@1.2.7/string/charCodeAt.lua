@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_string@1.2.7.string.charCodeAt
--- Decompile time: 0.37 ms
+-- Decompile time: 0.51 ms
 
 local NaN = require(script.Parent.Parent:WaitForChild("number")).NaN
 return function(a1, a2) -- Line: 7 -- upvalues: NaN (val) -- types: a1: string, a2: number

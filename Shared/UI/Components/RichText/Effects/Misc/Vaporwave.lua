@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Effects.Misc.Vaporwave
--- Decompile time: 1.05 ms
+-- Decompile time: 1.00 ms
 
 local Create = require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)
 return {

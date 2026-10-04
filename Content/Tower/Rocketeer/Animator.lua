@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Rocketeer.Animator
--- Decompile time: 12.51 ms
+-- Decompile time: 10.90 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CustomProjectile = require(ReplicatedStorage.Shared.Modules.CustomProjectile)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.FastSignal.Deferred
--- Decompile time: 1.81 ms
+-- Decompile time: 2.04 ms
 
 local u0 = {}
 u0.__index = u0

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.MerchShop.ShopItemButton.story
--- Decompile time: 1.13 ms
+-- Decompile time: 2.40 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ShopItemButton = require(script.Parent.ShopItemButton)

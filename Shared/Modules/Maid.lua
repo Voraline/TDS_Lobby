@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Maid
--- Decompile time: 1.31 ms
+-- Decompile time: 1.19 ms
 
 local u0 = {}
 

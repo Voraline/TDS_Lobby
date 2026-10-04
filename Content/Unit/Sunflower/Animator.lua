@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Sunflower.Animator
--- Decompile time: 1.68 ms
+-- Decompile time: 1.40 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

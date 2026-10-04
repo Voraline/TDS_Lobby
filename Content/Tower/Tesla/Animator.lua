@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Tesla.Animator
--- Decompile time: 10.52 ms
+-- Decompile time: 9.71 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")

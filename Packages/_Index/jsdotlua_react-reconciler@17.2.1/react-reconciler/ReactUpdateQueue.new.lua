@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactUpdateQueue.new
--- Decompile time: 9.09 ms
+-- Decompile time: 8.76 ms
 
 local __DEV__ = _G.__DEV__
 local __YOLO__ = _G.__YOLO__

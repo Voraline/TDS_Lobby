@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useTransparencyModifier
--- Decompile time: 1.66 ms
+-- Decompile time: 4.23 ms
 
 local UI = (game:GetService("ReplicatedStorage")).Shared.UI
 local React = require(UI.React)

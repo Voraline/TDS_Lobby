@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Possessed Armor.Stats
--- Decompile time: 0.31 ms
+-- Decompile time: 0.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Broomstick.Animator
--- Decompile time: 5.48 ms
+-- Decompile time: 5.17 ms
 
 local RunService = game:GetService("RunService")
 local u6 = Random.new()

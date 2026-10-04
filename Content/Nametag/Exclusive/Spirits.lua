@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Nametag.Exclusive.Spirits
--- Decompile time: 0.15 ms
+-- Decompile time: 0.12 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

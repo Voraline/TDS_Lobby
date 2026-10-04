@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Flair.Achievements.Harbinger
--- Decompile time: 0.18 ms
+-- Decompile time: 0.25 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

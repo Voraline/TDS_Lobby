@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LiveEventEntityMath
--- Decompile time: 0.60 ms
+-- Decompile time: 0.43 ms
 
 return {
     bouncePosition = function(a1, a2, a3, a4) -- Line: 5 -- types: a1: vector, a2: vector, a3: number, a4: number

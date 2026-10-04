@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.SelectionList
--- Decompile time: 0.96 ms
+-- Decompile time: 2.83 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SelectionListStore = require(ReplicatedStorage.Client.Interfaces.Stores.Shared.SelectionListStore)

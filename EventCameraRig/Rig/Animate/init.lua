@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.EventCameraRig.Rig.Animate
--- Decompile time: 16.53 ms
+-- Decompile time: 15.97 ms
 
 local v1
 local Parent = script.Parent

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_throat@3.10.0.throat
--- Decompile time: 5.03 ms
+-- Decompile time: 5.66 ms
 
 local v1 = require(script.Parent:WaitForChild("luau-polyfill"))
 local Array = v1.Array

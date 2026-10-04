@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Special.Difficulties.Badlands.DisplayInfo
--- Decompile time: 0.12 ms
+-- Decompile time: 0.07 ms
 
 return {
     Name = "Badlands",

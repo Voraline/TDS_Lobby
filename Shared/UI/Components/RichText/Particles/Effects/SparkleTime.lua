@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles.Effects.SparkleTime
--- Decompile time: 0.33 ms
+-- Decompile time: 0.27 ms
 
 return {
     require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)("ParticleEmitter", {

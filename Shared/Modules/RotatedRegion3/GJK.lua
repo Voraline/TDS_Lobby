@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.RotatedRegion3.GJK
--- Decompile time: 2.87 ms
+-- Decompile time: 2.51 ms
 
 local u0 = {}
 u0.__index = u0

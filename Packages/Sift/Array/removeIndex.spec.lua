@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.removeIndex.spec
--- Decompile time: 0.57 ms
+-- Decompile time: 0.51 ms
 
 return function() -- Line: 1
     local removeIndex = require(script.Parent.removeIndex)

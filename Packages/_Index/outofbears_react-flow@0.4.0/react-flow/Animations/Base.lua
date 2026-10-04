@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Animations.Base
--- Decompile time: 0.16 ms
+-- Decompile time: 0.22 ms
 
 return {
     new = function() -- Line: 3

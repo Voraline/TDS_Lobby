@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.HiddenModelController
--- Decompile time: 0.50 ms
+-- Decompile time: 1.07 ms
 
 local CollectionService = game:GetService("CollectionService")
 local v1 = {}

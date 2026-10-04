@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Rusher.Animator
--- Decompile time: 0.58 ms
+-- Decompile time: 0.50 ms
 
 local v1 = {}
 v1.__index = v1

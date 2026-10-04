@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Icons
--- Decompile time: 0.57 ms
+-- Decompile time: 1.16 ms
 
 local v1
 local v2 = {

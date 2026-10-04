@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.MapItems.StarCannon.Stats
--- Decompile time: 0.12 ms
+-- Decompile time: 0.27 ms
 
 return {
     Damage = 1000,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Newsfeeds.v1.49.0
--- Decompile time: 2.25 ms
+-- Decompile time: 2.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ImageCaption = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.News.ImageCaption)

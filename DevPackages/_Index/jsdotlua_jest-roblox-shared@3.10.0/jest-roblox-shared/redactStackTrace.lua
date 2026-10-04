@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-roblox-shared@3.10.0.jest-roblox-shared.redactStackTrace
--- Decompile time: 0.51 ms
+-- Decompile time: 1.09 ms
 
 local u8 = (("\nRedacted.Stack.Trace:1337 function epicDuck"):rep(4)):sub(2)
 return function(a1) -- Line: 21 -- upvalues: u8 (val) -- types: a1: string?

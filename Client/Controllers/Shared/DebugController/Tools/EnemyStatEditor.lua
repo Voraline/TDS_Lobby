@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.DebugController.Tools.EnemyStatEditor
--- Decompile time: 2.47 ms
+-- Decompile time: 5.97 ms
 
 local HttpService = game:GetService("HttpService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

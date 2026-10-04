@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Shared.SpotlightStore
--- Decompile time: 1.31 ms
+-- Decompile time: 3.54 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Charm = require(ReplicatedStorage.Packages.Charm)

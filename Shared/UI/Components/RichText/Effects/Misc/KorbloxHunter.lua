@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Effects.Misc.KorbloxHunter
--- Decompile time: 1.49 ms
+-- Decompile time: 1.53 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Create = require(ReplicatedStorage.Shared.Modules.Standalone.Create)

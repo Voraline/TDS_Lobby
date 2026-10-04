@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Void Reaver.Stats
--- Decompile time: 1.41 ms
+-- Decompile time: 1.35 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum_2 = require(ReplicatedStorage.Shared.Modules.Enum)

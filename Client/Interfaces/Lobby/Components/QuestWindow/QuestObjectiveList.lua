@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.QuestWindow.QuestObjectiveList
--- Decompile time: 1.48 ms
+-- Decompile time: 3.10 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ClientAdapter = require(ReplicatedStorage.Shared.Data.Quests.ClientAdapter)

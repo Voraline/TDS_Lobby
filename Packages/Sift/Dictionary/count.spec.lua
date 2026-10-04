@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.count.spec
--- Decompile time: 0.56 ms
+-- Decompile time: 0.52 ms
 
 return function() -- Line: 1
     local count = require(script.Parent.count)

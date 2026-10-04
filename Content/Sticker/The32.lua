@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.The32
--- Decompile time: 0.17 ms
+-- Decompile time: 0.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

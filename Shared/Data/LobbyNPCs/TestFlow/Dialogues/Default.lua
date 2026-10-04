@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.LobbyNPCs.TestFlow.Dialogues.Default
--- Decompile time: 0.17 ms
+-- Decompile time: 0.16 ms
 
 return {
     name = "Commander",

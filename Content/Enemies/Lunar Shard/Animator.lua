@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Lunar Shard.Animator
--- Decompile time: 0.50 ms
+-- Decompile time: 0.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TimescaleUtilities = require(ReplicatedStorage.Shared.Modules.TimescaleUtilities)

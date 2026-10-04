@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Ducky Squad.Controller
--- Decompile time: 0.94 ms
+-- Decompile time: 0.85 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

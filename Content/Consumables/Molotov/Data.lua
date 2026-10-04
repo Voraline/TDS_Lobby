@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Molotov.Data
--- Decompile time: 0.25 ms
+-- Decompile time: 0.47 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Types.ConsumableTypes)

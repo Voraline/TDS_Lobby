@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.GlobalModifiers.Temperance
--- Decompile time: 1.08 ms
+-- Decompile time: 1.04 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

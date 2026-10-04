@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Party.PartyContext
--- Decompile time: 0.45 ms
+-- Decompile time: 1.04 ms
 
 return (require((game:GetService("ReplicatedStorage")).Shared.UI.React)).createContext({
     isHost = false,

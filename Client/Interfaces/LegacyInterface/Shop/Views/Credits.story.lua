@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Views.Credits.story
--- Decompile time: 0.42 ms
+-- Decompile time: 0.93 ms
 
 local Shared = game.ReplicatedStorage.Shared
 local Fusion = require(Shared.UI.Fusion)

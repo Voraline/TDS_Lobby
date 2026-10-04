@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Tween.Easing
--- Decompile time: 13.85 ms
+-- Decompile time: 13.50 ms
 
 local Bezier = require(script.Parent.Bezier)
 local v1 = Bezier.new(0.4, 0, 0.6, 1)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.News.ImageCaption
--- Decompile time: 1.80 ms
+-- Decompile time: 3.72 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ImageLabel = require(ReplicatedStorage.Client.Interfaces.Components.ImageLabel)

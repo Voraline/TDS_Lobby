@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles.Effects.EggHunt
--- Decompile time: 2.99 ms
+-- Decompile time: 3.30 ms
 
 local Create = require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)
 local Children = Create.Children

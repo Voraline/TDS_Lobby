@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Components.DailyCrates
--- Decompile time: 5.68 ms
+-- Decompile time: 17.12 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

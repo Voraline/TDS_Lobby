@@ -1,4 +1,4 @@
 -- Script path: ReplicatedStorage.Assets.Maps.Survival.Wrecked Battlefield
--- Decompile time: 0.06 ms
+-- Decompile time: 0.05 ms
 
 return {Icon = 9063807191, Difficulty = "Hard", Creator = "Your_Adversary"}

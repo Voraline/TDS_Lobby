@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.equals.spec
--- Decompile time: 0.48 ms
+-- Decompile time: 0.46 ms
 
 return function() -- Line: 1
     local equals = require(script.Parent.equals)

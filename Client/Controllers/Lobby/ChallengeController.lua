@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.ChallengeController
--- Decompile time: 0.97 ms
+-- Decompile time: 5.54 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

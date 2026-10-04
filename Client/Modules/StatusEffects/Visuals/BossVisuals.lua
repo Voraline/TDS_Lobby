@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.Visuals.BossVisuals
--- Decompile time: 0.46 ms
+-- Decompile time: 1.97 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CharmUtil = require(ReplicatedStorage.Shared.Modules.CharmUtil)

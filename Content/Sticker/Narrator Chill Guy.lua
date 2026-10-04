@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Narrator Chill Guy
--- Decompile time: 0.29 ms
+-- Decompile time: 0.13 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

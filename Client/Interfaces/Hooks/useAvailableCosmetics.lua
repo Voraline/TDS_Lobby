@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useAvailableCosmetics
--- Decompile time: 1.83 ms
+-- Decompile time: 3.72 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Hooks = ReplicatedStorage.Client.Interfaces.Hooks

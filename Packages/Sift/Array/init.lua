@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array
--- Decompile time: 0.60 ms
+-- Decompile time: 0.54 ms
 
 local v1 = {
     at = require(script.at),

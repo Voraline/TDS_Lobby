@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Flipping Burgers.Animator
--- Decompile time: 1.72 ms
+-- Decompile time: 2.07 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

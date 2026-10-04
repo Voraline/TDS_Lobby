@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useReplicatorValue
--- Decompile time: 0.95 ms
+-- Decompile time: 2.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Client.Modules.TagReplicator)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.TagReplicator
--- Decompile time: 9.36 ms
+-- Decompile time: 21.58 ms
 
 local CollectionService = game:GetService("CollectionService")
 game:GetService("HttpService")

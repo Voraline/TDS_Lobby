@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Components.FeaturedItems
--- Decompile time: 2.97 ms
+-- Decompile time: 7.88 ms
 
 local Shared = game:GetService("ReplicatedStorage").Shared
 local Elements = require(script.Parent.Elements)

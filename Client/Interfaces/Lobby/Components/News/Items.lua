@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.News.Items
--- Decompile time: 6.28 ms
+-- Decompile time: 12.92 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Components = ReplicatedStorage.Client.Interfaces.Components

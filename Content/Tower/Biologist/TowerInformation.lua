@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Biologist.TowerInformation
--- Decompile time: 2.27 ms
+-- Decompile time: 1.63 ms
 
 return {
     ToolTip = {

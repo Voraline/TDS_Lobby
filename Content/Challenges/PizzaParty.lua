@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Challenges.PizzaParty
--- Decompile time: 0.54 ms
+-- Decompile time: 0.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

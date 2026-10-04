@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LightingUtil
--- Decompile time: 1.13 ms
+-- Decompile time: 1.11 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

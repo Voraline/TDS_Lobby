@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.SuppressingFire
--- Decompile time: 0.62 ms
+-- Decompile time: 0.53 ms
 
 local v1 = {id = "tower", skin = "Phantom", tower = "Minigunner", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Suppressing Fire")).cost({amount = 525, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true})).objective({

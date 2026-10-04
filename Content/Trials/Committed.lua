@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Trials.Committed
--- Decompile time: 0.18 ms
+-- Decompile time: 0.15 ms
 
 return {
     title = "Committed",

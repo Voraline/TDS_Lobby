@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.KingpinHitman.Stats
--- Decompile time: 0.38 ms
+-- Decompile time: 0.26 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

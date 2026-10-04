@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.TURRET
--- Decompile time: 0.65 ms
+-- Decompile time: 0.53 ms
 
 return {
     Reward = "Turret Tower",

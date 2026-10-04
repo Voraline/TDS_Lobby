@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.Visuals.ConfuseVisuals
--- Decompile time: 1.12 ms
+-- Decompile time: 2.87 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

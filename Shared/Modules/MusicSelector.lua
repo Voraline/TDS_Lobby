@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.MusicSelector
--- Decompile time: 0.34 ms
+-- Decompile time: 0.48 ms
 
 return {
     pickMusic = function(a1, a2) -- Line: 3 -- types: a1: table, a2: string

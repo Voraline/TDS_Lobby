@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.TutorialTowerEventFilter
--- Decompile time: 0.57 ms
+-- Decompile time: 0.40 ms
 
 local u0 = {}
 

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.LyraLegacy.Types
--- Decompile time: 0.48 ms
+-- Decompile time: 0.47 ms
 
 require(script.Parent.Log)
 local t = require(script.Parent.Parent.t)

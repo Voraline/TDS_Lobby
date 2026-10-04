@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useEnemyGameModes
--- Decompile time: 1.26 ms
+-- Decompile time: 2.43 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Interfaces = ReplicatedStorage.Client.Interfaces

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.PreviewInfo.PreviewPolicy
--- Decompile time: 0.27 ms
+-- Decompile time: 0.54 ms
 
 local EvolutionLock = require(script.Parent.Parent.EvolutionLock)
 return {

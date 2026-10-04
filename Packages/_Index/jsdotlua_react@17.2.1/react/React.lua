@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react@17.2.1.react.React
--- Decompile time: 1.75 ms
+-- Decompile time: 1.84 ms
 
 require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local ReactMutableSource = require(script.Parent:WaitForChild("ReactMutableSource"))

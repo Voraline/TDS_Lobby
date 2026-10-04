@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Survival.Difficulties.Fallen.DisplayInfo
--- Decompile time: 0.16 ms
+-- Decompile time: 0.11 ms
 
 return {
     Name = "Fallen",

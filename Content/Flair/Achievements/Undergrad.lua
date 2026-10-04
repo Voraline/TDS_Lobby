@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Flair.Achievements.Undergrad
--- Decompile time: 0.18 ms
+-- Decompile time: 0.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

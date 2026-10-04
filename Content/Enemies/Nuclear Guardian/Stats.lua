@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Nuclear Guardian.Stats
--- Decompile time: 0.22 ms
+-- Decompile time: 0.29 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

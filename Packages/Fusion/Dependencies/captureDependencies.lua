@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Dependencies.captureDependencies
--- Decompile time: 0.52 ms
+-- Decompile time: 0.70 ms
 
 local Parent = script.Parent.Parent
 require(Parent.PubTypes)

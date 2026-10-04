@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Trapper.Stats-PVP
--- Decompile time: 2.42 ms
+-- Decompile time: 2.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

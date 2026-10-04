@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.PVPIntermission.InventoryCategory
--- Decompile time: 2.73 ms
+-- Decompile time: 5.46 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Network = require(ReplicatedStorage.Shared.UI.Network)

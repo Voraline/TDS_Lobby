@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Mystery Boss.Animator
--- Decompile time: 0.09 ms
+-- Decompile time: 0.08 ms
 
 local v1 = {}
 v1.__index = v1

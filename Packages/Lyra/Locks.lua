@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Lyra.Locks
--- Decompile time: 6.60 ms
+-- Decompile time: 7.46 ms
 
 local HttpService = game:GetService("HttpService")
 require(script.Parent.Types)

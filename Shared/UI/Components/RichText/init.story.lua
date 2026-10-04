@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.init.story
--- Decompile time: 0.53 ms
+-- Decompile time: 0.51 ms
 
 local RunService = game:GetService("RunService")
 local Parent = require(script.Parent)

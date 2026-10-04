@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Gold Titan.Stats
--- Decompile time: 0.27 ms
+-- Decompile time: 0.19 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

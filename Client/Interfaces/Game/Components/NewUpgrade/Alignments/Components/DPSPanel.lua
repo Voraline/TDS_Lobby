@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade.Alignments.Components.DPSPanel
--- Decompile time: 0.68 ms
+-- Decompile time: 0.51 ms
 
 local Shared = (game:GetService("ReplicatedStorage")).Shared
 local Parent = script.Parent

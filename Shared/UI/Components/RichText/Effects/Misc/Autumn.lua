@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Effects.Misc.Autumn
--- Decompile time: 1.31 ms
+-- Decompile time: 1.29 ms
 
 local Create = require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)
 return {

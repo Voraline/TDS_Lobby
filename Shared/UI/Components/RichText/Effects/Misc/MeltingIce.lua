@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Effects.Misc.MeltingIce
--- Decompile time: 0.83 ms
+-- Decompile time: 1.08 ms
 
 local Create = require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)
 local Children = Create.Children

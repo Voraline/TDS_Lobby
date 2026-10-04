@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Currency.story
--- Decompile time: 0.51 ms
+-- Decompile time: 1.01 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Currency = require(script.Parent.Currency)

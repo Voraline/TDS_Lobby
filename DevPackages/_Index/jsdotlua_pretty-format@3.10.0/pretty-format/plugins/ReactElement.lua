@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_pretty-format@3.10.0.pretty-format.plugins.ReactElement
--- Decompile time: 3.55 ms
+-- Decompile time: 3.88 ms
 
 local getChildren
 local v1 = require(script.Parent.Parent.Parent:WaitForChild("luau-polyfill"))

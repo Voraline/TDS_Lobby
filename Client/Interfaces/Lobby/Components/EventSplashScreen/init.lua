@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.EventSplashScreen
--- Decompile time: 2.81 ms
+-- Decompile time: 7.47 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Button = require(ReplicatedStorage.Client.Interfaces.Components.Button)

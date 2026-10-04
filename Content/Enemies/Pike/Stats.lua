@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Pike.Stats
--- Decompile time: 0.22 ms
+-- Decompile time: 0.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Enum)

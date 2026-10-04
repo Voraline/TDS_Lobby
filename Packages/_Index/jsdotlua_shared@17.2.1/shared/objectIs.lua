@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.objectIs
--- Decompile time: 0.35 ms
+-- Decompile time: 0.26 ms
 
 return function(a1, a2) -- Line: 16
     local v1

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Builder.Stats
--- Decompile time: 0.17 ms
+-- Decompile time: 0.16 ms
 
 return {
     Health = 200,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_luau-polyfill@1.2.7.luau-polyfill
--- Decompile time: 0.73 ms
+-- Decompile time: 0.75 ms
 
 local boolean = require(script.Parent:WaitForChild("boolean"))
 local collections = require(script.Parent:WaitForChild("collections"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.ReactFiberHostConfig
--- Decompile time: 0.14 ms
+-- Decompile time: 0.10 ms
 
 return {
     WithNoHydration = require(script:WaitForChild("WithNoHydration")),

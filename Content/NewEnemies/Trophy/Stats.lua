@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Trophy.Stats
--- Decompile time: 0.32 ms
+-- Decompile time: 0.23 ms
 
 return {
     Description = "",

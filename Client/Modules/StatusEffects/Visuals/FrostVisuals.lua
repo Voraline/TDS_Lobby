@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.Visuals.FrostVisuals
--- Decompile time: 2.74 ms
+-- Decompile time: 4.75 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

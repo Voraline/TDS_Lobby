@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LegacyInterfaces.Components.Flash
--- Decompile time: 0.77 ms
+-- Decompile time: 1.70 ms
 
 game:GetService("Lighting")
 local Players = game:GetService("Players")

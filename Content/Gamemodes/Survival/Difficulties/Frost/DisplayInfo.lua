@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Survival.Difficulties.Frost.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.24 ms
 
 return {
     Name = "Frost",

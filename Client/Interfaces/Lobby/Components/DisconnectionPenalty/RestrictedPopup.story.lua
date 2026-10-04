@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.DisconnectionPenalty.RestrictedPopup.story
--- Decompile time: 0.81 ms
+-- Decompile time: 1.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RestrictedPopup = require(script.Parent.RestrictedPopup)

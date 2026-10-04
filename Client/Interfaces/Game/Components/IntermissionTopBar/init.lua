@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.IntermissionTopBar
--- Decompile time: 0.93 ms
+-- Decompile time: 3.03 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local createElement = (require(ReplicatedStorage.Shared.UI.React)).createElement

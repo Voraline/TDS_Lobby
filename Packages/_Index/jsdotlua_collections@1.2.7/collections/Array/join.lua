@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Array.join
--- Decompile time: 0.33 ms
+-- Decompile time: 0.35 ms
 
 require(script.Parent.Parent.Parent:WaitForChild("es7-types"))
 local map = require(script.Parent:WaitForChild("map"))

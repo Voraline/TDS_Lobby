@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Fallen King.Animator
--- Decompile time: 3.61 ms
+-- Decompile time: 3.64 ms
 
 local v1 = {}
 v1.__index = v1

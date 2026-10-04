@@ -1,4 +1,4 @@
 -- Script path: ReplicatedStorage.Shared.Types.StatusEffects
--- Decompile time: 0.05 ms
+-- Decompile time: 0.07 ms
 
 return {}

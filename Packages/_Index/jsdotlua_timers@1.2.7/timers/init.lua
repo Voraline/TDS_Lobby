@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_timers@1.2.7.timers
--- Decompile time: 0.25 ms
+-- Decompile time: 0.23 ms
 
 return (require((script.Parent:WaitForChild("collections")))).Object.assign(
     {},

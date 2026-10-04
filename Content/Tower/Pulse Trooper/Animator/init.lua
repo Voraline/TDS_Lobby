@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Pulse Trooper.Animator
--- Decompile time: 6.08 ms
+-- Decompile time: 5.91 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

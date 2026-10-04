@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.DisconnectionPenalty.RejoinMatchPopup
--- Decompile time: 5.78 ms
+-- Decompile time: 14.10 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GlowButton = require(ReplicatedStorage.Client.Interfaces.Components.GlowButton)

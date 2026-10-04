@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-console@3.10.0.jest-console.NullConsole
--- Decompile time: 0.59 ms
+-- Decompile time: 1.73 ms
 
 local v1 = {}
 local default = require(script.Parent:WaitForChild("CustomConsole")).default

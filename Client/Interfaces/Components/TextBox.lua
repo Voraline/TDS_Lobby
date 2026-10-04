@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.TextBox
--- Decompile time: 2.20 ms
+-- Decompile time: 4.73 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local UI = ReplicatedStorage.Shared.UI

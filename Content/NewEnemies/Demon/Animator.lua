@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Demon.Animator
--- Decompile time: 1.57 ms
+-- Decompile time: 1.63 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

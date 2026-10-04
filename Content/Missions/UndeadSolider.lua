@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.UndeadSolider
--- Decompile time: 0.62 ms
+-- Decompile time: 0.58 ms
 
 local v1 = {id = "tower", skin = "Fallen", tower = "Militant", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Undead Soldier")).cost({amount = 525, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1902866335})).objective({

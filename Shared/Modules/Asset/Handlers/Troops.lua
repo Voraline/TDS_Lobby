@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Asset.Handlers.Troops
--- Decompile time: 4.53 ms
+-- Decompile time: 4.07 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

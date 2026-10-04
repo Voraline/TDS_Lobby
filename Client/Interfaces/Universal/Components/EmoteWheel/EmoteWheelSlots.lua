@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.EmoteWheel.EmoteWheelSlots
--- Decompile time: 2.12 ms
+-- Decompile time: 5.65 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EmotePreview = require(script.Parent.EmotePreview)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Tpose.Data
--- Decompile time: 0.11 ms
+-- Decompile time: 0.09 ms
 
 return {
     Description = "Assert dominance.",

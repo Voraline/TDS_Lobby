@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Battlepass.BattlepassProgress.story
--- Decompile time: 1.39 ms
+-- Decompile time: 3.95 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local BattlepassProgress = require(script.Parent.BattlepassProgress)

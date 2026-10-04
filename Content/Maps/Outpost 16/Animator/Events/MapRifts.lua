@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Outpost 16.Animator.Events.MapRifts
--- Decompile time: 13.45 ms
+-- Decompile time: 13.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Nametag.Exclusive.Butterflies
--- Decompile time: 0.15 ms
+-- Decompile time: 0.30 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

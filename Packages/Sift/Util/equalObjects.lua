@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Util.equalObjects
--- Decompile time: 0.33 ms
+-- Decompile time: 0.35 ms
 
 require(script.Parent.Parent.Types)
 return function(...) -- Line: 20

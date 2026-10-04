@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Logbooks.Student
--- Decompile time: 0.11 ms
+-- Decompile time: 0.09 ms
 
 return {
     title = "Student",

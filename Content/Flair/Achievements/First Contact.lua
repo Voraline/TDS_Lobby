@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Flair.Achievements.First Contact
--- Decompile time: 0.17 ms
+-- Decompile time: 0.27 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

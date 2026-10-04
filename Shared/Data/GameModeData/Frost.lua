@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.GameModeData.Frost
--- Decompile time: 0.20 ms
+-- Decompile time: 0.32 ms
 
 return {
     Waves = 40,

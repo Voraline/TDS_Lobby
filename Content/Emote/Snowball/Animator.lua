@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Snowball.Animator
--- Decompile time: 5.01 ms
+-- Decompile time: 4.91 ms
 
 local ContextActionService = game:GetService("ContextActionService")
 local GuiService = game:GetService("GuiService")

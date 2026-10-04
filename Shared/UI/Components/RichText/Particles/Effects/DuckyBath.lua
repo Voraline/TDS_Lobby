@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles.Effects.DuckyBath
--- Decompile time: 5.16 ms
+-- Decompile time: 4.62 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Create = require(ReplicatedStorage.Shared.Modules.Standalone.Create)

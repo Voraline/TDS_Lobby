@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Game.TowerStore
--- Decompile time: 0.69 ms
+-- Decompile time: 1.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Charm = require(ReplicatedStorage.Packages.Charm)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.The Z Step.Animator
--- Decompile time: 1.79 ms
+-- Decompile time: 1.66 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

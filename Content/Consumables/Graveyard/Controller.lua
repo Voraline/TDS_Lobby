@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Graveyard.Controller
--- Decompile time: 0.85 ms
+-- Decompile time: 0.65 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

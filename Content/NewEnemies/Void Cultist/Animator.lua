@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Void Cultist.Animator
--- Decompile time: 1.55 ms
+-- Decompile time: 1.50 ms
 
 local Debris = game:GetService("Debris")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

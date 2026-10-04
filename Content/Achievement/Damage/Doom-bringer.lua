@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Damage.Doom-bringer
--- Decompile time: 0.11 ms
+-- Decompile time: 0.10 ms
 
 return {
     title = "Doom-bringer",

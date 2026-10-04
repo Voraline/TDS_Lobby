@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.HermiteCardinalSpline.spec
--- Decompile time: 0.20 ms
+-- Decompile time: 0.23 ms
 
 return function() -- Line: 1
     local HermiteCardinalSpline = require(script.Parent.HermiteCardinalSpline)

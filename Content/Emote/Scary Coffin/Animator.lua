@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Scary Coffin.Animator
--- Decompile time: 1.80 ms
+-- Decompile time: 1.67 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local UserInputService = game:GetService("UserInputService")

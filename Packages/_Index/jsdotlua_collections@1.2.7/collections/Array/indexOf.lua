@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Array.indexOf
--- Decompile time: 0.48 ms
+-- Decompile time: 0.45 ms
 
 require(script.Parent.Parent.Parent:WaitForChild("es7-types"))
 return function(a1, a2, a3) -- Line: 10 -- types: a3: number?

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Paintballer.Upgrade
--- Decompile time: 1.07 ms
+-- Decompile time: 1.08 ms
 
 local RunService = game:GetService("RunService")
 return {

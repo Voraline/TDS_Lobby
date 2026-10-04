@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Goon2.Animator
--- Decompile time: 4.22 ms
+-- Decompile time: 3.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SoundService = game:GetService("SoundService")

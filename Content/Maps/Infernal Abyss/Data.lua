@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Infernal Abyss.Data
--- Decompile time: 0.38 ms
+-- Decompile time: 0.21 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Toxic Gunner.Animator
--- Decompile time: 3.17 ms
+-- Decompile time: 2.93 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EmitterManager = require(ReplicatedStorage.Shared.Modules.EmitterManager)

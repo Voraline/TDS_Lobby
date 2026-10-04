@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Cowboy.Stats
--- Decompile time: 3.19 ms
+-- Decompile time: 3.40 ms
 
 local BadgeService = game:GetService("BadgeService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Settings.Custom.EnemyPaths
--- Decompile time: 0.77 ms
+-- Decompile time: 2.44 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SegmentedButton = require(ReplicatedStorage.Client.Interfaces.Components.SegmentedButton)

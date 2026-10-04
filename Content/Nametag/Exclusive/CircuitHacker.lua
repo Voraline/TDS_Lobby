@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Nametag.Exclusive.CircuitHacker
--- Decompile time: 0.21 ms
+-- Decompile time: 0.13 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

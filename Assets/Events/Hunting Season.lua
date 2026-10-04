@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Events.Hunting Season
--- Decompile time: 3.86 ms
+-- Decompile time: 5.53 ms
 
 shared()
 local Session = require("Network").Channel("Session")

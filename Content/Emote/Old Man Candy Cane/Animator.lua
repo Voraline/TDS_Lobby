@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Old Man Candy Cane.Animator
--- Decompile time: 0.88 ms
+-- Decompile time: 1.06 ms
 
 game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

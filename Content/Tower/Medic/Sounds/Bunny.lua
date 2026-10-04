@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Medic.Sounds.Bunny
--- Decompile time: 0.18 ms
+-- Decompile time: 0.15 ms
 
 return {
     BeamNormal = {id = 94743702782341, looped = true, volume = 0.3, audioGroup = "Towers"},

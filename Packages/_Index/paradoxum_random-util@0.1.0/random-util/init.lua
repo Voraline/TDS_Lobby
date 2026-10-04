@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_random-util@0.1.0.random-util
--- Decompile time: 1.55 ms
+-- Decompile time: 1.58 ms
 
 local CustomRandom = require(script.CustomRandom)
 local u5 = Random.new()

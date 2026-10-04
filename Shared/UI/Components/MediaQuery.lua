@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.MediaQuery
--- Decompile time: 2.15 ms
+-- Decompile time: 1.97 ms
 
 local GuiService = game:GetService("GuiService")
 local UserInputService = game:GetService("UserInputService")

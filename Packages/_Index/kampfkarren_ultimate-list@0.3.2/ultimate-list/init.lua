@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.kampfkarren_ultimate-list@0.3.2.ultimate-list
--- Decompile time: 0.22 ms
+-- Decompile time: 0.17 ms
 
 local Components = require(script.Components)
 local DataSources = require(script.DataSources)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Previews.CratePreview
--- Decompile time: 1.93 ms
+-- Decompile time: 4.18 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Components = ReplicatedStorage.Client.Interfaces.Components

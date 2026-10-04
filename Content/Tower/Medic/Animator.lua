@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Medic.Animator
--- Decompile time: 14.73 ms
+-- Decompile time: 13.99 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

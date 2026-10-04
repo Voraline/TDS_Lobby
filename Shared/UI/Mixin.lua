@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Mixin
--- Decompile time: 0.49 ms
+-- Decompile time: 0.40 ms
 
 local u0 = {}
 u0.__index = u0

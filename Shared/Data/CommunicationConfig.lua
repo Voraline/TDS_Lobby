@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.CommunicationConfig
--- Decompile time: 0.68 ms
+-- Decompile time: 0.65 ms
 
 local v1 = {
     PlaceTower = "PlaceTower",

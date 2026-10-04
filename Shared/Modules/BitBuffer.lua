@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.BitBuffer
--- Decompile time: 83.89 ms
+-- Decompile time: 69.14 ms
 
 local v1, v2, v3
 local u151 = {}

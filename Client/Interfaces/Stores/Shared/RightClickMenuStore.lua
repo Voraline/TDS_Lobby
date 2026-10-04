@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Shared.RightClickMenuStore
--- Decompile time: 0.50 ms
+-- Decompile time: 1.25 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u17, u18 = (require(ReplicatedStorage.Packages.Charm)).signal({Enabled = false, Values = {}, Position = UDim2.fromOffset(0, 0)})

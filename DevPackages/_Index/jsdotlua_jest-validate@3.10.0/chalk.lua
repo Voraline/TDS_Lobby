@@ -1,4 +1,4 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-validate@3.10.0.chalk
--- Decompile time: 0.05 ms
+-- Decompile time: 0.10 ms
 
 return require(script.Parent.Parent["jsdotlua_chalk@0.2.1"].chalk)

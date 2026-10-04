@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Hazem Boss.Animator
--- Decompile time: 3.13 ms
+-- Decompile time: 3.06 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EmitterManager = require(ReplicatedStorage.Shared.Modules.EmitterManager)

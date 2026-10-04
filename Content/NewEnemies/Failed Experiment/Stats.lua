@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Failed Experiment.Stats
--- Decompile time: 0.28 ms
+-- Decompile time: 0.18 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

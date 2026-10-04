@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.DisconnectionPenaltyPopups
--- Decompile time: 3.27 ms
+-- Decompile time: 6.79 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Controllers = ReplicatedStorage.Client.Interfaces.LegacyInterface.Controllers

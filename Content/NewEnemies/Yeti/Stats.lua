@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Yeti.Stats
--- Decompile time: 0.12 ms
+-- Decompile time: 0.11 ms
 
 return {
     Speed = 8,

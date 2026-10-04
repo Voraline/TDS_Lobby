@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useView
--- Decompile time: 0.37 ms
+-- Decompile time: 0.76 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ViewController = require(ReplicatedStorage.Client.Interfaces.LegacyInterface.Controllers.ViewController)

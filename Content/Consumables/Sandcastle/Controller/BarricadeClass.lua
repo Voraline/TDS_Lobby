@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Sandcastle.Controller.BarricadeClass
--- Decompile time: 4.09 ms
+-- Decompile time: 2.88 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

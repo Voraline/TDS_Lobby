@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.HermiteCardinalSpline
--- Decompile time: 1.59 ms
+-- Decompile time: 1.71 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local LinearPath = require(ReplicatedStorage.Shared.Modules.LinearPath)

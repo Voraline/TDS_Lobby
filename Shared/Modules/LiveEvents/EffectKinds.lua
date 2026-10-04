@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LiveEvents.EffectKinds
--- Decompile time: 0.57 ms
+-- Decompile time: 0.77 ms
 
 local v1 = {
     BlackHole = "black-hole",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Toxic Gunner.TowerInformation
--- Decompile time: 0.89 ms
+-- Decompile time: 0.78 ms
 
 return {
     ToolTip = {

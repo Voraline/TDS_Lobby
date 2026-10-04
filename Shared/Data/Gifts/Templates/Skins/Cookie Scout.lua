@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Skins.Cookie Scout
--- Decompile time: 0.25 ms
+-- Decompile time: 0.24 ms
 
 game:GetService("MarketplaceService")
 return require(script.Parent.Parent.Parent.Types)({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-reporters@3.10.0.jest-reporters.getResultHeader
--- Decompile time: 1.89 ms
+-- Decompile time: 3.78 ms
 
 local Boolean = require(script.Parent.Parent:WaitForChild("luau-polyfill")).Boolean
 local v1 = {}

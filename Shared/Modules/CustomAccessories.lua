@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.CustomAccessories
--- Decompile time: 3.06 ms
+-- Decompile time: 2.75 ms
 
 return {
     AddAccessories = function(a1, a2) -- Line: 3 -- types: a1: userdata, a2: table

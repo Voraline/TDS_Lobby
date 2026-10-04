@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Candy Cane Lane.Data
--- Decompile time: 0.33 ms
+-- Decompile time: 0.37 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

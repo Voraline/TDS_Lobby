@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.LiveEventSurfaceDisplay
--- Decompile time: 1.85 ms
+-- Decompile time: 5.68 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

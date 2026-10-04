@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Commander.Animator.CommanderSkinConfig
--- Decompile time: 1.95 ms
+-- Decompile time: 1.89 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ItemDrop = require(ReplicatedStorage.Shared.Modules.ItemDrop)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.UninitializedState.roblox
--- Decompile time: 0.38 ms
+-- Decompile time: 0.31 ms
 
 local console = require(script.Parent:WaitForChild("console"))
 local v1 = {}

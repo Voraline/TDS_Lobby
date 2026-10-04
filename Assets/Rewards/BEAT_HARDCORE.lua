@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.BEAT_HARDCORE
--- Decompile time: 0.43 ms
+-- Decompile time: 0.57 ms
 
 return {
     Reward = "x1 Premium Crate",

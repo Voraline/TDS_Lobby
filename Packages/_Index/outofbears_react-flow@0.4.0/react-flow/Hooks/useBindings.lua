@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Hooks.useBindings
--- Decompile time: 0.96 ms
+-- Decompile time: 0.90 ms
 
 local React = require(script.Parent.Parent.React)
 local useEffect = React.useEffect

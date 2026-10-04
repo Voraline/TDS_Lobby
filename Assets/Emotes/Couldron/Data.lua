@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Couldron.Data
--- Decompile time: 0.08 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "Stirring up mischief..",

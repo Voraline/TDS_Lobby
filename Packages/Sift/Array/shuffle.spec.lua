@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.shuffle.spec
--- Decompile time: 0.30 ms
+-- Decompile time: 0.25 ms
 
 return function() -- Line: 1
     local shuffle = require(script.Parent.shuffle)

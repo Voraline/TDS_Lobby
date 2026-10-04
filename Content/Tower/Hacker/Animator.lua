@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Hacker.Animator
--- Decompile time: 25.06 ms
+-- Decompile time: 25.20 ms
 
 local ContextActionService = game:GetService("ContextActionService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

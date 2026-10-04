@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Classic Party.Data
--- Decompile time: 0.10 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "^-^ 2008 ROBLOX!",

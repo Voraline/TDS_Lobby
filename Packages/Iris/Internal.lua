@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Iris.Internal
--- Decompile time: 11.30 ms
+-- Decompile time: 12.33 ms
 
 local HttpService = game:GetService("HttpService")
 require(script.Parent.Types)

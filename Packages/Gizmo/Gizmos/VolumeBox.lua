@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Gizmo.Gizmos.VolumeBox
--- Decompile time: 0.69 ms
+-- Decompile time: 0.91 ms
 
 local Terrain = workspace.Terrain
 local u2 = {}

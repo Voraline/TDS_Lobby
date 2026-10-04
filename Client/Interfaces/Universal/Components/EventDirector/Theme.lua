@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.EventDirector.Theme
--- Decompile time: 0.26 ms
+-- Decompile time: 0.54 ms
 
 return table.freeze({
     background = Color3.fromRGB(24, 24, 24),

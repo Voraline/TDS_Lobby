@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Communication
--- Decompile time: 1.17 ms
+-- Decompile time: 1.16 ms
 
 local CommunicationConfig = require(script.Parent.CommunicationConfig)
 local u5 = {

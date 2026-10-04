@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.Visuals.BeesVisuals
--- Decompile time: 1.05 ms
+-- Decompile time: 1.95 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-matcher-utils@3.10.0.jest-matcher-utils
--- Decompile time: 10.76 ms
+-- Decompile time: 24.10 ms
 
 local stringify
 local v1 = require(script.Parent:WaitForChild("luau-polyfill"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Banlands.Animator
--- Decompile time: 2.24 ms
+-- Decompile time: 2.43 ms
 
 game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

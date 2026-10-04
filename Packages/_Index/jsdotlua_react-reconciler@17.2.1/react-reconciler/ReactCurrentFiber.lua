@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactCurrentFiber
--- Decompile time: 1.19 ms
+-- Decompile time: 1.24 ms
 
 local __DEV__ = _G.__DEV__
 require(script.Parent:WaitForChild("ReactInternalTypes"))

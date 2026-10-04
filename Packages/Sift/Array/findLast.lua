@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.findLast
--- Decompile time: 0.28 ms
+-- Decompile time: 0.27 ms
 
 return function(a1, a2, a3) -- Line: 20 -- types: a1: table, a3: number?
     local v1 = #a1

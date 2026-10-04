@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.splice.spec
--- Decompile time: 0.78 ms
+-- Decompile time: 0.51 ms
 
 return function() -- Line: 1
     local splice = require(script.Parent.splice)

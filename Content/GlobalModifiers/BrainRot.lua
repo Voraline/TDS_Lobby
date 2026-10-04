@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.GlobalModifiers.BrainRot
--- Decompile time: 4.78 ms
+-- Decompile time: 4.49 ms
 
 local AssetService = game:GetService("AssetService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

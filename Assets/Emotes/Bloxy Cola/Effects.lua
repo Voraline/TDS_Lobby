@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Bloxy Cola.Effects
--- Decompile time: 0.66 ms
+-- Decompile time: 0.64 ms
 
 return {
     TakeOut = function(a1, a2) -- Line: 2

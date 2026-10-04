@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.CutSceneController
--- Decompile time: 34.47 ms
+-- Decompile time: 72.31 ms
 
 local transformSceneAsset
 local ContentProvider = game:GetService("ContentProvider")

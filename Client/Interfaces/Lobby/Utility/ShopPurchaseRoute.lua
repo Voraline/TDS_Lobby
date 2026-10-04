@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Utility.ShopPurchaseRoute
--- Decompile time: 0.55 ms
+-- Decompile time: 1.19 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ShopCostUtils = require(ReplicatedStorage.Shared.Modules.ShopCostUtils)

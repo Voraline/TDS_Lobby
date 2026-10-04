@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Explosive Ducky.Animator
--- Decompile time: 0.74 ms
+-- Decompile time: 0.75 ms
 
 local Debris = game:GetService("Debris")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

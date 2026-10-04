@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Winter2025.Patron
--- Decompile time: 0.15 ms
+-- Decompile time: 0.12 ms
 
 return {
     title = "Patron",

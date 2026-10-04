@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Cryomancer.TowerInformation
--- Decompile time: 1.08 ms
+-- Decompile time: 1.02 ms
 
 return {
     ToolTip = {

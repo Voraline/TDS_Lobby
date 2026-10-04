@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Eggroll 3.Stats
--- Decompile time: 0.27 ms
+-- Decompile time: 0.35 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

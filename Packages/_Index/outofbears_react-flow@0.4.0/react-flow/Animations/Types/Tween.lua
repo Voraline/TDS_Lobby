@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Animations.Types.Tween
--- Decompile time: 3.88 ms
+-- Decompile time: 3.78 ms
 
 local RunService = game:GetService("RunService")
 local TweenService = game:GetService("TweenService")

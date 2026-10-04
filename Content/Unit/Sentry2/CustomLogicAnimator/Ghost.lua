@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Sentry2.CustomLogicAnimator.Ghost
--- Decompile time: 3.07 ms
+-- Decompile time: 2.90 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

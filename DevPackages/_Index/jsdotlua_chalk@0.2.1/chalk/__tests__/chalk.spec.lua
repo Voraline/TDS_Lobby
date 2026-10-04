@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_chalk@0.2.1.chalk.__tests__.chalk.spec
--- Decompile time: 9.01 ms
+-- Decompile time: 19.06 ms
 
 return function() -- Line: 1
     local u2 = require("../init")

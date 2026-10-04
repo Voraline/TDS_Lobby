@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Ducky D00M.Animator
--- Decompile time: 9.33 ms
+-- Decompile time: 10.04 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

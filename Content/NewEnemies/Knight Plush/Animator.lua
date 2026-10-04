@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Knight Plush.Animator
--- Decompile time: 0.89 ms
+-- Decompile time: 1.17 ms
 
 game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

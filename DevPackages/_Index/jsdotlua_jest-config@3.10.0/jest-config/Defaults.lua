@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-config@3.10.0.jest-config.Defaults
--- Decompile time: 0.39 ms
+-- Decompile time: 0.83 ms
 
 local v1 = {}
 require(script.Parent.Parent:WaitForChild("jest-types"))

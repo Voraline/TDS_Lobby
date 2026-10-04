@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Amalgamation.Animator
--- Decompile time: 0.21 ms
+-- Decompile time: 0.24 ms
 
 local v1 = {}
 v1.__index = v1

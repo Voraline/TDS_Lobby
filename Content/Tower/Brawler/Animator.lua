@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Brawler.Animator
--- Decompile time: 11.32 ms
+-- Decompile time: 12.18 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

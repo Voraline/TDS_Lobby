@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Necromancer.Stats
--- Decompile time: 2.27 ms
+-- Decompile time: 2.26 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

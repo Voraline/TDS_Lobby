@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Nightshade.Stats
--- Decompile time: 0.36 ms
+-- Decompile time: 0.37 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

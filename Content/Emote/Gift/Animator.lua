@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Gift.Animator
--- Decompile time: 3.45 ms
+-- Decompile time: 3.05 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

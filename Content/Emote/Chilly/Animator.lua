@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Chilly.Animator
--- Decompile time: 0.67 ms
+-- Decompile time: 0.81 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SoundService = game:GetService("SoundService")

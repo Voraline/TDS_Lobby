@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Experience
--- Decompile time: 0.30 ms
+-- Decompile time: 0.53 ms
 
 return function(a1) -- Line: 1
     local v1 = 10 + 35 * (1 + a1 / 10)

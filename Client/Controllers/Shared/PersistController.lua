@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.PersistController
--- Decompile time: 0.31 ms
+-- Decompile time: 0.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

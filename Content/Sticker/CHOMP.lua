@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.CHOMP
--- Decompile time: 0.17 ms
+-- Decompile time: 0.12 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

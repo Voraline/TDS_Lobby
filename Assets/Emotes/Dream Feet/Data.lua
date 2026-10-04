@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Dream Feet.Data
--- Decompile time: 0.10 ms
+-- Decompile time: 0.09 ms
 
 return {
     Description = "Jumpstyle!",

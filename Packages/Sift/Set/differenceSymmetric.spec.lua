@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.differenceSymmetric.spec
--- Decompile time: 0.75 ms
+-- Decompile time: 0.65 ms
 
 return function() -- Line: 1
     local differenceSymmetric = require(script.Parent.differenceSymmetric)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Elite Boomer.Animator
--- Decompile time: 0.62 ms
+-- Decompile time: 0.82 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TimescaleUtilities = require(ReplicatedStorage.Shared.Modules.TimescaleUtilities)

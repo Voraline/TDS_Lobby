@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Stories.button.story
--- Decompile time: 0.31 ms
+-- Decompile time: 0.56 ms
 
 Components = script.Parent.Parent.Components
 Button = require(Components.Button)

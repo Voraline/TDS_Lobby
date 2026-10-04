@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Flair.Achievements.One of a kind
--- Decompile time: 0.39 ms
+-- Decompile time: 0.40 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

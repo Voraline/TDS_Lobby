@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Halloween2025.Breached
--- Decompile time: 0.16 ms
+-- Decompile time: 0.24 ms
 
 return {
     title = "Breached",

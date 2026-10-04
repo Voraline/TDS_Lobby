@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.MedalLobbyMomentsController
--- Decompile time: 3.07 ms
+-- Decompile time: 8.17 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Asset = require(ReplicatedStorage.Shared.Modules.Asset)

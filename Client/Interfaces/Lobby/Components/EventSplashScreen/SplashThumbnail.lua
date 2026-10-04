@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.EventSplashScreen.SplashThumbnail
--- Decompile time: 0.99 ms
+-- Decompile time: 2.14 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Outline = require(ReplicatedStorage.Client.Interfaces.Universal.Components.Outline)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Moonlite.EaseFuncs
--- Decompile time: 10.28 ms
+-- Decompile time: 24.75 ms
 
 local get
 local u0 = {}

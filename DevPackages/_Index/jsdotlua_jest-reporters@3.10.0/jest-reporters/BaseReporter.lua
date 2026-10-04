@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-reporters@3.10.0.jest-reporters.BaseReporter
--- Decompile time: 0.93 ms
+-- Decompile time: 2.04 ms
 
 local Object = (require((script.Parent.Parent:WaitForChild("luau-polyfill")))).Object
 local v1 = {}

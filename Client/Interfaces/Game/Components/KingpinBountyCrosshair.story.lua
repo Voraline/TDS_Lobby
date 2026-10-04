@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.KingpinBountyCrosshair.story
--- Decompile time: 0.98 ms
+-- Decompile time: 1.61 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local KingpinBountyCrosshair = require(script.Parent.KingpinBountyCrosshair)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Drakobloxxer.Animator
--- Decompile time: 14.37 ms
+-- Decompile time: 14.16 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

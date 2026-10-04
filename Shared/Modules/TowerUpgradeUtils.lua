@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.TowerUpgradeUtils
--- Decompile time: 0.30 ms
+-- Decompile time: 0.26 ms
 
 return {
     matchesPath = function(a1, a2) -- Line: 3 -- types: a2: number?

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Sugar Rush.Animator
--- Decompile time: 2.05 ms
+-- Decompile time: 2.27 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

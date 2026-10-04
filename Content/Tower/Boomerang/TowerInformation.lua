@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Boomerang.TowerInformation
--- Decompile time: 0.67 ms
+-- Decompile time: 0.55 ms
 
 return {
     ToolTip = {

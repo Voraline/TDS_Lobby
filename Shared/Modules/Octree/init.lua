@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Octree
--- Decompile time: 5.11 ms
+-- Decompile time: 5.21 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local OctreeNode = require(ReplicatedStorage.Shared.Modules.Octree.OctreeNode)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Easter Egg.Animator
--- Decompile time: 3.00 ms
+-- Decompile time: 2.98 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

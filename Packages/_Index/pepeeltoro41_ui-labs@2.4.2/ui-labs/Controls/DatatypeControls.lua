@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.pepeeltoro41_ui-labs@2.4.2.ui-labs.Controls.DatatypeControls
--- Decompile time: 0.32 ms
+-- Decompile time: 0.31 ms
 
 local CreateBaseControl = require(script.Parent.Utils).CreateBaseControl
 return {

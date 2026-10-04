@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Brick Man.Animator
--- Decompile time: 0.59 ms
+-- Decompile time: 0.57 ms
 
 local v1 = {}
 v1.__index = v1

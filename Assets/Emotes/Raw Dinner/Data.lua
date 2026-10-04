@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Raw Dinner.Data
--- Decompile time: 0.12 ms
+-- Decompile time: 0.08 ms
 
 return {
     Description = "I'd like my meat raw please!",

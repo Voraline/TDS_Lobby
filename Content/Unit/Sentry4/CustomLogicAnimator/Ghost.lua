@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Sentry4.CustomLogicAnimator.Ghost
--- Decompile time: 5.05 ms
+-- Decompile time: 4.41 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

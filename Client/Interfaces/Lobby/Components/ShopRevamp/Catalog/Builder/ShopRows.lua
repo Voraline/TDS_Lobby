@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.Catalog.Builder.ShopRows
--- Decompile time: 0.76 ms
+-- Decompile time: 3.43 ms
 
 local Constants = require(script.Parent.Parent.Constants)
 local LayoutUtils = require(script.Parent.Parent.LayoutUtils)

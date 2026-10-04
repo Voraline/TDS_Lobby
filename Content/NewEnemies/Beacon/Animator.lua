@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Beacon.Animator
--- Decompile time: 0.88 ms
+-- Decompile time: 0.84 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EmitterManager = require(ReplicatedStorage.Shared.Modules.EmitterManager)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Gladiator.Stats
--- Decompile time: 1.68 ms
+-- Decompile time: 1.50 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GladiatorToolTips = require(script.GladiatorToolTips)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Utility.SpinWheelChances.SpinWheelRewardData
--- Decompile time: 9.43 ms
+-- Decompile time: 19.52 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Asset = require(ReplicatedStorage.Shared.Modules.Asset)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.NuclearWinter
--- Decompile time: 0.83 ms
+-- Decompile time: 0.68 ms
 
 local v1 = {id = "tower", skin = "Frost", tower = "Mortar", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Nuclear Winter")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, productId = 2677029710})).objective({

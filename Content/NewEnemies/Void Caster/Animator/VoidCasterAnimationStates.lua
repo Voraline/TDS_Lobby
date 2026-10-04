@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Void Caster.Animator.VoidCasterAnimationStates
--- Decompile time: 4.64 ms
+-- Decompile time: 3.56 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EmitterManager = require(ReplicatedStorage.Shared.Modules.EmitterManager)

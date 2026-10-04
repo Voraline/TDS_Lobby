@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useTowers
--- Decompile time: 0.83 ms
+-- Decompile time: 2.49 ms
 
 local u43
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

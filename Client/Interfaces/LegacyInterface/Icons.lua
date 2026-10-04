@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Icons
--- Decompile time: 0.53 ms
+-- Decompile time: 1.40 ms
 
 local v1 = {
     TowersInventory = 89647050840867,

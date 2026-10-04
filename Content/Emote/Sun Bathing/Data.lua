@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Sun Bathing.Data
--- Decompile time: 0.20 ms
+-- Decompile time: 0.17 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

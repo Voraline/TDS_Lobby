@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow
--- Decompile time: 0.22 ms
+-- Decompile time: 0.20 ms
 
 local Animations = require(script.Animations)
 return {

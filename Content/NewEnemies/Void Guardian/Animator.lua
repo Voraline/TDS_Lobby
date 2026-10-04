@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Void Guardian.Animator
--- Decompile time: 1.82 ms
+-- Decompile time: 1.49 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SoundService = game:GetService("SoundService")

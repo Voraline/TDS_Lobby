@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Crate.Xmas 2019
--- Decompile time: 0.31 ms
+-- Decompile time: 0.30 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

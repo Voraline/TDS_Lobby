@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.Libraries.FractalitySpring.RbxLinearSpring
--- Decompile time: 1.03 ms
+-- Decompile time: 1.05 ms
 
 local LinearSpring = require(script.Parent.Primitives.LinearSpring)
 local Conversion = require(script.Conversion)

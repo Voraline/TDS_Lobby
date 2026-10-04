@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.zipAll
--- Decompile time: 0.70 ms
+-- Decompile time: 0.65 ms
 
 local Parent_2 = script.Parent.Parent
 local reduce = require(script.Parent.reduce)

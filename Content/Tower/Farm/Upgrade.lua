@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Farm.Upgrade
--- Decompile time: 1.18 ms
+-- Decompile time: 0.93 ms
 
 local RunService = game:GetService("RunService")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Heavy.Stats
--- Decompile time: 0.18 ms
+-- Decompile time: 0.28 ms
 
 game:GetService("ReplicatedStorage")
 return {

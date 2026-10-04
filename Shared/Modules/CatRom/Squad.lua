@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.CatRom.Squad
--- Decompile time: 3.86 ms
+-- Decompile time: 4.03 ms
 
 local function InverseLogProduct(a1, a2, a3, a4, a5, a6, a7, a8) -- Line: 7
     local v1 = a1 * a5 + a2 * a6 + a3 * a7 + a4 * a8

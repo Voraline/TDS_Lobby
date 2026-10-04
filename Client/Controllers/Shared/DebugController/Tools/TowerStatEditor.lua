@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.DebugController.Tools.TowerStatEditor
--- Decompile time: 1.62 ms
+-- Decompile time: 4.25 ms
 
 local HttpService = game:GetService("HttpService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

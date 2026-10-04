@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Hardcore.Paragon
--- Decompile time: 0.17 ms
+-- Decompile time: 0.13 ms
 
 return {
     title = "Paragon",

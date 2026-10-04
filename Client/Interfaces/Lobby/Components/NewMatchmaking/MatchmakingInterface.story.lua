@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.NewMatchmaking.MatchmakingInterface.story
--- Decompile time: 6.89 ms
+-- Decompile time: 11.17 ms
 
 local v1
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

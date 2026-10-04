@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Castle.Animator.Events.Rain
--- Decompile time: 0.17 ms
+-- Decompile time: 0.14 ms
 
 local u0 = {}
 

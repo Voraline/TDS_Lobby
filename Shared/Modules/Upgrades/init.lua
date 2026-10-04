@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Upgrades
--- Decompile time: 5.08 ms
+-- Decompile time: 5.16 ms
 
 local resolveInstances
 local v1 = {}

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Biologist.Stats.BiologistTooltips
--- Decompile time: 1.97 ms
+-- Decompile time: 1.65 ms
 
 return {
     newSlotTooltip = function() -- Line: 3

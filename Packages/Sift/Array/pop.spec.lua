@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.pop.spec
--- Decompile time: 0.60 ms
+-- Decompile time: 0.57 ms
 
 return function() -- Line: 1
     local pop = require(script.Parent.pop)

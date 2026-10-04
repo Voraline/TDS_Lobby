@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.EnemyHealth
--- Decompile time: 15.58 ms
+-- Decompile time: 17.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Comma = require(ReplicatedStorage.Client.Modules.Comma)

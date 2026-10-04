@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Hud.HudPlayButton.story
--- Decompile time: 0.44 ms
+-- Decompile time: 0.94 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local HudPlayButton = require(script.Parent.HudPlayButton)

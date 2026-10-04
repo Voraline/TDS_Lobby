@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Range Flag.Controller
--- Decompile time: 2.38 ms
+-- Decompile time: 1.97 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

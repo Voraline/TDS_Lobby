@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Necromancer.Upgrade
--- Decompile time: 1.32 ms
+-- Decompile time: 1.47 ms
 
 local u7 = game:GetService("RunService"):IsClient()
 return {

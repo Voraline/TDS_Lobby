@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Null Shrieker.Stats
--- Decompile time: 0.30 ms
+-- Decompile time: 0.27 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

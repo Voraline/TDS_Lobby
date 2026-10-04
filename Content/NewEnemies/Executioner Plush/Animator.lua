@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Executioner Plush.Animator
--- Decompile time: 2.46 ms
+-- Decompile time: 2.80 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")

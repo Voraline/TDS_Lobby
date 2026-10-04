@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Paintballer.TowerInformation
--- Decompile time: 0.62 ms
+-- Decompile time: 0.56 ms
 
 return {
     ToolTip = {

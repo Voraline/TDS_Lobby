@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_string@1.2.7.string.startsWith
--- Decompile time: 0.27 ms
+-- Decompile time: 0.36 ms
 
 return function(a1, a2, a3) -- Line: 1 -- types: a1: string, a2: string, a3: number?
     if string.len(a2) == 0 then

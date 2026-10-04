@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.MapItems.SpotLight.Stats
--- Decompile time: 0.26 ms
+-- Decompile time: 0.20 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Enum)

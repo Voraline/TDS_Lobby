@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Warden.TowerInformation
--- Decompile time: 0.66 ms
+-- Decompile time: 0.61 ms
 
 return {
     ToolTip = {

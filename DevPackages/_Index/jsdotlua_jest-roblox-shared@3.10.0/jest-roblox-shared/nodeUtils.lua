@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-roblox-shared@3.10.0.jest-roblox-shared.nodeUtils
--- Decompile time: 0.47 ms
+-- Decompile time: 0.99 ms
 
 local Writeable = require(script.Parent:WaitForChild("Writeable")).Writeable
 local v1 = {stdout = Writeable.new(), stderr = Writeable.new()}

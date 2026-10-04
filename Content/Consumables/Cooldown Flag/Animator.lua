@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Cooldown Flag.Animator
--- Decompile time: 7.43 ms
+-- Decompile time: 7.10 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

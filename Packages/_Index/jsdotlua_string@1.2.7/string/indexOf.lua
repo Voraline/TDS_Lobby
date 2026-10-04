@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_string@1.2.7.string.indexOf
--- Decompile time: 0.54 ms
+-- Decompile time: 0.51 ms
 
 local u8 = "([" .. (("$%^()-[].?"):gsub("(.)", "%%%1")) .. "])"
 return function(a1, a2, a3) -- Line: 7 -- upvalues: u8 (val) -- types: a1: string, a2: string, a3: number?

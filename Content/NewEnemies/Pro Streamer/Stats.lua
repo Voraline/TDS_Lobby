@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Pro Streamer.Stats
--- Decompile time: 0.27 ms
+-- Decompile time: 0.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

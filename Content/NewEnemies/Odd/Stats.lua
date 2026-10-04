@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Odd.Stats
--- Decompile time: 0.88 ms
+-- Decompile time: 0.11 ms
 
 return {
     DisplayName = "Odd",

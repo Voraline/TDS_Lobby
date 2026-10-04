@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Radical.Data
--- Decompile time: 0.10 ms
+-- Decompile time: 0.25 ms
 
 return {
     Description = "That was rad dude!",

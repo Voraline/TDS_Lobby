@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Frost Hero.Animator
--- Decompile time: 0.87 ms
+-- Decompile time: 1.07 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

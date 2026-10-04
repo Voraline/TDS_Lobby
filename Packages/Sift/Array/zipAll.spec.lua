@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.zipAll.spec
--- Decompile time: 2.08 ms
+-- Decompile time: 1.23 ms
 
 return function() -- Line: 1
     local None = require(script.Parent.Parent.None)

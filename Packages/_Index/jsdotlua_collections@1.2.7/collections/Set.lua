@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Set
--- Decompile time: 2.29 ms
+-- Decompile time: 2.20 ms
 
 local __DEV__ = _G.__DEV__
 local inspect = require(script.Parent:WaitForChild("inspect"))

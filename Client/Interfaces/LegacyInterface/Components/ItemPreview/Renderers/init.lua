@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Components.ItemPreview.Renderers
--- Decompile time: 0.24 ms
+-- Decompile time: 0.51 ms
 
 local u0 = {}
 for i, v in ipairs(script:GetChildren()) do

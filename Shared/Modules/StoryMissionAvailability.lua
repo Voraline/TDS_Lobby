@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.StoryMissionAvailability
--- Decompile time: 0.46 ms
+-- Decompile time: 0.37 ms
 
 local u0 = {LOCK_REASON = "This mission is not available yet."}
 

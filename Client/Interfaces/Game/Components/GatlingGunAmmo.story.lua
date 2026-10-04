@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.GatlingGunAmmo.story
--- Decompile time: 1.40 ms
+-- Decompile time: 1.94 ms
 
 local UI = game:GetService("ReplicatedStorage").Shared.UI
 local GatlingGunAmmo = require(script.Parent.GatlingGunAmmo)

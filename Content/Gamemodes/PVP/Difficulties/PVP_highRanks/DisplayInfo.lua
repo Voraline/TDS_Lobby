@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.PVP.Difficulties.PVP_highRanks.DisplayInfo
--- Decompile time: 0.12 ms
+-- Decompile time: 0.11 ms
 
 return {
     Name = "PVP (Hard)",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Array.from
--- Decompile time: 0.80 ms
+-- Decompile time: 0.88 ms
 
 local Set = require(script.Parent.Parent:WaitForChild("Set"))
 local Map = require((script.Parent.Parent:WaitForChild("Map")):WaitForChild("Map"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Musaceae Kingdom.Data
--- Decompile time: 0.23 ms
+-- Decompile time: 0.20 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

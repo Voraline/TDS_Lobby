@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.NumberedButton.story
--- Decompile time: 0.52 ms
+-- Decompile time: 0.98 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local NumberedButton = require(script.Parent.NumberedButton)

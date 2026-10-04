@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Triumph.Commander in Chief
--- Decompile time: 0.16 ms
+-- Decompile time: 0.12 ms
 
 return {
     title = "Commander in Chief",

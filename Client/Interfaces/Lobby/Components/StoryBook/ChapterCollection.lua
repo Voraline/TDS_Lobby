@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.StoryBook.ChapterCollection
--- Decompile time: 0.38 ms
+-- Decompile time: 0.74 ms
 
 return {
     getSortedNumericKeys = function(a1) -- Line: 5 -- types: a1: table

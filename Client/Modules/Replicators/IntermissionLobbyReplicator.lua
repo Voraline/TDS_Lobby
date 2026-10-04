@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Replicators.IntermissionLobbyReplicator
--- Decompile time: 16.80 ms
+-- Decompile time: 40.19 ms
 
 local CollectionService = game:GetService("CollectionService")
 local MarketplaceService = game:GetService("MarketplaceService")

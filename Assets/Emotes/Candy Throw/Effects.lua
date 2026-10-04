@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Candy Throw.Effects
--- Decompile time: 0.45 ms
+-- Decompile time: 0.42 ms
 
 return {
     Grab = function(a1, a2) -- Line: 2

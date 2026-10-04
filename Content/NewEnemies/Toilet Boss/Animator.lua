@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Toilet Boss.Animator
--- Decompile time: 4.26 ms
+-- Decompile time: 3.81 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")

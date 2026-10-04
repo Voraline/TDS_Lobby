@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles.Effects.CircuitHacker
--- Decompile time: 4.66 ms
+-- Decompile time: 5.09 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Create = require(ReplicatedStorage.Shared.Modules.Standalone.Create)

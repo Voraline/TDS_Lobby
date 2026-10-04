@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.LegacyLobbyInterfaceController.Hide
--- Decompile time: 0.46 ms
+-- Decompile time: 0.86 ms
 
 local PlayerGui = game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui")
 PlayerGui:WaitForChild("SharedGui")

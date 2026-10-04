@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.intersection.spec
--- Decompile time: 0.31 ms
+-- Decompile time: 0.29 ms
 
 return function() -- Line: 1
     local intersection = require(script.Parent.intersection)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.ParallaxController
--- Decompile time: 6.70 ms
+-- Decompile time: 15.08 ms
 
 local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")

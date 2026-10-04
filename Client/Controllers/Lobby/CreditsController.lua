@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.CreditsController
--- Decompile time: 2.03 ms
+-- Decompile time: 8.64 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Players = game:GetService("Players")

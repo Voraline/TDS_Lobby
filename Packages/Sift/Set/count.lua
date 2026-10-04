@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.count
--- Decompile time: 0.51 ms
+-- Decompile time: 0.33 ms
 
 local Parent_2 = script.Parent.Parent
 local Util = require(Parent_2.Util)

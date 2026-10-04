@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.toArray.spec
--- Decompile time: 0.65 ms
+-- Decompile time: 0.38 ms
 
 return function() -- Line: 1
     local toArray = require(script.Parent.toArray)

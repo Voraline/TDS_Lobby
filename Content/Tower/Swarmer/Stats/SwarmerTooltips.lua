@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Swarmer.Stats.SwarmerTooltips
--- Decompile time: 1.01 ms
+-- Decompile time: 1.05 ms
 
 return {
     unlockAbility = function(a1) -- Line: 9 -- types: a1: table

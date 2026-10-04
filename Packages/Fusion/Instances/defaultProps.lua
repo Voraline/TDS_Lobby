@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Instances.defaultProps
--- Decompile time: 0.60 ms
+-- Decompile time: 0.57 ms
 
 return {
     ScreenGui = {ResetOnSpawn = false, ZIndexBehavior = Enum.ZIndexBehavior.Sibling},

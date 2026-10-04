@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.MiniHand.Animator
--- Decompile time: 2.20 ms
+-- Decompile time: 2.27 ms
 
 local HttpService = game:GetService("HttpService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

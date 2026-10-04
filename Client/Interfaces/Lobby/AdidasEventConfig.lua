@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.AdidasEventConfig
--- Decompile time: 0.35 ms
+-- Decompile time: 0.70 ms
 
 local u0 = {
     PromptSeenFlag = "AdidasEventPromptSeen",

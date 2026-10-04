@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.QuestWindow.RewardItem
--- Decompile time: 3.25 ms
+-- Decompile time: 6.72 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ItemPreview = require(ReplicatedStorage.Client.Interfaces.Components.ItemPreview)

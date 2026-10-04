@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Axe Throw.Data
--- Decompile time: 0.09 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "It always returns.",

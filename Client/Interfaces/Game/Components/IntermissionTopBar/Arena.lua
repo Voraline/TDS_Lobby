@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.IntermissionTopBar.Arena
--- Decompile time: 1.25 ms
+-- Decompile time: 2.90 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PVPConstants = require(ReplicatedStorage.Shared.Modules.PVPConstants)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-roblox@17.2.1.react-roblox.client.ReactRobloxComponentTree
--- Decompile time: 2.04 ms
+-- Decompile time: 1.91 ms
 
 require(script.Parent:WaitForChild("ReactRobloxHostTypes.roblox"))
 require(script.Parent.Parent.Parent:WaitForChild("react-reconciler"))

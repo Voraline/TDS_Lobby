@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.DifficultyVote.Banner
--- Decompile time: 0.91 ms
+-- Decompile time: 1.91 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local createElement = require(ReplicatedStorage.Shared.UI.React).createElement

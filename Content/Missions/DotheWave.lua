@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.DotheWave
--- Decompile time: 0.61 ms
+-- Decompile time: 0.66 ms
 
 local v1 = {id = "tower", skin = "SuperFan", tower = "Militant", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Do The Wave!")).cost({amount = 525, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, missionSection = "adidas", productId = 3594835461})).objective({

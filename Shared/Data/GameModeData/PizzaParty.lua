@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.GameModeData.PizzaParty
--- Decompile time: 0.18 ms
+-- Decompile time: 0.15 ms
 
 return {
     Waves = 40,

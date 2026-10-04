@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.Type.roblox
--- Decompile time: 0.38 ms
+-- Decompile time: 0.36 ms
 
 local u7 = require(script.Parent:WaitForChild("Symbol.roblox"))
 local u10 = newproxy(true)

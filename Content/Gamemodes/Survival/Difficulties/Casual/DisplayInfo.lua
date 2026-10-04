@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Survival.Difficulties.Casual.DisplayInfo
--- Decompile time: 0.13 ms
+-- Decompile time: 0.15 ms
 
 return {
     Name = "Casual",

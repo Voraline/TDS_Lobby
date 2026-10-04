@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Jester.TowerInformation
--- Decompile time: 1.65 ms
+-- Decompile time: 1.47 ms
 
 return {
     ToolTip = {

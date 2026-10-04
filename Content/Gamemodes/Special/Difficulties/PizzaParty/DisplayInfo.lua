@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Special.Difficulties.PizzaParty.DisplayInfo
--- Decompile time: 0.13 ms
+-- Decompile time: 0.08 ms
 
 return {
     Name = "Pizza Party",

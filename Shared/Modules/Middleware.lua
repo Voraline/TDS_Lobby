@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Middleware
--- Decompile time: 0.87 ms
+-- Decompile time: 0.76 ms
 
 local u0 = {}
 

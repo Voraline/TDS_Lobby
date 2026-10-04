@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Battlepass.BattlepassItem
--- Decompile time: 11.61 ms
+-- Decompile time: 21.81 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Asset = require(ReplicatedStorage.Shared.Modules.Asset)

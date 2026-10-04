@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.TowerPetsController.CustomAnimations.Ace Pilot-Pet
--- Decompile time: 0.62 ms
+-- Decompile time: 1.21 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

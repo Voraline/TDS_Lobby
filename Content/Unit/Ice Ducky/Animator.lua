@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Ice Ducky.Animator
--- Decompile time: 0.88 ms
+-- Decompile time: 0.69 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

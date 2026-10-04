@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.Admins.AdminsContent
--- Decompile time: 1.77 ms
+-- Decompile time: 3.58 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

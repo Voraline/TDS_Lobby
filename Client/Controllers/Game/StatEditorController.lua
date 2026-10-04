@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.StatEditorController
--- Decompile time: 1.39 ms
+-- Decompile time: 2.70 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

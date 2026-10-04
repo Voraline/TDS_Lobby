@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.EnemyOfRedcliff
--- Decompile time: 0.81 ms
+-- Decompile time: 0.86 ms
 
 local v1 = {id = "tower", skin = "Korblox", tower = "Electroshocker", type = "tower"}
 return (((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Enemy of Redcliff")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, productId = 3236702677})).objective({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Humvee.Animator
--- Decompile time: 3.72 ms
+-- Decompile time: 3.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

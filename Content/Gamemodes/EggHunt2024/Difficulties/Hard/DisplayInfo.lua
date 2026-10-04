@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.EggHunt2024.Difficulties.Hard.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.08 ms
 
 return {
     Name = "The Hunt (Hard)",

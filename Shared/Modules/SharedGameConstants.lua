@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.SharedGameConstants
--- Decompile time: 0.39 ms
+-- Decompile time: 0.33 ms
 
 local v1 = {
     DEFAULT_BOUNDARY_SIZE = 1.5,

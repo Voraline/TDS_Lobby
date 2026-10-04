@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles.Effects.Sunlight
--- Decompile time: 6.88 ms
+-- Decompile time: 7.41 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Create = require(ReplicatedStorage.Shared.Modules.Standalone.Create)

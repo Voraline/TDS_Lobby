@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Utility.EnemyGameModeDisplay
--- Decompile time: 1.53 ms
+-- Decompile time: 3.45 ms
 
 local u0 = {}
 local u1 = {}

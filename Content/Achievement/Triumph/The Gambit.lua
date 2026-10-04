@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Triumph.The Gambit
--- Decompile time: 0.14 ms
+-- Decompile time: 0.19 ms
 
 return {
     title = "The Gambit",

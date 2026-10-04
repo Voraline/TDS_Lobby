@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.UI.DialogTextRevealUtil
--- Decompile time: 0.60 ms
+-- Decompile time: 0.61 ms
 
 local v1 = {}
 local u1 = nil

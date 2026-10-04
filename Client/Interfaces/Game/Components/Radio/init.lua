@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Radio
--- Decompile time: 3.24 ms
+-- Decompile time: 6.37 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RadioButton = require(script.RadioButton)

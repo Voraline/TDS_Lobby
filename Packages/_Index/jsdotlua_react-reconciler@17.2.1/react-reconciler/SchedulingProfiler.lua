@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.SchedulingProfiler
--- Decompile time: 2.88 ms
+-- Decompile time: 2.63 ms
 
 local v1 = {}
 local WeakMap = require(script.Parent.Parent:WaitForChild("luau-polyfill")).WeakMap

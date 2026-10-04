@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.BSpline
--- Decompile time: 4.49 ms
+-- Decompile time: 3.93 ms
 
 local u0 = {}
 u0.__index = u0

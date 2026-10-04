@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.DarkHarvest
--- Decompile time: 0.70 ms
+-- Decompile time: 0.76 ms
 
 local v1 = {id = "tower", skin = "Wasteland", tower = "Harvester", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Dark Harvest")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, productId = 2567515198})).objective({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Trapper.Animator.BearTrapAnimator
--- Decompile time: 3.96 ms
+-- Decompile time: 3.52 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

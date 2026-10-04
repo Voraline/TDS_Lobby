@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ItemPresentations.Towers.Sniper
--- Decompile time: 0.28 ms
+-- Decompile time: 0.34 ms
 
 return {
     Init = function(a1, a2, a3) -- Line: 2

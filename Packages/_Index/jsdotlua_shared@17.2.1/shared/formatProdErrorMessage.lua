@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.formatProdErrorMessage
--- Decompile time: 0.35 ms
+-- Decompile time: 0.28 ms
 
 local HttpService = game:GetService("HttpService")
 return function(a1, ...) -- Line: 17 -- upvalues: HttpService (val)

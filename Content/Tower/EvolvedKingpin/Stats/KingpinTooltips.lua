@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.EvolvedKingpin.Stats.KingpinTooltips
--- Decompile time: 5.07 ms
+-- Decompile time: 2.80 ms
 
 local u0 = {}
 

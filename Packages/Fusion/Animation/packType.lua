@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Animation.packType
--- Decompile time: 1.82 ms
+-- Decompile time: 1.76 ms
 
 local Parent = script.Parent.Parent
 require(Parent.PubTypes)

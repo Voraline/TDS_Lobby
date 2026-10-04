@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.GatlingGunAmmo
--- Decompile time: 4.55 ms
+-- Decompile time: 7.62 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Interfaces = ReplicatedStorage.Client.Interfaces

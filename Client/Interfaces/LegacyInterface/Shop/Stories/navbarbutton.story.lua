@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Stories.navbarbutton.story
--- Decompile time: 0.28 ms
+-- Decompile time: 0.53 ms
 
 local NavbarButton = require(script.Parent.Parent.Components.NavbarButton)
 return function(a1) -- Line: 3 -- upvalues: NavbarButton (val)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Newsfeeds.v1.53.0
--- Decompile time: 1.00 ms
+-- Decompile time: 1.14 ms
 
 return {
     UpdateName = "❤️ Valentine's Day ❤️",

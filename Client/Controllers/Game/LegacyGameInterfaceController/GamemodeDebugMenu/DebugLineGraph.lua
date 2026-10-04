@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.LegacyGameInterfaceController.GamemodeDebugMenu.DebugLineGraph
--- Decompile time: 5.05 ms
+-- Decompile time: 10.00 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

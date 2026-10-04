@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useBadges
--- Decompile time: 2.57 ms
+-- Decompile time: 4.45 ms
 
 local BadgeService = game:GetService("BadgeService")
 local Players = game:GetService("Players")

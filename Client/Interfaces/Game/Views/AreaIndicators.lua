@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.AreaIndicators
--- Decompile time: 0.97 ms
+-- Decompile time: 1.86 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local AreaIndicator = require(ReplicatedStorage.Client.Interfaces.Game.Components.AreaIndicator)

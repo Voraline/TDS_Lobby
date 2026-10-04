@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.shift.spec
--- Decompile time: 0.56 ms
+-- Decompile time: 0.52 ms
 
 return function() -- Line: 1
     local shift = require(script.Parent.shift)

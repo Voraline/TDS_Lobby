@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Missions.Errand Boy
--- Decompile time: 0.11 ms
+-- Decompile time: 0.08 ms
 
 return {
     title = "Errand Boy",

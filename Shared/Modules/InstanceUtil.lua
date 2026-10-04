@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.InstanceUtil
--- Decompile time: 4.27 ms
+-- Decompile time: 3.79 ms
 
 local function getPath(a1, a2) -- Line: 40 -- types: a1: userdata, a2: userdata
     if not a2:IsDescendantOf(a1) then

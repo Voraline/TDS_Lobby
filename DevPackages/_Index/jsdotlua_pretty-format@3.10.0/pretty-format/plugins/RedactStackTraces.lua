@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_pretty-format@3.10.0.pretty-format.plugins.RedactStackTraces
--- Decompile time: 0.79 ms
+-- Decompile time: 1.02 ms
 
 local getType = require(script.Parent.Parent.Parent:WaitForChild("jest-get-type")).getType
 local redactStackTrace = require(script.Parent.Parent.Parent:WaitForChild("jest-roblox-shared")).redactStackTrace

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewTowerRange.Custom.Gatling Gun
--- Decompile time: 6.56 ms
+-- Decompile time: 8.01 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

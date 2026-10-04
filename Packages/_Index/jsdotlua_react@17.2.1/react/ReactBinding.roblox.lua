@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react@17.2.1.react.ReactBinding.roblox
--- Decompile time: 2.87 ms
+-- Decompile time: 2.95 ms
 
 local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local ReactSymbols = require(script.Parent.Parent:WaitForChild("shared")).ReactSymbols

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LiveEvents.LegacyDefinitions
--- Decompile time: 4.66 ms
+-- Decompile time: 5.08 ms
 
 local ActionBuilder = require(script.Parent.ActionBuilder)
 local LegacyParameters = require(script.Parent.LegacyParameters)

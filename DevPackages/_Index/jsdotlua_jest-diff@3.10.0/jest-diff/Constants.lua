@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-diff@3.10.0.jest-diff.Constants
--- Decompile time: 0.10 ms
+-- Decompile time: 0.22 ms
 
 return {
     NO_DIFF_MESSAGE = "Compared values have no visual difference.",

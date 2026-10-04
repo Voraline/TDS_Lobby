@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Elite Mystery.Animator
--- Decompile time: 0.43 ms
+-- Decompile time: 0.38 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EmitterManager = require(ReplicatedStorage.Shared.Modules.EmitterManager)

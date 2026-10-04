@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Hunter.Animator.HunterSkinConfigs
--- Decompile time: 0.37 ms
+-- Decompile time: 0.38 ms
 
 return {
     ["Scuba Ops"] = {

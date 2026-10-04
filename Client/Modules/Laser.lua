@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Laser
--- Decompile time: 16.32 ms
+-- Decompile time: 31.94 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

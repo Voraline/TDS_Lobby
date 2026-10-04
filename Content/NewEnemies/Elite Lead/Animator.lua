@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Elite Lead.Animator
--- Decompile time: 0.96 ms
+-- Decompile time: 1.03 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

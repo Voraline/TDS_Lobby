@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.withKeys.spec
--- Decompile time: 0.60 ms
+-- Decompile time: 0.55 ms
 
 return function() -- Line: 1
     local withKeys = require(script.Parent.withKeys)

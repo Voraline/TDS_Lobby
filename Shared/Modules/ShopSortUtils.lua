@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.ShopSortUtils
--- Decompile time: 4.57 ms
+-- Decompile time: 4.21 ms
 
 local Modules = game:GetService("ReplicatedStorage").Shared.Modules
 local Enum = require(Modules.Enum)

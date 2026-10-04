@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Melted Chocolate.Animator
--- Decompile time: 2.69 ms
+-- Decompile time: 2.39 ms
 
 local ContextActionService = game:GetService("ContextActionService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

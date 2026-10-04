@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.DJ Booth.Stats
--- Decompile time: 3.00 ms
+-- Decompile time: 3.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

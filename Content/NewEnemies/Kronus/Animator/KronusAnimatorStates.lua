@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Kronus.Animator.KronusAnimatorStates
--- Decompile time: 9.88 ms
+-- Decompile time: 13.84 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

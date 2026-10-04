@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.EvolvedJuggernaut.Sounds
--- Decompile time: 0.21 ms
+-- Decompile time: 0.24 ms
 
 return {
     Default = {

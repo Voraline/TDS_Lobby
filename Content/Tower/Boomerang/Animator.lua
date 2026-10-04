@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Boomerang.Animator
--- Decompile time: 7.77 ms
+-- Decompile time: 6.66 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

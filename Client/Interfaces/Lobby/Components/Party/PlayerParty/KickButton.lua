@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Party.PlayerParty.KickButton
--- Decompile time: 0.53 ms
+-- Decompile time: 1.54 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Button = require(ReplicatedStorage.Client.Interfaces.Components.Button)

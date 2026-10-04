@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Candy Cane Lane.Animator
--- Decompile time: 2.27 ms
+-- Decompile time: 2.07 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GameState = require(ReplicatedStorage.Shared.Modules.GameState)

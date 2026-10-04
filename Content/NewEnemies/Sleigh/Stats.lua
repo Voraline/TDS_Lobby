@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Sleigh.Stats
--- Decompile time: 0.21 ms
+-- Decompile time: 0.18 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

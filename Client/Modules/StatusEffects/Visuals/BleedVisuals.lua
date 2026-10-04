@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.Visuals.BleedVisuals
--- Decompile time: 1.36 ms
+-- Decompile time: 2.93 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Particles = ReplicatedStorage:WaitForChild("Assets"):WaitForChild("Effects"):WaitForChild("Particles")

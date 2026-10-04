@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useAchievements
--- Decompile time: 3.50 ms
+-- Decompile time: 7.11 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Components = ReplicatedStorage.Client.Interfaces.Lobby.Components

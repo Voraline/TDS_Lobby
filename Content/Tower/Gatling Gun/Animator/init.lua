@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Gatling Gun.Animator
--- Decompile time: 20.60 ms
+-- Decompile time: 19.29 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

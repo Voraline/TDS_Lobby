@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.The Umbra.Animator
--- Decompile time: 9.29 ms
+-- Decompile time: 9.24 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

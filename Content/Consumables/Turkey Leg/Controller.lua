@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Turkey Leg.Controller
--- Decompile time: 0.64 ms
+-- Decompile time: 0.56 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Radioactive Slime.Animator
--- Decompile time: 0.72 ms
+-- Decompile time: 0.90 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EffectsController = require(ReplicatedStorage.Client.Controllers.Game.EffectsController)

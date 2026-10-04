@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Typechecker
--- Decompile time: 10.44 ms
+-- Decompile time: 10.88 ms
 
 local u0 = {}
 

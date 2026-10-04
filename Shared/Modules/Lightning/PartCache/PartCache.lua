@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Lightning.PartCache.PartCache
--- Decompile time: 3.40 ms
+-- Decompile time: 3.44 ms
 
 local Table = require(script.Parent:WaitForChild("Table"))
 local u8 = {}

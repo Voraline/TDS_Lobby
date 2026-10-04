@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Events
--- Decompile time: 3.05 ms
+-- Decompile time: 2.89 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

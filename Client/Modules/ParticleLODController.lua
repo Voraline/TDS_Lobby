@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.ParticleLODController
--- Decompile time: 7.73 ms
+-- Decompile time: 18.39 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

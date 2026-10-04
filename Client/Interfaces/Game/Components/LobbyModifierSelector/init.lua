@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.LobbyModifierSelector
--- Decompile time: 5.87 ms
+-- Decompile time: 7.90 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GlowButton = require(ReplicatedStorage.Client.Interfaces.Components.GlowButton)

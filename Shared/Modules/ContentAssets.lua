@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.ContentAssets
--- Decompile time: 2.47 ms
+-- Decompile time: 2.06 ms
 
 local AssetService = game:GetService("AssetService")
 local CoreGui = game:GetService("CoreGui")

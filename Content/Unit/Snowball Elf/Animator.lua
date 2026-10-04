@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Snowball Elf.Animator
--- Decompile time: 2.48 ms
+-- Decompile time: 2.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

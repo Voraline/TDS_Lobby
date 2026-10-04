@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-roblox-shared@3.10.0.jest-roblox-shared.expect
--- Decompile time: 8.94 ms
+-- Decompile time: 19.05 ms
 
 local eq, getObjectSubset, iterableEquality
 local getType = require(script.Parent.Parent:WaitForChild("jest-get-type")).getType

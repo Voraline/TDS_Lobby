@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.EventMissions
--- Decompile time: 3.47 ms
+-- Decompile time: 7.30 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Challenges = require(ReplicatedStorage.Shared.Modules.Asset.Handlers.Challenges)

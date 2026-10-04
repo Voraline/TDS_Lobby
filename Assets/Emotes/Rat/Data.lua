@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Rat.Data
--- Decompile time: 0.10 ms
+-- Decompile time: 0.29 ms
 
 return {
     Description = "Oh shoot, a rat!",

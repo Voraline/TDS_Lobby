@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.CommunicationPlacementController
--- Decompile time: 1.71 ms
+-- Decompile time: 3.73 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u5 = {}

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Moonlite.AnimationEvents
--- Decompile time: 5.05 ms
+-- Decompile time: 12.27 ms
 
 local v1 = {}
 

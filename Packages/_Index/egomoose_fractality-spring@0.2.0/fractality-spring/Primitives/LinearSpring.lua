@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.egomoose_fractality-spring@0.2.0.fractality-spring.Primitives.LinearSpring
--- Decompile time: 4.33 ms
+-- Decompile time: 4.56 ms
 
 local exp = math.exp
 local sin = math.sin

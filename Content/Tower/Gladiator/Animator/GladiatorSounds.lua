@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Gladiator.Animator.GladiatorSounds
--- Decompile time: 0.39 ms
+-- Decompile time: 0.25 ms
 
 return {
     Swing = {

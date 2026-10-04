@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ReactUtils
--- Decompile time: 1.16 ms
+-- Decompile time: 1.26 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local React = require(ReplicatedStorage.Shared.UI.React)

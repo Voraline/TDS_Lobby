@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.SkillTreeController.CameraPan
--- Decompile time: 5.46 ms
+-- Decompile time: 10.71 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

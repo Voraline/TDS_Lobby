@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.has.spec
--- Decompile time: 0.24 ms
+-- Decompile time: 0.22 ms
 
 return function() -- Line: 1
     local has = require(script.Parent.has)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Utils.KingpinUtils
--- Decompile time: 2.29 ms
+-- Decompile time: 2.33 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.BanCodes
--- Decompile time: 0.29 ms
+-- Decompile time: 0.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Moonlite.VFXEmitter
--- Decompile time: 8.40 ms
+-- Decompile time: 18.79 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Debris = game:GetService("Debris")

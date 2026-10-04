@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Views.Tags.story
--- Decompile time: 0.21 ms
+-- Decompile time: 0.40 ms
 
 local Tags = require(script.Parent.Tags)
 return function(a1) -- Line: 3 -- upvalues: Tags (val)

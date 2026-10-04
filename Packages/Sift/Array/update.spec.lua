@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.update.spec
--- Decompile time: 1.08 ms
+-- Decompile time: 0.90 ms
 
 return function() -- Line: 1
     local update = require(script.Parent.update)

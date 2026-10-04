@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Rotation
--- Decompile time: 0.65 ms
+-- Decompile time: 0.59 ms
 
 local Shared = game:GetService("ReplicatedStorage").Shared
 local Value = (require(Shared.UI.Fusion)).Value

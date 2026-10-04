@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Free Spirit.Animator
--- Decompile time: 2.92 ms
+-- Decompile time: 2.97 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

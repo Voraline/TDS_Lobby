@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.EventSplashScreen.SplashObjectives
--- Decompile time: 3.72 ms
+-- Decompile time: 8.04 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ParticleEmitter = require(ReplicatedStorage.Client.Interfaces.Components.ParticleEmitter)

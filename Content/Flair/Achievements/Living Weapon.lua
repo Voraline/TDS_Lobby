@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Flair.Achievements.Living Weapon
--- Decompile time: 0.44 ms
+-- Decompile time: 0.43 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

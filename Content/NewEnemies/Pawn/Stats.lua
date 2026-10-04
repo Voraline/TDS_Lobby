@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Pawn.Stats
--- Decompile time: 0.14 ms
+-- Decompile time: 0.09 ms
 
 return {
     Speed = 3.5,

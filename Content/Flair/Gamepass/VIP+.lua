@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Flair.Gamepass.VIP+
--- Decompile time: 0.45 ms
+-- Decompile time: 0.43 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

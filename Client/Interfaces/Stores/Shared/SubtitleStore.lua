@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Shared.SubtitleStore
--- Decompile time: 1.08 ms
+-- Decompile time: 2.90 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u17, u18 = (require(ReplicatedStorage.Packages.Charm)).signal({

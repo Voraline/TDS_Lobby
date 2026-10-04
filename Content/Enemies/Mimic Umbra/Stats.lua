@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Mimic Umbra.Stats
--- Decompile time: 0.23 ms
+-- Decompile time: 0.19 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Utility.ShopNavigation
--- Decompile time: 0.33 ms
+-- Decompile time: 0.74 ms
 
 local u0 = {Coins = "Coins", Gems = "Gems"}
 return {

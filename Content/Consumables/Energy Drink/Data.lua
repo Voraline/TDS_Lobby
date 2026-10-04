@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Energy Drink.Data
--- Decompile time: 0.22 ms
+-- Decompile time: 0.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Types.ConsumableTypes)

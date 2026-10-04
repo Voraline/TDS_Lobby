@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Comeback.Data
--- Decompile time: 0.10 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "Show them how it's done.",

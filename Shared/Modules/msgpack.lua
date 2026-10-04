@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.msgpack
--- Decompile time: 36.87 ms
+-- Decompile time: 35.51 ms
 
 local computeLength, encode, parse
 local u0 = {}

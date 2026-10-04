@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Null Guardian Clone.Animator.NullGuardianAnimatorStates
--- Decompile time: 0.33 ms
+-- Decompile time: 0.29 ms
 
 return {
     {

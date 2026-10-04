@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Sentry3.Stats-PVP
--- Decompile time: 0.34 ms
+-- Decompile time: 0.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

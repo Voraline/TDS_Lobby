@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewTowerRange.Classes.DJRangeRing
--- Decompile time: 8.12 ms
+-- Decompile time: 10.13 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

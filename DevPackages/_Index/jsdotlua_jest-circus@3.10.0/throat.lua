@@ -1,4 +1,4 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-circus@3.10.0.throat
--- Decompile time: 0.05 ms
+-- Decompile time: 0.12 ms
 
 return (require(script.Parent.Parent["jsdotlua_throat@3.10.0"].throat))

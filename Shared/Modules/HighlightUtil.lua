@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.HighlightUtil
--- Decompile time: 1.66 ms
+-- Decompile time: 1.93 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Create = require(ReplicatedStorage.Shared.Modules.Standalone.Create)

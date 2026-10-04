@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.News.ItemChange
--- Decompile time: 9.25 ms
+-- Decompile time: 20.07 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CharmPreview = require(ReplicatedStorage.Client.Interfaces.Components.Previews.CharmPreview)

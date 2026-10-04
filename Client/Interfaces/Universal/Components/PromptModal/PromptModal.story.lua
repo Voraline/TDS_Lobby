@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.PromptModal.PromptModal.story
--- Decompile time: 0.90 ms
+-- Decompile time: 4.54 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Parent = require(script.Parent)

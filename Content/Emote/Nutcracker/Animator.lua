@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Nutcracker.Animator
--- Decompile time: 0.59 ms
+-- Decompile time: 0.75 ms
 
 game:GetService("RunService")
 local v1 = {}

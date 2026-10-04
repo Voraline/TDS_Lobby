@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Popcorn.Animator
--- Decompile time: 1.50 ms
+-- Decompile time: 1.38 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

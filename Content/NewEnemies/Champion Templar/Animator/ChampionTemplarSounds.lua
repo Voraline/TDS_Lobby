@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Champion Templar.Animator.ChampionTemplarSounds
--- Decompile time: 0.14 ms
+-- Decompile time: 0.24 ms
 
 return {
     MinigunDeath = 89145364303374,

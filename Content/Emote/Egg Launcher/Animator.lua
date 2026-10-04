@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Egg Launcher.Animator
--- Decompile time: 5.14 ms
+-- Decompile time: 4.81 ms
 
 local ContextActionService = game:GetService("ContextActionService")
 local GuiService = game:GetService("GuiService")

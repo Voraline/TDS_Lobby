@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Effects.Text.Font
--- Decompile time: 0.59 ms
+-- Decompile time: 0.48 ms
 
 return {
     DesiredType = "Word",

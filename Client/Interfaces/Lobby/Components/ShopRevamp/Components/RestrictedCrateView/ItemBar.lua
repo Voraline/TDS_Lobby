@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.Components.RestrictedCrateView.ItemBar
--- Decompile time: 4.53 ms
+-- Decompile time: 9.47 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Packages = ReplicatedStorage.Packages

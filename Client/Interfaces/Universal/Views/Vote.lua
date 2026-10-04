@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.Vote
--- Decompile time: 4.87 ms
+-- Decompile time: 10.04 ms
 
 game:GetService("HttpService")
 local Players = game:GetService("Players")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.TopBar.GiftboxPanel.story
--- Decompile time: 0.86 ms
+-- Decompile time: 1.98 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GiftboxPanel = require(script.Parent.GiftboxPanel)

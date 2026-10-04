@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.DuckRewardsController
--- Decompile time: 4.05 ms
+-- Decompile time: 10.99 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Cache = require(ReplicatedStorage.Client.Modules.Cache)

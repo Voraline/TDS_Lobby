@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Views.Skins.story
--- Decompile time: 0.26 ms
+-- Decompile time: 0.70 ms
 
 local Skins = require(script.Parent.Skins)
 return function(a1) -- Line: 3 -- upvalues: Skins (val)

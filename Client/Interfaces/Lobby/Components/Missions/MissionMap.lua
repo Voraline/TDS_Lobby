@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Missions.MissionMap
--- Decompile time: 4.41 ms
+-- Decompile time: 27.68 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Loader = require(ReplicatedStorage.Client.Interfaces.Components.Loader)

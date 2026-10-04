@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Grenadier.Animator
--- Decompile time: 5.66 ms
+-- Decompile time: 5.78 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.merge
--- Decompile time: 0.66 ms
+-- Decompile time: 0.44 ms
 
 local Parent_2 = script.Parent.Parent
 local None = require(Parent_2.None)

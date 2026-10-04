@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Necrotic Skeleton.Stats
--- Decompile time: 0.29 ms
+-- Decompile time: 0.25 ms
 
 return {
     Health = 1400,

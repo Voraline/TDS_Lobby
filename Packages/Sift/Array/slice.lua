@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.slice
--- Decompile time: 0.40 ms
+-- Decompile time: 0.36 ms
 
 return function(a1, a2, a3) -- Line: 21 -- types: a1: table, a2: number?, a3: number?
     local v1 = #a1

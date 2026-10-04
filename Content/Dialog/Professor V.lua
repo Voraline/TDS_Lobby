@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.Professor V
--- Decompile time: 0.23 ms
+-- Decompile time: 0.19 ms
 
 return {
     Poses = {

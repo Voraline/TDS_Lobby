@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Pulse Trooper.TowerInformation
--- Decompile time: 0.45 ms
+-- Decompile time: 0.43 ms
 
 return {
     ToolTip = {

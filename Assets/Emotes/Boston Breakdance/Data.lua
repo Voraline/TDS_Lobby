@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Boston Breakdance.Data
--- Decompile time: 0.10 ms
+-- Decompile time: 0.12 ms
 
 return {
     Description = "Boom!! I am a dance machine!",

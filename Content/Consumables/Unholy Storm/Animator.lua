@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Unholy Storm.Animator
--- Decompile time: 3.49 ms
+-- Decompile time: 2.71 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

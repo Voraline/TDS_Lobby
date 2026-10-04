@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.last.spec
--- Decompile time: 0.27 ms
+-- Decompile time: 0.28 ms
 
 return function() -- Line: 1
     local last = require(script.Parent.last)

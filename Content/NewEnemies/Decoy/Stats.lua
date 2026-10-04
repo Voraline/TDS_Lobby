@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Decoy.Stats
--- Decompile time: 0.23 ms
+-- Decompile time: 0.27 ms
 
 game:GetService("ReplicatedStorage")
 return {

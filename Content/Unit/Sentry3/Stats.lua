@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Sentry3.Stats
--- Decompile time: 0.29 ms
+-- Decompile time: 0.25 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

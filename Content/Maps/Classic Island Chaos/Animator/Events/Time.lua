@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Island Chaos.Animator.Events.Time
--- Decompile time: 1.88 ms
+-- Decompile time: 2.10 ms
 
 local Lighting = game:GetService("Lighting")
 local RunService = game:GetService("RunService")

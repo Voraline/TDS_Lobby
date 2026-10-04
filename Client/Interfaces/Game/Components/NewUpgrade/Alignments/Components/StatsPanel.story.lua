@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade.Alignments.Components.StatsPanel.story
--- Decompile time: 5.71 ms
+-- Decompile time: 4.84 ms
 
 local UI = game:GetService("ReplicatedStorage").Shared.UI
 local StatsPanel = require(script.Parent.StatsPanel)

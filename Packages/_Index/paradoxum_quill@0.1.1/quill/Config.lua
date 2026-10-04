@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.Config
--- Decompile time: 0.14 ms
+-- Decompile time: 0.10 ms
 
 return {
     MaxDialogDistance = 18,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Saboteur.Sounds
--- Decompile time: 0.15 ms
+-- Decompile time: 0.25 ms
 
 return {
     VolumeMultiplier = 1.35,

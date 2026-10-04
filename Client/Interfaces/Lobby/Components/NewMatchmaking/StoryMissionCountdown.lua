@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.NewMatchmaking.StoryMissionCountdown
--- Decompile time: 0.48 ms
+-- Decompile time: 1.07 ms
 
 return table.freeze({
     formatSecondsLeft = function(a1) -- Line: 7 -- types: a1: number

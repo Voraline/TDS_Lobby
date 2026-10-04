@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.DelayedState
--- Decompile time: 1.07 ms
+-- Decompile time: 0.87 ms
 
 local Packages = game:GetService("ReplicatedStorage"):WaitForChild("Packages")
 local Fusion = require(Packages.Fusion)

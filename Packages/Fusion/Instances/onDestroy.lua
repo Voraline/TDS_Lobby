@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Instances.onDestroy
--- Decompile time: 0.62 ms
+-- Decompile time: 0.59 ms
 
 local Parent = script.Parent.Parent
 require(Parent.PubTypes)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Penumbras.Animator
--- Decompile time: 2.27 ms
+-- Decompile time: 2.38 ms
 
 local v1 = {}
 v1.__index = v1

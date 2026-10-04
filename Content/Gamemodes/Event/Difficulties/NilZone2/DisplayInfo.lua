@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Event.Difficulties.NilZone2.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.14 ms
 
 return {
     Name = "NilZone2",

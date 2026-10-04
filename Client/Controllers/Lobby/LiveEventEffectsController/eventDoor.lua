@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.LiveEventEffectsController.eventDoor
--- Decompile time: 13.73 ms
+-- Decompile time: 29.26 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

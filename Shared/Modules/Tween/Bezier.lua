@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Tween.Bezier
--- Decompile time: 0.95 ms
+-- Decompile time: 0.80 ms
 
 return {
     new = function(a1, a2, a3, a4) -- Line: 6

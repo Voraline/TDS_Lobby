@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Trapper.Upgrade
--- Decompile time: 0.38 ms
+-- Decompile time: 0.44 ms
 
 local RunService = game:GetService("RunService")
 return {

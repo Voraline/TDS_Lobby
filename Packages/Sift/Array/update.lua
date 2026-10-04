@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.update
--- Decompile time: 0.71 ms
+-- Decompile time: 0.63 ms
 
 local Parent_2 = script.Parent.Parent
 local Util = require(Parent_2.Util)

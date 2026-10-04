@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Barricade.Animator
--- Decompile time: 5.51 ms
+-- Decompile time: 4.90 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

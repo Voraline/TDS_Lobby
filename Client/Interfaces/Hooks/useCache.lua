@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useCache
--- Decompile time: 1.84 ms
+-- Decompile time: 3.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Cache = require(ReplicatedStorage.Client.Modules.Cache)

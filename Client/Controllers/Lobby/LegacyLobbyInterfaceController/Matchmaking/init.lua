@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.LegacyLobbyInterfaceController.Matchmaking
--- Decompile time: 0.17 ms
+-- Decompile time: 0.29 ms
 
 local Controllers = script:WaitForChild("Controllers")
 local MatchInfo = require(Controllers:WaitForChild("MatchInfo"))

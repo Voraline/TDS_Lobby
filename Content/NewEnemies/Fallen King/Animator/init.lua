@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Fallen King.Animator
--- Decompile time: 14.71 ms
+-- Decompile time: 14.72 ms
 
 local HttpService = game:GetService("HttpService")
 local Lighting = game:GetService("Lighting")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Hardcore.Zealot
--- Decompile time: 0.13 ms
+-- Decompile time: 0.11 ms
 
 return {
     title = "Zealot",

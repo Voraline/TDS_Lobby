@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.DifficultyVote.Count
--- Decompile time: 2.17 ms
+-- Decompile time: 4.58 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local DifficultyStore = require(ReplicatedStorage.Client.Interfaces.Stores.Game.DifficultyStore)

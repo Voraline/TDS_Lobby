@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Pursuit.Animator
--- Decompile time: 20.80 ms
+-- Decompile time: 20.56 ms
 
 local Debris = game:GetService("Debris")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.PVP.PVPTeamDevision
--- Decompile time: 1.95 ms
+-- Decompile time: 5.34 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ImageLabel = require(ReplicatedStorage.Client.Interfaces.Components.ImageLabel)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.COWBOY
--- Decompile time: 0.70 ms
+-- Decompile time: 0.59 ms
 
 return {
     Reward = "Cowboy Tower",

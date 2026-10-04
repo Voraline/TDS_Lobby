@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.ForTheCommander
--- Decompile time: 0.80 ms
+-- Decompile time: 0.94 ms
 
 local v1 = {id = "tower", skin = "Star Spartan", tower = "Militant", type = "tower"}
 return (((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("For the Commander!")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1930402700})).objective({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.EvolvedKingpin.Animator
--- Decompile time: 12.06 ms
+-- Decompile time: 10.09 ms
 
 local destroySounds
 local ContextActionService = game:GetService("ContextActionService")

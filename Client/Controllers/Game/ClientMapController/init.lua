@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.ClientMapController
--- Decompile time: 0.62 ms
+-- Decompile time: 1.26 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("RunService")

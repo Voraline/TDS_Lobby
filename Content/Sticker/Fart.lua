@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Fart
--- Decompile time: 0.24 ms
+-- Decompile time: 0.13 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

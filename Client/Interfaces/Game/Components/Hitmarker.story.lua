@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Hitmarker.story
--- Decompile time: 0.54 ms
+-- Decompile time: 1.35 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Hitmarker = require(script.Parent.Hitmarker)

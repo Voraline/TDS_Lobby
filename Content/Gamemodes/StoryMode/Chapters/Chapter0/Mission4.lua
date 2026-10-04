@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.StoryMode.Chapters.Chapter0.Mission4
--- Decompile time: 0.19 ms
+-- Decompile time: 0.18 ms
 
 return {
     Id = "brute-force",

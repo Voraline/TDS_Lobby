@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Unstable Ice.Animator
--- Decompile time: 0.83 ms
+-- Decompile time: 0.81 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EffectsController = require(ReplicatedStorage.Client.Controllers.Game.EffectsController)

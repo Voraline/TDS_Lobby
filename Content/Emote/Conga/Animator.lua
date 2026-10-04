@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Conga.Animator
--- Decompile time: 1.31 ms
+-- Decompile time: 1.13 ms
 
 local RunService = game:GetService("RunService")
 return {

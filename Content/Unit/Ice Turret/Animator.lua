@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Ice Turret.Animator
--- Decompile time: 2.27 ms
+-- Decompile time: 2.02 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EmitterManager = require(ReplicatedStorage.Shared.Modules.EmitterManager)

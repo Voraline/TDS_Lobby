@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Speedy King.Animator
--- Decompile time: 0.71 ms
+-- Decompile time: 0.81 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Halloween2025.Against The Odds
--- Decompile time: 0.20 ms
+-- Decompile time: 0.16 ms
 
 return {
     title = "Against The Odds!",

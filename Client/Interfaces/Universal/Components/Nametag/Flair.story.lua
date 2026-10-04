@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Nametag.Flair.story
--- Decompile time: 1.27 ms
+-- Decompile time: 2.57 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Flair = require(script.Parent.Flair)

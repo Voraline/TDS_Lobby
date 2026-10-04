@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.NyanCatController
--- Decompile time: 0.50 ms
+-- Decompile time: 0.85 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u11 = require(ReplicatedStorage.Shared.Modules.Maid).new()

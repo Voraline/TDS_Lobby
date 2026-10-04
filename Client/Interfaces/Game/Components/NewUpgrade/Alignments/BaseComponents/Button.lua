@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade.Alignments.BaseComponents.Button
--- Decompile time: 7.72 ms
+-- Decompile time: 19.61 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local UI = ReplicatedStorage.Shared.UI

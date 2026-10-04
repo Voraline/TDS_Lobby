@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Views.Home.story
--- Decompile time: 0.22 ms
+-- Decompile time: 0.62 ms
 
 local Home = require(script.Parent.Home)
 return function(a1) -- Line: 3 -- upvalues: Home (val)

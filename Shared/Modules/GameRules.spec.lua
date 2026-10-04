@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.GameRules.spec
--- Decompile time: 0.75 ms
+-- Decompile time: 0.81 ms
 
 return function() -- Line: 1
     local GameRules = require(script.Parent.GameRules)

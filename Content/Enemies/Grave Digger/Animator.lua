@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Grave Digger.Animator
--- Decompile time: 1.53 ms
+-- Decompile time: 1.70 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

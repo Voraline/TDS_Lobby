@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.News.GamepassItems
--- Decompile time: 2.20 ms
+-- Decompile time: 4.32 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GamepassButton = require(script.Parent.GamepassButton)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.XmasGifts
--- Decompile time: 0.32 ms
+-- Decompile time: 0.29 ms
 
 local name, v1
 require(script.Types)

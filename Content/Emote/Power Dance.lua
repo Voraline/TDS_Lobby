@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Power Dance
--- Decompile time: 0.20 ms
+-- Decompile time: 0.18 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

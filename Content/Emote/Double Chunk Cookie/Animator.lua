@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Double Chunk Cookie.Animator
--- Decompile time: 2.72 ms
+-- Decompile time: 2.42 ms
 
 local ContextActionService = game:GetService("ContextActionService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

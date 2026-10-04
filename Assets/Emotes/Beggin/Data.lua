@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Beggin.Data
--- Decompile time: 0.11 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "Day n' nite",

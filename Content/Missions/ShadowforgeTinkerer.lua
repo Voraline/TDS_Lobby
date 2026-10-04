@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.ShadowforgeTinkerer
--- Decompile time: 0.72 ms
+-- Decompile time: 0.62 ms
 
 local v1 = {id = "tower", skin = "Fallen", tower = "Engineer", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Shadowforge Tinkerer")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1912786319})).objective({

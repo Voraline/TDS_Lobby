@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.PVPRankedNew.RankRewards.PVPLevel
--- Decompile time: 2.56 ms
+-- Decompile time: 5.57 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ImageLabel = require(ReplicatedStorage.Client.Interfaces.Components.ImageLabel)

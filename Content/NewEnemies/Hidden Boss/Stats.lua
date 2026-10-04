@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Hidden Boss.Stats
--- Decompile time: 0.27 ms
+-- Decompile time: 0.53 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

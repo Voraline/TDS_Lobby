@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react@17.2.1.react.ReactMemo
--- Decompile time: 1.42 ms
+-- Decompile time: 1.74 ms
 
 local shared = require(script.Parent.Parent:WaitForChild("shared"))
 local console = shared.console

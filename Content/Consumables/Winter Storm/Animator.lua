@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Winter Storm.Animator
--- Decompile time: 2.50 ms
+-- Decompile time: 2.20 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

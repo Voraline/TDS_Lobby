@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LegacyInterfaces.Components.Slider
--- Decompile time: 0.95 ms
+-- Decompile time: 1.89 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GuiLib = require(ReplicatedStorage.Shared.Modules.GuiLib)

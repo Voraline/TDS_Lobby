@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.insert.spec
--- Decompile time: 0.95 ms
+-- Decompile time: 1.06 ms
 
 return function() -- Line: 1
     local insert = require(script.Parent.insert)

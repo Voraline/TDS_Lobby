@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.reduceRight.spec
--- Decompile time: 0.77 ms
+-- Decompile time: 0.53 ms
 
 return function() -- Line: 1
     local reduceRight = require(script.Parent.reduceRight)

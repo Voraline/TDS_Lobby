@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Molten Mech.Stats
--- Decompile time: 0.14 ms
+-- Decompile time: 0.20 ms
 
 return {
     Health = 2000,

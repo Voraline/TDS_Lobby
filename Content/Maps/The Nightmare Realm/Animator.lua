@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.The Nightmare Realm.Animator
--- Decompile time: 4.38 ms
+-- Decompile time: 3.48 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

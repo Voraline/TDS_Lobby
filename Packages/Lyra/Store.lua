@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Lyra.Store
--- Decompile time: 17.30 ms
+-- Decompile time: 16.23 ms
 
 local DataStoreService = game:GetService("DataStoreService")
 local HttpService = game:GetService("HttpService")

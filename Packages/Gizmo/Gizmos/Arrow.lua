@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Gizmo.Gizmos.Arrow
--- Decompile time: 0.83 ms
+-- Decompile time: 0.77 ms
 
 local u0 = {}
 u0.__index = u0

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.Minigunner
--- Decompile time: 0.15 ms
+-- Decompile time: 0.13 ms
 
 return {
     Poses = {

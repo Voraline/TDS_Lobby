@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Sword Skeleton.Animator
--- Decompile time: 2.57 ms
+-- Decompile time: 2.19 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

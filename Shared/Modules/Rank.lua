@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Rank
--- Decompile time: 0.81 ms
+-- Decompile time: 0.83 ms
 
 local u0 = {
     {"Bronze I", 5305805804},

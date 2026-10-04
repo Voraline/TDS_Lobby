@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.SOLO_PLAYER
--- Decompile time: 0.39 ms
+-- Decompile time: 0.38 ms
 
 return {
     Reward = "x1 Premium Crate",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Humvee 2.Stats
--- Decompile time: 0.24 ms
+-- Decompile time: 0.33 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

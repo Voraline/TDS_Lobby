@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Frost Undead.Stats
--- Decompile time: 0.15 ms
+-- Decompile time: 0.11 ms
 
 return {
     Health = 2800,

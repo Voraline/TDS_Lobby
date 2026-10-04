@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Matchmaking.RewardInfo
--- Decompile time: 7.12 ms
+-- Decompile time: 11.59 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Comma = require(ReplicatedStorage.Client.Modules.Comma)

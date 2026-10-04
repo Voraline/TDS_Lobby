@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.GameModeData.Voidcore
--- Decompile time: 0.17 ms
+-- Decompile time: 0.16 ms
 
 return {
     Waves = 50,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Scout.Animator
--- Decompile time: 8.09 ms
+-- Decompile time: 8.37 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TextChatService = game:GetService("TextChatService")

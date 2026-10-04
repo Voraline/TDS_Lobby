@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Supply Drop.Animator
--- Decompile time: 5.07 ms
+-- Decompile time: 4.72 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

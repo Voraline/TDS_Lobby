@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.HotKey
--- Decompile time: 2.46 ms
+-- Decompile time: 6.21 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local UserInputService = game:GetService("UserInputService")

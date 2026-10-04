@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.HiddenDog
--- Decompile time: 0.18 ms
+-- Decompile time: 0.16 ms
 
 return {
     DisplayName = "???",

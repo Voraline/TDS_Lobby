@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-circus@3.10.0.jest-circus.circus.testCaseReportHandler
--- Decompile time: 0.54 ms
+-- Decompile time: 1.45 ms
 
 local v1 = {}
 require(script.Parent.Parent.Parent:WaitForChild("jest-test-result"))

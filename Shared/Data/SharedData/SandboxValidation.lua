@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.SharedData.SandboxValidation
--- Decompile time: 0.81 ms
+-- Decompile time: 0.75 ms
 
 return {
     assertUnlockedAndWhitelisted = function(a1) -- Line: 13 -- types: a1: table

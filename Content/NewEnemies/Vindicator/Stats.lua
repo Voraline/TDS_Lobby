@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Vindicator.Stats
--- Decompile time: 0.53 ms
+-- Decompile time: 0.67 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum_2 = require(ReplicatedStorage.Shared.Modules.Enum)

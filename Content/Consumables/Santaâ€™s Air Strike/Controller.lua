@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Santa’s Air Strike.Controller
--- Decompile time: 4.05 ms
+-- Decompile time: 3.73 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

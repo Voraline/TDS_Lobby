@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-roblox-shared@3.10.0.jest-roblox-shared.cleanLoadStringStack
--- Decompile time: 0.38 ms
+-- Decompile time: 0.83 ms
 
 local u6 = pcall(debug.loadmodule, Instance.new("ModuleScript"))
 return function(a1) -- Line: 3 -- upvalues: u6 (val) -- types: a1: string

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Mercenary Base.UpgradeOptions
--- Decompile time: 0.91 ms
+-- Decompile time: 0.74 ms
 
 local v1 = {
     Header = "Rifleman",

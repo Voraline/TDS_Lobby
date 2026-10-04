@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Toxic.Animator
--- Decompile time: 0.64 ms
+-- Decompile time: 0.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TimescaleUtilities = require(ReplicatedStorage.Shared.Modules.TimescaleUtilities)

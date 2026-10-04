@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.InnovationTeleportConfig
--- Decompile time: 0.13 ms
+-- Decompile time: 0.23 ms
 
 return table.freeze({
     DestinationPlaceId = 95047916580305,

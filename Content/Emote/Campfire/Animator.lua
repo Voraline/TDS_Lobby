@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Campfire.Animator
--- Decompile time: 2.43 ms
+-- Decompile time: 2.32 ms
 
 local ContextActionService = game:GetService("ContextActionService")
 local RunService = game:GetService("RunService")

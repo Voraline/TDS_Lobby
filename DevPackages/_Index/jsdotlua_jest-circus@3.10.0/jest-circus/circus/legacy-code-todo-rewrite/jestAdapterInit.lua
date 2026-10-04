@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-circus@3.10.0.jest-circus.circus.legacy-code-todo-rewrite.jestAdapterInit
--- Decompile time: 7.23 ms
+-- Decompile time: 15.30 ms
 
 local v1 = require(script.Parent.Parent.Parent.Parent:WaitForChild("luau-polyfill"))
 local Array = v1.Array

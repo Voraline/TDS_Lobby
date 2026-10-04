@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Typescript.RuntimeLib
--- Decompile time: 3.65 ms
+-- Decompile time: 4.03 ms
 
 local Promise = require(script.Parent.Promise)
 local RunService = game:GetService("RunService")

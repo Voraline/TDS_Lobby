@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Clown.Stats
--- Decompile time: 0.09 ms
+-- Decompile time: 0.15 ms
 
 return {
     Speed = 4.5,

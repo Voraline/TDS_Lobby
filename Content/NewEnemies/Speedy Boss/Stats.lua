@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Speedy Boss.Stats
--- Decompile time: 0.19 ms
+-- Decompile time: 0.13 ms
 
 return {
     Speed = 4,

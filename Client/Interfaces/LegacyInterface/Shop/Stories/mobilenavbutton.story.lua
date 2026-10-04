@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Stories.mobilenavbutton.story
--- Decompile time: 0.25 ms
+-- Decompile time: 0.48 ms
 
 Components = script.Parent.Parent.Components
 MobileNavButton = require(Components.MobileNavButton)

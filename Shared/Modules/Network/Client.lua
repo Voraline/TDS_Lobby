@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Network.Client
--- Decompile time: 1.06 ms
+-- Decompile time: 0.75 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RemoteEvent = ReplicatedStorage:WaitForChild("RemoteEvent")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.fromArrays.spec
--- Decompile time: 0.40 ms
+-- Decompile time: 0.26 ms
 
 return function() -- Line: 1
     local fromArrays = require(script.Parent.fromArrays)

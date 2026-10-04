@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.Cleanup
--- Decompile time: 0.19 ms
+-- Decompile time: 0.16 ms
 
 return function(a1, a2) -- Line: 1 -- types: a1: userdata, a2: function
     local u6 = a1.Destroying:Once(a2)

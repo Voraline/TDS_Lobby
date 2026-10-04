@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.QuestWindow.MissionList
--- Decompile time: 23.36 ms
+-- Decompile time: 68.70 ms
 
 local addFilterLabel, valueContainsAdidas
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

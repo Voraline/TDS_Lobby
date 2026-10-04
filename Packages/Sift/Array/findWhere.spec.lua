@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.findWhere.spec
--- Decompile time: 0.79 ms
+-- Decompile time: 0.83 ms
 
 return function() -- Line: 1
     local findWhere = require(script.Parent.findWhere)

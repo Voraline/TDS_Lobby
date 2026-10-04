@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.The Nightmare Realm.Data
--- Decompile time: 0.41 ms
+-- Decompile time: 0.20 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

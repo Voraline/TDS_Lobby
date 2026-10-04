@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-snapshot@3.10.0.jest-snapshot.SnapshotResolver
--- Decompile time: 1.67 ms
+-- Decompile time: 3.87 ms
 
 local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local Error = v1.Error

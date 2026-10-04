@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Game.FakeKickStore
--- Decompile time: 0.39 ms
+-- Decompile time: 0.84 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u12, u13 = (require(ReplicatedStorage.Packages.Charm)).signal({enabled = false, text = ""})

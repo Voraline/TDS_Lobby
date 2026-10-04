@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Shared.NewTooltipStore
--- Decompile time: 0.49 ms
+-- Decompile time: 0.88 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u12, u13 = (require(ReplicatedStorage.Packages.Charm)).signal({})

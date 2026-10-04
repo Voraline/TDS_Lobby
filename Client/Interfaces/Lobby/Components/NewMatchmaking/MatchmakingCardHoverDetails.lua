@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.NewMatchmaking.MatchmakingCardHoverDetails
--- Decompile time: 4.84 ms
+-- Decompile time: 10.47 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Comma = require(ReplicatedStorage.Client.Modules.Comma)

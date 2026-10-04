@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Replicators.ItemPickupStatsUIReplicator
--- Decompile time: 2.15 ms
+-- Decompile time: 9.88 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

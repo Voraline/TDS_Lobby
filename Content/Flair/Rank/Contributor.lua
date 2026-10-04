@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Flair.Rank.Contributor
--- Decompile time: 0.38 ms
+-- Decompile time: 0.32 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

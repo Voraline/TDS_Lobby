@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.AbyssalBruiser
--- Decompile time: 0.76 ms
+-- Decompile time: 0.61 ms
 
 local v1 = {id = "tower", skin = "Fallen", tower = "Brawler", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Abyssal Bruiser")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1902865759})).objective({

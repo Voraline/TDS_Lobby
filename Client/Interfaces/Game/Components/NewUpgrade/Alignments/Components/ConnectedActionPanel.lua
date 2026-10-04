@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade.Alignments.Components.ConnectedActionPanel
--- Decompile time: 4.24 ms
+-- Decompile time: 4.30 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local AbilityAmmoStore = require(ReplicatedStorage.Client.Interfaces.Stores.Game.AbilityAmmoStore)

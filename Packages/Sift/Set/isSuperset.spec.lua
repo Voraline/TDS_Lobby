@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.isSuperset.spec
--- Decompile time: 0.39 ms
+-- Decompile time: 0.38 ms
 
 return function() -- Line: 1
     local isSuperset = require(script.Parent.isSuperset)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Raw Dinner.Effects
--- Decompile time: 0.38 ms
+-- Decompile time: 0.29 ms
 
 game:GetService("TweenService")
 return {

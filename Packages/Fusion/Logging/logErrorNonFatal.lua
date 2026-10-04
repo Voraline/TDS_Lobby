@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Logging.logErrorNonFatal
--- Decompile time: 0.56 ms
+-- Decompile time: 0.79 ms
 
 local Parent = script.Parent.Parent
 require(Parent.Types)

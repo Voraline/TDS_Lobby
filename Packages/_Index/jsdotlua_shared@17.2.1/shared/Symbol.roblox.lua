@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.Symbol.roblox
--- Decompile time: 0.25 ms
+-- Decompile time: 0.28 ms
 
 return {
     named = function(a1) -- Line: 30

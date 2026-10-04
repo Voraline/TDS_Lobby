@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Halloween2025.Cult Destroyer
--- Decompile time: 0.15 ms
+-- Decompile time: 0.12 ms
 
 return {
     title = "Cosmic Drifter",

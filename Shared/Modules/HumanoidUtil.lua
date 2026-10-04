@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.HumanoidUtil
--- Decompile time: 1.35 ms
+-- Decompile time: 1.59 ms
 
 local function createBlankHumanoid() -- Line: 1
     local Humanoid = Instance.new("Humanoid")

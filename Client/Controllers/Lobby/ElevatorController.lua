@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.ElevatorController
--- Decompile time: 6.68 ms
+-- Decompile time: 30.69 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Players = game:GetService("Players")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.PVPProfileCard.PVPPlayerInfo
--- Decompile time: 2.30 ms
+-- Decompile time: 4.87 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Comma = require(ReplicatedStorage.Client.Modules.Comma)

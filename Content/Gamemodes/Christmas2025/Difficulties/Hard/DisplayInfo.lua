@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Christmas2025.Difficulties.Hard.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.08 ms
 
 return {
     Name = "Christmas 2025 (Hard)",

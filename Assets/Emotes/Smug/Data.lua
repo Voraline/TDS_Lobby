@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Smug.Data
--- Decompile time: 0.10 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "Peace and tranquility is all I need.",

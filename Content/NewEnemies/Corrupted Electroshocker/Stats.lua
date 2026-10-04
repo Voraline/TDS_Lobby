@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Corrupted Electroshocker.Stats
--- Decompile time: 0.29 ms
+-- Decompile time: 0.26 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

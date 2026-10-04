@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Game.UpgradeViewSelector
--- Decompile time: 1.10 ms
+-- Decompile time: 2.33 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local table = require(ReplicatedStorage.Shared.Modules.Utils.table)

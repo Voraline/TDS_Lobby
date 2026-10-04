@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Summoner2.Stats
--- Decompile time: 0.20 ms
+-- Decompile time: 0.34 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

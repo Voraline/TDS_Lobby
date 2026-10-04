@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.fromArrays
--- Decompile time: 0.28 ms
+-- Decompile time: 0.15 ms
 
 return function(a1, a2) -- Line: 20 -- types: a1: table, a2: table
     local v1 = {}

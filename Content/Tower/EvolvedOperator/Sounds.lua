@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.EvolvedOperator.Sounds
--- Decompile time: 0.18 ms
+-- Decompile time: 0.19 ms
 
 return {
     FirePistol = {id = 120851928987522, volume = 0.5, audioGroup = "Towers"},

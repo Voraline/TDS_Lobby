@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.TowerScores
--- Decompile time: 0.24 ms
+-- Decompile time: 0.27 ms
 
 return {
     Scout = 1.412,

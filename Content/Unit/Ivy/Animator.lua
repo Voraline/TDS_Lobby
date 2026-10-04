@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Ivy.Animator
--- Decompile time: 2.16 ms
+-- Decompile time: 1.89 ms
 
 local Debris = game:GetService("Debris")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

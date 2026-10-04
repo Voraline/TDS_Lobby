@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Asset.Handlers.NewEmotes
--- Decompile time: 3.25 ms
+-- Decompile time: 2.90 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

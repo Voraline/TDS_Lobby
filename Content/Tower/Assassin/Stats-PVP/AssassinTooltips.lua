@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Assassin.Stats-PVP.AssassinTooltips
--- Decompile time: 1.11 ms
+-- Decompile time: 1.37 ms
 
 return {
     whirlwind = function(a1) -- Line: 3 -- types: a1: table

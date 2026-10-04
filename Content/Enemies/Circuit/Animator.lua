@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Circuit.Animator
--- Decompile time: 0.61 ms
+-- Decompile time: 0.67 ms
 
 game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

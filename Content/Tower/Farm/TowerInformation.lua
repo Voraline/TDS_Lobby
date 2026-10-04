@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Farm.TowerInformation
--- Decompile time: 0.61 ms
+-- Decompile time: 0.56 ms
 
 return {
     ToolTip = {"Provides extra cash at the start of each wave."},

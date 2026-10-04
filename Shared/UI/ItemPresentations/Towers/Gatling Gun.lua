@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ItemPresentations.Towers.Gatling Gun
--- Decompile time: 0.93 ms
+-- Decompile time: 0.94 ms
 
 local RunService = game:GetService("RunService")
 return {

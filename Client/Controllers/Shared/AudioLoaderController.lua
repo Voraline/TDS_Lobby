@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.AudioLoaderController
--- Decompile time: 0.31 ms
+-- Decompile time: 0.53 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Sounds = require(ReplicatedStorage.Shared.Data.Sounds)

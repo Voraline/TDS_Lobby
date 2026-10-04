@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Void Caster.Animator.VoidCasterEffects
--- Decompile time: 8.01 ms
+-- Decompile time: 7.85 ms
 
 local Debris = game:GetService("Debris")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

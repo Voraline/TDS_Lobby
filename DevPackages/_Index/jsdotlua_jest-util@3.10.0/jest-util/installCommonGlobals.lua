@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-util@3.10.0.jest-util.installCommonGlobals
--- Decompile time: 1.00 ms
+-- Decompile time: 2.29 ms
 
 return function() -- Line: 11
     local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))

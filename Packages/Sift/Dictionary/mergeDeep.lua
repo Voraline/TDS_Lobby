@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.mergeDeep
--- Decompile time: 1.00 ms
+-- Decompile time: 0.78 ms
 
 local mergeDeep
 local Parent_2 = script.Parent.Parent

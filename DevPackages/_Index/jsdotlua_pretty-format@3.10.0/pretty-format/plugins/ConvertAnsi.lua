@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_pretty-format@3.10.0.pretty-format.plugins.ConvertAnsi
--- Decompile time: 0.83 ms
+-- Decompile time: 0.96 ms
 
 local Boolean = (require((script.Parent.Parent.Parent:WaitForChild("luau-polyfill")))).Boolean
 require(script.Parent.Parent:WaitForChild("Types"))

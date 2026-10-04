@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.PVPIntermission.TeamMember
--- Decompile time: 1.14 ms
+-- Decompile time: 3.36 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PVPIntermissionStore = require(ReplicatedStorage.Client.Interfaces.Stores.Game.PVPIntermissionStore)

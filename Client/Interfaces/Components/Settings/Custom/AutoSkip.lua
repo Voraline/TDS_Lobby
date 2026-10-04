@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Settings.Custom.AutoSkip
--- Decompile time: 0.89 ms
+-- Decompile time: 1.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useGamepass = require(ReplicatedStorage.Client.Interfaces.Hooks.useGamepass)

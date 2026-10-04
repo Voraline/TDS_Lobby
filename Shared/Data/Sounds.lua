@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Sounds
--- Decompile time: 4.00 ms
+-- Decompile time: 4.09 ms
 
 local v1 = {
     Bleep = {Properties = {SoundId = 203785492, Volume = 1}},

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ItemPresentations.Towers.Mecha Base
--- Decompile time: 0.98 ms
+-- Decompile time: 0.90 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Assets = ReplicatedStorage:WaitForChild("Assets")

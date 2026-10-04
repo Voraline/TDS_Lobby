@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.Libraries.FractalitySpring.Primitives.LinearSpring
--- Decompile time: 4.20 ms
+-- Decompile time: 3.81 ms
 
 local exp = math.exp
 local sin = math.sin

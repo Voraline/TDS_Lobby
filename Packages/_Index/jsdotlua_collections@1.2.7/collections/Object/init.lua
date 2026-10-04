@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Object
--- Decompile time: 0.21 ms
+-- Decompile time: 0.17 ms
 
 return {
     assign = require(script:WaitForChild("assign")),

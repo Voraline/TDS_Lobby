@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.QuestWindow.MissionCard
--- Decompile time: 11.21 ms
+-- Decompile time: 27.60 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ActionButton = require(ReplicatedStorage.Client.Interfaces.Components.ActionButton)

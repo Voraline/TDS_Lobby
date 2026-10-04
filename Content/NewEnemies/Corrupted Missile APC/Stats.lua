@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Corrupted Missile APC.Stats
--- Decompile time: 0.15 ms
+-- Decompile time: 0.12 ms
 
 return {
     DisplayName = "Null Missile APC",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-reporters@3.10.0.jest-reporters
--- Decompile time: 0.84 ms
+-- Decompile time: 1.73 ms
 
 local v1 = {}
 local default = (require((script:WaitForChild("getResultHeader")))).default

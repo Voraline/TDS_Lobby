@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.NyanCatController.NyanCats
--- Decompile time: 2.38 ms
+-- Decompile time: 4.11 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

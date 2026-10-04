@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.PVPRankedNew.RankRewards.PVPRewards
--- Decompile time: 4.37 ms
+-- Decompile time: 12.11 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PVPConstants = require(ReplicatedStorage.Shared.Modules.PVPConstants)

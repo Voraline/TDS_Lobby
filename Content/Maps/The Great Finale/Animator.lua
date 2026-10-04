@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.The Great Finale.Animator
--- Decompile time: 0.30 ms
+-- Decompile time: 0.26 ms
 
 game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

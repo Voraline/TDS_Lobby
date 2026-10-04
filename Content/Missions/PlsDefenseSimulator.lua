@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.PlsDefenseSimulator
--- Decompile time: 0.74 ms
+-- Decompile time: 0.53 ms
 
 local v1 = {id = "tower", skin = "Booth", tower = "Farm", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Pls Defense Simulator")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, productId = 2656976237})).objective({

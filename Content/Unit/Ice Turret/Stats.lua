@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Ice Turret.Stats
--- Decompile time: 0.44 ms
+-- Decompile time: 0.33 ms
 
 return {
     Default = {

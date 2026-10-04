@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.PngBot4.Animator
--- Decompile time: 0.39 ms
+-- Decompile time: 0.38 ms
 
 local v1 = {}
 v1.__index = v1

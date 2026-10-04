@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.ColdTyrant
--- Decompile time: 0.62 ms
+-- Decompile time: 0.49 ms
 
 local v1 = {id = "tower", skin = "Fallen", tower = "Commander", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("A Cold Tyrant")).cost({amount = 525, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1912786548})).objective({

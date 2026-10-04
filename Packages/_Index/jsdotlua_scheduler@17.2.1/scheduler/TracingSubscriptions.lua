@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_scheduler@17.2.1.scheduler.TracingSubscriptions
--- Decompile time: 2.15 ms
+-- Decompile time: 2.41 ms
 
 local v1 = {}
 local Object = require(script.Parent.Parent:WaitForChild("luau-polyfill")).Object

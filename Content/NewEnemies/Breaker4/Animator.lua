@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Breaker4.Animator
--- Decompile time: 0.17 ms
+-- Decompile time: 0.10 ms
 
 local v1 = {}
 v1.__index = v1

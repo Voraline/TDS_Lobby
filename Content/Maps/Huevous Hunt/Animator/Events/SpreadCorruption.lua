@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Huevous Hunt.Animator.Events.SpreadCorruption
--- Decompile time: 12.74 ms
+-- Decompile time: 12.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

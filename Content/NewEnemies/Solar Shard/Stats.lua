@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Solar Shard.Stats
--- Decompile time: 0.13 ms
+-- Decompile time: 0.09 ms
 
 return {
     Scale = 1.25,

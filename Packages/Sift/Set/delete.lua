@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.delete
--- Decompile time: 0.24 ms
+-- Decompile time: 0.21 ms
 
 return function(a1, ...) -- Line: 20 -- types: a1: table
     local v1 = {}

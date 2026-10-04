@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Electroshocker.Animator
--- Decompile time: 14.42 ms
+-- Decompile time: 13.68 ms
 
 local Debris = game:GetService("Debris")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

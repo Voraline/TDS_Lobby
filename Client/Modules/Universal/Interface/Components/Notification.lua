@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Universal.Interface.Components.Notification
--- Decompile time: 0.94 ms
+-- Decompile time: 1.98 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Client = ReplicatedStorage:WaitForChild("Client")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.UI.DialogResponse
--- Decompile time: 1.93 ms
+-- Decompile time: 1.92 ms
 
 local Dependencies = require(script.Parent.Parent.Dependencies)
 local React = Dependencies.get("React")

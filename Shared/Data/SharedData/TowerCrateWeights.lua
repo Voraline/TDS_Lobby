@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.SharedData.TowerCrateWeights
--- Decompile time: 2.42 ms
+-- Decompile time: 2.34 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Asset = require(ReplicatedStorage.Shared.Modules.Asset)

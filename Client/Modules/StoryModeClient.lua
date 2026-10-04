@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StoryModeClient
--- Decompile time: 0.33 ms
+-- Decompile time: 0.81 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local NewNetwork = require(ReplicatedStorage.Shared.Modules.NewNetwork)

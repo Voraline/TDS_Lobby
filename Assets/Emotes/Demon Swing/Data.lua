@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Demon Swing.Data
--- Decompile time: 0.08 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "I can be your angle or devil >:3",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useVIPPlus
--- Decompile time: 0.80 ms
+-- Decompile time: 1.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Shop = require(ReplicatedStorage.Shared.Modules.Network).Channel("Shop")

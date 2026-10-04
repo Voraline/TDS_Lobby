@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.UnderworldDreg
--- Decompile time: 0.59 ms
+-- Decompile time: 0.56 ms
 
 local v1 = {id = "tower", skin = "Fallen", tower = "Scout", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("The Underworld Dreg")).cost({amount = 525, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1894538651})).objective({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.flip
--- Decompile time: 0.18 ms
+-- Decompile time: 0.13 ms
 
 return function(a1) -- Line: 17 -- types: a1: table
     local v1 = {}

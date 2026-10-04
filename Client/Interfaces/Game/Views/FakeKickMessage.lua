@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.FakeKickMessage
--- Decompile time: 0.62 ms
+-- Decompile time: 1.05 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local FakeKickMessage = require(ReplicatedStorage.Client.Interfaces.Components.FakeKickMessage)

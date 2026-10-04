@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.RotatedRegion3
--- Decompile time: 4.69 ms
+-- Decompile time: 4.61 ms
 
 local GJK = require(script:WaitForChild("GJK"))
 local Supports = require(script:WaitForChild("Supports"))

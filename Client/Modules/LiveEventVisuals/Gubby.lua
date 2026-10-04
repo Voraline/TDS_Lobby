@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LiveEventVisuals.Gubby
--- Decompile time: 3.93 ms
+-- Decompile time: 8.61 ms
 
 local Lighting = game:GetService("Lighting")
 local u5 = {}

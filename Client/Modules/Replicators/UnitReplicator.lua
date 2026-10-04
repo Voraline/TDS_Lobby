@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Replicators.UnitReplicator
--- Decompile time: 19.25 ms
+-- Decompile time: 47.77 ms
 
 local scanReplace
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

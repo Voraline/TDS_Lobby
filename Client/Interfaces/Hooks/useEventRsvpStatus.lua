@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useEventRsvpStatus
--- Decompile time: 0.49 ms
+-- Decompile time: 0.95 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SocialService = game:GetService("SocialService")

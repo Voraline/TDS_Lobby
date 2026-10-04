@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.SharedData.DailyPrice
--- Decompile time: 0.89 ms
+-- Decompile time: 0.84 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Asset = require(ReplicatedStorage.Shared.Modules.Asset)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberLane
--- Decompile time: 10.88 ms
+-- Decompile time: 10.45 ms
 
 local findUpdateLane
 require(script.Parent:WaitForChild("ReactInternalTypes"))

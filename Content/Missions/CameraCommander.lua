@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.CameraCommander
--- Decompile time: 0.60 ms
+-- Decompile time: 0.50 ms
 
 local v1 = {id = "tower", skin = "Cybernetic", tower = "Crook Boss", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("You're Being Recorded")).cost({amount = 525, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1893635204})).objective({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Barricade.Controller
--- Decompile time: 2.25 ms
+-- Decompile time: 1.68 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

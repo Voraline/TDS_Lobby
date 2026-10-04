@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.AssetUtils
--- Decompile time: 1.95 ms
+-- Decompile time: 1.61 ms
 
 require(script.Parent.Types)
 local u5 = {}

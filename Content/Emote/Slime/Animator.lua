@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Slime.Animator
--- Decompile time: 0.72 ms
+-- Decompile time: 0.73 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

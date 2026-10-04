@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Game.BlackOut
--- Decompile time: 0.37 ms
+-- Decompile time: 0.83 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u12, u13 = (require(ReplicatedStorage.Packages.Charm)).signal({enabled = false})

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Lighting.AdidasLighting
--- Decompile time: 0.16 ms
+-- Decompile time: 0.20 ms
 
 return {
     Brightness = 3,

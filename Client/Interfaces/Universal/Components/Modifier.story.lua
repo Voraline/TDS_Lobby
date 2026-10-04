@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Modifier.story
--- Decompile time: 0.44 ms
+-- Decompile time: 1.49 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Client.Interfaces.Hooks.useReactBinding)

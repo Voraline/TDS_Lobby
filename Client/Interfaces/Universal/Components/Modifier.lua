@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Modifier
--- Decompile time: 4.62 ms
+-- Decompile time: 9.94 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RuntimeLib = require(((game:GetService("ReplicatedStorage")):WaitForChild("rbxts")):WaitForChild("RuntimeLib"))

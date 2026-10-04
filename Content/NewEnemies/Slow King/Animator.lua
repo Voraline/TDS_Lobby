@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Slow King.Animator
--- Decompile time: 0.74 ms
+-- Decompile time: 0.70 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = require(ReplicatedStorage.Client.Modules.TweenService)

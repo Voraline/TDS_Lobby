@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Object.is
--- Decompile time: 0.26 ms
+-- Decompile time: 0.36 ms
 
 return function(a1, a2) -- Line: 3
     local v1

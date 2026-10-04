@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Biologist.Stats
--- Decompile time: 1.71 ms
+-- Decompile time: 1.88 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

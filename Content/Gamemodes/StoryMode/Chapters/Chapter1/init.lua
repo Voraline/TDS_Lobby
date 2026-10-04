@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.StoryMode.Chapters.Chapter1
--- Decompile time: 0.39 ms
+-- Decompile time: 0.46 ms
 
 local v1 = DateTime.fromUniversalTime(2026, 8, 7, 16, 0, 0)
 return {

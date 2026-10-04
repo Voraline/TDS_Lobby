@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Emitter
--- Decompile time: 0.49 ms
+-- Decompile time: 0.44 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Signal = require(ReplicatedStorage.Shared.Modules.Signal)

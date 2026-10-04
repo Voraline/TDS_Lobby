@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_luau-regexp@0.2.1.luau-regexp.Regexp.global
--- Decompile time: 0.90 ms
+-- Decompile time: 2.16 ms
 
 local RegEx = require(script.Parent:WaitForChild("RegEx"))
 local v1 = {}

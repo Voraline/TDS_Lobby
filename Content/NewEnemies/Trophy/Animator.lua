@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Trophy.Animator
--- Decompile time: 4.99 ms
+-- Decompile time: 5.15 ms
 
 local Debris = game:GetService("Debris")
 local HttpService = game:GetService("HttpService")

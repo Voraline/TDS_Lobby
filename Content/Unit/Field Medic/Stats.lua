@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Field Medic.Stats
--- Decompile time: 0.28 ms
+-- Decompile time: 0.19 ms
 
 return {
     Default = {

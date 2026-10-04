@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.EasySound
--- Decompile time: 4.02 ms
+-- Decompile time: 3.72 ms
 
 local ContentProvider = game:GetService("ContentProvider")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Previews.TowerPreview
--- Decompile time: 16.10 ms
+-- Decompile time: 31.73 ms
 
 game:GetService("AssetService")
 local HttpService = game:GetService("HttpService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.rbxts.RuntimeLib
--- Decompile time: 3.57 ms
+-- Decompile time: 3.69 ms
 
 local Promise = require(script.Parent.Promise)
 local RunService = game:GetService("RunService")

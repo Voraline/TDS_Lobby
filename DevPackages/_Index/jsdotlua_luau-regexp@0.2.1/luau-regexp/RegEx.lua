@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_luau-regexp@0.2.1.luau-regexp.RegEx
--- Decompile time: 605.62 ms
+-- Decompile time: 1525.95 ms
 
 local insert_tokenized_sub, tkn_char_match
 local u4 = setmetatable({}, {__mode = "k"})

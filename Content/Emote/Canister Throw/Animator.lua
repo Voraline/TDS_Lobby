@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Canister Throw.Animator
--- Decompile time: 2.74 ms
+-- Decompile time: 2.67 ms
 
 local Debris = game:GetService("Debris")
 local Lighting = game:GetService("Lighting")

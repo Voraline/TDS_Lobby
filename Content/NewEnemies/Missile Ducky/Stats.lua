@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Missile Ducky.Stats
--- Decompile time: 0.23 ms
+-- Decompile time: 0.22 ms
 
 return {
     Description = "Ka-boom! Missile Ducky loves anything and everything to do with explosives. The sheer joy of explosions lights up their maniacal eyes as their unhinged quacks echo across the wreckage. There isn't a single thought behind those eyes that doesn't have destruction written across it. When the topic of explosives comes up, Missile Ducky is always the first to contribute.",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Cutscenes.StoryModeTutorialIntro
--- Decompile time: 0.83 ms
+-- Decompile time: 0.60 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CutsceneConfig = require(ReplicatedStorage.Shared.Data.CutsceneConfig)

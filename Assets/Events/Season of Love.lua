@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Events.Season of Love
--- Decompile time: 2.84 ms
+-- Decompile time: 2.34 ms
 
 shared()
 local Session = require("Network").Channel("Session")

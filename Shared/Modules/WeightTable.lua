@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.WeightTable
--- Decompile time: 1.36 ms
+-- Decompile time: 1.25 ms
 
 local u0 = {}
 

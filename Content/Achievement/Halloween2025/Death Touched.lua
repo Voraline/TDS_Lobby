@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Halloween2025.Death Touched
--- Decompile time: 0.22 ms
+-- Decompile time: 0.19 ms
 
 return {
     title = "Death Touched",

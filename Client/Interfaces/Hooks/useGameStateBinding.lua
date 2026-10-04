@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useGameStateBinding
--- Decompile time: 0.41 ms
+-- Decompile time: 0.87 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GameState = require(ReplicatedStorage.Shared.Modules.GameState)

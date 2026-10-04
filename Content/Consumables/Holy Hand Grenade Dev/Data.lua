@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Holy Hand Grenade Dev.Data
--- Decompile time: 0.28 ms
+-- Decompile time: 0.16 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Types.ConsumableTypes)

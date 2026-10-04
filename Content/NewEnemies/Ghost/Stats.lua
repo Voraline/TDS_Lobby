@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Ghost.Stats
--- Decompile time: 0.22 ms
+-- Decompile time: 0.21 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

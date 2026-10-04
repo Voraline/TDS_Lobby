@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.GlobalModifiers.LostSouls
--- Decompile time: 2.47 ms
+-- Decompile time: 2.69 ms
 
 local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")

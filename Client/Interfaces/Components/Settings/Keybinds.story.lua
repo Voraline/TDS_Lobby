@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Settings.Keybinds.story
--- Decompile time: 0.81 ms
+-- Decompile time: 1.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Keybind = require(script.Parent.Keybind)

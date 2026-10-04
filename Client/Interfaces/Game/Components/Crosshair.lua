@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Crosshair
--- Decompile time: 1.36 ms
+-- Decompile time: 1.41 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local createElement = require(ReplicatedStorage.Shared.UI.React).createElement

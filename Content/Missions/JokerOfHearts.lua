@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.JokerOfHearts
--- Decompile time: 0.69 ms
+-- Decompile time: 0.62 ms
 
 local v1 = {id = "tower", skin = "Heartbreak", tower = "Jester", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Joker of Hearts")).cost({amount = 650, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", disabled = true, productId = 2916488117})).objective({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.PromiseQueue
--- Decompile time: 2.68 ms
+-- Decompile time: 2.63 ms
 
 local v1 = {}
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

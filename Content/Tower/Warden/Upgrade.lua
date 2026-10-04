@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Warden.Upgrade
--- Decompile time: 1.46 ms
+-- Decompile time: 1.44 ms
 
 local RunService = game:GetService("RunService")
 return {

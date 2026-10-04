@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Void Reaver.Animator
--- Decompile time: 8.69 ms
+-- Decompile time: 9.13 ms
 
 local v1 = {}
 v1.__index = v1

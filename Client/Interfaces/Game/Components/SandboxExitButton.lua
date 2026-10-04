@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.SandboxExitButton
--- Decompile time: 2.02 ms
+-- Decompile time: 3.56 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Button = require(ReplicatedStorage.Client.Interfaces.Universal.Components.Inventory.Button)

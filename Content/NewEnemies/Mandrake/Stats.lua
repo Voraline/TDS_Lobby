@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Mandrake.Stats
--- Decompile time: 0.34 ms
+-- Decompile time: 0.32 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

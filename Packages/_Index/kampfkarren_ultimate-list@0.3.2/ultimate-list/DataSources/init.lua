@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.kampfkarren_ultimate-list@0.3.2.ultimate-list.DataSources
--- Decompile time: 0.57 ms
+-- Decompile time: 0.46 ms
 
 local v1 = {
     array = function(a1) -- Line: 40 -- types: a1: table

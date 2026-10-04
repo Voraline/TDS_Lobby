@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.War Machine.Animator
--- Decompile time: 21.94 ms
+-- Decompile time: 20.94 ms
 
 local ContentProvider = game:GetService("ContentProvider")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

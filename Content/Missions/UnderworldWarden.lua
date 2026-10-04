@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.UnderworldWarden
--- Decompile time: 0.68 ms
+-- Decompile time: 0.65 ms
 
 local v1 = {id = "tower", skin = "Fallen", tower = "Warden", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Underworld Warden")).cost({amount = 650, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1912786443})).objective({

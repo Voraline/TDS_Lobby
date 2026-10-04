@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Radioactive Slime.Stats
--- Decompile time: 0.09 ms
+-- Decompile time: 0.08 ms
 
 return {
     DisplayName = "Super Slime",

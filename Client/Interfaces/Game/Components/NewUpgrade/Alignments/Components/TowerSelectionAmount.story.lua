@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade.Alignments.Components.TowerSelectionAmount.story
--- Decompile time: 1.26 ms
+-- Decompile time: 1.67 ms
 
 local UI = game:GetService("ReplicatedStorage").Shared.UI
 local TowerSelectionAmount = require(script.Parent.TowerSelectionAmount)

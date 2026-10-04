@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Utility.SpinWheelChances.Constants
--- Decompile time: 0.14 ms
+-- Decompile time: 0.24 ms
 
 return {
     RarityGroupHeaderHeight = 44,

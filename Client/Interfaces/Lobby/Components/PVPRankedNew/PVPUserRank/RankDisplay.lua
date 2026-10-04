@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.PVPRankedNew.PVPUserRank.RankDisplay
--- Decompile time: 1.45 ms
+-- Decompile time: 4.10 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local React = require(ReplicatedStorage.Shared.UI.React)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.Zombies.ZombieEntry
--- Decompile time: 3.26 ms
+-- Decompile time: 6.91 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local Players = game:GetService("Players")

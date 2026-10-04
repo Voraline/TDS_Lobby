@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.IntermissionTopBar.init.story
--- Decompile time: 0.76 ms
+-- Decompile time: 2.39 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Parent = require(script.Parent)

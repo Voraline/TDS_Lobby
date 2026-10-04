@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.concat
--- Decompile time: 0.45 ms
+-- Decompile time: 0.48 ms
 
 local Parent_2 = script.Parent.Parent
 local None = require(Parent_2.None)

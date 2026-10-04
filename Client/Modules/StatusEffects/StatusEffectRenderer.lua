@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.StatusEffectRenderer
--- Decompile time: 2.72 ms
+-- Decompile time: 5.17 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Maid = require(ReplicatedStorage.Shared.Modules.Maid)

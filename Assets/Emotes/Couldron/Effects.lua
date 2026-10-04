@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Couldron.Effects
--- Decompile time: 0.27 ms
+-- Decompile time: 0.30 ms
 
 return {
     Eat = function(a1, a2) -- Line: 2

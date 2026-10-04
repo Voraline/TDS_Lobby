@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.WalmartPrompt.story
--- Decompile time: 0.81 ms
+-- Decompile time: 1.68 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local WalmartPrompt = require(script.Parent.WalmartPrompt)

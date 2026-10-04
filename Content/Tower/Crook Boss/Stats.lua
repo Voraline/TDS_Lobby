@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Crook Boss.Stats
--- Decompile time: 2.46 ms
+-- Decompile time: 2.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.TopBar.TopBarCollectible
--- Decompile time: 1.24 ms
+-- Decompile time: 2.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Comma = require(ReplicatedStorage.Shared.UI.Comma)

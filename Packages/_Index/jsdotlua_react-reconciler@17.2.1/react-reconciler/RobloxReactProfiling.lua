@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.RobloxReactProfiling
--- Decompile time: 2.20 ms
+-- Decompile time: 1.96 ms
 
 local getComponentName = require(script.Parent.Parent:WaitForChild("shared")).getComponentName
 local ReactWorkTags = require(script.Parent:WaitForChild("ReactWorkTags"))

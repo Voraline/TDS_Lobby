@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewTowerRange.ExtraRangeRings
--- Decompile time: 4.73 ms
+-- Decompile time: 5.70 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Troops = require(ReplicatedStorage.Shared.Modules.Asset.Handlers.Troops)

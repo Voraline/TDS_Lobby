@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.GlobalModifiers.BattlepassMultiplier
--- Decompile time: 0.75 ms
+-- Decompile time: 0.79 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GameState = require(ReplicatedStorage.Shared.Modules.GameState)

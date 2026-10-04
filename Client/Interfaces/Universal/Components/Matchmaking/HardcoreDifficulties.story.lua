@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Matchmaking.HardcoreDifficulties.story
--- Decompile time: 2.22 ms
+-- Decompile time: 4.92 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GameModeCard = require(script.Parent.GameModeCard)

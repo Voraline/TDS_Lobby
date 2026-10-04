@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Skins.Slaughter Warden
--- Decompile time: 0.38 ms
+-- Decompile time: 0.31 ms
 
 local BadgeService = game:GetService("BadgeService")
 return require(script.Parent.Parent.Parent.Types)({

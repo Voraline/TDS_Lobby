@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.MapItems.BunnySentry.Animator
--- Decompile time: 4.61 ms
+-- Decompile time: 4.46 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

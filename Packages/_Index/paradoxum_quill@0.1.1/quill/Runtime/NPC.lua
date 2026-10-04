@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.Runtime.NPC
--- Decompile time: 6.02 ms
+-- Decompile time: 5.89 ms
 
 local RunService = game:GetService("RunService")
 local Players = game:GetService("Players")

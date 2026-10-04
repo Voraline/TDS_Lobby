@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useGlobalTrial
--- Decompile time: 0.27 ms
+-- Decompile time: 0.51 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useReplicatedState = require(script.Parent.useReplicatedState)

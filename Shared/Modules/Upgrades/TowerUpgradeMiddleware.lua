@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Upgrades.TowerUpgradeMiddleware
--- Decompile time: 2.96 ms
+-- Decompile time: 2.75 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

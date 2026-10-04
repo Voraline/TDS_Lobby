@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.isValidElementType
--- Decompile time: 1.21 ms
+-- Decompile time: 1.07 ms
 
 local ReactSymbols = require(script.Parent:WaitForChild("ReactSymbols"))
 local REACT_CONTEXT_TYPE = ReactSymbols.REACT_CONTEXT_TYPE

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Matchmaking.Views.Matchmaking
--- Decompile time: 0.49 ms
+-- Decompile time: 1.33 ms
 
 local Controllers = script.Parent.Parent.Parent.Controllers
 local KickPlayers = require(script.Parent.KickPlayers)

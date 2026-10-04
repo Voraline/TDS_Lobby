@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.News.NewsFeedWindow.story
--- Decompile time: 1.56 ms
+-- Decompile time: 2.76 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local NewsFeedWindow = require(script.Parent.NewsFeedWindow)

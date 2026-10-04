@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.DEFEAT_MOLTEN_BOSS
--- Decompile time: 0.31 ms
+-- Decompile time: 0.20 ms
 
 return {
     Reward = "100 Exp",

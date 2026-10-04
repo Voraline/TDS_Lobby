@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.equalsDeep
--- Decompile time: 0.70 ms
+-- Decompile time: 0.87 ms
 
 local compareDeep
 local Parent_2 = script.Parent.Parent

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Mark5.Animator
--- Decompile time: 4.13 ms
+-- Decompile time: 4.37 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EffectsController = require(ReplicatedStorage.Client.Controllers.Game.EffectsController)

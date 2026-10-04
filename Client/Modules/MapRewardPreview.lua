@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.MapRewardPreview
--- Decompile time: 6.79 ms
+-- Decompile time: 13.54 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Comma = require(ReplicatedStorage.Client.Modules.Comma)

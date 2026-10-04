@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_string@1.2.7.string.split
--- Decompile time: 2.31 ms
+-- Decompile time: 2.49 ms
 
 local findOr = require(script.Parent:WaitForChild("findOr"))
 local slice = require(script.Parent:WaitForChild("slice"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Game.HitmarkerStore
--- Decompile time: 0.47 ms
+-- Decompile time: 1.08 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u12, u13 = (require(ReplicatedStorage.Packages.Charm)).signal({})

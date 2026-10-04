@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-roblox-shared@3.10.0.jest-roblox-shared.getRelativePath
--- Decompile time: 0.28 ms
+-- Decompile time: 0.53 ms
 
 return function(a1, a2) -- Line: 17 -- types: a1: userdata, a2: userdata?
     local Name = a1.Name

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.NavigationController
--- Decompile time: 1.05 ms
+-- Decompile time: 2.97 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PointerArrow = require(ReplicatedStorage.Client.Modules.PointerArrow)

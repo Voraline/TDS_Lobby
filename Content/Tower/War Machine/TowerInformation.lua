@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.War Machine.TowerInformation
--- Decompile time: 1.02 ms
+-- Decompile time: 1.01 ms
 
 return {
     ToolTip = {"This guy does a LOT of damage"},

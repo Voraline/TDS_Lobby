@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.map.spec
--- Decompile time: 0.60 ms
+-- Decompile time: 0.62 ms
 
 return function() -- Line: 1
     local map = require(script.Parent.map)

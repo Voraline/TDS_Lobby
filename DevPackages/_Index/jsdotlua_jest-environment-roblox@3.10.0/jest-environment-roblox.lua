@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-environment-roblox@3.10.0.jest-environment-roblox
--- Decompile time: 0.75 ms
+-- Decompile time: 1.66 ms
 
 local Object = (require((script.Parent:WaitForChild("luau-polyfill")))).Object
 local promise = require(script.Parent:WaitForChild("promise"))

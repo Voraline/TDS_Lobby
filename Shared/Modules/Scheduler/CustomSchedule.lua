@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Scheduler.CustomSchedule
--- Decompile time: 0.98 ms
+-- Decompile time: 0.83 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Signal = require(ReplicatedStorage.Shared.Modules.Signal)

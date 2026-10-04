@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Monster.Animator
--- Decompile time: 1.65 ms
+-- Decompile time: 1.55 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")

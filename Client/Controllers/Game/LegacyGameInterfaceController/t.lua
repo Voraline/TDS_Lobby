@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.LegacyGameInterfaceController.t
--- Decompile time: 14.54 ms
+-- Decompile time: 30.01 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("RunService")

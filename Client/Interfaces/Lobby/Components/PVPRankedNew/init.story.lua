@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.PVPRankedNew.init.story
--- Decompile time: 0.49 ms
+-- Decompile time: 1.08 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Parent = require(script.Parent)

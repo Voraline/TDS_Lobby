@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberHotReloading.new
--- Decompile time: 0.45 ms
+-- Decompile time: 0.59 ms
 
 require(script.Parent.Parent:WaitForChild("shared"))
 require(script.Parent:WaitForChild("ReactInternalTypes"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.CatRom.GaussLegendre
--- Decompile time: 2.66 ms
+-- Decompile time: 3.26 ms
 
 return {
     Five = function(a1, a2, a3) -- Line: 9

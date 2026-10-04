@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.GameModeData.Badlands
--- Decompile time: 0.17 ms
+-- Decompile time: 0.18 ms
 
 return {
     Waves = 30,

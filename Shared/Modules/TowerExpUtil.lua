@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.TowerExpUtil
--- Decompile time: 3.17 ms
+-- Decompile time: 3.51 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Content = require(ReplicatedStorage.Shared.Modules.Content)

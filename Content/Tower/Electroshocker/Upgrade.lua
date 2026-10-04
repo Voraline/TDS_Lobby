@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Electroshocker.Upgrade
--- Decompile time: 1.65 ms
+-- Decompile time: 2.09 ms
 
 local RunService = game:GetService("RunService")
 return {

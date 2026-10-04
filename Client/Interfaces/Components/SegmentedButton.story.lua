@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.SegmentedButton.story
--- Decompile time: 0.76 ms
+-- Decompile time: 1.53 ms
 
 game:GetService("PolicyService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

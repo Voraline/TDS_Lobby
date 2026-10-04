@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.SharedInputController
--- Decompile time: 5.90 ms
+-- Decompile time: 22.86 ms
 
 local Chat = game:GetService("Chat")
 local Players = game:GetService("Players")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Rifted Away.Animator
--- Decompile time: 0.65 ms
+-- Decompile time: 0.56 ms
 
 local v1 = {}
 v1.__index = v1

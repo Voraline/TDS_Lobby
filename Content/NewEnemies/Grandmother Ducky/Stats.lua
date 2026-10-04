@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Grandmother Ducky.Stats
--- Decompile time: 0.28 ms
+-- Decompile time: 0.31 ms
 
 return {
     Description = "Grandma Ducky is the sweetest, most endearing duck around. Full of love and compassion for all of the ducklings, she’ll spend countless hours telling them stories and baking them homemade buckwheat cookies. One by one she’ll sit each duckling on her lap and preen their little heads before sending them off to explore the world.",

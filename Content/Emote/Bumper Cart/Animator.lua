@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Bumper Cart.Animator
--- Decompile time: 11.95 ms
+-- Decompile time: 12.38 ms
 
 local CollectionService = game:GetService("CollectionService")
 local ContextActionService = game:GetService("ContextActionService")

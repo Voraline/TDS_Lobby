@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.ProjectilePool
--- Decompile time: 4.04 ms
+-- Decompile time: 3.12 ms
 
 local function getStorageParent() -- Line: 15
     return workspace.CurrentCamera or workspace

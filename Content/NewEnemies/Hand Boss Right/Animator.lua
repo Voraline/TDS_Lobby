@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Hand Boss Right.Animator
--- Decompile time: 6.00 ms
+-- Decompile time: 5.70 ms
 
 local v1 = {}
 v1.__index = v1

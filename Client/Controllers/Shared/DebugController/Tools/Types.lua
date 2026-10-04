@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.DebugController.Tools.Types
--- Decompile time: 0.13 ms
+-- Decompile time: 0.44 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Packages.Gizmo)

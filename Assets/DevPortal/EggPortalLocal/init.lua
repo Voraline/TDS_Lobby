@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.DevPortal.EggPortalLocal
--- Decompile time: 1.28 ms
+-- Decompile time: 1.59 ms
 
 local TeleportService = game:GetService("TeleportService")
 local Players = game:GetService("Players")

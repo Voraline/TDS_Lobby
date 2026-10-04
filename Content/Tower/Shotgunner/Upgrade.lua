@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Shotgunner.Upgrade
--- Decompile time: 1.13 ms
+-- Decompile time: 1.37 ms
 
 local RunService = game:GetService("RunService")
 return {

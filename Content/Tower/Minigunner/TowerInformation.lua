@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Minigunner.TowerInformation
--- Decompile time: 1.37 ms
+-- Decompile time: 0.87 ms
 
 return {
     ToolTip = {

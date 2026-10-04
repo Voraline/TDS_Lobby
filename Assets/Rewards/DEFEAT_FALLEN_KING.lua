@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.DEFEAT_FALLEN_KING
--- Decompile time: 0.26 ms
+-- Decompile time: 0.22 ms
 
 return {
     Reward = "250 Exp",

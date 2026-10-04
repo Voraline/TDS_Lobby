@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Gatling Gun.Animator.CameraController
--- Decompile time: 4.53 ms
+-- Decompile time: 5.14 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

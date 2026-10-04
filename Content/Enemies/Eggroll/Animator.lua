@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Eggroll.Animator
--- Decompile time: 0.11 ms
+-- Decompile time: 0.09 ms
 
 local v1 = {}
 v1.__index = v1

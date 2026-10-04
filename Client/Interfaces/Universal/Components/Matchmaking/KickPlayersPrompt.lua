@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Matchmaking.KickPlayersPrompt
--- Decompile time: 0.75 ms
+-- Decompile time: 1.79 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PromptModal = require(ReplicatedStorage.Client.Interfaces.Universal.Components.PromptModal)

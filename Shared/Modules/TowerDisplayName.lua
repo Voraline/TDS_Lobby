@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.TowerDisplayName
--- Decompile time: 2.44 ms
+-- Decompile time: 2.61 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Troops = require(ReplicatedStorage.Shared.Modules.Asset.Handlers.Troops)

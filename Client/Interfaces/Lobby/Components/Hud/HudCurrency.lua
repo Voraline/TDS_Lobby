@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Hud.HudCurrency
--- Decompile time: 8.69 ms
+-- Decompile time: 19.16 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Components = ReplicatedStorage.Client.Interfaces.Components

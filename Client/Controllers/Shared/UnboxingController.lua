@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.UnboxingController
--- Decompile time: 25.68 ms
+-- Decompile time: 55.82 ms
 
 local ContentProvider = game:GetService("ContentProvider")
 local Lighting = game:GetService("Lighting")

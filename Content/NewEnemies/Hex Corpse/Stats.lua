@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Hex Corpse.Stats
--- Decompile time: 0.25 ms
+-- Decompile time: 0.31 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

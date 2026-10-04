@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ProductInfo
--- Decompile time: 1.63 ms
+-- Decompile time: 1.60 ms
 
 local v1 = game:GetService("RunService"):IsServer()
 local ServerStorage = game:GetService("ServerStorage")

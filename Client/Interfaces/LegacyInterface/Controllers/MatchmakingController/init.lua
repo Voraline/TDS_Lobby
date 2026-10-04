@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Controllers.MatchmakingController
--- Decompile time: 10.61 ms
+-- Decompile time: 19.38 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Players = game:GetService("Players")

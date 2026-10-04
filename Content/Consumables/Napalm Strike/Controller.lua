@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Napalm Strike.Controller
--- Decompile time: 4.03 ms
+-- Decompile time: 3.63 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

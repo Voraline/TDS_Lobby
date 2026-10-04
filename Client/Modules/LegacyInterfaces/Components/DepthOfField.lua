@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LegacyInterfaces.Components.DepthOfField
--- Decompile time: 0.55 ms
+-- Decompile time: 1.17 ms
 
 local Lighting = game:GetService("Lighting")
 local TweenService = game:GetService("TweenService")

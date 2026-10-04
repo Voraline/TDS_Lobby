@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.SpinWheelChances.RewardList
--- Decompile time: 2.15 ms
+-- Decompile time: 4.65 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RarityGroup = require(script.Parent.RarityGroup)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Hex Wraith.Stats
--- Decompile time: 0.12 ms
+-- Decompile time: 0.08 ms
 
 return {
     Speed = 3,

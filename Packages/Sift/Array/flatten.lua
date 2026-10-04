@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.flatten
--- Decompile time: 0.75 ms
+-- Decompile time: 0.41 ms
 
 local flatten
 

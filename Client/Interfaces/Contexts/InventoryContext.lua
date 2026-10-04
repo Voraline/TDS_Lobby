@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Contexts.InventoryContext
--- Decompile time: 2.51 ms
+-- Decompile time: 7.97 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Cache = require(ReplicatedStorage.Client.Modules.Cache)

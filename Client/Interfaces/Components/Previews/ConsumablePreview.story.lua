@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Previews.ConsumablePreview.story
--- Decompile time: 0.53 ms
+-- Decompile time: 1.33 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ConsumablePreview = require(script.Parent.ConsumablePreview)

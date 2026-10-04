@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.SetupTheCones
--- Decompile time: 0.62 ms
+-- Decompile time: 0.60 ms
 
 local v1 = {id = "tower", skin = "Crew", tower = "Trapper", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Setup the Cones!")).cost({amount = 525, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, missionSection = "adidas", productId = 3594835623})).objective({

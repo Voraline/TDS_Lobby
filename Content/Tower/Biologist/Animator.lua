@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Biologist.Animator
--- Decompile time: 2.99 ms
+-- Decompile time: 3.99 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Create = require(ReplicatedStorage.Shared.Modules.Standalone.Create)

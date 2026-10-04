@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.LobbyModifierSelector.ModifiersFrame
--- Decompile time: 1.90 ms
+-- Decompile time: 2.61 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ModifierButton = require(script.Parent.ModifierButton)

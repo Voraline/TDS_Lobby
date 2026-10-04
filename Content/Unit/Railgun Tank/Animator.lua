@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Railgun Tank.Animator
--- Decompile time: 9.69 ms
+-- Decompile time: 8.49 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

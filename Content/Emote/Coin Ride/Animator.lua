@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Coin Ride.Animator
--- Decompile time: 1.34 ms
+-- Decompile time: 1.27 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

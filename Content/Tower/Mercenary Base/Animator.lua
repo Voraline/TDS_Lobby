@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Mercenary Base.Animator
--- Decompile time: 4.35 ms
+-- Decompile time: 4.91 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

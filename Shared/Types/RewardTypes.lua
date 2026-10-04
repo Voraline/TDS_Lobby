@@ -1,4 +1,4 @@
 -- Script path: ReplicatedStorage.Shared.Types.RewardTypes
--- Decompile time: 0.04 ms
+-- Decompile time: 0.06 ms
 
 return nil

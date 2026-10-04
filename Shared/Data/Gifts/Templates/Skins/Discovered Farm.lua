@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Skins.Discovered Farm
--- Decompile time: 0.38 ms
+-- Decompile time: 0.34 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 return require(script.Parent.Parent.Parent.Types)({

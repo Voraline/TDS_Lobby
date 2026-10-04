@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Confusion Ducky.Animator
--- Decompile time: 0.77 ms
+-- Decompile time: 0.63 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.GlitchEffect
--- Decompile time: 2.65 ms
+-- Decompile time: 5.43 ms
 
 game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

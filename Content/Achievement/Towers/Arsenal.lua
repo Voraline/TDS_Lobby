@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Towers.Arsenal
--- Decompile time: 0.13 ms
+-- Decompile time: 0.09 ms
 
 return {
     title = "Arsenal",

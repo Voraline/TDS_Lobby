@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.kampfkarren_ultimate-list@0.3.2.ultimate-list.Dimensions
--- Decompile time: 0.39 ms
+-- Decompile time: 0.33 ms
 
 local u0 = {}
 

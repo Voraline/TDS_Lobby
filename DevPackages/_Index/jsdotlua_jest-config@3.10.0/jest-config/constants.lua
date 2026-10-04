@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-config@3.10.0.jest-config.constants
--- Decompile time: 0.10 ms
+-- Decompile time: 0.20 ms
 
 return {
     JEST_CONFIG_BASE_NAME = "jest.config",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Toxic Gunner.Stats
--- Decompile time: 1.34 ms
+-- Decompile time: 1.39 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

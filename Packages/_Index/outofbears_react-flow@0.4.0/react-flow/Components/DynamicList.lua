@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Components.DynamicList
--- Decompile time: 1.46 ms
+-- Decompile time: 1.33 ms
 
 local React = require(script.Parent.Parent.React)
 local ReactUtil = require(script.Parent.Parent.Utility.ReactUtil)

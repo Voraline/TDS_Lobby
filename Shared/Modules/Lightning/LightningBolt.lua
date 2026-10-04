@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Lightning.LightningBolt
--- Decompile time: 12.87 ms
+-- Decompile time: 13.13 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

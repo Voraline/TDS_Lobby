@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Vignette
--- Decompile time: 0.44 ms
+-- Decompile time: 0.94 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local createElement = require(ReplicatedStorage.Shared.UI.React).createElement

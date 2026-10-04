@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.update.spec
--- Decompile time: 0.90 ms
+-- Decompile time: 0.84 ms
 
 return function() -- Line: 1
     local update = require(script.Parent.update)

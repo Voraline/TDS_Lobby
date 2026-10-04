@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Operator Ducky.Animator
--- Decompile time: 1.05 ms
+-- Decompile time: 1.03 ms
 
 game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

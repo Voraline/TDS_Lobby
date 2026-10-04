@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Spooky Tank.Stats
--- Decompile time: 0.09 ms
+-- Decompile time: 0.06 ms
 
 return {
     Speed = 6,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_scheduler@17.2.1.scheduler.unstable_mock
--- Decompile time: 0.72 ms
+-- Decompile time: 0.75 ms
 
 local Tracing = require(script.Parent:WaitForChild("Tracing"))
 local TracingSubscriptions = require(script.Parent:WaitForChild("TracingSubscriptions"))

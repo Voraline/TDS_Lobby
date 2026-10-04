@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.littensy_charm@0.11.0.charm.system
--- Decompile time: 3.70 ms
+-- Decompile time: 3.65 ms
 
 local checkDirty, propagate
 local v1 = table.freeze({

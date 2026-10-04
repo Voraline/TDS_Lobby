@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.NewMatchmaking.StoryModeWindow
--- Decompile time: 33.91 ms
+-- Decompile time: 73.51 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ClientAtoms = require(ReplicatedStorage.Shared.Modules.ClientAtoms)

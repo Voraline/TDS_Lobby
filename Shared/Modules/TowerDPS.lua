@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.TowerDPS
--- Decompile time: 85.30 ms
+-- Decompile time: 58.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ExecutionerTiming = require(ReplicatedStorage.Shared.Modules.ExecutionerTiming)

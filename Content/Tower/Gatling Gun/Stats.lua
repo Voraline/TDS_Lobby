@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Gatling Gun.Stats
--- Decompile time: 1.67 ms
+-- Decompile time: 1.59 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

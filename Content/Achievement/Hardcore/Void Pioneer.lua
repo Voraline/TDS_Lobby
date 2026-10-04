@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Hardcore.Void Pioneer
--- Decompile time: 0.21 ms
+-- Decompile time: 0.16 ms
 
 return {
     title = "Void Pioneer",

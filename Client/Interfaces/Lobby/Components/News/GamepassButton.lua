@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.News.GamepassButton
--- Decompile time: 1.27 ms
+-- Decompile time: 2.52 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local Players = game:GetService("Players")

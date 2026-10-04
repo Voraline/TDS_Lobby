@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Lead Balloon.Animator
--- Decompile time: 1.66 ms
+-- Decompile time: 1.61 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

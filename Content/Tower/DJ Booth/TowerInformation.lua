@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.DJ Booth.TowerInformation
--- Decompile time: 1.50 ms
+-- Decompile time: 1.69 ms
 
 return {
     ToolTip = {

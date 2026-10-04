@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LiveEvents.Selection
--- Decompile time: 1.37 ms
+-- Decompile time: 1.48 ms
 
 local Definitions = require(script.Parent.Definitions)
 return {

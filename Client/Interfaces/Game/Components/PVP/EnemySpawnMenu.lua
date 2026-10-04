@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.PVP.EnemySpawnMenu
--- Decompile time: 3.16 ms
+-- Decompile time: 6.32 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PVPConstants = require(ReplicatedStorage.Shared.Modules.PVPConstants)

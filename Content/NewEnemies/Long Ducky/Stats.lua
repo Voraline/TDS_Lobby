@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Long Ducky.Stats
--- Decompile time: 0.28 ms
+-- Decompile time: 0.25 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

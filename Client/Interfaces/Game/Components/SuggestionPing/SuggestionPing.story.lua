@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.SuggestionPing.SuggestionPing.story
--- Decompile time: 1.37 ms
+-- Decompile time: 1.89 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local React = require(ReplicatedStorage.Packages.React)

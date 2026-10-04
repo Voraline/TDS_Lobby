@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiber.new
--- Decompile time: 18.02 ms
+-- Decompile time: 16.60 ms
 
 local __DEV__ = _G.__DEV__
 local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))

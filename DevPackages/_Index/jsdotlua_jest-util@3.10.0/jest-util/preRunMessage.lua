@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-util@3.10.0.jest-util.preRunMessage
--- Decompile time: 0.42 ms
+-- Decompile time: 0.86 ms
 
 local v1 = {}
 local chalk = require(script.Parent.Parent:WaitForChild("chalk"))

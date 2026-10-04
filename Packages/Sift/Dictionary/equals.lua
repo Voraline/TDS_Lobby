@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.equals
--- Decompile time: 0.73 ms
+-- Decompile time: 0.63 ms
 
 local Parent = script.Parent.Parent
 local Util = require(Parent.Util)

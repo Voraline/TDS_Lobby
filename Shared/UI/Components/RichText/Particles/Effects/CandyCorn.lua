@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles.Effects.CandyCorn
--- Decompile time: 1.00 ms
+-- Decompile time: 1.06 ms
 
 return {
     require(game:GetService("ReplicatedStorage").Shared.Modules.Standalone.Create)("ParticleEmitter", {

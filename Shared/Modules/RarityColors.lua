@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.RarityColors
--- Decompile time: 0.37 ms
+-- Decompile time: 0.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

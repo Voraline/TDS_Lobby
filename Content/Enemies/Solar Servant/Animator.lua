@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Solar Servant.Animator
--- Decompile time: 0.49 ms
+-- Decompile time: 0.64 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

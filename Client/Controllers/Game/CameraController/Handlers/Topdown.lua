@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.CameraController.Handlers.Topdown
--- Decompile time: 7.67 ms
+-- Decompile time: 16.60 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.rbxts.Promise
--- Decompile time: 27.40 ms
+-- Decompile time: 25.47 ms
 
 local u0 = {__mode = "k"}
 

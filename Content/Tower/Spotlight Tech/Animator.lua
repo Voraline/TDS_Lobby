@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Spotlight Tech.Animator
--- Decompile time: 19.08 ms
+-- Decompile time: 13.62 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

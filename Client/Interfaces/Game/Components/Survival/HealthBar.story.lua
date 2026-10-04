@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Survival.HealthBar.story
--- Decompile time: 1.06 ms
+-- Decompile time: 2.70 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local HealthBar = require(script.Parent.HealthBar)

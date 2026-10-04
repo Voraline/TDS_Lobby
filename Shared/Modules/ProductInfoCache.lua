@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.ProductInfoCache
--- Decompile time: 1.26 ms
+-- Decompile time: 1.02 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

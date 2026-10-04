@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.littensy_charm@0.11.0.charm
--- Decompile time: 17.44 ms
+-- Decompile time: 17.27 ms
 
 local deepFreeze
 local system = require(script.system)

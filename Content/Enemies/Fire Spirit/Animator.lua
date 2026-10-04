@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Fire Spirit.Animator
--- Decompile time: 1.59 ms
+-- Decompile time: 1.74 ms
 
 game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.Consumables.ConsumablesContent
--- Decompile time: 1.45 ms
+-- Decompile time: 3.48 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ConsumablesEntry = require(script.Parent.ConsumablesEntry)

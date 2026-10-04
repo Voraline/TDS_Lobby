@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.Settings
--- Decompile time: 0.71 ms
+-- Decompile time: 1.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Client.Interfaces.Hooks.useScale)

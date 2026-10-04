@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.GOLDEN_POWER
--- Decompile time: 0.27 ms
+-- Decompile time: 0.33 ms
 
 return {
     Reward = "1000 Coins",

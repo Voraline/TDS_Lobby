@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-reporters@3.10.0.jest-reporters.types
--- Decompile time: 0.16 ms
+-- Decompile time: 0.33 ms
 
 require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 require(script.Parent.Parent:WaitForChild("jest-test-result"))

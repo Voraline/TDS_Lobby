@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Ability.story
--- Decompile time: 0.72 ms
+-- Decompile time: 0.67 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Ability = require(script.Parent.Ability)

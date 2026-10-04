@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.Options.OptionsPanel
--- Decompile time: 8.60 ms
+-- Decompile time: 21.66 ms
 
 local v1
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

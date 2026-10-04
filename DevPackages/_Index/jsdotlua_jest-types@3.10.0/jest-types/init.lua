@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-types@3.10.0.jest-types
--- Decompile time: 0.16 ms
+-- Decompile time: 0.35 ms
 
 require(script:WaitForChild("Circus"))
 require(script:WaitForChild("Config"))

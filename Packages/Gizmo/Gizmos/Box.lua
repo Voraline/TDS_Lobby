@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Gizmo.Gizmos.Box
--- Decompile time: 1.80 ms
+-- Decompile time: 1.97 ms
 
 local u0 = {}
 u0.__index = u0

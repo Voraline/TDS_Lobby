@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.Spotlight
--- Decompile time: 0.48 ms
+-- Decompile time: 0.92 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Spotlight = require(ReplicatedStorage.Client.Interfaces.Game.Components.Spotlight)

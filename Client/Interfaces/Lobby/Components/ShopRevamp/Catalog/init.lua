@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.Catalog
--- Decompile time: 0.19 ms
+-- Decompile time: 0.65 ms
 
 local Items = require(script.Items)
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Skins.Foam Freezer
--- Decompile time: 0.39 ms
+-- Decompile time: 0.61 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 return require(script.Parent.Parent.Parent.Types)({

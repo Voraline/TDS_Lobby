@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewEnemyHealth.NewEnemyHealthBar.story
--- Decompile time: 2.49 ms
+-- Decompile time: 2.96 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Parent = require(script.Parent)

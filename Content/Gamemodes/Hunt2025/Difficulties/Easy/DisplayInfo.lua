@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Hunt2025.Difficulties.Easy.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.12 ms
 
 return {
     Name = "The Hunt: Mega Edition (Easy)",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Void Reaver.Animator.VoidReaverAnimatorStates
--- Decompile time: 22.89 ms
+-- Decompile time: 24.98 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

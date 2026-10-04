@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Login.LoginWindow.story
--- Decompile time: 1.22 ms
+-- Decompile time: 2.56 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Client.Interfaces.LegacyInterface.Icons)

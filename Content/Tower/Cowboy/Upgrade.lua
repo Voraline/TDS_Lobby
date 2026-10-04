@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Cowboy.Upgrade
--- Decompile time: 1.51 ms
+-- Decompile time: 1.43 ms
 
 local RunService = game:GetService("RunService")
 return {

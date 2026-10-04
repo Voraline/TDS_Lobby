@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Enum.spec
--- Decompile time: 0.64 ms
+-- Decompile time: 0.57 ms
 
 return function() -- Line: 1
     local Enum = require(script.Parent.Enum)

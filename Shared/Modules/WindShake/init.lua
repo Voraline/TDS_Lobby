@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.WindShake
--- Decompile time: 6.99 ms
+-- Decompile time: 6.68 ms
 
 local CollectionService = game:GetService("CollectionService")
 local RunService = game:GetService("RunService")

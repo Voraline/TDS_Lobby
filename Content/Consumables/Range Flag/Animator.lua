@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Range Flag.Animator
--- Decompile time: 8.20 ms
+-- Decompile time: 7.48 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

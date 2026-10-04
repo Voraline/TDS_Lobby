@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Replicators.ItemPickupReplicator
--- Decompile time: 7.84 ms
+-- Decompile time: 19.09 ms
 
 local Attachment, Highlight, v1, v2, v3, v4
 local Players = game:GetService("Players")

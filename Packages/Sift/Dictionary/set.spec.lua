@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.set.spec
--- Decompile time: 0.62 ms
+-- Decompile time: 0.38 ms
 
 return function() -- Line: 1
     local set = require(script.Parent.set)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.Catalog.Elements.ShowMore
--- Decompile time: 0.48 ms
+-- Decompile time: 0.97 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local NewsButton = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.News.NewsButton)

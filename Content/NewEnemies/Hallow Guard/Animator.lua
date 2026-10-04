@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Hallow Guard.Animator
--- Decompile time: 0.45 ms
+-- Decompile time: 0.40 ms
 
 game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

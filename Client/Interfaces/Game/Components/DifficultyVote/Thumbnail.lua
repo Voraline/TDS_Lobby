@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.DifficultyVote.Thumbnail
--- Decompile time: 1.64 ms
+-- Decompile time: 3.53 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

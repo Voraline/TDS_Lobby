@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Outpost 16.Animator.Events.GroundEffects
--- Decompile time: 2.96 ms
+-- Decompile time: 2.68 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TimescaleUtilities = require(ReplicatedStorage.Shared.Modules.TimescaleUtilities)

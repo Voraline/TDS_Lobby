@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.DangerAlert.story
--- Decompile time: 0.79 ms
+-- Decompile time: 1.69 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local DangerAlert = require(script.Parent.DangerAlert)

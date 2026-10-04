@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_string@1.2.7.string
--- Decompile time: 0.26 ms
+-- Decompile time: 0.43 ms
 
 return {
     charCodeAt = require(script:WaitForChild("charCodeAt")),

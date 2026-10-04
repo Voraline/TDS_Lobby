@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.ClientAtoms
--- Decompile time: 0.39 ms
+-- Decompile time: 0.34 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Charm = require(ReplicatedStorage.Packages.Charm)

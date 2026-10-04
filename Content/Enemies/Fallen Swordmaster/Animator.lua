@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Fallen Swordmaster.Animator
--- Decompile time: 2.25 ms
+-- Decompile time: 2.35 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

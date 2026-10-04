@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.JSONFormatter
--- Decompile time: 8.68 ms
+-- Decompile time: 8.40 ms
 
 local concat = table.concat
 local sub = string.sub

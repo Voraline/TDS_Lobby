@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Game.VignetteStore
--- Decompile time: 0.58 ms
+-- Decompile time: 1.07 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u20, u21 = (require(ReplicatedStorage.Packages.Charm)).signal({transparency = 1, tweenInfo = TweenInfo.new(0.5), color = Color3.new(0, 0, 0)})

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.ProgressBar
--- Decompile time: 1.50 ms
+-- Decompile time: 3.75 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local createElement = require(ReplicatedStorage.Shared.UI.React).createElement

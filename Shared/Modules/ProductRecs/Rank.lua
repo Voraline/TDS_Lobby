@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.ProductRecs.Rank
--- Decompile time: 5.50 ms
+-- Decompile time: 5.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Sift = require(ReplicatedStorage.Packages.Sift)

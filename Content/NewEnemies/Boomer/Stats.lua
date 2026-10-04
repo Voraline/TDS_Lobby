@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Boomer.Stats
--- Decompile time: 0.16 ms
+-- Decompile time: 0.15 ms
 
 game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Trapper.Animator
--- Decompile time: 5.99 ms
+-- Decompile time: 6.03 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Hardcore.Difficulties.Hard.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.21 ms
 
 return {
     Name = "Voidcore",

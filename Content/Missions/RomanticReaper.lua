@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.RomanticReaper
--- Decompile time: 0.71 ms
+-- Decompile time: 0.58 ms
 
 local v1 = {id = "tower", skin = "Heartbreak", tower = "Executioner", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Romantic Reaper")).cost({amount = 650, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", disabled = true, productId = 2916486889})).objective({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_instance-of@1.2.7.instance-of.instanceof
--- Decompile time: 0.78 ms
+-- Decompile time: 0.69 ms
 
 local __DEV__ = _G.__DEV__
 return function(a1, a2) -- Line: 5 -- upvalues: __DEV__ (val)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Animations.Symbols
--- Decompile time: 0.29 ms
+-- Decompile time: 0.28 ms
 
 local function symbol(a1) -- Line: 1 -- types: a1: string
     local v1 = {}

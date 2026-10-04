@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Sleigh Ride.Animator
--- Decompile time: 3.27 ms
+-- Decompile time: 2.82 ms
 
 local RunService = game:GetService("RunService")
 local v1 = {}

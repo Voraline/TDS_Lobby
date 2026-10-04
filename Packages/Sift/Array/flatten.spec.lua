@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.flatten.spec
--- Decompile time: 1.09 ms
+-- Decompile time: 1.00 ms
 
 return function() -- Line: 1
     local flatten = require(script.Parent.flatten)

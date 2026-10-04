@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.DailySpinController
--- Decompile time: 19.31 ms
+-- Decompile time: 45.66 ms
 
 local Model, v1, v2, v3
 local Chat = game:GetService("Chat")

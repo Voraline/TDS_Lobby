@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Minigunner.Animator
--- Decompile time: 15.22 ms
+-- Decompile time: 14.32 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

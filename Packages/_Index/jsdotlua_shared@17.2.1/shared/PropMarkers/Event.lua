@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.PropMarkers.Event
--- Decompile time: 0.34 ms
+-- Decompile time: 0.27 ms
 
 local u8 = require(script.Parent.Parent:WaitForChild("Type.roblox"))
 local u9 = {}

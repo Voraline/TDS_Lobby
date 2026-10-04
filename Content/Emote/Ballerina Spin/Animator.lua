@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Ballerina Spin.Animator
--- Decompile time: 1.32 ms
+-- Decompile time: 1.26 ms
 
 local ContentProvider = game:GetService("ContentProvider")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

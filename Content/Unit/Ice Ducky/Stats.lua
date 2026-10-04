@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Ice Ducky.Stats
--- Decompile time: 0.10 ms
+-- Decompile time: 0.07 ms
 
 return {
     Default = {

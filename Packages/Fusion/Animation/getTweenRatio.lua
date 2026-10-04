@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Animation.getTweenRatio
--- Decompile time: 0.53 ms
+-- Decompile time: 0.54 ms
 
 local TweenService = game:GetService("TweenService")
 return function(a1, a2) -- Line: 10 -- upvalues: TweenService (val) -- types: a1: userdata, a2: number

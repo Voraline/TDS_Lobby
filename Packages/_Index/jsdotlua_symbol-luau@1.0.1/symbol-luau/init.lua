@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_symbol-luau@1.0.1.symbol-luau
--- Decompile time: 0.24 ms
+-- Decompile time: 0.21 ms
 
 local Symbol = require(script:WaitForChild("Symbol"))
 local v1 = require(script:WaitForChild("Registry.global"))

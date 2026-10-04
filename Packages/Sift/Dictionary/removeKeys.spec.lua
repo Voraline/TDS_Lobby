@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.removeKeys.spec
--- Decompile time: 0.54 ms
+-- Decompile time: 0.49 ms
 
 return function() -- Line: 1
     local removeKeys = require(script.Parent.removeKeys)

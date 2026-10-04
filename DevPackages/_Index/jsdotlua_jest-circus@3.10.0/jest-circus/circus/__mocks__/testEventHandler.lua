@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-circus@3.10.0.jest-circus.circus.__mocks__.testEventHandler
--- Decompile time: 1.50 ms
+-- Decompile time: 3.92 ms
 
 local v1 = {}
 local console = (require((script.Parent.Parent.Parent.Parent:WaitForChild("luau-polyfill")))).console

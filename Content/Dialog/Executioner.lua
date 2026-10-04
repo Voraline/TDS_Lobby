@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.Executioner
--- Decompile time: 0.22 ms
+-- Decompile time: 0.20 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Enum)

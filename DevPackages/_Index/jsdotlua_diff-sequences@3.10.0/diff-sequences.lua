@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_diff-sequences@3.10.0.diff-sequences
--- Decompile time: 14.69 ms
+-- Decompile time: 31.37 ms
 
 local findSubsequences
 local Number = (require((script.Parent:WaitForChild("luau-polyfill")))).Number

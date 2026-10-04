@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Standalone.Gif
--- Decompile time: 1.62 ms
+-- Decompile time: 1.57 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ContentProvider = game:GetService("ContentProvider")

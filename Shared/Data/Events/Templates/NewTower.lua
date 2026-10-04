@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Events.Templates.NewTower
--- Decompile time: 0.91 ms
+-- Decompile time: 1.43 ms
 
 local CollectionService = game:GetService("CollectionService")
 local MarketplaceService = game:GetService("MarketplaceService")

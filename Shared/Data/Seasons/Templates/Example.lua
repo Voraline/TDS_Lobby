@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Seasons.Templates.Example
--- Decompile time: 0.34 ms
+-- Decompile time: 0.30 ms
 
 return require(script.Parent.Parent.Types)({
     name = "Season of example",

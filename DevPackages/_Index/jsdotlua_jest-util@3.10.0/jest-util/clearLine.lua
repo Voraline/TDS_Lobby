@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-util@3.10.0.jest-util.clearLine
--- Decompile time: 0.24 ms
+-- Decompile time: 0.60 ms
 
 local Boolean = (require((script.Parent.Parent:WaitForChild("luau-polyfill")))).Boolean
 require(script.Parent.Parent:WaitForChild("jest-roblox-shared"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.KingpinHenchman.Animator
--- Decompile time: 3.32 ms
+-- Decompile time: 2.85 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

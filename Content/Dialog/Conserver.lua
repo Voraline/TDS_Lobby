@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.Conserver
--- Decompile time: 0.15 ms
+-- Decompile time: 0.11 ms
 
 return {
     Poses = {

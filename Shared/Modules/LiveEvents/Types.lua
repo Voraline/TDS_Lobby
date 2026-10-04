@@ -1,4 +1,4 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LiveEvents.Types
--- Decompile time: 0.07 ms
+-- Decompile time: 0.08 ms
 
 return {}

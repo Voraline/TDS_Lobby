@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade.Alignments.Components.TowerActiveStats.story
--- Decompile time: 2.00 ms
+-- Decompile time: 2.25 ms
 
 local UI = game:GetService("ReplicatedStorage").Shared.UI
 local TowerActiveStats = require(script.Parent.TowerActiveStats)

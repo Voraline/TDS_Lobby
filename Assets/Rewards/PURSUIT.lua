@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.PURSUIT
--- Decompile time: 0.26 ms
+-- Decompile time: 0.21 ms
 
 return {
     Reward = "Pursuit Tower",

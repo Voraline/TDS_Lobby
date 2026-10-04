@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Medic.Sounds.Mermaid
--- Decompile time: 0.15 ms
+-- Decompile time: 0.12 ms
 
 return {
     BeamNormal = {id = 71771660018916, looped = true, volume = 0.3, audioGroup = "Towers"},

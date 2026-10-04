@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Energy Drink.Animator
--- Decompile time: 1.32 ms
+-- Decompile time: 1.18 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

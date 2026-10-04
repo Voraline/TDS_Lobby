@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Animation.springCoefficients
--- Decompile time: 1.05 ms
+-- Decompile time: 1.31 ms
 
 return function(a1, a2, a3) -- Line: 21 -- types: a1: number, a2: number, a3: number
     if a1 ~= 0 and a3 ~= 0 then

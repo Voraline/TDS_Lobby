@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.PVP.PVPLeaderboardRank
--- Decompile time: 0.95 ms
+-- Decompile time: 1.95 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.UI.Comma)

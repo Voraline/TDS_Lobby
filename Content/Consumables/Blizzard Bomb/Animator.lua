@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Blizzard Bomb.Animator
--- Decompile time: 3.42 ms
+-- Decompile time: 3.01 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Rewards.story
--- Decompile time: 1.20 ms
+-- Decompile time: 2.71 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Button = require(script.Parent.Parent.Parent.Components.Button)

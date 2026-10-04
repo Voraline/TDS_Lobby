@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Biologist.UpgradeOptions
--- Decompile time: 0.73 ms
+-- Decompile time: 0.47 ms
 
 local v1 = {Header = "Sunflower", Subject = "Unit", Content = {{Text = "Deals high single target dps."}}}
 local v2 = {Header = "Ivy", Subject = "Unit", Content = {{Text = "Deals single target poison dps."}}}

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Present Cluster Bomb.Animator
--- Decompile time: 7.54 ms
+-- Decompile time: 6.31 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

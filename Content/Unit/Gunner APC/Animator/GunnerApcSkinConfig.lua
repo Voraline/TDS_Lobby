@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Gunner APC.Animator.GunnerApcSkinConfig
--- Decompile time: 1.08 ms
+-- Decompile time: 0.96 ms
 
 local Debris = game:GetService("Debris")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

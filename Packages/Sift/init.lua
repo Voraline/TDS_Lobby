@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift
--- Decompile time: 0.33 ms
+-- Decompile time: 0.23 ms
 
 require(script.Types)
 local v1 = {

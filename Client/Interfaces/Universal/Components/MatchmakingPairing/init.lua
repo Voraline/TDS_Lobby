@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.MatchmakingPairing
--- Decompile time: 4.53 ms
+-- Decompile time: 11.70 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Components = ReplicatedStorage.Client.Interfaces.Components

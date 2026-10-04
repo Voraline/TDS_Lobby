@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.Timer
--- Decompile time: 0.62 ms
+-- Decompile time: 0.63 ms
 
 local Shared = game:GetService("ReplicatedStorage"):WaitForChild("Shared")
 local Fusion = require(Shared.UI.Fusion)

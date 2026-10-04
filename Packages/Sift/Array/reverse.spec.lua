@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.reverse.spec
--- Decompile time: 0.56 ms
+-- Decompile time: 0.39 ms
 
 return function() -- Line: 1
     local reverse = require(script.Parent.reverse)

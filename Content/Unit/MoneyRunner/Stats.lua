@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.MoneyRunner.Stats
--- Decompile time: 0.23 ms
+-- Decompile time: 0.21 ms
 
 return {
     Default = {

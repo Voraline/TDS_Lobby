@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Damage.Scorched Earth
--- Decompile time: 0.14 ms
+-- Decompile time: 0.17 ms
 
 return {
     title = "Scorched Earth",

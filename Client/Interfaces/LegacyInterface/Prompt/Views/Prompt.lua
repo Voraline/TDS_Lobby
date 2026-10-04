@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Prompt.Views.Prompt
--- Decompile time: 5.08 ms
+-- Decompile time: 11.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Shared = ReplicatedStorage.Client.Interfaces.Stores.Shared

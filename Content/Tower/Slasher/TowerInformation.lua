@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Slasher.TowerInformation
--- Decompile time: 1.16 ms
+-- Decompile time: 0.57 ms
 
 return {
     ToolTip = {

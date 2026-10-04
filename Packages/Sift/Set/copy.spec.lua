@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.copy.spec
--- Decompile time: 0.29 ms
+-- Decompile time: 0.30 ms
 
 return function() -- Line: 1
     local copy = require(script.Parent.copy)

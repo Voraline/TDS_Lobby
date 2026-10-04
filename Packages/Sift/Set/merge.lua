@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.merge
--- Decompile time: 0.48 ms
+-- Decompile time: 0.28 ms
 
 return function(...) -- Line: 20
     local v1

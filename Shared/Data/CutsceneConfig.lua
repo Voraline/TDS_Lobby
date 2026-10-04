@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.CutsceneConfig
--- Decompile time: 0.75 ms
+-- Decompile time: 0.71 ms
 
 local function speaker(a1, a2) -- Line: 8 -- types: a1: string, a2: userdata
     return table.freeze({Name = a1, Color = a2})

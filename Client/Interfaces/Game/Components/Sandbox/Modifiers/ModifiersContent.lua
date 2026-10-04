@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.Modifiers.ModifiersContent
--- Decompile time: 1.88 ms
+-- Decompile time: 3.30 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ModifiersEntry = require(script.Parent.ModifiersEntry)

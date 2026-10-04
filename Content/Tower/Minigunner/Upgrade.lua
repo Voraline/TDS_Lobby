@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Minigunner.Upgrade
--- Decompile time: 1.86 ms
+-- Decompile time: 1.82 ms
 
 local RunService = game:GetService("RunService")
 return {

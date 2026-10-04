@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.Corrupted Touch
--- Decompile time: 0.82 ms
+-- Decompile time: 1.13 ms
 
 local v1 = {id = "tower", skin = "Fallen", tower = "Hacker", type = "tower"}
 return (((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Corrupted Touch")).cost({amount = 650, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 3303907205})).objective({

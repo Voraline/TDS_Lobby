@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Asset.Handlers.Rewards
--- Decompile time: 0.46 ms
+-- Decompile time: 0.39 ms
 
 local Name, v1
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

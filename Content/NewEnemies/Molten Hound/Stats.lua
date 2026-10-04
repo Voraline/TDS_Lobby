@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Molten Hound.Stats
--- Decompile time: 0.10 ms
+-- Decompile time: 0.08 ms
 
 return {
     Health = 500,

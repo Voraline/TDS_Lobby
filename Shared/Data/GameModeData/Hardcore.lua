@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.GameModeData.Hardcore
--- Decompile time: 0.15 ms
+-- Decompile time: 0.19 ms
 
 return {
     Waves = 45,

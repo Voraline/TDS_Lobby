@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.freezeDeep
--- Decompile time: 0.39 ms
+-- Decompile time: 0.33 ms
 
 local freezeDeep
 

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.SharedData.SandboxWhitelistHandler
--- Decompile time: 0.57 ms
+-- Decompile time: 0.67 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local FFlagAtoms = require(script.Parent.FFlagAtoms)

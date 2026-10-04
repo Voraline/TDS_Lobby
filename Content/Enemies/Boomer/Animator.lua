@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Boomer.Animator
--- Decompile time: 0.38 ms
+-- Decompile time: 0.41 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

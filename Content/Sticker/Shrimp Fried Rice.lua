@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Shrimp Fried Rice
--- Decompile time: 0.24 ms
+-- Decompile time: 0.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

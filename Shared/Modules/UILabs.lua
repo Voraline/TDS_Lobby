@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.UILabs
--- Decompile time: 0.52 ms
+-- Decompile time: 0.57 ms
 
 local RunService = game:GetService("RunService")
 local u7 = RunService:IsRunning()

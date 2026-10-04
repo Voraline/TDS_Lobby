@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Forest Camp.Animator
--- Decompile time: 2.25 ms
+-- Decompile time: 2.67 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GameState = require(ReplicatedStorage.Shared.Modules.GameState)

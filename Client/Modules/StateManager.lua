@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StateManager
--- Decompile time: 2.14 ms
+-- Decompile time: 5.34 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Thread)

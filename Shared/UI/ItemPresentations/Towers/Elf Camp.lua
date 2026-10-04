@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ItemPresentations.Towers.Elf Camp
--- Decompile time: 0.43 ms
+-- Decompile time: 0.44 ms
 
 return {
     Init = function(a1, a2, a3) -- Line: 2

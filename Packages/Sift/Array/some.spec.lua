@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.some.spec
--- Decompile time: 0.47 ms
+-- Decompile time: 0.44 ms
 
 return function() -- Line: 1
     local some = require(script.Parent.some)

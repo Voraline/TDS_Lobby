@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.StoryMode.Chapters.Chapter1.Mission4
--- Decompile time: 0.19 ms
+-- Decompile time: 0.16 ms
 
 return function(a1) -- Line: 1 -- types: a1: userdata?
     return {

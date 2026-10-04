@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Gang Dance.Data
--- Decompile time: 0.10 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "Epic joe reference!",

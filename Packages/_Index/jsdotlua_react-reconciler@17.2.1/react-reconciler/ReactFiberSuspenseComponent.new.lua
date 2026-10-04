@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberSuspenseComponent.new
--- Decompile time: 2.38 ms
+-- Decompile time: 2.72 ms
 
 require(script.Parent.Parent:WaitForChild("shared"))
 require(script.Parent:WaitForChild("ReactInternalTypes"))

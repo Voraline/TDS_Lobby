@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Damage.Harbinger
--- Decompile time: 0.14 ms
+-- Decompile time: 0.23 ms
 
 return {
     title = "Harbinger",

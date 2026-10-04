@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Summoner Boss.Animator
--- Decompile time: 0.46 ms
+-- Decompile time: 0.36 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

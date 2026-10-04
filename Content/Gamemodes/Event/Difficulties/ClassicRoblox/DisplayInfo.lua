@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Event.Difficulties.ClassicRoblox.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.22 ms
 
 return {
     Name = "The Classic",

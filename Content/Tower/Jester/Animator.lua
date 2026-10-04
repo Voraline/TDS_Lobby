@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Jester.Animator
--- Decompile time: 8.77 ms
+-- Decompile time: 9.32 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

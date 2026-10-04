@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.removeValues.spec
--- Decompile time: 0.56 ms
+-- Decompile time: 0.47 ms
 
 return function() -- Line: 1
     local removeValues = require(script.Parent.removeValues)

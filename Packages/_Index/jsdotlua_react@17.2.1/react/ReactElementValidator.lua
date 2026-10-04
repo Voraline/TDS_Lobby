@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react@17.2.1.react.ReactElementValidator
--- Decompile time: 11.64 ms
+-- Decompile time: 12.16 ms
 
 local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local Array = v1.Array

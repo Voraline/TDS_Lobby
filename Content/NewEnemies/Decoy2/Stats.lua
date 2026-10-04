@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Decoy2.Stats
--- Decompile time: 0.41 ms
+-- Decompile time: 0.22 ms
 
 return {
     DisplayName = "Decoy",

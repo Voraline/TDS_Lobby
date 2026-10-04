@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useAtomSelector
--- Decompile time: 0.33 ms
+-- Decompile time: 0.81 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Packages.Charm)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Elite Abnormal.Stats
--- Decompile time: 0.14 ms
+-- Decompile time: 0.16 ms
 
 return {
     Speed = 3.5,

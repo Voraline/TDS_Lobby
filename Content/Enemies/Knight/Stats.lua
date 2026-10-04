@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Knight.Stats
--- Decompile time: 0.26 ms
+-- Decompile time: 0.12 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Enum)

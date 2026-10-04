@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.BlackOut
--- Decompile time: 0.85 ms
+-- Decompile time: 1.85 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local BlackOut = require(ReplicatedStorage.Client.Interfaces.Stores.Game.BlackOut)

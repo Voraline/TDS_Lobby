@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.SkillTreeController.SkillTree
--- Decompile time: 19.03 ms
+-- Decompile time: 38.85 ms
 
 local Density, deepAssign, getDeltaTable
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

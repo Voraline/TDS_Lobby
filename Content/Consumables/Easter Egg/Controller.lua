@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Easter Egg.Controller
--- Decompile time: 3.33 ms
+-- Decompile time: 2.86 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

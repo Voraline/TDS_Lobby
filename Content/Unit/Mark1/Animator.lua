@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Mark1.Animator
--- Decompile time: 3.01 ms
+-- Decompile time: 2.51 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

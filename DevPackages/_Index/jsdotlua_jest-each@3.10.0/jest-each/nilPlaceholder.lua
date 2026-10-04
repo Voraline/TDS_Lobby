@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-each@3.10.0.jest-each.nilPlaceholder
--- Decompile time: 0.13 ms
+-- Decompile time: 0.26 ms
 
 local v1 = newproxy(true)
 local v2 = getmetatable(v1)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Elevator.world.ElevatorTimer
--- Decompile time: 6.02 ms
+-- Decompile time: 6.76 ms
 
 game:GetService("CollectionService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

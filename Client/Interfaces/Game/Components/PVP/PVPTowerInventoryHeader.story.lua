@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.PVP.PVPTowerInventoryHeader.story
--- Decompile time: 1.21 ms
+-- Decompile time: 2.91 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PVPTowerInventoryHeader = require(script.Parent.PVPTowerInventoryHeader)

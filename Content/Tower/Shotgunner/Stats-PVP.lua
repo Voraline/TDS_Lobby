@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Shotgunner.Stats-PVP
--- Decompile time: 1.54 ms
+-- Decompile time: 2.17 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

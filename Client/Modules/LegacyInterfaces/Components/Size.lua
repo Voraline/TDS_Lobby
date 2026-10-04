@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LegacyInterfaces.Components.Size
--- Decompile time: 3.25 ms
+-- Decompile time: 6.44 ms
 
 local ParseDescendants
 

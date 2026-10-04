@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Halloween2025.Evil Within
--- Decompile time: 0.16 ms
+-- Decompile time: 0.11 ms
 
 return {
     title = "Evil Within",

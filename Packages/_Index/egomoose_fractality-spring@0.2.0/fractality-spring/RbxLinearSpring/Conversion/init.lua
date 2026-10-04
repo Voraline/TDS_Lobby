@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.egomoose_fractality-spring@0.2.0.fractality-spring.RbxLinearSpring.Conversion
--- Decompile time: 0.93 ms
+-- Decompile time: 0.97 ms
 
 local Color3Luv = require(script.Color3Luv)
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.KingpinHitman.Animator
--- Decompile time: 5.01 ms
+-- Decompile time: 4.60 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

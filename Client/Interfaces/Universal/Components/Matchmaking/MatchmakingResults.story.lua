@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Matchmaking.MatchmakingResults.story
--- Decompile time: 1.37 ms
+-- Decompile time: 3.28 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local MatchmakingResultCard = require(script.Parent.MatchmakingResultCard)

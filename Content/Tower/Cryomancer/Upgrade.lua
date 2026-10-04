@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Cryomancer.Upgrade
--- Decompile time: 1.67 ms
+-- Decompile time: 1.95 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

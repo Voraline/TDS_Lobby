@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.ReactFreeze
--- Decompile time: 0.63 ms
+-- Decompile time: 1.27 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local React = require(ReplicatedStorage.Shared.UI.React)

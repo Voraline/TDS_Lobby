@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.DEFEAT_NUCLEAR_MONSTER
--- Decompile time: 0.39 ms
+-- Decompile time: 0.43 ms
 
 return {
     Reward = "x1 Premium Crate",

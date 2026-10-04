@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Russian.Data
--- Decompile time: 0.09 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "Dance with me comrade!",

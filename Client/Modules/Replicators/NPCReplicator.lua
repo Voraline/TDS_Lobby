@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Replicators.NPCReplicator
--- Decompile time: 44.27 ms
+-- Decompile time: 87.16 ms
 
 local Highlight, Model, scanReplace, v1
 local CollectionService = game:GetService("CollectionService")

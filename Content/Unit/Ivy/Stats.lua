@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Ivy.Stats
--- Decompile time: 0.58 ms
+-- Decompile time: 0.43 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Outpost 16.Animator.Events.Lighting
--- Decompile time: 0.81 ms
+-- Decompile time: 0.71 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = require(ReplicatedStorage.Client.Modules.TweenService)

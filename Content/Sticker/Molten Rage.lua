@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Molten Rage
--- Decompile time: 0.19 ms
+-- Decompile time: 0.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

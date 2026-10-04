@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Lunar Shield.Animator
--- Decompile time: 0.62 ms
+-- Decompile time: 0.56 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

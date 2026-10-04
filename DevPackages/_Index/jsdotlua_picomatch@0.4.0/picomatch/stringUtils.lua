@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_picomatch@0.4.0.picomatch.stringUtils
--- Decompile time: 1.13 ms
+-- Decompile time: 1.28 ms
 
 local Array = (require((script.Parent.Parent:WaitForChild("luau-polyfill")))).Array
 require(script.Parent.Parent:WaitForChild("luau-regexp"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.QuickCmds.QuickCmdsContent
--- Decompile time: 2.51 ms
+-- Decompile time: 6.33 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local NewNetwork = require(ReplicatedStorage.Shared.Modules.NewNetwork)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Freezer.Upgrade
--- Decompile time: 1.84 ms
+-- Decompile time: 1.62 ms
 
 local RunService = game:GetService("RunService")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.UnitAnimators.SentrySkinAnimator
--- Decompile time: 5.70 ms
+-- Decompile time: 12.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

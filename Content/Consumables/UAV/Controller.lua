@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.UAV.Controller
--- Decompile time: 2.01 ms
+-- Decompile time: 1.75 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

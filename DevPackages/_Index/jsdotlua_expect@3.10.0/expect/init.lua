@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_expect@3.10.0.expect
--- Decompile time: 10.39 ms
+-- Decompile time: 19.47 ms
 
 local assertions, hasAssertions
 local v1 = require(script.Parent:WaitForChild("luau-polyfill"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Challenges.JailedTowers
--- Decompile time: 8.88 ms
+-- Decompile time: 8.97 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

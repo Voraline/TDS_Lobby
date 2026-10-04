@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Glitched Giant.Animator
--- Decompile time: 0.40 ms
+-- Decompile time: 0.36 ms
 
 game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

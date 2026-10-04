@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.CatRom.Spline
--- Decompile time: 4.80 ms
+-- Decompile time: 5.06 ms
 
 local GaussLegendre = require(script.Parent.GaussLegendre)
 local Squad = require(script.Parent.Squad)

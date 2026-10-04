@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.TowerTooltip
--- Decompile time: 2.22 ms
+-- Decompile time: 4.51 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useScale = require(ReplicatedStorage.Client.Interfaces.Hooks.useScale)

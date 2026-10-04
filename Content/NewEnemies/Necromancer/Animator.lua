@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Necromancer.Animator
--- Decompile time: 0.69 ms
+-- Decompile time: 0.57 ms
 
 game:GetService("ReplicatedStorage")
 local ReplicatedStorage_2 = game:GetService("ReplicatedStorage")

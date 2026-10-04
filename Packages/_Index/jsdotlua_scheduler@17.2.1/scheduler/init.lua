@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_scheduler@17.2.1.scheduler
--- Decompile time: 1.25 ms
+-- Decompile time: 1.48 ms
 
 local Scheduler = require(script:WaitForChild("Scheduler"))
 

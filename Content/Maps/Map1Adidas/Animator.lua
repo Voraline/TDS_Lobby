@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Map1Adidas.Animator
--- Decompile time: 1.83 ms
+-- Decompile time: 1.98 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Players = game:GetService("Players")

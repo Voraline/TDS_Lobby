@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.PVPLeaderboardController
--- Decompile time: 2.15 ms
+-- Decompile time: 5.37 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ClientAtoms = require(ReplicatedStorage.Shared.Modules.ClientAtoms)

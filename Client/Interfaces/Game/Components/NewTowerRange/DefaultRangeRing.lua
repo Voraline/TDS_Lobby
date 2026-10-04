@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewTowerRange.DefaultRangeRing
--- Decompile time: 0.71 ms
+-- Decompile time: 0.92 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Prompts = require(ReplicatedStorage.Shared.UI.Components.Prompts)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Hardcore.Exorcist
--- Decompile time: 0.18 ms
+-- Decompile time: 0.12 ms
 
 return {
     title = "Exorcist",

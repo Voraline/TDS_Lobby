@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Split.Animator
--- Decompile time: 0.40 ms
+-- Decompile time: 0.37 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EffectsController = require(ReplicatedStorage.Client.Controllers.Game.EffectsController)

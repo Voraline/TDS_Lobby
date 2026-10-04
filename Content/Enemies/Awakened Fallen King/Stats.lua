@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Awakened Fallen King.Stats
--- Decompile time: 0.21 ms
+-- Decompile time: 0.20 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.PlayerRegions
--- Decompile time: 2.28 ms
+-- Decompile time: 2.21 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

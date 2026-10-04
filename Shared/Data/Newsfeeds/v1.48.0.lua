@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Newsfeeds.v1.48.0
--- Decompile time: 0.54 ms
+-- Decompile time: 0.48 ms
 
 return {
     UpdateName = "v1.48.0",

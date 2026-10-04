@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Side Eye Polar Bear
--- Decompile time: 0.18 ms
+-- Decompile time: 0.13 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

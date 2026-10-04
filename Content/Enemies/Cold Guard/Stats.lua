@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Cold Guard.Stats
--- Decompile time: 0.17 ms
+-- Decompile time: 0.21 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Enum)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Bunny Mech.Data
--- Decompile time: 0.22 ms
+-- Decompile time: 0.18 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

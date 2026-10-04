@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Hacker.TowerInformation
--- Decompile time: 1.29 ms
+-- Decompile time: 1.24 ms
 
 return {
     ToolTip = {

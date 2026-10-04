@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.Playtime
--- Decompile time: 4.66 ms
+-- Decompile time: 9.40 ms
 
 local AdService = game:GetService("AdService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Ace Pilot.Animator.SkinEffects
--- Decompile time: 1.38 ms
+-- Decompile time: 1.39 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

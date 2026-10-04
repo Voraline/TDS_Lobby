@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.ClientMapController.Cold Ambush
--- Decompile time: 7.49 ms
+-- Decompile time: 15.01 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

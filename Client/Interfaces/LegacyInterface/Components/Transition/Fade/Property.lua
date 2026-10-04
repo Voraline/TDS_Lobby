@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Components.Transition.Fade.Property
--- Decompile time: 0.98 ms
+-- Decompile time: 2.17 ms
 
 local u0 = {
     ImageLabel = {"BackgroundTransparency", "ImageTransparency"},

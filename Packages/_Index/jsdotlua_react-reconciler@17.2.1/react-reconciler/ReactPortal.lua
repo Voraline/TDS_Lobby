@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactPortal
--- Decompile time: 0.29 ms
+-- Decompile time: 0.32 ms
 
 local REACT_PORTAL_TYPE = require(script.Parent.Parent:WaitForChild("shared")).ReactSymbols.REACT_PORTAL_TYPE
 require(script.Parent.Parent:WaitForChild("shared"))

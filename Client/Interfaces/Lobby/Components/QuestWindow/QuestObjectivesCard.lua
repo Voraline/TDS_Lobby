@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.QuestWindow.QuestObjectivesCard
--- Decompile time: 1.83 ms
+-- Decompile time: 3.58 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local QuestObjectiveList = require(script.Parent.QuestObjectiveList)

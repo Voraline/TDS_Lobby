@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.MapItems.StarCannon.Animator
--- Decompile time: 6.08 ms
+-- Decompile time: 6.64 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

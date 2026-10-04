@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.PVPProfileCard
--- Decompile time: 1.70 ms
+-- Decompile time: 4.77 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PVPCurrentRank = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.PVPProfileCard.PVPCurrentRank)

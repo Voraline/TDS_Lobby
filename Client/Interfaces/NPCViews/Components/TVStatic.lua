@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.NPCViews.Components.TVStatic
--- Decompile time: 6.46 ms
+-- Decompile time: 13.54 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

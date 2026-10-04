@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Shocked
--- Decompile time: 0.24 ms
+-- Decompile time: 0.19 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

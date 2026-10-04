@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_expect@3.10.0.expect.spyMatchers
--- Decompile time: 70.03 ms
+-- Decompile time: 197.08 ms
 
 local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local Array = v1.Array

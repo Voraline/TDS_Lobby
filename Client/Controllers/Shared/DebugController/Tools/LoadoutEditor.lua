@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.DebugController.Tools.LoadoutEditor
--- Decompile time: 3.86 ms
+-- Decompile time: 8.71 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Modules = ReplicatedStorage.Client.Modules

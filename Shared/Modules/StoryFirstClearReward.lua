@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.StoryFirstClearReward
--- Decompile time: 0.52 ms
+-- Decompile time: 0.44 ms
 
 local u0 = {}
 

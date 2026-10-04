@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Molten Monster.Animator
--- Decompile time: 4.86 ms
+-- Decompile time: 5.69 ms
 
 local HttpService = game:GetService("HttpService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_expect@3.10.0.expect.jestMatchersObject_extracted
--- Decompile time: 0.28 ms
+-- Decompile time: 0.65 ms
 
 local Symbol = (require((script.Parent.Parent:WaitForChild("luau-polyfill")))).Symbol
 require(script.Parent:WaitForChild("types"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.NPCUtils
--- Decompile time: 1.66 ms
+-- Decompile time: 1.68 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TimescaleUtilities = require(ReplicatedStorage.Shared.Modules.TimescaleUtilities)

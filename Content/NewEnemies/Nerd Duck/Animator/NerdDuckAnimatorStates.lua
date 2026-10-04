@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Nerd Duck.Animator.NerdDuckAnimatorStates
--- Decompile time: 14.96 ms
+-- Decompile time: 13.32 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

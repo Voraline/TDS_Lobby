@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Medic.Sounds.Fallen
--- Decompile time: 0.15 ms
+-- Decompile time: 0.12 ms
 
 return {
     BeamNormal = {id = 136245735930849, looped = true, volume = 0.3, audioGroup = "Towers"},

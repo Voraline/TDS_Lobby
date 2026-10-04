@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.StoryMode.Chapters.Chapter0.Mission2
--- Decompile time: 0.17 ms
+-- Decompile time: 0.30 ms
 
 return {
     Id = "live-fire",

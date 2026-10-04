@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.PrivateServerPromptController
--- Decompile time: 0.86 ms
+-- Decompile time: 1.28 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Client = ReplicatedStorage:WaitForChild("Client")

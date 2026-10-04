@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Dropdown.story
--- Decompile time: 1.30 ms
+-- Decompile time: 2.51 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Dropdown = require(script.Parent.Dropdown)

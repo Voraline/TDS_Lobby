@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Explosive Ducky.Stats
--- Decompile time: 0.12 ms
+-- Decompile time: 0.11 ms
 
 return {
     Description = "Explosive Ducky exists because Missile Ducky convinced a duckling that the explosive strapped to them was a jetpack. Spoiler alert: It's definitely not a jetpack.",

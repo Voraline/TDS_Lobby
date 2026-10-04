@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Victory's Kiss.Animator
--- Decompile time: 1.04 ms
+-- Decompile time: 0.96 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")

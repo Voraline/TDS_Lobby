@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.rbxts.NewMatchmaking.client
--- Decompile time: 5.05 ms
+-- Decompile time: 4.70 ms
 
 local u2 = _G[script]
 local Signal = u2.import(script, u2.getModule(script, "@rbxts", "beacon").out).Signal

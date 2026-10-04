@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Skills.Versions.SkillsV0
--- Decompile time: 3.89 ms
+-- Decompile time: 3.53 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

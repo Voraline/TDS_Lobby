@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Huevous Hunt.Animator.Events.SphereGlobe
--- Decompile time: 3.35 ms
+-- Decompile time: 2.96 ms
 
 local Lighting = game:GetService("Lighting")
 local RunService = game:GetService("RunService")

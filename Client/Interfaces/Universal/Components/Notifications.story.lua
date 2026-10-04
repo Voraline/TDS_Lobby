@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Notifications.story
--- Decompile time: 1.21 ms
+-- Decompile time: 2.32 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Icons = require(ReplicatedStorage.Client.Interfaces.LegacyInterface.Icons)

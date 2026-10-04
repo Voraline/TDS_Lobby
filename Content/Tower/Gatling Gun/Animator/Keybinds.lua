@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Gatling Gun.Animator.Keybinds
--- Decompile time: 0.95 ms
+-- Decompile time: 0.96 ms
 
 local u0 = {}
 u0.Mobile = {

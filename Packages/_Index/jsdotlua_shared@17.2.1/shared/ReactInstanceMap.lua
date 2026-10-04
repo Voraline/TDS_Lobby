@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.ReactInstanceMap
--- Decompile time: 2.46 ms
+-- Decompile time: 2.89 ms
 
 local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local Error = v1.Error

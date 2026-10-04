@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.ArcPath
--- Decompile time: 9.29 ms
+-- Decompile time: 9.18 ms
 
 local v1 = {}
 

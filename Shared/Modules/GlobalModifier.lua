@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.GlobalModifier
--- Decompile time: 5.01 ms
+-- Decompile time: 4.12 ms
 
 local u0 = {}
 u0.__index = u0

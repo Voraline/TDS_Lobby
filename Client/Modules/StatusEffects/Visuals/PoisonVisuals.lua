@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.Visuals.PoisonVisuals
--- Decompile time: 1.22 ms
+-- Decompile time: 2.50 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Particles = ReplicatedStorage:WaitForChild("Assets"):WaitForChild("Effects"):WaitForChild("Particles")

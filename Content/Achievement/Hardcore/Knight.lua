@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Hardcore.Knight
--- Decompile time: 0.15 ms
+-- Decompile time: 0.11 ms
 
 return {
     title = "Knight",

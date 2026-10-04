@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-snapshot@3.10.0.jest-snapshot.colors
--- Decompile time: 0.17 ms
+-- Decompile time: 0.42 ms
 
 return {
     aForeground2 = 90,

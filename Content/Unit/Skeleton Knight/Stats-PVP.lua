@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Skeleton Knight.Stats-PVP
--- Decompile time: 0.33 ms
+-- Decompile time: 0.22 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

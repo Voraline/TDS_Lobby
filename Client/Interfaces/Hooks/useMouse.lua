@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useMouse
--- Decompile time: 1.01 ms
+-- Decompile time: 1.84 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RuntimeLib = require(((game:GetService("ReplicatedStorage")):WaitForChild("rbxts")):WaitForChild("RuntimeLib"))

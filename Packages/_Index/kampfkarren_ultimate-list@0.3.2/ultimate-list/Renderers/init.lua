@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.kampfkarren_ultimate-list@0.3.2.ultimate-list.Renderers
--- Decompile time: 0.27 ms
+-- Decompile time: 0.25 ms
 
 local v1 = script:FindFirstAncestor("ultimate-list")
 require(v1.Parent.React)

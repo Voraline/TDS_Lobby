@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Summer2025.Difficulties.SummerExperimental.DisplayInfo
--- Decompile time: 0.12 ms
+-- Decompile time: 0.13 ms
 
 return {
     Name = "Summer Event (Experimental)",

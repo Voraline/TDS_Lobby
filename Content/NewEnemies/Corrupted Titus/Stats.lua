@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Corrupted Titus.Stats
--- Decompile time: 0.55 ms
+-- Decompile time: 0.64 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-roblox-shared@3.10.0.jest-roblox-shared.RobloxInstance
--- Decompile time: 4.23 ms
+-- Decompile time: 10.86 ms
 
 local RobloxApiDump = require(script.Parent:WaitForChild("RobloxApiDump"))
 local getType = require(script.Parent.Parent:WaitForChild("jest-get-type")).getType

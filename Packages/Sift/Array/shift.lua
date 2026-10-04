@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.shift
--- Decompile time: 0.28 ms
+-- Decompile time: 0.23 ms
 
 return function(a1, a2) -- Line: 20 -- types: a1: table, a2: number?
     local v1 = #a1

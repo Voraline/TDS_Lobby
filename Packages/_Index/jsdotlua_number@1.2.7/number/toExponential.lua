@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_number@1.2.7.number.toExponential
--- Decompile time: 0.44 ms
+-- Decompile time: 0.43 ms
 
 return function(a1, a2) -- Line: 2 -- types: a2: number?
     local v1 = a1

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.NewYears2026
--- Decompile time: 0.82 ms
+-- Decompile time: 0.95 ms
 
 local v1 = {id = "tower", skin = "2026", tower = "Firework Technician", type = "tower"}
 return (((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Goodbye 2025!")).cost({amount = 650, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", disabled = true, productId = 3494492837})).objective({

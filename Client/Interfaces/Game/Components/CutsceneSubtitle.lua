@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.CutsceneSubtitle
--- Decompile time: 2.49 ms
+-- Decompile time: 2.77 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TextService = game:GetService("TextService")

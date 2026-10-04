@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.EventSplashScreen.Winter2024Event.story
--- Decompile time: 0.43 ms
+-- Decompile time: 0.88 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local React = require(ReplicatedStorage.Shared.UI.React)

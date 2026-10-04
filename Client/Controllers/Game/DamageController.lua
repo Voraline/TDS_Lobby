@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.DamageController
--- Decompile time: 2.35 ms
+-- Decompile time: 4.96 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CrosshairStore = require(ReplicatedStorage.Client.Interfaces.Stores.Game.CrosshairStore)

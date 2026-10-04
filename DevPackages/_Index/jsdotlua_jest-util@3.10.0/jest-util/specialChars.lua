@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-util@3.10.0.jest-util.specialChars
--- Decompile time: 0.11 ms
+-- Decompile time: 0.16 ms
 
 return {
     ARROW = " › ",

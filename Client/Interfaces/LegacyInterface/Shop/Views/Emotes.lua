@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Views.Emotes
--- Decompile time: 2.42 ms
+-- Decompile time: 4.49 ms
 
 local Shared = game:GetService("ReplicatedStorage"):WaitForChild("Shared")
 local Fusion = require(Shared.UI.Fusion)

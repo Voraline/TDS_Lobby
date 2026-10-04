@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.NetworkUtil
--- Decompile time: 1.23 ms
+-- Decompile time: 0.99 ms
 
 local v1 = {}
 local u1 = {}

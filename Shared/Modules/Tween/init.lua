@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Tween
--- Decompile time: 9.96 ms
+-- Decompile time: 9.15 ms
 
 local RunService = game:GetService("RunService")
 local Easing = require(script:WaitForChild("Easing"))

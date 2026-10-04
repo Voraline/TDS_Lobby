@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Cannoneer Elf.Animator
--- Decompile time: 2.50 ms
+-- Decompile time: 2.54 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

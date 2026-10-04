@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Mercenary Base.TowerInformation
--- Decompile time: 3.59 ms
+-- Decompile time: 3.27 ms
 
 return {
     ToolTip = {

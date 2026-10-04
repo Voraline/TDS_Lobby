@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Utility.cleanup
--- Decompile time: 0.51 ms
+-- Decompile time: 0.59 ms
 
 local cleanup
 

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.Components.RestrictedCrateView
--- Decompile time: 0.44 ms
+-- Decompile time: 0.87 ms
 
 local Packages = (game:GetService("ReplicatedStorage")).Packages
 local React = require(Packages.React)

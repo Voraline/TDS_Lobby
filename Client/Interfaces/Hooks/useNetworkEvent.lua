@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useNetworkEvent
--- Decompile time: 0.38 ms
+-- Decompile time: 0.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Network = require(ReplicatedStorage.Shared.Modules.Network)

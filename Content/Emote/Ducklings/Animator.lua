@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Ducklings.Animator
--- Decompile time: 0.92 ms
+-- Decompile time: 0.87 ms
 
 local RunService = game:GetService("RunService")
 local v1 = {}

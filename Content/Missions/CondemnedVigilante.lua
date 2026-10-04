@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.CondemnedVigilante
--- Decompile time: 0.73 ms
+-- Decompile time: 0.95 ms
 
 local v1 = {id = "tower", skin = "Fallen", tower = "Cowboy", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Condemned Vigilante")).cost({amount = 650, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1902866143})).objective({

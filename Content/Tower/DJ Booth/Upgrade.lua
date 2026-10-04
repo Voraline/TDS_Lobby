@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.DJ Booth.Upgrade
--- Decompile time: 2.40 ms
+-- Decompile time: 3.06 ms
 
 local RunService = game:GetService("RunService")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.HackerTowerBilboard.story
--- Decompile time: 0.62 ms
+-- Decompile time: 0.86 ms
 
 local UI = game:GetService("ReplicatedStorage").Shared.UI
 local HackerTowerBilboard = require(script.Parent.HackerTowerBilboard)

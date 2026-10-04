@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.HexTileInfo.story
--- Decompile time: 1.38 ms
+-- Decompile time: 2.25 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local HexTileInfo = require(script.Parent.HexTileInfo)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Damage.Living Weapon
--- Decompile time: 0.14 ms
+-- Decompile time: 0.16 ms
 
 return {
     title = "Living Weapon",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.ToggleButton.story
--- Decompile time: 0.68 ms
+-- Decompile time: 1.25 ms
 
 game:GetService("PolicyService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

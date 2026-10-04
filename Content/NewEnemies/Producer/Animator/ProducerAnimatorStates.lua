@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Producer.Animator.ProducerAnimatorStates
--- Decompile time: 3.80 ms
+-- Decompile time: 3.52 ms
 
 local CaptureService = game:GetService("CaptureService")
 local Lighting = game:GetService("Lighting")

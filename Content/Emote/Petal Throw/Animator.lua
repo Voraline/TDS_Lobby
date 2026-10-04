@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Petal Throw.Animator
--- Decompile time: 0.93 ms
+-- Decompile time: 1.03 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

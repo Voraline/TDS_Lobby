@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Bathroom Approach.Animator
--- Decompile time: 2.33 ms
+-- Decompile time: 2.85 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

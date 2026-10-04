@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LiveEvents.Definitions
--- Decompile time: 7.88 ms
+-- Decompile time: 5.53 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ActionBuilder = require(script.Parent.ActionBuilder)

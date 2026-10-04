@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Charms.Titus Charm
--- Decompile time: 0.39 ms
+-- Decompile time: 0.38 ms
 
 local BadgeService = game:GetService("BadgeService")
 return require(script.Parent.Parent.Parent.Types)({

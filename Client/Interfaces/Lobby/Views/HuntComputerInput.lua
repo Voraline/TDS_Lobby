@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.HuntComputerInput
--- Decompile time: 4.70 ms
+-- Decompile time: 13.65 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Lighting = game:GetService("Lighting")

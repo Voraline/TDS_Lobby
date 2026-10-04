@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_luau-polyfill@1.2.7.luau-polyfill.AssertionError.AssertionError.global
--- Decompile time: 35.40 ms
+-- Decompile time: 37.84 ms
 
 local collections = require(script.Parent.Parent.Parent:WaitForChild("collections"))
 local Array = collections.Array

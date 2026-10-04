@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Goon2.Stats-PVP
--- Decompile time: 0.41 ms
+-- Decompile time: 0.28 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

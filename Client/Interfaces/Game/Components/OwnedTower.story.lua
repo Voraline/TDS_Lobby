@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.OwnedTower.story
--- Decompile time: 1.10 ms
+-- Decompile time: 1.83 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Selection = game:GetService("Selection")

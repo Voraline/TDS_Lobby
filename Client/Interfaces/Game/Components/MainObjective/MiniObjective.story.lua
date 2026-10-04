@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.MainObjective.MiniObjective.story
--- Decompile time: 1.82 ms
+-- Decompile time: 1.41 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local MiniObjective = require(script.Parent.MiniObjective)

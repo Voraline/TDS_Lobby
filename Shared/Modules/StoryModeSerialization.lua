@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.StoryModeSerialization
--- Decompile time: 1.12 ms
+-- Decompile time: 1.02 ms
 
 local copyDeep
 local v1 = {}

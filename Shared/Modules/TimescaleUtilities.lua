@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.TimescaleUtilities
--- Decompile time: 3.51 ms
+-- Decompile time: 2.66 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

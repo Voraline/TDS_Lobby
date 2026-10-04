@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Sack Noob.Stats
--- Decompile time: 0.13 ms
+-- Decompile time: 0.15 ms
 
 return {
     Speed = 2.5,

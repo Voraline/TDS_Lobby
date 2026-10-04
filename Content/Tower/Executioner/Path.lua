@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Executioner.Path
--- Decompile time: 2.52 ms
+-- Decompile time: 2.65 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ArcPath = require(ReplicatedStorage.Shared.Modules.ArcPath)

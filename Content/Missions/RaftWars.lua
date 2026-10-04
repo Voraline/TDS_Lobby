@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.RaftWars
--- Decompile time: 0.88 ms
+-- Decompile time: 0.74 ms
 
 local v1 = {id = "nametag", tag = "Bubbles", type = "nametag"}
 return (((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Raft Wars")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, productId = 3372181604})).objective({

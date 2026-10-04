@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.P3NGU.Stats
--- Decompile time: 0.21 ms
+-- Decompile time: 0.12 ms
 
 return {
     Description = "P3NGU is the latest addition to Nerd Duck's inventions. Powered by cutting-edge bird technology, Nerd Duck based it on a flightless bird concept; something that's completely impossible. After all, a creature that waddles and can't fly couldn't possibly exist, right?",

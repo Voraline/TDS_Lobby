@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Signal
--- Decompile time: 1.80 ms
+-- Decompile time: 1.62 ms
 
 local u0 = {}
 u0.__index = u0

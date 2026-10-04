@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.SpinWheelChances
--- Decompile time: 2.98 ms
+-- Decompile time: 5.55 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

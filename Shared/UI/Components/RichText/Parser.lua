@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Parser
--- Decompile time: 3.51 ms
+-- Decompile time: 3.44 ms
 
 local deepCompare
 

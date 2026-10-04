@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Skins.Badlands Cowboy
--- Decompile time: 0.37 ms
+-- Decompile time: 0.35 ms
 
 local BadgeService = game:GetService("BadgeService")
 return require(script.Parent.Parent.Parent.Types)({

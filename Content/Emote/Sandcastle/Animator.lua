@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Sandcastle.Animator
--- Decompile time: 1.26 ms
+-- Decompile time: 1.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

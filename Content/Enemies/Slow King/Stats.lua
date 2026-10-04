@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Slow King.Stats
--- Decompile time: 0.19 ms
+-- Decompile time: 0.34 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

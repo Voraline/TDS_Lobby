@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Previews.CharmPreview
--- Decompile time: 6.00 ms
+-- Decompile time: 12.85 ms
 
 game:GetService("HttpService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

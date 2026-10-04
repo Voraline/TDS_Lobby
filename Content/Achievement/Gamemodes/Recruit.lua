@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Gamemodes.Recruit
--- Decompile time: 0.12 ms
+-- Decompile time: 0.10 ms
 
 return {
     title = "Recruit",

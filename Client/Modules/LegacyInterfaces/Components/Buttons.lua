@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LegacyInterfaces.Components.Buttons
--- Decompile time: 3.68 ms
+-- Decompile time: 9.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local math = require(ReplicatedStorage.Shared.Modules.Utils.math)

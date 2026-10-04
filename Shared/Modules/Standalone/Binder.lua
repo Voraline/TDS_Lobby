@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Standalone.Binder
--- Decompile time: 0.40 ms
+-- Decompile time: 0.31 ms
 
 local u0 = {}
 u0.__index = u0

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Event.EventThumbnail
--- Decompile time: 0.97 ms
+-- Decompile time: 1.99 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Outline = require(ReplicatedStorage.Client.Interfaces.Universal.Components.Outline)

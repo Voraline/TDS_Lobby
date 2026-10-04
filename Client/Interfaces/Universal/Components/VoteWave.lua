@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.VoteWave
--- Decompile time: 3.27 ms
+-- Decompile time: 7.20 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useMediaQuery = require(ReplicatedStorage.Client.Interfaces.Hooks.useMediaQuery)

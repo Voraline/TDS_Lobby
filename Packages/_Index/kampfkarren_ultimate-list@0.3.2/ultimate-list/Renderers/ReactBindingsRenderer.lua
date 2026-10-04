@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.kampfkarren_ultimate-list@0.3.2.ultimate-list.Renderers.ReactBindingsRenderer
--- Decompile time: 7.12 ms
+-- Decompile time: 4.21 ms
 
 local v1 = script:FindFirstAncestor("ultimate-list")
 require(v1.Dimensions)

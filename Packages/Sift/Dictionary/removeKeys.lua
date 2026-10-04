@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.removeKeys
--- Decompile time: 0.25 ms
+-- Decompile time: 0.34 ms
 
 local copy = require(script.Parent.copy)
 return function(a1, ...) -- Line: 20 -- upvalues: copy (val) -- types: a1: table

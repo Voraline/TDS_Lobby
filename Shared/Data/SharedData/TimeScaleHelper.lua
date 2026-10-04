@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.SharedData.TimeScaleHelper
--- Decompile time: 0.61 ms
+-- Decompile time: 0.58 ms
 
 local u0 = {
     {value = 0, name = "paused"},

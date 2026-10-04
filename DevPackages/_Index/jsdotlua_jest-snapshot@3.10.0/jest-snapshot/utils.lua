@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-snapshot@3.10.0.jest-snapshot.utils
--- Decompile time: 5.03 ms
+-- Decompile time: 12.18 ms
 
 local deepMergeArray
 local v1 = require(script.Parent.Parent:WaitForChild("jest-roblox-shared"))

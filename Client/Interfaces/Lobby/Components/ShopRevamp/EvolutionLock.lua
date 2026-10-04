@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.EvolutionLock
--- Decompile time: 1.17 ms
+-- Decompile time: 2.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerExpUtil = require(ReplicatedStorage.Shared.Modules.TowerExpUtil)

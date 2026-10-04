@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Missions.Commander’s Favorite
--- Decompile time: 0.12 ms
+-- Decompile time: 0.09 ms
 
 return {
     title = "Commander’s Favorite",

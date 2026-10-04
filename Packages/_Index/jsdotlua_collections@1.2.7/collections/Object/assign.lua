@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Object.assign
--- Decompile time: 0.91 ms
+-- Decompile time: 1.35 ms
 
 local None = require(script.Parent:WaitForChild("None"))
 require(script.Parent.Parent.Parent:WaitForChild("es7-types"))

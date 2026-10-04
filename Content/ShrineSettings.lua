@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.ShrineSettings
--- Decompile time: 0.12 ms
+-- Decompile time: 0.08 ms
 
 return {
     randomSpawnIntervalWaves = 10,

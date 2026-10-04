@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Boomer Legacy.Animator
--- Decompile time: 0.41 ms
+-- Decompile time: 0.42 ms
 
 local v1 = {}
 v1.__index = v1

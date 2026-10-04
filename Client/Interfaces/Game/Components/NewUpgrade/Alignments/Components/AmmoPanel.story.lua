@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade.Alignments.Components.AmmoPanel.story
--- Decompile time: 1.48 ms
+-- Decompile time: 1.77 ms
 
 local UI = game:GetService("ReplicatedStorage").Shared.UI
 local AmmoPanel = require(script.Parent.AmmoPanel)

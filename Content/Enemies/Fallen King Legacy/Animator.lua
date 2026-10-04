@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Fallen King Legacy.Animator
--- Decompile time: 3.76 ms
+-- Decompile time: 3.30 ms
 
 local Debris = game:GetService("Debris")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

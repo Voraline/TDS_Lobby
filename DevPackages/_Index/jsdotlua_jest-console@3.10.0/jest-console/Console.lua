@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-console@3.10.0.jest-console.Console
--- Decompile time: 0.93 ms
+-- Decompile time: 1.72 ms
 
 local v1 = {}
 local format = require(script.Parent:WaitForChild("helpers")).format

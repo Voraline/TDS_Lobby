@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Nights.Templates.Halloween2024
--- Decompile time: 3.32 ms
+-- Decompile time: 2.89 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

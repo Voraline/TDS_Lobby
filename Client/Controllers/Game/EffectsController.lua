@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.EffectsController
--- Decompile time: 25.04 ms
+-- Decompile time: 57.46 ms
 
 local Debris = game:GetService("Debris")
 game:GetService("Players")

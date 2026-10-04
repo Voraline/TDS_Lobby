@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Crook Boss.Animator.SkinOverrides.NarratorOverride
--- Decompile time: 3.11 ms
+-- Decompile time: 2.84 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SoundService = game:GetService("SoundService")

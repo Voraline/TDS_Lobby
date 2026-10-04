@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Halloween2025.Exos Nemesis
--- Decompile time: 0.16 ms
+-- Decompile time: 0.12 ms
 
 return {
     title = "Exo’s Nemesis",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.Maps.MapsEntry
--- Decompile time: 2.73 ms
+-- Decompile time: 5.37 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Battlepass = ReplicatedStorage.Client.Interfaces.Lobby.Components.Battlepass

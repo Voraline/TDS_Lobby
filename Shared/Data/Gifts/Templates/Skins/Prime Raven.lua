@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Skins.Prime Raven
--- Decompile time: 0.38 ms
+-- Decompile time: 0.31 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 return require(script.Parent.Parent.Parent.Types)({

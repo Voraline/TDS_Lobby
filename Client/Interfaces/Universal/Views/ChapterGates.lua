@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.ChapterGates
--- Decompile time: 4.30 ms
+-- Decompile time: 8.14 ms
 
 local v1
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

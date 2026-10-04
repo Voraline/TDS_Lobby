@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Fallen Titan.Animator
--- Decompile time: 2.96 ms
+-- Decompile time: 2.55 ms
 
 game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Witch.Stats
--- Decompile time: 0.19 ms
+-- Decompile time: 0.30 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

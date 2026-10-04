@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.PlayerCountdown.story
--- Decompile time: 0.52 ms
+-- Decompile time: 1.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PlayerCountdown = require(script.Parent.PlayerCountdown)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.first
--- Decompile time: 0.19 ms
+-- Decompile time: 0.10 ms
 
 local at = require(script.Parent.at)
 return function(a1) -- Line: 19 -- upvalues: at (val) -- types: a1: table

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Hacker.Stats-PVP.HackerTooltips
--- Decompile time: 0.89 ms
+-- Decompile time: 0.85 ms
 
 return {
     unlockAbility = function(a1) -- Line: 9 -- types: a1: table

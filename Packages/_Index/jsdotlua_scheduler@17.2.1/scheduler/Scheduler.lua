@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_scheduler@17.2.1.scheduler.Scheduler
--- Decompile time: 9.45 ms
+-- Decompile time: 9.50 ms
 
 return function(a1) -- Line: 12
     local u92

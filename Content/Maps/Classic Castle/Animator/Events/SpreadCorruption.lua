@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Castle.Animator.Events.SpreadCorruption
--- Decompile time: 12.21 ms
+-- Decompile time: 12.20 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

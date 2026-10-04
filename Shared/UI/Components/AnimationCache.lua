@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.AnimationCache
--- Decompile time: 0.44 ms
+-- Decompile time: 0.41 ms
 
 local v1 = game:GetService("RunService"):IsServer()
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

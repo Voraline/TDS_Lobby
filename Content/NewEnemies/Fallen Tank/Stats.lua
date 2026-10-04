@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Fallen Tank.Stats
--- Decompile time: 0.15 ms
+-- Decompile time: 0.11 ms
 
 return {
     Speed = 7.5,

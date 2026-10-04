@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Previews.EmotePreview.story
--- Decompile time: 0.54 ms
+-- Decompile time: 1.00 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EmotePreview = require(script.Parent.EmotePreview)

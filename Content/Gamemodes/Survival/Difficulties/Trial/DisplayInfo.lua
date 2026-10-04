@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Survival.Difficulties.Trial.DisplayInfo
--- Decompile time: 0.10 ms
+-- Decompile time: 0.11 ms
 
 return {
     Name = "Trial",

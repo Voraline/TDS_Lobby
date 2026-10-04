@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.VisualEffects.MoneyCollectEffect
--- Decompile time: 1.80 ms
+-- Decompile time: 4.05 ms
 
 local RunService = game:GetService("RunService")
 local v1 = {}

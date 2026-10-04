@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.kampfkarren_ultimate-list@0.3.2.ultimate-list.Components.ScrollingFrame
--- Decompile time: 2.97 ms
+-- Decompile time: 2.64 ms
 
 local RunService = game:GetService("RunService")
 local v1 = script:FindFirstAncestor("ultimate-list")

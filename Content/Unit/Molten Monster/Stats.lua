@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Molten Monster.Stats
--- Decompile time: 0.35 ms
+-- Decompile time: 0.26 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Flair.Rank.Moderator
--- Decompile time: 0.37 ms
+-- Decompile time: 0.35 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

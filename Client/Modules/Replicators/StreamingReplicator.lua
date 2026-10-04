@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Replicators.StreamingReplicator
--- Decompile time: 0.69 ms
+-- Decompile time: 1.62 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TagObserver = require(ReplicatedStorage.Shared.Modules.TagObserver)

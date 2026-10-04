@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.Tutorial
--- Decompile time: 2.07 ms
+-- Decompile time: 3.67 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useFFlag = require(ReplicatedStorage.Client.Interfaces.Hooks.useFFlag)

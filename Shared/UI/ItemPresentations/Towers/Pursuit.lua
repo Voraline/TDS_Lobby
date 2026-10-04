@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ItemPresentations.Towers.Pursuit
--- Decompile time: 1.50 ms
+-- Decompile time: 1.35 ms
 
 local RunService = game:GetService("RunService")
 return {

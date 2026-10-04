@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Unit.story
--- Decompile time: 0.74 ms
+-- Decompile time: 0.92 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ReactRoblox = require(ReplicatedStorage.Shared.UI.ReactRoblox)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Winter2025.Playwright
--- Decompile time: 0.19 ms
+-- Decompile time: 0.18 ms
 
 return {
     title = "Playwright",

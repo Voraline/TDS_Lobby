@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-util@3.10.0.jest-util.pluralize
--- Decompile time: 0.16 ms
+-- Decompile time: 0.30 ms
 
 return {
     default = function(a1, a2) -- Line: 12 -- types: a1: string, a2: number

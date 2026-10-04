@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Protein Shake.Data
--- Decompile time: 0.28 ms
+-- Decompile time: 0.18 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Types.ConsumableTypes)

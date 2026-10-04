@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Nuke.Animator
--- Decompile time: 9.62 ms
+-- Decompile time: 7.46 ms
 
 local HttpService = game:GetService("HttpService")
 local Lighting = game:GetService("Lighting")

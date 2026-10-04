@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.XmasGifts.Templates.gift-4
--- Decompile time: 0.15 ms
+-- Decompile time: 0.31 ms
 
 return require(script.Parent.Parent.Types)({
     name = "gift-4",

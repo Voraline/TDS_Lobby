@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Nerd Ducky
--- Decompile time: 0.30 ms
+-- Decompile time: 0.13 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

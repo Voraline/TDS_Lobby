@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.EmitterManager
--- Decompile time: 17.89 ms
+-- Decompile time: 18.14 ms
 
 local Name, v1
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Elite Voidling.Stats
--- Decompile time: 0.23 ms
+-- Decompile time: 0.17 ms
 
 return {
     DisplayName = "Heavy Voidling",

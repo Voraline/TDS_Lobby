@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Health Cultist.Animator
--- Decompile time: 2.13 ms
+-- Decompile time: 2.50 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

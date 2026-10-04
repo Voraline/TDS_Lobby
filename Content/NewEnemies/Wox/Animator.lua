@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Wox.Animator
--- Decompile time: 11.26 ms
+-- Decompile time: 10.73 ms
 
 local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")

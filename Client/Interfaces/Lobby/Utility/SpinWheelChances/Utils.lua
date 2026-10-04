@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Utility.SpinWheelChances.Utils
--- Decompile time: 0.71 ms
+-- Decompile time: 1.43 ms
 
 local Constants = require(script.Parent.Constants)
 

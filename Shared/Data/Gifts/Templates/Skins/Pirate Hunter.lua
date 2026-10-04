@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Skins.Pirate Hunter
--- Decompile time: 0.40 ms
+-- Decompile time: 0.43 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 return require(script.Parent.Parent.Parent.Types)({

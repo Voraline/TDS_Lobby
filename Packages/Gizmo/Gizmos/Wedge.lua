@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Gizmo.Gizmos.Wedge
--- Decompile time: 1.72 ms
+-- Decompile time: 3.31 ms
 
 local u0 = {}
 u0.__index = u0

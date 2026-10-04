@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.PlayerCountdown
--- Decompile time: 2.34 ms
+-- Decompile time: 5.03 ms
 
 local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")

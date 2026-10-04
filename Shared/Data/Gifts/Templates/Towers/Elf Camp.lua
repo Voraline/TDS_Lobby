@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Towers.Elf Camp
--- Decompile time: 0.36 ms
+-- Decompile time: 0.32 ms
 
 local BadgeService = game:GetService("BadgeService")
 return require(script.Parent.Parent.Parent.Types)({

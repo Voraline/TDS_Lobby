@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Kudos.Animator
--- Decompile time: 0.39 ms
+-- Decompile time: 0.36 ms
 
 local v1 = {}
 v1.__index = v1

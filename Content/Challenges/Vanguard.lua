@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Challenges.Vanguard
--- Decompile time: 4.50 ms
+-- Decompile time: 4.01 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

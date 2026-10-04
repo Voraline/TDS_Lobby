@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.Libraries.FractalitySpring.RbxLinearSpring.Conversion.Color3Luv
--- Decompile time: 2.57 ms
+-- Decompile time: 2.64 ms
 
 local min = math.min
 local v1 = {}

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.AbilityIndicator
--- Decompile time: 0.72 ms
+-- Decompile time: 1.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local AbilityIndicator = require(ReplicatedStorage.Client.Interfaces.Game.Components.AbilityIndicator)

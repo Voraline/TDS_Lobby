@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.every.spec
--- Decompile time: 0.43 ms
+-- Decompile time: 0.52 ms
 
 return function() -- Line: 1
     local every = require(script.Parent.every)

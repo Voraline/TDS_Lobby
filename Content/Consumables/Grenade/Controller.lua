@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Grenade.Controller
--- Decompile time: 2.16 ms
+-- Decompile time: 1.83 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

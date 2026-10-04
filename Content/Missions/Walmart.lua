@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.Walmart
--- Decompile time: 0.59 ms
+-- Decompile time: 0.58 ms
 
 local v1 = {id = "tower", skin = "Discovered", tower = "Farm", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Place Farm. Live Better")).cost({amount = 650, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true})).objective({

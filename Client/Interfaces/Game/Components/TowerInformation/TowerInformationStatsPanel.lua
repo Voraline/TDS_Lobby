@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.TowerInformation.TowerInformationStatsPanel
--- Decompile time: 5.14 ms
+-- Decompile time: 9.92 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Icons = require(ReplicatedStorage.Client.Interfaces.LegacyInterface.Icons)

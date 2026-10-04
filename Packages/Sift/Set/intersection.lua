@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.intersection
--- Decompile time: 0.45 ms
+-- Decompile time: 0.39 ms
 
 return function(...) -- Line: 20
     local v1

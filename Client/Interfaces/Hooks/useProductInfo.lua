@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useProductInfo
--- Decompile time: 0.57 ms
+-- Decompile time: 1.38 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ProductInfoCache = require(ReplicatedStorage.Shared.Modules.ProductInfoCache)

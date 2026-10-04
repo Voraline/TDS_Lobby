@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.CutsceneSkipVote
--- Decompile time: 1.37 ms
+-- Decompile time: 2.61 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Button = require(ReplicatedStorage.Client.Interfaces.Universal.Components.Inventory.Button)

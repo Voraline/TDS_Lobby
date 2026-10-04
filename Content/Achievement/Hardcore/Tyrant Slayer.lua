@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Hardcore.Tyrant Slayer
--- Decompile time: 0.16 ms
+-- Decompile time: 0.13 ms
 
 return {
     title = "Tyrant Slayer",

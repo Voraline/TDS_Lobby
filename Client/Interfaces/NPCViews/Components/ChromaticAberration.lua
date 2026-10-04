@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.NPCViews.Components.ChromaticAberration
--- Decompile time: 3.74 ms
+-- Decompile time: 6.81 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

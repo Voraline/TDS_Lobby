@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Iris.widgets.Format
--- Decompile time: 1.87 ms
+-- Decompile time: 1.96 ms
 
 require(script.Parent.Parent.Types)
 return function(a1, a2) -- Line: 3

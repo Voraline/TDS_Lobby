@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.GlobalModifiers.Weekend
--- Decompile time: 0.79 ms
+-- Decompile time: 1.14 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GameState = require(ReplicatedStorage.Shared.Modules.GameState)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Banlands.Animator.Events.SpeedBoost
--- Decompile time: 0.64 ms
+-- Decompile time: 0.51 ms
 
 local BlockArea = require(script.Parent.Parent.BlockArea)
 return {

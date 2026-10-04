@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Beach Ball.Animator
--- Decompile time: 3.63 ms
+-- Decompile time: 3.67 ms
 
 local RunService = game:GetService("RunService")
 local u6 = Random.new()

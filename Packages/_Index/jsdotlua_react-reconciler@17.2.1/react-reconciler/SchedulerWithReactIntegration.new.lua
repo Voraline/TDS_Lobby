@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.SchedulerWithReactIntegration.new
--- Decompile time: 5.60 ms
+-- Decompile time: 5.26 ms
 
 local Array = require(script.Parent.Parent:WaitForChild("luau-polyfill")).Array
 require(script.Parent:WaitForChild("ReactInternalTypes"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Sledger.Animator
--- Decompile time: 6.45 ms
+-- Decompile time: 5.69 ms
 
 local HttpService = game:GetService("HttpService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

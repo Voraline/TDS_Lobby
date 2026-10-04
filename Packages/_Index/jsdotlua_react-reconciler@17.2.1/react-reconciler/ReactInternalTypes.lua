@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactInternalTypes
--- Decompile time: 0.30 ms
+-- Decompile time: 0.28 ms
 
 require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 require(script.Parent.Parent:WaitForChild("shared"))

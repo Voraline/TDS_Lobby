@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Pls Donate.Animator
--- Decompile time: 2.57 ms
+-- Decompile time: 2.56 ms
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.Visuals.MoltenCorpseVisuals
--- Decompile time: 1.14 ms
+-- Decompile time: 2.34 ms
 
 return {
     onAdded = function(a1, a2) -- Line: 8

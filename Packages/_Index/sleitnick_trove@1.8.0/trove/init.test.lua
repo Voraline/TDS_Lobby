@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.sleitnick_trove@1.8.0.trove.init.test
--- Decompile time: 4.67 ms
+-- Decompile time: 4.14 ms
 
 local ServerScriptService = game:GetService("ServerScriptService")
 require(ServerScriptService.TestRunner.Test)

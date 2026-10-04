@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.Profiler
--- Decompile time: 2.50 ms
+-- Decompile time: 5.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local table = require(ReplicatedStorage.Shared.Modules.Utils.table)

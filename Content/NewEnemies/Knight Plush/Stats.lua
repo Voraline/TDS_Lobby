@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Knight Plush.Stats
--- Decompile time: 0.20 ms
+-- Decompile time: 0.22 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

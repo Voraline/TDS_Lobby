@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Maps.Hardcore.Wrecked Battlefield
--- Decompile time: 0.07 ms
+-- Decompile time: 0.05 ms
 
 return {
     icon = 4537082591,

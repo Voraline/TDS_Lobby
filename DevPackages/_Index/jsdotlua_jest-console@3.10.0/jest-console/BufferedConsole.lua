@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-console@3.10.0.jest-console.BufferedConsole
--- Decompile time: 4.25 ms
+-- Decompile time: 12.91 ms
 
 local v1 = {}
 local v2 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))

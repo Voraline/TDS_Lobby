@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.removeIndices
--- Decompile time: 0.53 ms
+-- Decompile time: 0.38 ms
 
 return function(a1, ...) -- Line: 19 -- types: a1: table
     local v1 = #a1

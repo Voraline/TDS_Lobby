@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Object.keys
--- Decompile time: 0.63 ms
+-- Decompile time: 0.67 ms
 
 local Set = require(script.Parent.Parent:WaitForChild("Set"))
 require(script.Parent.Parent.Parent:WaitForChild("es7-types"))

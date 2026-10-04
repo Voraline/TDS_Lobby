@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Flair.Achievements.Decimator
--- Decompile time: 0.19 ms
+-- Decompile time: 0.29 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

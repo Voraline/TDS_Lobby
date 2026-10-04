@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.flip.spec
--- Decompile time: 0.43 ms
+-- Decompile time: 0.24 ms
 
 return function() -- Line: 1
     local flip = require(script.Parent.flip)

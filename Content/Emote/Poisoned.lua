@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Poisoned
--- Decompile time: 0.21 ms
+-- Decompile time: 0.22 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

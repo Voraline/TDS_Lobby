@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.StoryBook.StoryBook_old
--- Decompile time: 40.70 ms
+-- Decompile time: 93.81 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Content = require(ReplicatedStorage.Shared.Modules.Content)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.LoveLauncher
--- Decompile time: 0.61 ms
+-- Decompile time: 0.58 ms
 
 local v1 = {id = "tower", skin = "Lovestriker", tower = "Rocketeer", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Love Launcher")).cost({amount = 525, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", disabled = true, productId = 2916487374})).objective({

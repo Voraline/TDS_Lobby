@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.removeValues
--- Decompile time: 0.34 ms
+-- Decompile time: 0.28 ms
 
 local toSet = require(script.Parent.toSet)
 return function(a1, ...) -- Line: 20 -- upvalues: toSet (val) -- types: a1: table

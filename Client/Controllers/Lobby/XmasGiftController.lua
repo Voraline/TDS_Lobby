@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.XmasGiftController
--- Decompile time: 11.56 ms
+-- Decompile time: 23.17 ms
 
 local CollectionService = game:GetService("CollectionService")
 game:GetService("ContentProvider")

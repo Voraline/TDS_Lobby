@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Sir Hopsalot.Animator
--- Decompile time: 1.48 ms
+-- Decompile time: 1.66 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

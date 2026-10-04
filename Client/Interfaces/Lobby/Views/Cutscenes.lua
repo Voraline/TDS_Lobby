@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.Cutscenes
--- Decompile time: 0.40 ms
+-- Decompile time: 0.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Cutscenes = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.Cutscenes)

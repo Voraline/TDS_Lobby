@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.Libraries.Trove
--- Decompile time: 4.21 ms
+-- Decompile time: 3.99 ms
 
 local RunService = game:GetService("RunService")
 local u6 = newproxy()

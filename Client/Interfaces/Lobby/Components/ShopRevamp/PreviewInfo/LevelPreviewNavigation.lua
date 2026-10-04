@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.PreviewInfo.LevelPreviewNavigation
--- Decompile time: 3.10 ms
+-- Decompile time: 6.96 ms
 
 local u0 = {}
 

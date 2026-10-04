@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.EventAreaController
--- Decompile time: 2.68 ms
+-- Decompile time: 4.99 ms
 
 local CollectionService = game:GetService("CollectionService")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Skins.Vigilante Gladiator
--- Decompile time: 0.47 ms
+-- Decompile time: 0.36 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 return require(script.Parent.Parent.Parent.Types)({

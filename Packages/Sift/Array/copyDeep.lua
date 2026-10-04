@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.copyDeep
--- Decompile time: 0.25 ms
+-- Decompile time: 0.32 ms
 
 local copyDeep
 

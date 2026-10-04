@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.PreviewInfo
--- Decompile time: 20.35 ms
+-- Decompile time: 43.99 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local Players = game:GetService("Players")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Nightshade.Animator
--- Decompile time: 1.48 ms
+-- Decompile time: 1.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

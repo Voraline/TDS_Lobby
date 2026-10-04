@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Engineer.Animator
--- Decompile time: 11.94 ms
+-- Decompile time: 11.83 ms
 
 local Debris = game:GetService("Debris")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

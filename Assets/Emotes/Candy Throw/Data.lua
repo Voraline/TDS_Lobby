@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Candy Throw.Data
--- Decompile time: 0.09 ms
+-- Decompile time: 0.10 ms
 
 return {
     Description = "Don't ask where I got the basket!",

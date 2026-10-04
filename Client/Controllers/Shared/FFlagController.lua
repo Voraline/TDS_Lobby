@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.FFlagController
--- Decompile time: 1.87 ms
+-- Decompile time: 3.94 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local AttributeSerializer = require(ReplicatedStorage.Shared.Modules.AttributeSerializer)

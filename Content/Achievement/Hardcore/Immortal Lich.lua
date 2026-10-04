@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Hardcore.Immortal Lich
--- Decompile time: 0.19 ms
+-- Decompile time: 0.27 ms
 
 return {
     title = "Immortal Lich",

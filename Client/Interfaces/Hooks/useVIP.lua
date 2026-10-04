@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useVIP
--- Decompile time: 0.19 ms
+-- Decompile time: 0.36 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useGamepass = require(ReplicatedStorage.Client.Interfaces.Hooks.useGamepass)

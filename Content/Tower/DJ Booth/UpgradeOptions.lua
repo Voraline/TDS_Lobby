@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.DJ Booth.UpgradeOptions
--- Decompile time: 0.39 ms
+-- Decompile time: 0.40 ms
 
 return {
     {

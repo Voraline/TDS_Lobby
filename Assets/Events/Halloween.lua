@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Events.Halloween
--- Decompile time: 3.43 ms
+-- Decompile time: 4.30 ms
 
 shared()
 local Session = require("Network").Channel("Session")

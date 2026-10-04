@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.ElevatorConfig
--- Decompile time: 0.62 ms
+-- Decompile time: 0.54 ms
 
 local v1 = {}
 local u33 = table.freeze({

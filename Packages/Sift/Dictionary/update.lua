@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.update
--- Decompile time: 0.31 ms
+-- Decompile time: 0.47 ms
 
 local copy = require(script.Parent.copy)
 return function(a1, a2, a3, a4) -- Line: 30 -- upvalues: copy (val) -- types: a1: table, a3: function?, a4: function?

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.PlaytimeRewards
--- Decompile time: 7.49 ms
+-- Decompile time: 16.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PlaytimeRewardData = require(ReplicatedStorage.Shared.Modules.PlaytimeRewardData)

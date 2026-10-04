@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.littensy_react-charm@0.4.0-rc.4.react-charm
--- Decompile time: 0.62 ms
+-- Decompile time: 0.58 ms
 
 local u2 = require("./Charm")
 local u5 = require("./React")

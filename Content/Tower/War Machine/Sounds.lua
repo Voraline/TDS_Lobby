@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.War Machine.Sounds
--- Decompile time: 0.14 ms
+-- Decompile time: 0.09 ms
 
 return {
     Cannon = 131070686,

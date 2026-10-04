@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.GlowIconButton.story
--- Decompile time: 0.77 ms
+-- Decompile time: 1.31 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GlowIconButton = require(script.Parent.GlowIconButton)

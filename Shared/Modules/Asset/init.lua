@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Asset
--- Decompile time: 0.56 ms
+-- Decompile time: 0.60 ms
 
 local u0 = {}
 local Handlers = script:WaitForChild("Handlers")

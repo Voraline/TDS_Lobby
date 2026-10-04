@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.Catalog.VirtualRows
--- Decompile time: 0.36 ms
+-- Decompile time: 0.88 ms
 
 local LayoutUtils = require(script.Parent.LayoutUtils)
 require(script.Parent.Types)

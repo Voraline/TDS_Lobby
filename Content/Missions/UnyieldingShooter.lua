@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.UnyieldingShooter
--- Decompile time: 0.59 ms
+-- Decompile time: 0.58 ms
 
 local v1 = {id = "tower", skin = "Fallen", tower = "Minigunner", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Unyielding Shooter")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1894538249})).objective({

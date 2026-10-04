@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Frozen.Data
--- Decompile time: 0.09 ms
+-- Decompile time: 0.17 ms
 
 return {
     Description = "You're pretty chill!",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.shuffle
--- Decompile time: 0.35 ms
+-- Decompile time: 0.26 ms
 
 local copy = require(script.Parent.copy)
 return function(a1) -- Line: 19 -- upvalues: copy (val) -- types: a1: table

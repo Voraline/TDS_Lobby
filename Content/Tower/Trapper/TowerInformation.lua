@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Trapper.TowerInformation
--- Decompile time: 1.32 ms
+-- Decompile time: 1.47 ms
 
 return {
     ToolTip = {

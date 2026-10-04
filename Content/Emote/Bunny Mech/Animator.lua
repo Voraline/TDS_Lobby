@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Bunny Mech.Animator
--- Decompile time: 4.18 ms
+-- Decompile time: 4.08 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Animation
--- Decompile time: 4.84 ms
+-- Decompile time: 4.98 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

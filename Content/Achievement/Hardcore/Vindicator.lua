@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Hardcore.Vindicator
--- Decompile time: 0.14 ms
+-- Decompile time: 0.12 ms
 
 return {
     title = "Vindicator",

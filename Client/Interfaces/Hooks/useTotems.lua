@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useTotems
--- Decompile time: 0.56 ms
+-- Decompile time: 1.31 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ContentAssets = require(ReplicatedStorage.Shared.Modules.ContentAssets)

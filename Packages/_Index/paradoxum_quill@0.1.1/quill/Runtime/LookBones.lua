@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.Runtime.LookBones
--- Decompile time: 0.21 ms
+-- Decompile time: 0.18 ms
 
 require(script.Parent.Parent.Types)
 local u6 = {}

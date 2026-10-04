@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Necromancer's Tome.Data
--- Decompile time: 0.61 ms
+-- Decompile time: 0.19 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Types.ConsumableTypes)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.KeyCode
--- Decompile time: 0.65 ms
+-- Decompile time: 0.75 ms
 
 local UserInputService = game:GetService("UserInputService")
 local u5 = {

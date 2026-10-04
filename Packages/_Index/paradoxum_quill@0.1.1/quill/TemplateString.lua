@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.TemplateString
--- Decompile time: 0.31 ms
+-- Decompile time: 0.26 ms
 
 return {
     format = function(a1, a2) -- Line: 9 -- types: a1: string, a2: table?

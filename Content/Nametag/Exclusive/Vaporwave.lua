@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Nametag.Exclusive.Vaporwave
--- Decompile time: 0.15 ms
+-- Decompile time: 0.11 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

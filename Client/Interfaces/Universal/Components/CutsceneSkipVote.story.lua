@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.CutsceneSkipVote.story
--- Decompile time: 0.93 ms
+-- Decompile time: 1.89 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CutsceneSkipVote = require(script.Parent.CutsceneSkipVote)

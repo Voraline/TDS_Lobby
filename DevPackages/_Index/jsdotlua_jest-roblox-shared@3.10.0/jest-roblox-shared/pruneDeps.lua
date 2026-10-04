@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-roblox-shared@3.10.0.jest-roblox-shared.pruneDeps
--- Decompile time: 0.61 ms
+-- Decompile time: 1.24 ms
 
 local u0 = {"JestRoblox._Index.", "@jsdotlua.jest.", "@jsdotlua.promise."}
 local cleanLoadStringStack = require(script.Parent:WaitForChild("cleanLoadStringStack"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.GiftProduct
--- Decompile time: 2.26 ms
+-- Decompile time: 5.00 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Notification = require(ReplicatedStorage.Client.Modules.Universal.Interface.Components.Notification)

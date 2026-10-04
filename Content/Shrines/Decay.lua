@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Shrines.Decay
--- Decompile time: 0.42 ms
+-- Decompile time: 0.41 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

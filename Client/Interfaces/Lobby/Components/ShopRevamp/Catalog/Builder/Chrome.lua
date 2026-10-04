@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.Catalog.Builder.Chrome
--- Decompile time: 0.52 ms
+-- Decompile time: 1.29 ms
 
 require(script.Parent.Parent.Types)
 local VirtualRows = require(script.Parent.Parent.VirtualRows)

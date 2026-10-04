@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Shaker
--- Decompile time: 1.74 ms
+-- Decompile time: 4.03 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CameraShake = require(script:WaitForChild("CameraShake"))

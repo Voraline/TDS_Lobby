@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.flatten.spec
--- Decompile time: 0.86 ms
+-- Decompile time: 0.73 ms
 
 return function() -- Line: 1
     local flatten = require(script.Parent.flatten)

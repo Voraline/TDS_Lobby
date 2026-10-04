@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.UIParticle
--- Decompile time: 3.00 ms
+-- Decompile time: 3.08 ms
 
 game:GetService("RunService")
 local Colllector = require(script.Colllector)

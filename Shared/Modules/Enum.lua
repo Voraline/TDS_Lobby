@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Enum
--- Decompile time: 3.86 ms
+-- Decompile time: 3.09 ms
 
 local v1
 local u278 = Enum

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.LobbyModifierSelector.TopBarModifierButton
--- Decompile time: 3.22 ms
+-- Decompile time: 3.73 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local React = require(ReplicatedStorage.Shared.UI.React)

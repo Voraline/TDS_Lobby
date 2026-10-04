@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Flair.Achievements.Death Touched
--- Decompile time: 0.25 ms
+-- Decompile time: 0.39 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

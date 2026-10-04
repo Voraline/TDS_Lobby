@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.DisconnectionPenaltyController
--- Decompile time: 2.59 ms
+-- Decompile time: 6.55 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Cache = require(ReplicatedStorage.Client.Modules.Cache)

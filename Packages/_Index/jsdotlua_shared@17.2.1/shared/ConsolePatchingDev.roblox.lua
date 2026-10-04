@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.ConsolePatchingDev.roblox
--- Decompile time: 0.87 ms
+-- Decompile time: 0.84 ms
 
 local console = require(script.Parent:WaitForChild("console"))
 local u8 = 0

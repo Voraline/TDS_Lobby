@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Array.isArray
--- Decompile time: 0.66 ms
+-- Decompile time: 0.63 ms
 
 return function(a1) -- Line: 1
     if typeof(a1) ~= "table" then

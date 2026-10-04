@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Unknown.Animator
--- Decompile time: 1.03 ms
+-- Decompile time: 1.11 ms
 
 game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

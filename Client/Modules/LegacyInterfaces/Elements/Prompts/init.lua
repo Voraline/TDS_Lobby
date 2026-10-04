@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LegacyInterfaces.Elements.Prompts
--- Decompile time: 0.47 ms
+-- Decompile time: 0.91 ms
 
 local u0 = {}
 

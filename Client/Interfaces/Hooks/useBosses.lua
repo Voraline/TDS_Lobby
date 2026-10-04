@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useBosses
--- Decompile time: 1.16 ms
+-- Decompile time: 2.01 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CharmUtil = require(ReplicatedStorage.Shared.Modules.CharmUtil)

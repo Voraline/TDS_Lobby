@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.sleitnick_trove@1.8.0.trove
--- Decompile time: 3.98 ms
+-- Decompile time: 4.20 ms
 
 local RunService = game:GetService("RunService")
 local u6 = newproxy()

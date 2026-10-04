@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.CustomProjectile
--- Decompile time: 2.38 ms
+-- Decompile time: 2.27 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

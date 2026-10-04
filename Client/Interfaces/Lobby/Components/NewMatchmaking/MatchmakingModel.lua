@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.NewMatchmaking.MatchmakingModel
--- Decompile time: 8.24 ms
+-- Decompile time: 10.30 ms
 
 local u0 = {}
 local u1 = {"Story", "Survival", "PVP", "Arcade", "Sandbox"}

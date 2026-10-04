@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.usePersist
--- Decompile time: 0.99 ms
+-- Decompile time: 2.00 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PersistController = require(ReplicatedStorage.Client.Controllers.Shared.PersistController)

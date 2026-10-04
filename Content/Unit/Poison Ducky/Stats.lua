@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Poison Ducky.Stats
--- Decompile time: 0.11 ms
+-- Decompile time: 0.08 ms
 
 return {
     Default = {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.reduce
--- Decompile time: 0.29 ms
+-- Decompile time: 0.26 ms
 
 return function(a1, a2, a3) -- Line: 27 -- types: a1: table, a2: function
     local v1 = a3

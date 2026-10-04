@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Krampus
--- Decompile time: 0.16 ms
+-- Decompile time: 0.36 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

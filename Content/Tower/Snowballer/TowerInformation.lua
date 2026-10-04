@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Snowballer.TowerInformation
--- Decompile time: 1.08 ms
+-- Decompile time: 0.91 ms
 
 return {
     ToolTip = {

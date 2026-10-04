@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Lighting.Theater
--- Decompile time: 0.24 ms
+-- Decompile time: 0.23 ms
 
 return {
     ExposureCompensation = 0,

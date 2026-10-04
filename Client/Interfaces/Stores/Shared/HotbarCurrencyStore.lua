@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Shared.HotbarCurrencyStore
--- Decompile time: 0.65 ms
+-- Decompile time: 1.17 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u11, u12 = require(ReplicatedStorage.Packages.Charm).signal({spinWheelShown = false})

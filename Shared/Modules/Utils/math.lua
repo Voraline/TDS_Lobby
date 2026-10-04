@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Utils.math
--- Decompile time: 3.44 ms
+-- Decompile time: 4.02 ms
 
 local round = math.round
 local v1 = {__index = math}

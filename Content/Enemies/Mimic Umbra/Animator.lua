@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Mimic Umbra.Animator
--- Decompile time: 1.31 ms
+-- Decompile time: 1.19 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

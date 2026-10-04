@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Aquaman
--- Decompile time: 0.20 ms
+-- Decompile time: 0.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

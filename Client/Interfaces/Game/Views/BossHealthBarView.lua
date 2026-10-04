@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.BossHealthBarView
--- Decompile time: 3.75 ms
+-- Decompile time: 7.91 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local NewEnemyHealth = require(ReplicatedStorage.Client.Interfaces.Game.Components.NewEnemyHealth)

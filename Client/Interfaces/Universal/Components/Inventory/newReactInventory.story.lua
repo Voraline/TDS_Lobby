@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Inventory.newReactInventory.story
--- Decompile time: 18.33 ms
+-- Decompile time: 42.30 ms
 
 game:GetService("MarketplaceService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

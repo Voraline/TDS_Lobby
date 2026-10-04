@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Ace Pilot.Animator.OverideSkins
--- Decompile time: 0.37 ms
+-- Decompile time: 0.10 ms
 
 return {
     ["Aerial Ace"] = "Default",

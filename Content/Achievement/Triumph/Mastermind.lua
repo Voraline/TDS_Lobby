@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Triumph.Mastermind
--- Decompile time: 0.16 ms
+-- Decompile time: 0.43 ms
 
 return {
     title = "Mastermind",

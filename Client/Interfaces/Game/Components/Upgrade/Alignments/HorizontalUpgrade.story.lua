@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Upgrade.Alignments.HorizontalUpgrade.story
--- Decompile time: 1.73 ms
+-- Decompile time: 3.71 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local React = require(ReplicatedStorage.Shared.UI.React)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.TimescaleButton
--- Decompile time: 3.56 ms
+-- Decompile time: 5.35 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u5 = {

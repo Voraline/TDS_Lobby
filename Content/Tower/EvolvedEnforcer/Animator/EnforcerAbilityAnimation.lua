@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.EvolvedEnforcer.Animator.EnforcerAbilityAnimation
--- Decompile time: 9.86 ms
+-- Decompile time: 9.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

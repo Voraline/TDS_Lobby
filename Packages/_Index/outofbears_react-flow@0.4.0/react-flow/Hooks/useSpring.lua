@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Hooks.useSpring
--- Decompile time: 1.24 ms
+-- Decompile time: 1.53 ms
 
 local SpringValue = require(script.Parent.Parent.Utility.SpringValue)
 require(script.Parent.Parent.Animations.Types.Spring)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Container
--- Decompile time: 0.28 ms
+-- Decompile time: 0.25 ms
 
 local u0 = {}
 

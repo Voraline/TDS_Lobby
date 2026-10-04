@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Graveyard.Animator
--- Decompile time: 4.49 ms
+-- Decompile time: 3.99 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

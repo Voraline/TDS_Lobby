@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.StatusEffects.StatusEffectRegistry.spec
--- Decompile time: 1.77 ms
+-- Decompile time: 1.66 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local JestGlobals = require(ReplicatedStorage.DevPackages.JestGlobals)

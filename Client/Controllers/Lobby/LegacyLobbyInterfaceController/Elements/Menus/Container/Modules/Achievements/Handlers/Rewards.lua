@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.LegacyLobbyInterfaceController.Elements.Menus.Container.Modules.Achievements.Handlers.Rewards
--- Decompile time: 2.77 ms
+-- Decompile time: 6.58 ms
 
 local BadgeService = game:GetService("BadgeService")
 local Players = game:GetService("Players")

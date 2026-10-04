@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.CustomSkinRarityComponent
--- Decompile time: 1.86 ms
+-- Decompile time: 4.00 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local BattlepassStars = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.Battlepass.BattlepassStars)

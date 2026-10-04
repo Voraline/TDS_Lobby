@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Rocketeer.Stats
--- Decompile time: 2.12 ms
+-- Decompile time: 1.68 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

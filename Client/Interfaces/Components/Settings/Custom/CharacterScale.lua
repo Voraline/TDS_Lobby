@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Settings.Custom.CharacterScale
--- Decompile time: 3.02 ms
+-- Decompile time: 6.23 ms
 
 game:GetService("MarketplaceService")
 game:GetService("Players")

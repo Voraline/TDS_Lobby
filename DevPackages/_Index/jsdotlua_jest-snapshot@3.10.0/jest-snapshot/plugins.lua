@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-snapshot@3.10.0.jest-snapshot.plugins
--- Decompile time: 0.35 ms
+-- Decompile time: 0.81 ms
 
 local mockSerializer = require(script.Parent:WaitForChild("mockSerializer"))
 require(script.Parent.Parent:WaitForChild("pretty-format"))

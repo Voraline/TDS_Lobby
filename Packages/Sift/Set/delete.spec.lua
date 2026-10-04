@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.delete.spec
--- Decompile time: 0.41 ms
+-- Decompile time: 0.37 ms
 
 return function() -- Line: 1
     local delete = require(script.Parent.delete)

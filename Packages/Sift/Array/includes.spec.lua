@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.includes.spec
--- Decompile time: 0.26 ms
+-- Decompile time: 0.22 ms
 
 return function() -- Line: 1
     local includes = require(script.Parent.includes)

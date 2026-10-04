@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.CustomPromptController
--- Decompile time: 7.09 ms
+-- Decompile time: 16.32 ms
 
 local Players = game:GetService("Players")
 local ProximityPromptService = game:GetService("ProximityPromptService")

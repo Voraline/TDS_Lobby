@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.EvolvedEnforcer.Animator.Sounds
--- Decompile time: 0.30 ms
+-- Decompile time: 0.20 ms
 
 return {
     Tower = {

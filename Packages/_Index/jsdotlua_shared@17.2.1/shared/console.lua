@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.console
--- Decompile time: 0.29 ms
+-- Decompile time: 0.19 ms
 
 local console = require(script.Parent.Parent:WaitForChild("luau-polyfill")).console
 local consoleWithStackDev = require(script.Parent:WaitForChild("consoleWithStackDev"))

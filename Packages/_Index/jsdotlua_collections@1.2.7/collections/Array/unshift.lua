@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Array.unshift
--- Decompile time: 0.40 ms
+-- Decompile time: 0.36 ms
 
 local __DEV__ = _G.__DEV__
 local isArray = require(script.Parent:WaitForChild("isArray"))

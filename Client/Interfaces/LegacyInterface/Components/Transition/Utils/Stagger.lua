@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Components.Transition.Utils.Stagger
--- Decompile time: 2.26 ms
+-- Decompile time: 4.17 ms
 
 local u0 = {}
 u0.Up = Vector2.new(0, -1)

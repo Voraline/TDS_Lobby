@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Components.Tabs
--- Decompile time: 2.06 ms
+-- Decompile time: 5.11 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Fusion = require(ReplicatedStorage.Shared.UI.Fusion)

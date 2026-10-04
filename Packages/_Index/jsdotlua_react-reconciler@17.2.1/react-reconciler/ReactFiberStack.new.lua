@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberStack.new
--- Decompile time: 1.07 ms
+-- Decompile time: 1.02 ms
 
 local console = require(script.Parent.Parent:WaitForChild("shared")).console
 require(script.Parent:WaitForChild("ReactInternalTypes"))

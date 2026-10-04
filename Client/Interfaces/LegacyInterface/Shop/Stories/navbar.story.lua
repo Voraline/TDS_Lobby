@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Stories.navbar.story
--- Decompile time: 0.80 ms
+-- Decompile time: 1.61 ms
 
 local Components = script.Parent.Parent.Components
 local Fusion = require(game.ReplicatedStorage.Shared.UI.Fusion)

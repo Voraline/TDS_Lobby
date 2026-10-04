@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Failed Gateway.Animator
--- Decompile time: 1.24 ms
+-- Decompile time: 1.17 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

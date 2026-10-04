@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.State.ForValues
--- Decompile time: 7.04 ms
+-- Decompile time: 6.94 ms
 
 local Parent = script.Parent.Parent
 require(Parent.PubTypes)

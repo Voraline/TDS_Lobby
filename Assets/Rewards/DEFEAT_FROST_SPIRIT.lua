@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.DEFEAT_FROST_SPIRIT
--- Decompile time: 0.27 ms
+-- Decompile time: 0.34 ms
 
 return {
     Reward = "400 Exp",

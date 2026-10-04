@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.egomoose_fractality-spring@0.2.0.fractality-spring.CFrameSpring
--- Decompile time: 1.54 ms
+-- Decompile time: 1.50 ms
 
 local RbxLinearSpring = require(script.Parent.RbxLinearSpring)
 local RotationSpring = require(script.Parent.Primitives.RotationSpring)

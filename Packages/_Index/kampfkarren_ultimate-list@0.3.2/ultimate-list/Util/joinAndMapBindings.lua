@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.kampfkarren_ultimate-list@0.3.2.ultimate-list.Util.joinAndMapBindings
--- Decompile time: 0.29 ms
+-- Decompile time: 0.30 ms
 
 local v1 = script:FindFirstAncestor("ultimate-list")
 local React = require(v1.Parent.React)

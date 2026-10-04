@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.SettingsController
--- Decompile time: 0.16 ms
+-- Decompile time: 0.28 ms
 
 local Modules = script:WaitForChild("Modules")
 return {

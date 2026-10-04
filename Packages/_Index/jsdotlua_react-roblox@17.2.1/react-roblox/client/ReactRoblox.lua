@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-roblox@17.2.1.react-roblox.client.ReactRoblox
--- Decompile time: 1.94 ms
+-- Decompile time: 1.79 ms
 
 require(script.Parent.Parent.Parent:WaitForChild("shared"))
 require(script.Parent:WaitForChild("ReactRobloxHostTypes.roblox"))

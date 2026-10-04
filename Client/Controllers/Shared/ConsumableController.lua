@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.ConsumableController
--- Decompile time: 11.95 ms
+-- Decompile time: 27.84 ms
 
 local v1
 local u0 = {}

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.isSubset.spec
--- Decompile time: 0.38 ms
+-- Decompile time: 0.24 ms
 
 return function() -- Line: 1
     local isSubset = require(script.Parent.isSubset)

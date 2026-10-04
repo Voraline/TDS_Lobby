@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_promise@3.5.2.promise.init.spec
--- Decompile time: 43.09 ms
+-- Decompile time: 48.20 ms
 
 return function() -- Line: 1
     local Parent = require(script.Parent)

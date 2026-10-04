@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Frost Hero.Stats
--- Decompile time: 0.18 ms
+-- Decompile time: 0.22 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

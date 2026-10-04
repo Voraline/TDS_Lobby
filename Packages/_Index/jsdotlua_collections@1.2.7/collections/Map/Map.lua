@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Map.Map
--- Decompile time: 3.16 ms
+-- Decompile time: 2.81 ms
 
 local __DEV__ = _G.__DEV__
 local forEach = require((script.Parent.Parent:WaitForChild("Array")):WaitForChild("forEach"))

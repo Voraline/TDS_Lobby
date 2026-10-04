@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Settings.Custom.SkillsEnabled
--- Decompile time: 1.15 ms
+-- Decompile time: 2.01 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useGameStateValue = require(ReplicatedStorage.Client.Interfaces.Hooks.useGameStateValue)

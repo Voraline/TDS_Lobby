@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Mischievous Grinchy
--- Decompile time: 0.16 ms
+-- Decompile time: 0.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

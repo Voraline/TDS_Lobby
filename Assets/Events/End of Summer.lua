@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Events.End of Summer
--- Decompile time: 2.29 ms
+-- Decompile time: 3.44 ms
 
 shared()
 local Session = require("Network").Channel("Session")

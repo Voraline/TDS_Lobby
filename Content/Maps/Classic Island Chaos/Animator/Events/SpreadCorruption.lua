@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Island Chaos.Animator.Events.SpreadCorruption
--- Decompile time: 12.52 ms
+-- Decompile time: 13.09 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

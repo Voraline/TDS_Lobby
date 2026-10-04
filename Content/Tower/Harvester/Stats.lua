@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Harvester.Stats
--- Decompile time: 1.81 ms
+-- Decompile time: 1.64 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.SettingsController.Modules.Game
--- Decompile time: 2.04 ms
+-- Decompile time: 4.31 ms
 
 local Lighting = game:GetService("Lighting")
 game:GetService("MarketplaceService")

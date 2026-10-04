@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Gizmo.Gizmos.Mesh
--- Decompile time: 3.20 ms
+-- Decompile time: 3.01 ms
 
 local function Map(a1, a2, a3, a4, a5) -- Line: 1
     return (a1 - a2) / (a3 - a2) * (a5 - a4) + a4

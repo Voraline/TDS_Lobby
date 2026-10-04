@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Stories.timer.story
--- Decompile time: 0.27 ms
+-- Decompile time: 0.50 ms
 
 local Timer = require(script.Parent.Parent.Components.Timer)
 return function(a1) -- Line: 3 -- upvalues: Timer (val)

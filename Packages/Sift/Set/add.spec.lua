@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.add.spec
--- Decompile time: 0.45 ms
+-- Decompile time: 0.34 ms
 
 return function() -- Line: 1
     local add = require(script.Parent.add)

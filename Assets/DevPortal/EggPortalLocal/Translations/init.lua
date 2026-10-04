@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.DevPortal.EggPortalLocal.Translations
--- Decompile time: 1.47 ms
+-- Decompile time: 1.68 ms
 
 local v1
 local LocalPlayer = (game:GetService("Players")).LocalPlayer

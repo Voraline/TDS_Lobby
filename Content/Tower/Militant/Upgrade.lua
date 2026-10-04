@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Militant.Upgrade
--- Decompile time: 1.64 ms
+-- Decompile time: 1.71 ms
 
 local RunService = game:GetService("RunService")
 return {

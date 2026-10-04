@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.GlitchEventText.story
--- Decompile time: 0.44 ms
+-- Decompile time: 0.88 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GlitchEventText = require(script.Parent.GlitchEventText)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Forest Camp.Animator.Events.Time
--- Decompile time: 2.10 ms
+-- Decompile time: 2.09 ms
 
 local Lighting = game:GetService("Lighting")
 local RunService = game:GetService("RunService")

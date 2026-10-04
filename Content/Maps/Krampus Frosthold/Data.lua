@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Krampus Frosthold.Data
--- Decompile time: 0.41 ms
+-- Decompile time: 0.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

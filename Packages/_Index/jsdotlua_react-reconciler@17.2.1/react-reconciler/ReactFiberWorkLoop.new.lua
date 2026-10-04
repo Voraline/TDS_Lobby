@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberWorkLoop.new
--- Decompile time: 91.66 ms
+-- Decompile time: 90.48 ms
 
 local flushPassiveUnmountEffects, flushWorkAndMicroTasks, u538
 local __DEV__ = _G.__DEV__

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.NewMatchmaking.MatchmakingStyle
--- Decompile time: 1.20 ms
+-- Decompile time: 2.61 ms
 
 local v1 = {
     aspectRatios = {compact = 1.7777777777777777, regular = 1.3333333333333333},

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Stores.Shop
--- Decompile time: 1.82 ms
+-- Decompile time: 3.53 ms
 
 local cloneValue
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

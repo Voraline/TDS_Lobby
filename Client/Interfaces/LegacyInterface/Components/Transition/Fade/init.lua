@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Components.Transition.Fade
--- Decompile time: 0.73 ms
+-- Decompile time: 1.57 ms
 
 local TweenService = game:GetService("TweenService")
 local Property = require(script.Property)

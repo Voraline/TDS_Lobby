@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.UIParticle.Colllector
--- Decompile time: 1.80 ms
+-- Decompile time: 1.64 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Maid = require(ReplicatedStorage.Shared.Modules.Maid)

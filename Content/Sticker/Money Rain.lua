@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Money Rain
--- Decompile time: 0.27 ms
+-- Decompile time: 0.14 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

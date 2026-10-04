@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberReconciler.new
--- Decompile time: 15.21 ms
+-- Decompile time: 13.57 ms
 
 local __DEV__ = _G.__DEV__
 require(script.Parent.Parent:WaitForChild("shared"))

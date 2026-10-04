@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_path@3.10.0.path.path
--- Decompile time: 6.80 ms
+-- Decompile time: 16.58 ms
 
 require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local u9 = {env = {}}

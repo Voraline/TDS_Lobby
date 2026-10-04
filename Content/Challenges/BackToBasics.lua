@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Challenges.BackToBasics
--- Decompile time: 4.35 ms
+-- Decompile time: 4.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

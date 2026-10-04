@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.find.spec
--- Decompile time: 0.77 ms
+-- Decompile time: 0.88 ms
 
 return function() -- Line: 1
     local find = require(script.Parent.find)

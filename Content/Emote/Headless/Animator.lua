@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Headless.Animator
--- Decompile time: 0.24 ms
+-- Decompile time: 0.21 ms
 
 local v1 = {}
 v1.__index = v1

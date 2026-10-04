@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Rift Walker.Animator
--- Decompile time: 8.53 ms
+-- Decompile time: 7.74 ms
 
 local HttpService = game:GetService("HttpService")
 local Lighting = game:GetService("Lighting")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Corrupted Commander.Animator.CorruptedCommanderAnimatorStates
--- Decompile time: 2.88 ms
+-- Decompile time: 2.68 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EmitterManager = require(ReplicatedStorage.Shared.Modules.EmitterManager)

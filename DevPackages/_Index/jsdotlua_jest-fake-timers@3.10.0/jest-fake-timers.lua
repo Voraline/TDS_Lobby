@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-fake-timers@3.10.0.jest-fake-timers
--- Decompile time: 6.43 ms
+-- Decompile time: 14.30 ms
 
 local getType = require(script.Parent:WaitForChild("jest-get-type")).getType
 local ModuleMocker = (require((script.Parent:WaitForChild("jest-mock")))).ModuleMocker

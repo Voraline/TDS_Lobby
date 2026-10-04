@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Party.PartySearch.PartyLevelCap
--- Decompile time: 1.30 ms
+-- Decompile time: 3.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Abbreviate = require(ReplicatedStorage.Shared.Modules.Abbreviate)

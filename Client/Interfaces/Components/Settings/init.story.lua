@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Settings.init.story
--- Decompile time: 0.90 ms
+-- Decompile time: 1.89 ms
 
 local cloneTable
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

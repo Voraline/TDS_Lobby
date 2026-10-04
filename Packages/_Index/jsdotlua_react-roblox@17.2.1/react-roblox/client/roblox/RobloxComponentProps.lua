@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-roblox@17.2.1.react-roblox.client.roblox.RobloxComponentProps
--- Decompile time: 5.80 ms
+-- Decompile time: 5.74 ms
 
 local __DEV__ = _G.__DEV__
 local CollectionService = game:GetService("CollectionService")

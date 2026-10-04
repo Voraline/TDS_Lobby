@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface
--- Decompile time: 3.17 ms
+-- Decompile time: 9.41 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Players = game:GetService("Players")

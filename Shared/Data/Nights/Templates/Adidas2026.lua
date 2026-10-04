@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Nights.Templates.Adidas2026
--- Decompile time: 1.27 ms
+-- Decompile time: 1.17 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Parent_2 = script.Parent.Parent

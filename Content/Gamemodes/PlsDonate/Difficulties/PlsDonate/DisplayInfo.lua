@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.PlsDonate.Difficulties.PlsDonate.DisplayInfo
--- Decompile time: 0.13 ms
+-- Decompile time: 0.09 ms
 
 return {
     Name = "PlsDonate",

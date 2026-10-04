@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Tutorial.Tutorial.story
--- Decompile time: 0.41 ms
+-- Decompile time: 0.86 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TutorialWindow = require(script.Parent).TutorialWindow

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Unholy Storm.Controller
--- Decompile time: 1.52 ms
+-- Decompile time: 1.27 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

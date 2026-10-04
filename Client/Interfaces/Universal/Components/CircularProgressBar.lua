@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.CircularProgressBar
--- Decompile time: 2.58 ms
+-- Decompile time: 5.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Client.Interfaces.Lobby.Components.Party.Background)

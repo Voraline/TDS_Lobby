@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.Tooltips
--- Decompile time: 3.72 ms
+-- Decompile time: 7.11 ms
 
 local GuiService = game:GetService("GuiService")
 local Players = game:GetService("Players")

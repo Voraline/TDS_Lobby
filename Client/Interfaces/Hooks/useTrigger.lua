@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useTrigger
--- Decompile time: 0.34 ms
+-- Decompile time: 0.69 ms
 
 local UI = (game:GetService("ReplicatedStorage")).Shared.UI
 local React = require(UI.React)

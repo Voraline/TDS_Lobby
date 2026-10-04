@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.InventoryView
--- Decompile time: 41.48 ms
+-- Decompile time: 92.95 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local Players = game:GetService("Players")

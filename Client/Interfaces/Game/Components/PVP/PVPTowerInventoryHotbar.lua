@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.PVP.PVPTowerInventoryHotbar
--- Decompile time: 5.94 ms
+-- Decompile time: 12.46 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Consumables = require(ReplicatedStorage.Shared.Modules.Asset.Handlers.Consumables)

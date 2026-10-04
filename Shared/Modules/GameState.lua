@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.GameState
--- Decompile time: 12.38 ms
+-- Decompile time: 11.50 ms
 
 local HealthPerTeam, HealthPerTeam_2, v1
 local v2 = game:GetService("RunService"):IsServer()

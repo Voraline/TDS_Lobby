@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.pepeeltoro41_ui-labs@2.4.2.ui-labs.Controls.ControlUtils
--- Decompile time: 0.23 ms
+-- Decompile time: 0.21 ms
 
 local ControlConversion = require(script.Parent.ControlConversion)
 return {

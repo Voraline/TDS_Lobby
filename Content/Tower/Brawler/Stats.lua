@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Brawler.Stats
--- Decompile time: 2.10 ms
+-- Decompile time: 2.05 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

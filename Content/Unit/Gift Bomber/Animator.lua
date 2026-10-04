@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Gift Bomber.Animator
--- Decompile time: 1.59 ms
+-- Decompile time: 1.55 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

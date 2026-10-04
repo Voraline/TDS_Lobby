@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Inventory.Loadout.story
--- Decompile time: 0.81 ms
+-- Decompile time: 1.65 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Loadouts = require(script.Parent.Loadouts)

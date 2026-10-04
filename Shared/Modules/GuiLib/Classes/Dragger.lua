@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.GuiLib.Classes.Dragger
--- Decompile time: 1.48 ms
+-- Decompile time: 1.37 ms
 
 local Parent_2 = script.Parent.Parent
 local LazyLoader = require(Parent_2:WaitForChild("LazyLoader"))

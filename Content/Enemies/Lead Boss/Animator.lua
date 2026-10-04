@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Lead Boss.Animator
--- Decompile time: 0.49 ms
+-- Decompile time: 0.40 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

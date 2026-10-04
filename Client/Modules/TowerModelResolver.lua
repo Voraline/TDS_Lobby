@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.TowerModelResolver
--- Decompile time: 10.05 ms
+-- Decompile time: 23.55 ms
 
 local watchFolder
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.MerchShop
--- Decompile time: 3.35 ms
+-- Decompile time: 6.24 ms
 
 local CommerceService = game:GetService("CommerceService")
 local Players = game:GetService("Players")

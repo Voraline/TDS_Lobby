@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Array.concat
--- Decompile time: 0.79 ms
+-- Decompile time: 0.83 ms
 
 local __DEV__ = _G.__DEV__
 local isArray = require(script.Parent:WaitForChild("isArray"))

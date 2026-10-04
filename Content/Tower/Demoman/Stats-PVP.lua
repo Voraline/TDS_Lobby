@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Demoman.Stats-PVP
--- Decompile time: 1.23 ms
+-- Decompile time: 0.97 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

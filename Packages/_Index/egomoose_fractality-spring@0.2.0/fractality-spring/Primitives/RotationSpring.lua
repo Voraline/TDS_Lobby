@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.egomoose_fractality-spring@0.2.0.fractality-spring.Primitives.RotationSpring
--- Decompile time: 6.02 ms
+-- Decompile time: 6.01 ms
 
 local exp = math.exp
 local sin = math.sin

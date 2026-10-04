@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Map.coerceToTable
--- Decompile time: 0.43 ms
+-- Decompile time: 0.35 ms
 
 local Map = require(script.Parent:WaitForChild("Map"))
 local u17 = require(script.Parent.Parent.Parent:WaitForChild("instance-of"))

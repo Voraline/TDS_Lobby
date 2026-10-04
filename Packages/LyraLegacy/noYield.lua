@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.LyraLegacy.noYield
--- Decompile time: 0.33 ms
+-- Decompile time: 0.34 ms
 
 local function resultHandler(a1, a2, ...) -- Line: 10 -- types: a1: thread, a2: boolean
     if not a2 then

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Util.func
--- Decompile time: 0.20 ms
+-- Decompile time: 0.13 ms
 
 return {
     truthy = function() -- Line: 1

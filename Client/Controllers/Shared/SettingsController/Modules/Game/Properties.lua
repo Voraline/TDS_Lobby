@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.SettingsController.Modules.Game.Properties
--- Decompile time: 2.30 ms
+-- Decompile time: 5.41 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum_2 = require(ReplicatedStorage.Shared.Modules.Enum)

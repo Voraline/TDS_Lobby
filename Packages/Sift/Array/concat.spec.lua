@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.concat.spec
--- Decompile time: 1.12 ms
+-- Decompile time: 1.02 ms
 
 return function() -- Line: 1
     local concat = require(script.Parent.concat)

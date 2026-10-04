@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.The Haunted Past.Data
--- Decompile time: 0.52 ms
+-- Decompile time: 0.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

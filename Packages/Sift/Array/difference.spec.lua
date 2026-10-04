@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.difference.spec
--- Decompile time: 0.79 ms
+-- Decompile time: 0.66 ms
 
 return function() -- Line: 1
     local difference = require(script.Parent.difference)

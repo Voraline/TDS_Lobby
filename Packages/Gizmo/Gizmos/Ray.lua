@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Gizmo.Gizmos.Ray
--- Decompile time: 0.66 ms
+-- Decompile time: 1.26 ms
 
 local u0 = {}
 u0.__index = u0

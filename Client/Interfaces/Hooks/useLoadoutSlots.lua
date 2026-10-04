@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useLoadoutSlots
--- Decompile time: 0.29 ms
+-- Decompile time: 0.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SharedGameConstants = require(ReplicatedStorage.Shared.Modules.SharedGameConstants)

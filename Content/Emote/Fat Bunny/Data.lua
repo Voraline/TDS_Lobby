@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Fat Bunny.Data
--- Decompile time: 0.23 ms
+-- Decompile time: 0.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

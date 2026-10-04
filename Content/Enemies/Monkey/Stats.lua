@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Monkey.Stats
--- Decompile time: 0.20 ms
+-- Decompile time: 0.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

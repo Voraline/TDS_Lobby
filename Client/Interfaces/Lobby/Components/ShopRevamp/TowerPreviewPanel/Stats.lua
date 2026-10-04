@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.TowerPreviewPanel.Stats
--- Decompile time: 1.74 ms
+-- Decompile time: 3.66 ms
 
 local deepAssign
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

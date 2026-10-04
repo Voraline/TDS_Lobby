@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.LeaderboardDisplayController
--- Decompile time: 6.18 ms
+-- Decompile time: 12.37 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Players = game:GetService("Players")

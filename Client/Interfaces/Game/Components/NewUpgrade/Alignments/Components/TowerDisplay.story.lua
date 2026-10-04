@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade.Alignments.Components.TowerDisplay.story
--- Decompile time: 3.47 ms
+-- Decompile time: 2.62 ms
 
 local UI = game:GetService("ReplicatedStorage").Shared.UI
 local TowerDisplay = require(script.Parent.TowerDisplay)

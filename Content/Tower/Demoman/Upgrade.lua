@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Demoman.Upgrade
--- Decompile time: 1.17 ms
+-- Decompile time: 1.08 ms
 
 local RunService = game:GetService("RunService")
 return {

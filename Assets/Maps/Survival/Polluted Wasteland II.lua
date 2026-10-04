@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Maps.Survival.Polluted Wasteland II
--- Decompile time: 0.07 ms
+-- Decompile time: 0.05 ms
 
 return {
     Icon = 10404290318,

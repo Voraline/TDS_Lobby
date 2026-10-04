@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.NewNetwork
--- Decompile time: 0.20 ms
+-- Decompile time: 0.17 ms
 
 local RunService = game:GetService("RunService")
 require(script.Types)

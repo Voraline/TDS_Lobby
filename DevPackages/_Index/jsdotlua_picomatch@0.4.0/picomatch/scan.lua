@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_picomatch@0.4.0.picomatch.scan
--- Decompile time: 26.44 ms
+-- Decompile time: 28.93 ms
 
 local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local Boolean = v1.Boolean

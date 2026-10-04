@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Challenges.PollutedWasteland
--- Decompile time: 0.46 ms
+-- Decompile time: 0.44 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

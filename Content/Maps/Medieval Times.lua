@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Medieval Times
--- Decompile time: 0.21 ms
+-- Decompile time: 0.16 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

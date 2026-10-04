@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Jackobot.Stats
--- Decompile time: 0.11 ms
+-- Decompile time: 0.13 ms
 
 return {
     Speed = 1.15,

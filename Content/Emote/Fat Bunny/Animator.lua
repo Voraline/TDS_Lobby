@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Fat Bunny.Animator
--- Decompile time: 1.11 ms
+-- Decompile time: 0.91 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

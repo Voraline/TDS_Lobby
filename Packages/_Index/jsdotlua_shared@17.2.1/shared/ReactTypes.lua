@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.ReactTypes
--- Decompile time: 0.14 ms
+-- Decompile time: 0.11 ms
 
 require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 require(script.Parent:WaitForChild("flowtypes.roblox"))

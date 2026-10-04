@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Trials.ExplodingEnemies
--- Decompile time: 0.17 ms
+-- Decompile time: 0.14 ms
 
 return {
     title = "Exploding Enemies",

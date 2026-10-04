@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Castle.Animator.Events.BeamSworm
--- Decompile time: 1.95 ms
+-- Decompile time: 1.83 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

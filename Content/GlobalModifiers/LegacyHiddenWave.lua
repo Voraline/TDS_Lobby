@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.GlobalModifiers.LegacyHiddenWave
--- Decompile time: 1.73 ms
+-- Decompile time: 1.98 ms
 
 local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")

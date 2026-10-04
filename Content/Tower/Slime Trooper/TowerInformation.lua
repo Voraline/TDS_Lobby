@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Slime Trooper.TowerInformation
--- Decompile time: 0.57 ms
+-- Decompile time: 0.56 ms
 
 return {
     ToolTip = {

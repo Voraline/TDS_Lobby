@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.AirStrike.Animator
--- Decompile time: 9.25 ms
+-- Decompile time: 4.95 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

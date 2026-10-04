@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.LegacyGameInterfaceController.DebugMenu.StatisticsBarChartUI
--- Decompile time: 2.00 ms
+-- Decompile time: 4.16 ms
 
 local u0 = {}
 u0.__index = u0

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.RiseForThePledge
--- Decompile time: 0.76 ms
+-- Decompile time: 0.62 ms
 
 local v1 = {id = "tower", tower = "Firework Technician", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("🇺🇸 Rise for the Pledge!")).cost({amount = 650, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", disabled = true, productId = 3321971891})).objective({

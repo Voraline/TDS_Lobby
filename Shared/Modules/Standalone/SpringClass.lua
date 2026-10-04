@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Standalone.SpringClass
--- Decompile time: 2.57 ms
+-- Decompile time: 2.26 ms
 
 local v1 = {}
 local u1 = tick

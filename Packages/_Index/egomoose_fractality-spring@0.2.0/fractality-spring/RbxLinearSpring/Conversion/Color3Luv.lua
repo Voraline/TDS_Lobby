@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.egomoose_fractality-spring@0.2.0.fractality-spring.RbxLinearSpring.Conversion.Color3Luv
--- Decompile time: 2.79 ms
+-- Decompile time: 2.83 ms
 
 local min = math.min
 local v1 = {}

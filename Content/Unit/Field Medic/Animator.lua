@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Field Medic.Animator
--- Decompile time: 8.64 ms
+-- Decompile time: 8.77 ms
 
 local Debris = game:GetService("Debris")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

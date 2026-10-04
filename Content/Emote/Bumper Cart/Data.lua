@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Bumper Cart.Data
--- Decompile time: 0.27 ms
+-- Decompile time: 0.21 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

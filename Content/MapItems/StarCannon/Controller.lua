@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.MapItems.StarCannon.Controller
--- Decompile time: 2.81 ms
+-- Decompile time: 3.03 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

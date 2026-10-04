@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Purchasables
--- Decompile time: 2.58 ms
+-- Decompile time: 5.75 ms
 
 return {
     Gamepasses = {

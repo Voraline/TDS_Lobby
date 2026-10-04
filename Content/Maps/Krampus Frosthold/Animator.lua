@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Krampus Frosthold.Animator
--- Decompile time: 7.03 ms
+-- Decompile time: 6.36 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

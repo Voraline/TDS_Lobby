@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.LazyLoader
--- Decompile time: 1.29 ms
+-- Decompile time: 1.23 ms
 
 local u0 = {}
 u0.__index = u0

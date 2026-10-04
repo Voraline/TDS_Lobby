@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Startup
--- Decompile time: 1.71 ms
+-- Decompile time: 1.52 ms
 
 local RunService = game:GetService("RunService")
 local Concur = require(script.Parent.Concur)

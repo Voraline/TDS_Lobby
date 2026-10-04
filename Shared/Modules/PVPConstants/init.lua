@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.PVPConstants
--- Decompile time: 2.19 ms
+-- Decompile time: 1.89 ms
 
 local GamemodeWaves
 local RunService = game:GetService("RunService")

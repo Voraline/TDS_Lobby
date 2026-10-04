@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Grizzly.Animator
--- Decompile time: 1.48 ms
+-- Decompile time: 1.60 ms
 
 game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

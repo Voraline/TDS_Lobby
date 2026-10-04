@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.HexTileInfo
--- Decompile time: 12.59 ms
+-- Decompile time: 22.28 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Comma = require(ReplicatedStorage.Shared.UI.Comma)

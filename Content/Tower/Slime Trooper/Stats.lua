@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Slime Trooper.Stats
--- Decompile time: 1.45 ms
+-- Decompile time: 1.35 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

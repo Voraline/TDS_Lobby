@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.CorruptedTitus
--- Decompile time: 0.13 ms
+-- Decompile time: 0.24 ms
 
 return {
     DisplayName = "Corrupted Titus",

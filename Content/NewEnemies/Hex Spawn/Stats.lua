@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Hex Spawn.Stats
--- Decompile time: 0.09 ms
+-- Decompile time: 0.07 ms
 
 return {
     Speed = 3.5,

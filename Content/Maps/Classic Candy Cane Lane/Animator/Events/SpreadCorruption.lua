@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Candy Cane Lane.Animator.Events.SpreadCorruption
--- Decompile time: 12.70 ms
+-- Decompile time: 12.63 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

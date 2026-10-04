@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Hooks.useTween
--- Decompile time: 1.08 ms
+-- Decompile time: 1.19 ms
 
 local Tween = require(script.Parent.Parent.Animations.Types.Tween)
 local React = require(script.Parent.Parent.React)

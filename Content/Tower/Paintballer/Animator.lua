@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Paintballer.Animator
--- Decompile time: 2.03 ms
+-- Decompile time: 2.21 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

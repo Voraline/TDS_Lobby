@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Balloon Kid.Stats
--- Decompile time: 0.22 ms
+-- Decompile time: 0.31 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

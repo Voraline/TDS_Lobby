@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion
--- Decompile time: 0.55 ms
+-- Decompile time: 0.60 ms
 
 if shared.Fusion then
     return shared.Fusion

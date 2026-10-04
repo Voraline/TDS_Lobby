@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Toxic Gunner.Upgrade
--- Decompile time: 0.98 ms
+-- Decompile time: 1.22 ms
 
 local RunService = game:GetService("RunService")
 return {

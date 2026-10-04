@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Cavalry.Animator
--- Decompile time: 1.55 ms
+-- Decompile time: 1.63 ms
 
 local v1 = {}
 v1.__index = v1

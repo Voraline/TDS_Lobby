@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.pepeeltoro41_ui-labs@2.4.2.ui-labs.Environment
--- Decompile time: 0.89 ms
+-- Decompile time: 1.04 ms
 
 local UserInputService = game:GetService("UserInputService")
 local u5 = {EnvGlobalInjectionKey = "__hotreload_env_global_injection__"}

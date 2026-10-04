@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Orange Justice.Data
--- Decompile time: 0.08 ms
+-- Decompile time: 0.06 ms
 
 return {
     Description = "Its also a great workout.",

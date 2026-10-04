@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.EventUtils
--- Decompile time: 0.57 ms
+-- Decompile time: 0.55 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Network = require(script.Parent.Network)

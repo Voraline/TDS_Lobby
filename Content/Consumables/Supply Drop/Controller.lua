@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Supply Drop.Controller
--- Decompile time: 2.57 ms
+-- Decompile time: 3.35 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

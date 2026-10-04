@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ItemPresentations.Towers.Ace Pilot
--- Decompile time: 0.86 ms
+-- Decompile time: 0.87 ms
 
 local RunService = game:GetService("RunService")
 return {

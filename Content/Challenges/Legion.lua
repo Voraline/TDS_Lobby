@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Challenges.Legion
--- Decompile time: 6.01 ms
+-- Decompile time: 5.97 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

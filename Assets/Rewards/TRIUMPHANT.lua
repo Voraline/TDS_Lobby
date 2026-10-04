@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.TRIUMPHANT
--- Decompile time: 0.40 ms
+-- Decompile time: 0.41 ms
 
 return {
     Reward = "x1 Premium Crate",

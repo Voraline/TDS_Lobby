@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Pumpkin Bomb.Data
--- Decompile time: 0.26 ms
+-- Decompile time: 0.39 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Types.ConsumableTypes)

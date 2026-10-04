@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Array.includes
--- Decompile time: 0.37 ms
+-- Decompile time: 0.27 ms
 
 require(script.Parent.Parent.Parent:WaitForChild("es7-types"))
 local indexOf = require(script.Parent:WaitForChild("indexOf"))

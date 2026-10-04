@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_number@1.2.7.number.isNaN
--- Decompile time: 0.14 ms
+-- Decompile time: 0.11 ms
 
 return function(a1) -- Line: 2
     local v1 = false

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Trials.Fog
--- Decompile time: 0.18 ms
+-- Decompile time: 0.14 ms
 
 return {
     title = "Fog",

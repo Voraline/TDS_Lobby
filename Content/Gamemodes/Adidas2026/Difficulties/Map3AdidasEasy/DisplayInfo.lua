@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Adidas2026.Difficulties.Map3AdidasEasy.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.29 ms
 
 return {
     Name = "Adidas Map 3 (Easy)",

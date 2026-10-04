@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Hallow Bones.Animator
--- Decompile time: 0.40 ms
+-- Decompile time: 0.47 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

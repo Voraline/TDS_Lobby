@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LiveEvents.LegacyParameters
--- Decompile time: 7.13 ms
+-- Decompile time: 6.66 ms
 
 local HttpService = game:GetService("HttpService")
 local u5 = {EndlessMaxLength = 500}

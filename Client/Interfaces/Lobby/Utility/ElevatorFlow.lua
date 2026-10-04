@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Utility.ElevatorFlow
--- Decompile time: 0.24 ms
+-- Decompile time: 0.39 ms
 
 return {
     getSetupStep = function(a1, a2, a3, a4) -- Line: 7 -- types: a1: boolean, a2: boolean, a3: boolean, a4: boolean

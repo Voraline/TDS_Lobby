@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Standalone.Quaternion
--- Decompile time: 0.43 ms
+-- Decompile time: 0.36 ms
 
 local new = Vector3.new
 local new_2 = CFrame.new

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.TaskQueue
--- Decompile time: 0.65 ms
+-- Decompile time: 0.66 ms
 
 local u0 = {}
 u0.__index = u0

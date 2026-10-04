@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Eggsplosive.Animator
--- Decompile time: 0.51 ms
+-- Decompile time: 0.50 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

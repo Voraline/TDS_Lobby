@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Views.Shop.story
--- Decompile time: 0.51 ms
+-- Decompile time: 1.04 ms
 
 local Fusion = require(game.ReplicatedStorage.Shared.UI.Fusion)
 local Children = Fusion.Children

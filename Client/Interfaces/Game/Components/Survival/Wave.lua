@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Survival.Wave
--- Decompile time: 2.92 ms
+-- Decompile time: 5.91 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local FakeWaveText = require(ReplicatedStorage.Client.Interfaces.Game.Components.FakeWaveText)

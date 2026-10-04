@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.LegacyGameInterfaceController.GamemodeDebugMenu.DebugNumberStat
--- Decompile time: 0.66 ms
+-- Decompile time: 1.32 ms
 
 local u0 = {}
 u0.__index = u0

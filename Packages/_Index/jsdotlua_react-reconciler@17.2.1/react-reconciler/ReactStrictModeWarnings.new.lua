@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactStrictModeWarnings.new
--- Decompile time: 5.05 ms
+-- Decompile time: 5.17 ms
 
 local console = require(script.Parent.Parent:WaitForChild("shared")).console
 require(script.Parent:WaitForChild("ReactInternalTypes"))

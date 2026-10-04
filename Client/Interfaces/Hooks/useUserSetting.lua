@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useUserSetting
--- Decompile time: 0.40 ms
+-- Decompile time: 1.29 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SettingsStore = require(ReplicatedStorage.Client.Interfaces.Stores.Shared.SettingsStore)

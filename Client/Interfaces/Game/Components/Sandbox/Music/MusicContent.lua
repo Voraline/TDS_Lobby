@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.Music.MusicContent
--- Decompile time: 2.69 ms
+-- Decompile time: 12.53 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local MusicController = require(ReplicatedStorage.Client.Controllers.Shared.MusicController)

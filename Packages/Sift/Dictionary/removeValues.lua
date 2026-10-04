@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.removeValues
--- Decompile time: 0.37 ms
+-- Decompile time: 0.32 ms
 
 local Parent_2 = script.Parent.Parent
 local toSet = require(Parent_2.Array.toSet)

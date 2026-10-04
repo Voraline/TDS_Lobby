@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Mega Slow.Stats
--- Decompile time: 0.21 ms
+-- Decompile time: 0.19 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Scout.Animator
--- Decompile time: 1.23 ms
+-- Decompile time: 2.08 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

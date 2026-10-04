@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.GuiLib.Utilities.Spring
--- Decompile time: 1.62 ms
+-- Decompile time: 1.88 ms
 
 local function getAbsDist(a1, a2) -- Line: 5
     local v1 = a2 - a1

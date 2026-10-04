@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Frost Mage.Stats
--- Decompile time: 0.29 ms
+-- Decompile time: 0.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

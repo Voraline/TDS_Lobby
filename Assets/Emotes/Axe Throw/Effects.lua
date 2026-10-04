@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Axe Throw.Effects
--- Decompile time: 2.33 ms
+-- Decompile time: 2.35 ms
 
 game:GetService("TweenService")
 local RunService = game:GetService("RunService")

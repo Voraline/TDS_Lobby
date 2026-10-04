@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Void Caster.Animator.VoidCasterSounds
--- Decompile time: 0.29 ms
+-- Decompile time: 0.19 ms
 
 return {
     SoundEmitter = {

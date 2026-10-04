@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Scheduler.FixedStep
--- Decompile time: 0.52 ms
+-- Decompile time: 0.46 ms
 
 return function(a1, a2) -- Line: 5 -- types: a1: number, a2: function
     local u2 = 0

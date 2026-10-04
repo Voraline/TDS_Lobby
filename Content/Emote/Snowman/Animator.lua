@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Snowman.Animator
--- Decompile time: 0.56 ms
+-- Decompile time: 0.51 ms
 
 local v1 = {}
 v1.__index = v1

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.TheLittleMedic
--- Decompile time: 0.82 ms
+-- Decompile time: 0.70 ms
 
 local v1 = {id = "nametag", tag = "Mermaid", type = "nametag"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("The Little Medic")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, productId = 3372180525})).objective({

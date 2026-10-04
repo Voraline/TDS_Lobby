@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.FFlag
--- Decompile time: 0.54 ms
+-- Decompile time: 0.57 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local FFlagController = require(ReplicatedStorage.Client.Controllers.Shared.FFlagController)

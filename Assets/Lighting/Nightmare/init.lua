@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Lighting.Nightmare
--- Decompile time: 0.16 ms
+-- Decompile time: 0.28 ms
 
 return {
     ExposureCompensation = -0.75,

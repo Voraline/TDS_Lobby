@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Pyromancer.Animator
--- Decompile time: 5.93 ms
+-- Decompile time: 6.04 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

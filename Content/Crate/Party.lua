@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Crate.Party
--- Decompile time: 0.31 ms
+-- Decompile time: 0.25 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

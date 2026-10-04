@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useIsTutorialMatch
--- Decompile time: 0.29 ms
+-- Decompile time: 0.48 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TutorialMatch = require(ReplicatedStorage.Shared.Modules.TutorialMatch)

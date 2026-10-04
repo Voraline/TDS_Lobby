@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Maps.Survival.Pizza Party
--- Decompile time: 0.07 ms
+-- Decompile time: 0.08 ms
 
 return {
     Icon = 11401458801,

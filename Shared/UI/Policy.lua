@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Policy
--- Decompile time: 0.52 ms
+-- Decompile time: 0.44 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

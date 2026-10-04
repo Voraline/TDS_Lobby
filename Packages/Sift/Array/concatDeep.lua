@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.concatDeep
--- Decompile time: 0.58 ms
+-- Decompile time: 0.56 ms
 
 local Parent_2 = script.Parent.Parent
 local copyDeep = require(script.Parent.copyDeep)

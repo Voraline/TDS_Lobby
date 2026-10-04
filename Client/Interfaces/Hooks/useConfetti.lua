@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useConfetti
--- Decompile time: 0.81 ms
+-- Decompile time: 1.71 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Confetti = require(ReplicatedStorage.Shared.UI.Components.Confetti)

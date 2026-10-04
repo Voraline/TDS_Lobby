@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Elevator.interface.CreateElevator
--- Decompile time: 6.91 ms
+-- Decompile time: 10.54 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ElevatorSizeButton = require(script.Parent.ElevatorSizeButton)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Nuclear Monster.Animator
--- Decompile time: 8.34 ms
+-- Decompile time: 8.80 ms
 
 local v1 = {}
 v1.__index = v1

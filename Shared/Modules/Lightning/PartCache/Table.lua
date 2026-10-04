@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Lightning.PartCache.Table
--- Decompile time: 1.23 ms
+-- Decompile time: 1.27 ms
 
 local u1 = Random.new()
 local u2 = {}

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.EvolvedJuggernaut.TowerInformation
--- Decompile time: 1.57 ms
+-- Decompile time: 1.36 ms
 
 return {
     ToolTip = {

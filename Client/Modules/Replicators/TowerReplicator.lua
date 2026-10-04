@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Replicators.TowerReplicator
--- Decompile time: 45.64 ms
+-- Decompile time: 105.78 ms
 
 local scanReplace
 local Players = game:GetService("Players")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Nametag.Exclusive.Crimson Camo
--- Decompile time: 0.26 ms
+-- Decompile time: 0.11 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

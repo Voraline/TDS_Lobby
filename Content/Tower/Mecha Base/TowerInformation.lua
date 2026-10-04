@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Mecha Base.TowerInformation
--- Decompile time: 0.78 ms
+-- Decompile time: 0.70 ms
 
 local function content(a1) -- Line: 1
     local v1 = {}

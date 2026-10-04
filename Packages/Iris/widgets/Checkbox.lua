@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Iris.widgets.Checkbox
--- Decompile time: 1.85 ms
+-- Decompile time: 1.91 ms
 
 require(script.Parent.Parent.Types)
 return function(a1, a2) -- Line: 3

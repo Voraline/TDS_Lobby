@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.LogBook.Sidebars.EnemySidebar
--- Decompile time: 6.43 ms
+-- Decompile time: 10.53 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

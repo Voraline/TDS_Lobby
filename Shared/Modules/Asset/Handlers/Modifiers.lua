@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Asset.Handlers.Modifiers
--- Decompile time: 0.40 ms
+-- Decompile time: 0.46 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GlobalModifiers = require(ReplicatedStorage.Shared.Modules.Content)("GlobalModifiers")

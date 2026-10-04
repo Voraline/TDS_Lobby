@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.entries.spec
--- Decompile time: 1.07 ms
+-- Decompile time: 0.48 ms
 
 return function() -- Line: 1
     local entries = require(script.Parent.entries)

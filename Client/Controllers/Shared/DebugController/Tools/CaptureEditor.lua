@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.DebugController.Tools.CaptureEditor
--- Decompile time: 1.64 ms
+-- Decompile time: 3.46 ms
 
 local Players = game:GetService("Players")
 require(script.Parent.Types)

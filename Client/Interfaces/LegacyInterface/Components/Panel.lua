@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Components.Panel
--- Decompile time: 0.27 ms
+-- Decompile time: 0.53 ms
 
 local Fusion = require(game.ReplicatedStorage.Shared.UI.Fusion)
 local Elements = require(script.Parent.Elements)

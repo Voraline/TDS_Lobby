@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Holy Hand Grenade Dev.Controller
--- Decompile time: 3.56 ms
+-- Decompile time: 2.93 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Necromancer's Tome.Animator
--- Decompile time: 1.54 ms
+-- Decompile time: 1.84 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EmitterManager = require(ReplicatedStorage.Shared.Modules.EmitterManager)

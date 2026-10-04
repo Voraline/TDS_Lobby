@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useEvent
--- Decompile time: 1.39 ms
+-- Decompile time: 2.76 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useEffect = (require(ReplicatedStorage.Shared.UI.React)).useEffect

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Trials.HealthyEnemies
--- Decompile time: 0.17 ms
+-- Decompile time: 0.15 ms
 
 return {
     title = "Healthy Enemies",

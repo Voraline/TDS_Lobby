@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.HealthTooltip.story
--- Decompile time: 1.14 ms
+-- Decompile time: 1.60 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local HealthTooltip = require(script.Parent.HealthTooltip)

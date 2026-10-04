@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Gladiator.TowerInformation
--- Decompile time: 1.28 ms
+-- Decompile time: 1.00 ms
 
 local function fireAspect(a1) -- Line: 12 -- types: a1: table
     return {

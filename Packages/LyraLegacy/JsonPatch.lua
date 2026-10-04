@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.LyraLegacy.JsonPatch
--- Decompile time: 11.04 ms
+-- Decompile time: 12.26 ms
 
 local generate
 local Tables = require(script.Parent.Tables)

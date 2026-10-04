@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Sledger.TowerInformation
--- Decompile time: 1.09 ms
+-- Decompile time: 0.99 ms
 
 return {
     ToolTip = {

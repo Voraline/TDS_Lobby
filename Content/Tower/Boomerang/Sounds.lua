@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Boomerang.Sounds
--- Decompile time: 0.29 ms
+-- Decompile time: 0.31 ms
 
 return {
     Default = {

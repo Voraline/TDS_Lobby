@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.PartyController
--- Decompile time: 6.19 ms
+-- Decompile time: 12.92 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

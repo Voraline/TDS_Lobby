@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Animation.TweenScheduler
--- Decompile time: 0.87 ms
+-- Decompile time: 0.93 ms
 
 local RunService = game:GetService("RunService")
 local Parent = script.Parent.Parent

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Freezer.Stats
--- Decompile time: 2.04 ms
+-- Decompile time: 1.80 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

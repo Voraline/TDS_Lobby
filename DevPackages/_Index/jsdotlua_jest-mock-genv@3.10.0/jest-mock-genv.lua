@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-mock-genv@3.10.0.jest-mock-genv
--- Decompile time: 1.70 ms
+-- Decompile time: 3.70 ms
 
 require(script.Parent:WaitForChild("luau-polyfill"))
 local v1 = {}

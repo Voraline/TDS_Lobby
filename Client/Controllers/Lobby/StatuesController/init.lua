@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.StatuesController
--- Decompile time: 1.19 ms
+-- Decompile time: 2.58 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Animated = require(script.Types.Animated)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Party.PartyInvite.story
--- Decompile time: 0.87 ms
+-- Decompile time: 2.14 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local InviteContainer = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.Party.Invites.InviteContainer)

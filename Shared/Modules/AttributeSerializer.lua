@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.AttributeSerializer
--- Decompile time: 3.81 ms
+-- Decompile time: 3.13 ms
 
 local CollectionService = game:GetService("CollectionService")
 local HttpService = game:GetService("HttpService")

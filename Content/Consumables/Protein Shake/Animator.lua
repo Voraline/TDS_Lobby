@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Protein Shake.Animator
--- Decompile time: 1.60 ms
+-- Decompile time: 1.36 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

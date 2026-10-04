@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_expect@3.10.0.expect.toThrowMatchers
--- Decompile time: 38.28 ms
+-- Decompile time: 95.75 ms
 
 local getType = require(script.Parent.Parent:WaitForChild("jest-get-type")).getType
 local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Swarmer.Animator
--- Decompile time: 4.52 ms
+-- Decompile time: 4.55 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

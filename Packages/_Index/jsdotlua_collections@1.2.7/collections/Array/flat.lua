@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Array.flat
--- Decompile time: 0.80 ms
+-- Decompile time: 0.71 ms
 
 local flat
 local __DEV__ = _G.__DEV__

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Archer.Animator
--- Decompile time: 8.88 ms
+-- Decompile time: 9.03 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

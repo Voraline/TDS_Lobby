@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_timers@1.2.7.timers.makeIntervalImpl
--- Decompile time: 0.63 ms
+-- Decompile time: 0.85 ms
 
 local u2 = newproxy(false)
 return function(a1) -- Line: 9 -- upvalues: u2 (val)

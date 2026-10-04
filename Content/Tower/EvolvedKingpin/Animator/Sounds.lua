@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.EvolvedKingpin.Animator.Sounds
--- Decompile time: 0.44 ms
+-- Decompile time: 0.26 ms
 
 return {
     BountyClaim = {Default = 87988244260097},

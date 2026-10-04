@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Whistle.Stats
--- Decompile time: 0.25 ms
+-- Decompile time: 0.27 ms
 
 return {
     Description = "",

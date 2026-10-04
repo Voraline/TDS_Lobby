@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useRightClickMenu
--- Decompile time: 0.63 ms
+-- Decompile time: 1.40 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RightClickMenuStore = require(ReplicatedStorage.Client.Interfaces.Stores.Shared.RightClickMenuStore)

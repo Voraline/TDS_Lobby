@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Winter2025.Licensed Technician
--- Decompile time: 0.16 ms
+-- Decompile time: 0.14 ms
 
 return {
     title = "Licensed Technician",

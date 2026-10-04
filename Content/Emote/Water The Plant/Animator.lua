@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Water The Plant.Animator
--- Decompile time: 2.93 ms
+-- Decompile time: 2.67 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Lighting = game:GetService("Lighting")

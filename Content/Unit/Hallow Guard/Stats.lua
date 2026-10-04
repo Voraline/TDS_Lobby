@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Hallow Guard.Stats
--- Decompile time: 0.23 ms
+-- Decompile time: 0.18 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

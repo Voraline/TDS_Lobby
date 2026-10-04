@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useChallenges
--- Decompile time: 0.62 ms
+-- Decompile time: 1.79 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Challenges = require(ReplicatedStorage.Shared.Modules.Asset.Handlers.Challenges)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.CustomPromptController.KeyImageResolver
--- Decompile time: 0.49 ms
+-- Decompile time: 0.99 ms
 
 local UserInputService = game:GetService("UserInputService")
 local KeyMappings = require(script.Parent.KeyMappings)

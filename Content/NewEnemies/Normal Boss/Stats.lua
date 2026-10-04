@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Normal Boss.Stats
--- Decompile time: 0.19 ms
+-- Decompile time: 0.24 ms
 
 return {
     Speed = 2.35,

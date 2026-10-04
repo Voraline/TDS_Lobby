@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.NewMatchmaking.MatchmakingScroll
--- Decompile time: 0.86 ms
+-- Decompile time: 1.71 ms
 
 return {
     isRectVisible = function(a1, a2, a3, a4) -- Line: 3 -- types: a1: userdata, a2: userdata, a3: userdata, a4: userdata

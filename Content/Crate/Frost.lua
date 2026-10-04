@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Crate.Frost
--- Decompile time: 0.32 ms
+-- Decompile time: 0.26 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

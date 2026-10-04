@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LiveEvents.Validation
--- Decompile time: 3.14 ms
+-- Decompile time: 3.32 ms
 
 local Definitions = require(script.Parent.Definitions)
 local LegacyParameters = require(script.Parent.LegacyParameters)

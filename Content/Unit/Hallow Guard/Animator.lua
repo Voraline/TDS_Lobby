@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Hallow Guard.Animator
--- Decompile time: 0.78 ms
+-- Decompile time: 0.57 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

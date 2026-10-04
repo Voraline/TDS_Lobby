@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.WOW
--- Decompile time: 0.18 ms
+-- Decompile time: 0.12 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.Communications
--- Decompile time: 28.23 ms
+-- Decompile time: 61.95 ms
 
 if workspace:WaitForChild("Type").Value ~= "Game" then
     return function() -- Line: 2

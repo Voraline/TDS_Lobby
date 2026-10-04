@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-util@3.10.0.jest-util.testPathPatternToRegExp
--- Decompile time: 0.18 ms
+-- Decompile time: 0.47 ms
 
 local u8 = require(script.Parent.Parent:WaitForChild("luau-regexp"))
 local v1 = {}

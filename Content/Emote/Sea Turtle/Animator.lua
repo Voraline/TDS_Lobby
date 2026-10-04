@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Sea Turtle.Animator
--- Decompile time: 4.02 ms
+-- Decompile time: 3.92 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

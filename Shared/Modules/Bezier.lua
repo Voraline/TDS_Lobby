@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Bezier
--- Decompile time: 4.26 ms
+-- Decompile time: 4.32 ms
 
 local u0 = {}
 u0.__index = u0

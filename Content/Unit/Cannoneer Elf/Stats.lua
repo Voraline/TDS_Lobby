@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Cannoneer Elf.Stats
--- Decompile time: 0.24 ms
+-- Decompile time: 0.20 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Swarmer.Stats
--- Decompile time: 1.76 ms
+-- Decompile time: 1.55 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

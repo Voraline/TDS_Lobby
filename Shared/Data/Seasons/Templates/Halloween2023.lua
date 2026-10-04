@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Seasons.Templates.Halloween2023
--- Decompile time: 1.22 ms
+-- Decompile time: 1.10 ms
 
 local Parent = script.Parent.Parent
 local Types = require(Parent.Types)

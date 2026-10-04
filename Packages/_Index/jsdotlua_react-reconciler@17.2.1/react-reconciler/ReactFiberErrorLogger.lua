@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberErrorLogger
--- Decompile time: 1.46 ms
+-- Decompile time: 1.44 ms
 
 local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local inspect = v1.util.inspect

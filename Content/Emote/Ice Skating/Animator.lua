@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Ice Skating.Animator
--- Decompile time: 3.14 ms
+-- Decompile time: 3.33 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Views.ViewScales
--- Decompile time: 0.09 ms
+-- Decompile time: 0.17 ms
 
 return {
     Home = 0.8,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.evaera_promise@4.0.0.promise.init.spec
--- Decompile time: 35.80 ms
+-- Decompile time: 38.78 ms
 
 return function() -- Line: 1
     local Parent = require(script.Parent)

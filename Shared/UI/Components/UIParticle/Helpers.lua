@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.UIParticle.Helpers
--- Decompile time: 1.16 ms
+-- Decompile time: 1.12 ms
 
 local u1 = Random.new()
 return {

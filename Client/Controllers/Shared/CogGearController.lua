@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.CogGearController
--- Decompile time: 3.51 ms
+-- Decompile time: 6.86 ms
 
 local paint
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

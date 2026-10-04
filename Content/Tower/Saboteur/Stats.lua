@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Saboteur.Stats
--- Decompile time: 2.44 ms
+-- Decompile time: 2.40 ms
 
 local BadgeService = game:GetService("BadgeService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

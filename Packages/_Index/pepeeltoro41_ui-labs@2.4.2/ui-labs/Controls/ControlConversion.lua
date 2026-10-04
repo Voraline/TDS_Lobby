@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.pepeeltoro41_ui-labs@2.4.2.ui-labs.Controls.ControlConversion
--- Decompile time: 0.66 ms
+-- Decompile time: 0.64 ms
 
 local Primitive = require(script.Parent.PrimitiveControls).Primitive
 local DatatypeControls = require(script.Parent.DatatypeControls)

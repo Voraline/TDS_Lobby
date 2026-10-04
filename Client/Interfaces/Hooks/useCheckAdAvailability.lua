@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useCheckAdAvailability
--- Decompile time: 1.09 ms
+-- Decompile time: 2.44 ms
 
 local AdService = game:GetService("AdService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

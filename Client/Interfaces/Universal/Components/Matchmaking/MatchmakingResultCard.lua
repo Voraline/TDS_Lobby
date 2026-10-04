@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Matchmaking.MatchmakingResultCard
--- Decompile time: 7.98 ms
+-- Decompile time: 17.28 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ItemController = require(ReplicatedStorage.Client.Interfaces.LegacyInterface.Controllers.ItemController)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.invokeGuardedCallbackImpl
--- Decompile time: 0.61 ms
+-- Decompile time: 0.53 ms
 
 local describeError = require(script.Parent:WaitForChild("ErrorHandling.roblox")).describeError
 return function(a1, a2, a3, a4, ...) -- Line: 15 -- upvalues: describeError (val)

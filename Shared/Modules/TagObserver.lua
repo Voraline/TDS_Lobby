@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.TagObserver
--- Decompile time: 6.83 ms
+-- Decompile time: 6.81 ms
 
 local CollectionService = game:GetService("CollectionService")
 

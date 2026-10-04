@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Blizzard Bomb.Controller
--- Decompile time: 1.82 ms
+-- Decompile time: 1.55 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

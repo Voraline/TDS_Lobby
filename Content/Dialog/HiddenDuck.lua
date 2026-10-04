@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.HiddenDuck
--- Decompile time: 0.14 ms
+-- Decompile time: 0.12 ms
 
 return {
     DisplayName = "Nerd Duck",

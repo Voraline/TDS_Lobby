@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LegacyInterfaces.Elements.Prompts.Containers.Handlers.Rejoin
--- Decompile time: 3.27 ms
+-- Decompile time: 8.58 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")

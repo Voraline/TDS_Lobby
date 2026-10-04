@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Korblox Deathwalker.Animator
--- Decompile time: 2.08 ms
+-- Decompile time: 2.44 ms
 
 local HttpService = game:GetService("HttpService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

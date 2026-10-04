@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Stories.itemdisplay.story
--- Decompile time: 0.20 ms
+-- Decompile time: 1.04 ms
 
 Components = script.Parent.Parent.Components
 FeaturedItems = require(Components.FeaturedItems)

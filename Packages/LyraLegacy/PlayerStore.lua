@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.LyraLegacy.PlayerStore
--- Decompile time: 3.66 ms
+-- Decompile time: 3.33 ms
 
 local Players = game:GetService("Players")
 require(script.Parent.Log)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Hardcore.Difficulties.Easy.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.09 ms
 
 return {
     Name = "Hardcore",

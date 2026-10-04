@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.SharedControllerFunctions
--- Decompile time: 3.69 ms
+-- Decompile time: 9.02 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PathPlacementCursorController = require(ReplicatedStorage.Client.Controllers.Game.PathPlacementCursorController)

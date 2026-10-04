@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.sort.spec
--- Decompile time: 1.44 ms
+-- Decompile time: 0.84 ms
 
 return function() -- Line: 1
     local sort = require(script.Parent.sort)

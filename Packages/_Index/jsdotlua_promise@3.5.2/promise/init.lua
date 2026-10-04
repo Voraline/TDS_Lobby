@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_promise@3.5.2.promise
--- Decompile time: 28.13 ms
+-- Decompile time: 29.00 ms
 
 local u0 = {__mode = "k"}
 

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.MedalGameMomentsController
--- Decompile time: 3.97 ms
+-- Decompile time: 8.71 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local FFlagController = require(ReplicatedStorage.Client.Controllers.Shared.FFlagController)

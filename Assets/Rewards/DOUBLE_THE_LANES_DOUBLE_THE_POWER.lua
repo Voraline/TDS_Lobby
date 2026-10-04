@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.DOUBLE_THE_LANES_DOUBLE_THE_POWER
--- Decompile time: 0.34 ms
+-- Decompile time: 0.36 ms
 
 return {
     Reward = "x1 Basic Crate",

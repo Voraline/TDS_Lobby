@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.LiveEventEffectsController
--- Decompile time: 20.47 ms
+-- Decompile time: 40.24 ms
 
 game:GetService("CollectionService")
 local Lighting = game:GetService("Lighting")

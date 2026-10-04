@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Challenges.BossRush
--- Decompile time: 13.69 ms
+-- Decompile time: 8.48 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

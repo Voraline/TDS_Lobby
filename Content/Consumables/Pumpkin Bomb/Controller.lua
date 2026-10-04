@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Pumpkin Bomb.Controller
--- Decompile time: 3.76 ms
+-- Decompile time: 2.94 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

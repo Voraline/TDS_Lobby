@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.BSplineCamera
--- Decompile time: 12.01 ms
+-- Decompile time: 26.81 ms
 
 local u0 = {}
 u0.__index = u0

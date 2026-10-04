@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Molotov.Controller
--- Decompile time: 3.21 ms
+-- Decompile time: 2.91 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

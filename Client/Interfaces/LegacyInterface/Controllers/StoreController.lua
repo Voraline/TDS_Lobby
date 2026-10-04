@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Controllers.StoreController
--- Decompile time: 11.55 ms
+-- Decompile time: 23.55 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local Players = game:GetService("Players")

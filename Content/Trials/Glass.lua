@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Trials.Glass
--- Decompile time: 0.16 ms
+-- Decompile time: 0.13 ms
 
 return {
     title = "Glass",

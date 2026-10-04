@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Shared.CutsceneStore
--- Decompile time: 0.86 ms
+-- Decompile time: 2.14 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u12, u13 = (require(ReplicatedStorage.Packages.Charm)).signal({enabled = false, skipEnabled = false, letterboxEnabled = false})

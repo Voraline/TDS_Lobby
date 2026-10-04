@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Fish Spin.Data
--- Decompile time: 0.29 ms
+-- Decompile time: 0.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.None
--- Decompile time: 0.15 ms
+-- Decompile time: 0.11 ms
 
 local v1 = newproxy(true)
 local v2 = getmetatable(v1)

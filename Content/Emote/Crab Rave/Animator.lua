@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Crab Rave.Animator
--- Decompile time: 1.28 ms
+-- Decompile time: 1.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

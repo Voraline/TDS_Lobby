@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.EvolvedEnforcer.TowerInformation
--- Decompile time: 3.03 ms
+-- Decompile time: 2.61 ms
 
 return {
     ToolTip = {},

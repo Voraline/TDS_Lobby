@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LiveEventPresentation
--- Decompile time: 9.28 ms
+-- Decompile time: 19.10 ms
 
 local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")

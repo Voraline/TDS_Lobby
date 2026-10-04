@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.ScreenQuery
--- Decompile time: 0.45 ms
+-- Decompile time: 0.54 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Value = require(ReplicatedStorage.Shared.UI.Fusion).Value

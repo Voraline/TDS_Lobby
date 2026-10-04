@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.ChanceOfDrizzle
--- Decompile time: 0.62 ms
+-- Decompile time: 0.49 ms
 
 local v1 = {id = "tower", skin = "Railgunner", tower = "Ranger", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Chance of Drizzle")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1893635430})).objective({

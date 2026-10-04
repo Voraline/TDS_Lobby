@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.MapItems.SpotLight.Animator
--- Decompile time: 7.54 ms
+-- Decompile time: 7.71 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

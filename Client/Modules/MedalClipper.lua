@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.MedalClipper
--- Decompile time: 1.59 ms
+-- Decompile time: 3.33 ms
 
 local HttpService = game:GetService("HttpService")
 

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.WindShake.VectorMap
--- Decompile time: 7.87 ms
+-- Decompile time: 7.78 ms
 
 local u0 = {}
 u0.__index = u0

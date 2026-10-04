@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Lighting.HuntNight
--- Decompile time: 0.17 ms
+-- Decompile time: 0.22 ms
 
 return {
     ExposureCompensation = -0.75,

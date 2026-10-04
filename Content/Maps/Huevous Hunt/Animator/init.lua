@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Huevous Hunt.Animator
--- Decompile time: 4.23 ms
+-- Decompile time: 3.93 ms
 
 game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

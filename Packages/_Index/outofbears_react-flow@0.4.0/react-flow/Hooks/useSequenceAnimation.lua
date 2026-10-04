@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Hooks.useSequenceAnimation
--- Decompile time: 2.58 ms
+-- Decompile time: 2.88 ms
 
 local Promise = require(script.Parent.Parent.Promise)
 local Animations = require(script.Parent.Parent.Animations)

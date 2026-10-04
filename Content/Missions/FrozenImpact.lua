@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.FrozenImpact
--- Decompile time: 0.74 ms
+-- Decompile time: 0.66 ms
 
 local v1 = {id = "tower", skin = "Fallen", tower = "Sledger", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Frozen Impact")).cost({amount = 650, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1912786757})).objective({

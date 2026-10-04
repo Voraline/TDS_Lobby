@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Elementalist.Animator
--- Decompile time: 7.94 ms
+-- Decompile time: 7.24 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

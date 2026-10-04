@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.DJ Booth.Animator
--- Decompile time: 12.73 ms
+-- Decompile time: 14.32 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

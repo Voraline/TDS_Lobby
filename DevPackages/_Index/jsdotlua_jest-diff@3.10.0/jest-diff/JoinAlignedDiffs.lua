@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-diff@3.10.0.jest-diff.JoinAlignedDiffs
--- Decompile time: 9.98 ms
+-- Decompile time: 21.91 ms
 
 local Array = (require((script.Parent.Parent:WaitForChild("luau-polyfill")))).Array
 local CleanupSemantic = require(script.Parent:WaitForChild("CleanupSemantic"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Components.ItemDisplay
--- Decompile time: 1.02 ms
+-- Decompile time: 2.49 ms
 
 local Fusion = require(game.ReplicatedStorage.Shared.UI.Fusion)
 local New = Fusion.New

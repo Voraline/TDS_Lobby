@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Shaker.CameraShake.CameraShakeInstance
--- Decompile time: 2.42 ms
+-- Decompile time: 6.63 ms
 
 local u0 = {}
 u0.__index = u0

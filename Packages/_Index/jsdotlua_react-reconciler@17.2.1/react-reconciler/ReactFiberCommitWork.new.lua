@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberCommitWork.new
--- Decompile time: 55.71 ms
+-- Decompile time: 58.04 ms
 
 local recursivelyCommitLayoutEffects
 

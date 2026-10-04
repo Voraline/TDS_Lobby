@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Minigunner.Stats-PVP
--- Decompile time: 2.48 ms
+-- Decompile time: 1.90 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

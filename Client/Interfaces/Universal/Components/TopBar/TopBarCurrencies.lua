@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.TopBar.TopBarCurrencies
--- Decompile time: 2.34 ms
+-- Decompile time: 4.94 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Network = require(ReplicatedStorage.Shared.Modules.Network)

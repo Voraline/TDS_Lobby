@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Gladiator.Stats.GladiatorToolTips
--- Decompile time: 2.27 ms
+-- Decompile time: 2.03 ms
 
 local v1 = {}
 

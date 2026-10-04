@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.EventDirector.CommandTargets
--- Decompile time: 1.32 ms
+-- Decompile time: 2.69 ms
 
 require(script.Parent.Types)
 local u5 = {}

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.Void Caster
--- Decompile time: 0.23 ms
+-- Decompile time: 0.20 ms
 
 return {
     Poses = {

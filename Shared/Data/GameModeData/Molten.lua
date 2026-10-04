@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.GameModeData.Molten
--- Decompile time: 0.18 ms
+-- Decompile time: 0.28 ms
 
 return {
     Waves = 35,

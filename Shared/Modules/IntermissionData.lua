@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.IntermissionData
--- Decompile time: 0.52 ms
+-- Decompile time: 0.32 ms
 
 return {
     MAPS = {

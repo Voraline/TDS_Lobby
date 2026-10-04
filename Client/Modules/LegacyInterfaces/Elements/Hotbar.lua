@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LegacyInterfaces.Elements.Hotbar
--- Decompile time: 2.48 ms
+-- Decompile time: 5.14 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local math = require(ReplicatedStorage.Shared.Modules.Utils.math)

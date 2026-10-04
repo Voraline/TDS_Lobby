@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.TopBar.TopBarGiftBox.story
--- Decompile time: 0.61 ms
+-- Decompile time: 1.28 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Giftbox = require(ReplicatedStorage.Client.Controllers.Lobby.LegacyLobbyInterfaceController.Elements.Menus.Container.Modules.Giftbox)

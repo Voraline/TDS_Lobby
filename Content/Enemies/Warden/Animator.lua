@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Warden.Animator
--- Decompile time: 1.88 ms
+-- Decompile time: 1.87 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

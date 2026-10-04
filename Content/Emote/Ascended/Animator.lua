@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Ascended.Animator
--- Decompile time: 1.42 ms
+-- Decompile time: 1.43 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EffectsController = require(ReplicatedStorage.Client.Controllers.Game.EffectsController)

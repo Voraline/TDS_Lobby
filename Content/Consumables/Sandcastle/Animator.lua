@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Sandcastle.Animator
--- Decompile time: 7.16 ms
+-- Decompile time: 4.84 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.InnovationTeleport
--- Decompile time: 0.60 ms
+-- Decompile time: 1.31 ms
 
 game:GetService("BadgeService")
 local Players = game:GetService("Players")

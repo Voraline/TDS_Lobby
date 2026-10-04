@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.create.spec
--- Decompile time: 0.30 ms
+-- Decompile time: 0.34 ms
 
 return function() -- Line: 1
     local create = require(script.Parent.create)

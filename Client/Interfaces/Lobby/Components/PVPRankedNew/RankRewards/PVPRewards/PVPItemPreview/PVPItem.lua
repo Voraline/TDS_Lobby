@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.PVPRankedNew.RankRewards.PVPRewards.PVPItemPreview.PVPItem
--- Decompile time: 6.98 ms
+-- Decompile time: 18.05 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Icons = require(ReplicatedStorage.Client.Interfaces.Icons)

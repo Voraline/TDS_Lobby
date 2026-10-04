@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Logbooks.Keeper of Knowledge
--- Decompile time: 0.12 ms
+-- Decompile time: 0.21 ms
 
 return {
     title = "Keeper of Knowledge",

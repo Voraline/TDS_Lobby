@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Matchmaking.Views.ModeSelection
--- Decompile time: 2.93 ms
+-- Decompile time: 6.28 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Controllers = script.Parent.Parent.Parent.Controllers

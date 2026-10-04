@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.insert
--- Decompile time: 0.55 ms
+-- Decompile time: 0.58 ms
 
 return function(a1, a2, ...) -- Line: 21 -- types: a1: table, a2: number
     local v1 = #a1

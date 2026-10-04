@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Damage Flag.Data
--- Decompile time: 0.77 ms
+-- Decompile time: 0.18 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Types.ConsumableTypes)

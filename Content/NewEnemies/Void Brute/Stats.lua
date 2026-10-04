@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Void Brute.Stats
--- Decompile time: 0.27 ms
+-- Decompile time: 0.21 ms
 
 return {
     Description = "Void Brutes are the strongest fighters of bloomed realms, fallen victim to the whispers of the Void. The power held within the gems strengthened their bodies and gradually began consuming them, solidifying into a singular giant mass that they use as a weapon. They are naturally a bit dumb, and spend most of their time laying in a field of flowers as their bodies slowly turn into stone and gem.",

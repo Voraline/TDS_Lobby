@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Challenges.Badlands
--- Decompile time: 1.13 ms
+-- Decompile time: 0.67 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

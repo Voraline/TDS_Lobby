@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LiveEvents.LiveMessage
--- Decompile time: 0.40 ms
+-- Decompile time: 0.38 ms
 
 local u0 = {MaxLength = 180}
 

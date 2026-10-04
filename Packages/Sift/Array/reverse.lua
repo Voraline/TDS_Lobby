@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.reverse
--- Decompile time: 0.29 ms
+-- Decompile time: 0.21 ms
 
 return function(a1) -- Line: 17 -- types: a1: table
     local v1 = {}

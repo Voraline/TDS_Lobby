@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react@17.2.1.react.createSignal.roblox
--- Decompile time: 0.59 ms
+-- Decompile time: 0.64 ms
 
 return function() -- Line: 36
     local u0 = {}

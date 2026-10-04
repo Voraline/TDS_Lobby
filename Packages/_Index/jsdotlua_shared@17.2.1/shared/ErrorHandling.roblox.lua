@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.ErrorHandling.roblox
--- Decompile time: 0.79 ms
+-- Decompile time: 0.69 ms
 
 local u8 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local Error = u8.Error

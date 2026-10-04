@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.SharedDailyRewards
--- Decompile time: 4.65 ms
+-- Decompile time: 4.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

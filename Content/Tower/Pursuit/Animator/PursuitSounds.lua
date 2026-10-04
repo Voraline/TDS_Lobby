@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Pursuit.Animator.PursuitSounds
--- Decompile time: 0.40 ms
+-- Decompile time: 0.37 ms
 
 return {
     BaseFire = {

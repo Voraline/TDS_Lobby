@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-core@3.10.0.jest-core.TestWatcher
--- Decompile time: 0.89 ms
+-- Decompile time: 1.65 ms
 
 local Object = (require((script.Parent.Parent:WaitForChild("luau-polyfill")))).Object
 local promise = require(script.Parent.Parent:WaitForChild("promise"))

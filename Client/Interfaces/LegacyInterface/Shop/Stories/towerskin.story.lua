@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Stories.towerskin.story
--- Decompile time: 0.58 ms
+-- Decompile time: 2.78 ms
 
 local Children = (require(game.ReplicatedStorage.Shared.UI.Fusion)).Children
 Components = script.Parent.Parent.Components

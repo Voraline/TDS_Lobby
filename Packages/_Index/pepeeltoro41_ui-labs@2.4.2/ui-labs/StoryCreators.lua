@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.pepeeltoro41_ui-labs@2.4.2.ui-labs.StoryCreators
--- Decompile time: 0.80 ms
+-- Decompile time: 0.81 ms
 
 local v1 = {}
 require(script.Parent.Types)

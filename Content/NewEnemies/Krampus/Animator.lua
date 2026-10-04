@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Krampus.Animator
--- Decompile time: 8.32 ms
+-- Decompile time: 9.36 ms
 
 local v1 = {}
 v1.__index = v1

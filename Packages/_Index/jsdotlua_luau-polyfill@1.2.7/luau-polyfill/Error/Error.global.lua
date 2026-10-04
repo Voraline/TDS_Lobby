@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_luau-polyfill@1.2.7.luau-polyfill.Error.Error.global
--- Decompile time: 1.84 ms
+-- Decompile time: 1.89 ms
 
 require(script.Parent.Parent.Parent:WaitForChild("es7-types"))
 local u10 = {}

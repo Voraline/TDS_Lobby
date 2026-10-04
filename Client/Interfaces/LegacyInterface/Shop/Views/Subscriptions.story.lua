@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Views.Subscriptions.story
--- Decompile time: 0.36 ms
+-- Decompile time: 0.74 ms
 
 local Value = (require(game.ReplicatedStorage.Shared.UI.Fusion)).Value
 local Subscriptions = require(script.Parent.Subscriptions)

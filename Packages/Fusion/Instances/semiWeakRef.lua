@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Instances.semiWeakRef
--- Decompile time: 0.55 ms
+-- Decompile time: 1.19 ms
 
 local Parent = script.Parent.Parent
 require(Parent.PubTypes)

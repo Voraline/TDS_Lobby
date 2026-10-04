@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Frost Mystery.Stats
--- Decompile time: 0.32 ms
+-- Decompile time: 0.45 ms
 
 return {
     Scale = 1.1,

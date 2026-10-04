@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Nametag.Exclusive.XmasLights
--- Decompile time: 0.17 ms
+-- Decompile time: 0.11 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.LiveEventDisplay.story
--- Decompile time: 0.90 ms
+-- Decompile time: 2.11 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u7 = require("./LiveEventDisplay")

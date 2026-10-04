@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.CurseSelectedPopup
--- Decompile time: 0.71 ms
+-- Decompile time: 1.70 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CurseVotedFor = require(ReplicatedStorage.Client.Interfaces.Game.Components.CurseVotedFor)

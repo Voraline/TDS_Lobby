@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Party.TabBar.PartyNav
--- Decompile time: 0.88 ms
+-- Decompile time: 1.90 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Navbar = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.Navbar)

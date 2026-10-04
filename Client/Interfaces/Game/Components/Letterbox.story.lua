@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Letterbox.story
--- Decompile time: 0.59 ms
+-- Decompile time: 1.41 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Letterbox = require(ReplicatedStorage.Client.Interfaces.Game.Components.Letterbox)

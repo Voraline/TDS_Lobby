@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Shared.KeybindStore
--- Decompile time: 1.87 ms
+-- Decompile time: 3.51 ms
 
 local v1
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

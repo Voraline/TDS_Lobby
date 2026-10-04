@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Components.Transition
--- Decompile time: 0.67 ms
+-- Decompile time: 1.61 ms
 
 local UI = game:GetService("ReplicatedStorage"):WaitForChild("Shared").UI
 local Binder = require(UI.Components.Binder)

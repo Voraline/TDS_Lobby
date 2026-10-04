@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberCompleteWork.new
--- Decompile time: 34.83 ms
+-- Decompile time: 33.74 ms
 
 local updateHostContainer
 

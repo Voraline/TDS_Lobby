@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Watermark
--- Decompile time: 2.43 ms
+-- Decompile time: 5.12 ms
 
 local repeatTextUntilFullRow, repeatTextUntilMax
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

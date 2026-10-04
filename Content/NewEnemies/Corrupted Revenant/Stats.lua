@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Corrupted Revenant.Stats
--- Decompile time: 0.09 ms
+-- Decompile time: 0.07 ms
 
 return {
     Speed = 2.8,

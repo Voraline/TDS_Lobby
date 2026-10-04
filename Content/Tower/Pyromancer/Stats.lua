@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Pyromancer.Stats
--- Decompile time: 3.69 ms
+-- Decompile time: 3.60 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

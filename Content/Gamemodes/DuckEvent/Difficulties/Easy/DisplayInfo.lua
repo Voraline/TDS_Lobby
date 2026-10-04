@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.DuckEvent.Difficulties.Easy.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.09 ms
 
 return {
     Name = "Duck Event (Easy)",

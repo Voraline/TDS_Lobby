@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.Visuals.BurnVisuals
--- Decompile time: 0.76 ms
+-- Decompile time: 1.63 ms
 
 local Particles = game:GetService("ReplicatedStorage"):WaitForChild("Assets"):WaitForChild("Effects"):WaitForChild("Particles")
 return {

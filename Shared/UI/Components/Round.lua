@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.Round
--- Decompile time: 0.30 ms
+-- Decompile time: 0.27 ms
 
 local Computed = require(game.ReplicatedStorage.Shared.UI.Fusion).Computed
 return function(a1, a2) -- Line: 4 -- upvalues: Computed (val)

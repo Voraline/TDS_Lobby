@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.HeartSmasher
--- Decompile time: 0.70 ms
+-- Decompile time: 0.66 ms
 
 local v1 = {id = "tower", skin = "Chocolatier", tower = "Sledger", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Heart Smasher")).cost({amount = 650, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", disabled = true, productId = 2916488480})).objective({

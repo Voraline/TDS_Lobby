@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.AdidasCutsceneBoardController
--- Decompile time: 6.39 ms
+-- Decompile time: 15.01 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Players = game:GetService("Players")

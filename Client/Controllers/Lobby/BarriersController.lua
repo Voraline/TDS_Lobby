@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.BarriersController
--- Decompile time: 3.97 ms
+-- Decompile time: 9.04 ms
 
 local CollectionService = game:GetService("CollectionService")
 local Players = game:GetService("Players")

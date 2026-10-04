@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-roblox-shared@3.10.0.jest-roblox-shared.RobloxApiDump
--- Decompile time: 47.33 ms
+-- Decompile time: 114.00 ms
 
 return {
     Instance = {Properties = {"Archivable", "ClassName", "Name", "Parent"}},

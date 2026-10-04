@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useMapData
--- Decompile time: 0.70 ms
+-- Decompile time: 1.37 ms
 
 local v1
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Boomerang.Stats
--- Decompile time: 1.42 ms
+-- Decompile time: 1.40 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

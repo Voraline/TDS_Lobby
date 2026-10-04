@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.Libraries.FractalitySpring.CFrameSpring
--- Decompile time: 1.40 ms
+-- Decompile time: 1.62 ms
 
 local RbxLinearSpring = require(script.Parent.RbxLinearSpring)
 local RotationSpring = require(script.Parent.Primitives.RotationSpring)

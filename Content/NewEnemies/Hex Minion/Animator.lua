@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Hex Minion.Animator
--- Decompile time: 0.11 ms
+-- Decompile time: 0.16 ms
 
 local v1 = {}
 v1.__index = v1

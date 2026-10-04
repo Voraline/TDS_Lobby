@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.StatuesController.Types.UGCAnimated
--- Decompile time: 2.82 ms
+-- Decompile time: 6.76 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local Players = game:GetService("Players")

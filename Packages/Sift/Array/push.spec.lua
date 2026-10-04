@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.push.spec
--- Decompile time: 0.71 ms
+-- Decompile time: 0.57 ms
 
 return function() -- Line: 1
     local push = require(script.Parent.push)

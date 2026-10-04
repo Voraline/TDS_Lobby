@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Ok Walker
--- Decompile time: 0.20 ms
+-- Decompile time: 0.13 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

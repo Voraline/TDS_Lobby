@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.SharedData.TowerAbilities
--- Decompile time: 1.37 ms
+-- Decompile time: 1.31 ms
 
 local Abilities, Stats, Stats_2, v1, v2
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

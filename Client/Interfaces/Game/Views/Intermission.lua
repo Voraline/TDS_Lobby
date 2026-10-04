@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.Intermission
--- Decompile time: 4.80 ms
+-- Decompile time: 15.61 ms
 
 local Name, v1
 local GuiService = game:GetService("GuiService")

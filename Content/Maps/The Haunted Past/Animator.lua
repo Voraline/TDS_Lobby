@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.The Haunted Past.Animator
--- Decompile time: 5.51 ms
+-- Decompile time: 5.30 ms
 
 game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

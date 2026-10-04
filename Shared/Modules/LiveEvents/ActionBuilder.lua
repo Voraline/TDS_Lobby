@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LiveEvents.ActionBuilder
--- Decompile time: 1.93 ms
+-- Decompile time: 1.99 ms
 
 require(script.Parent.Types)
 local u5 = {}

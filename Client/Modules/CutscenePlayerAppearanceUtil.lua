@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.CutscenePlayerAppearanceUtil
--- Decompile time: 3.36 ms
+-- Decompile time: 7.45 ms
 
 local u0 = {}
 local u19 = table.freeze({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.PVP.PVPHealthBar.story
--- Decompile time: 1.61 ms
+-- Decompile time: 2.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PVPHealthBar = require(script.Parent.PVPHealthBar)

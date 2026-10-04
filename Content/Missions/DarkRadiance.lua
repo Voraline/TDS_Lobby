@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.DarkRadiance
--- Decompile time: 0.78 ms
+-- Decompile time: 0.80 ms
 
 local v1 = {id = "tower", skin = "Fallen", tower = "Accelerator", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Dark Radiance")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1902865545})).objective({

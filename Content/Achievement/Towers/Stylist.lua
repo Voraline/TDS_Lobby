@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Towers.Stylist
--- Decompile time: 0.11 ms
+-- Decompile time: 0.08 ms
 
 return {
     title = "Stylist",

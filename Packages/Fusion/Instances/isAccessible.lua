@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Instances.isAccessible
--- Decompile time: 0.37 ms
+-- Decompile time: 0.33 ms
 
 local Parent
 local u23 = {}

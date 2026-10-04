@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_number@1.2.7.number.isInteger
--- Decompile time: 0.19 ms
+-- Decompile time: 0.15 ms
 
 return function(a1) -- Line: 2
     local v1 = false

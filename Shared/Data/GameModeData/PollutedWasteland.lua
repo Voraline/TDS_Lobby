@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.GameModeData.PollutedWasteland
--- Decompile time: 0.17 ms
+-- Decompile time: 0.14 ms
 
 return {
     Waves = 25,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.values.spec
--- Decompile time: 0.36 ms
+-- Decompile time: 0.34 ms
 
 return function() -- Line: 1
     local values = require(script.Parent.values)

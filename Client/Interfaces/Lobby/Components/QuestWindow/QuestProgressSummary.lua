@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.QuestWindow.QuestProgressSummary
--- Decompile time: 1.61 ms
+-- Decompile time: 3.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local QuestProgressBar = require(script.Parent.QuestProgressBar)

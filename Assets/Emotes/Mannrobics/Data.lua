@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Mannrobics.Data
--- Decompile time: 0.10 ms
+-- Decompile time: 0.08 ms
 
 return {
     Description = "Keep it moving!",

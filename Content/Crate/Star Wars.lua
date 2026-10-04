@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Crate.Star Wars
--- Decompile time: 0.39 ms
+-- Decompile time: 0.32 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

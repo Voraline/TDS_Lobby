@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Gold Guard.Animator
--- Decompile time: 0.49 ms
+-- Decompile time: 0.48 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

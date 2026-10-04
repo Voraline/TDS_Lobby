@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.SkillReset.story
--- Decompile time: 0.91 ms
+-- Decompile time: 2.13 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SkillReset = require(script.Parent.SkillReset)

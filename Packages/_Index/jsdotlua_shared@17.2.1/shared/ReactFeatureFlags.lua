@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.ReactFeatureFlags
--- Decompile time: 0.41 ms
+-- Decompile time: 0.28 ms
 
 local v1 = {enableFilterEmptyStringAttributesDOM = true, enableDebugTracing = false}
 local __PROFILE__ = _G.__PROFILE__ and _G.__EXPERIMENTAL__

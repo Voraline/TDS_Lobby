@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Recliner.Effects
--- Decompile time: 0.28 ms
+-- Decompile time: 0.27 ms
 
 return {
     Eat = function(a1, a2) -- Line: 2

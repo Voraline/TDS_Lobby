@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Headless Jaxe.Animator
--- Decompile time: 0.61 ms
+-- Decompile time: 0.56 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

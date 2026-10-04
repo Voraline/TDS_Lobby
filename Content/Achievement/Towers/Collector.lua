@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Towers.Collector
--- Decompile time: 0.12 ms
+-- Decompile time: 0.19 ms
 
 return {
     title = "Collector",

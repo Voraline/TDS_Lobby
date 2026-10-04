@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Settings.Custom.EquipTowerPets
--- Decompile time: 0.68 ms
+-- Decompile time: 1.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useSound = require(ReplicatedStorage.Client.Interfaces.Hooks.useSound)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Crate.Spooky
--- Decompile time: 0.40 ms
+-- Decompile time: 0.39 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

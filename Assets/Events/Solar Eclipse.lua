@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Events.Solar Eclipse
--- Decompile time: 3.98 ms
+-- Decompile time: 4.05 ms
 
 shared()
 local Session = require("Network").Channel("Session")

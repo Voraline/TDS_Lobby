@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Crook Boss.Animator
--- Decompile time: 5.07 ms
+-- Decompile time: 5.16 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SoundService = game:GetService("SoundService")

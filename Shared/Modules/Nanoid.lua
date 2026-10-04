@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Nanoid
--- Decompile time: 0.85 ms
+-- Decompile time: 0.78 ms
 
 local u1 = Random.new()
 local u3 = 21

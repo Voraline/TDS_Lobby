@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Downvote.Animator
--- Decompile time: 0.36 ms
+-- Decompile time: 0.42 ms
 
 local v1 = {}
 v1.__index = v1

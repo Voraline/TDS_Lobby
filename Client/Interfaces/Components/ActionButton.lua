@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.ActionButton
--- Decompile time: 6.97 ms
+-- Decompile time: 13.10 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ProductInfoCache = require(ReplicatedStorage.Shared.Modules.ProductInfoCache)

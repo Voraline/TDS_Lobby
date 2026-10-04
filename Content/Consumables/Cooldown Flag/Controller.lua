@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Cooldown Flag.Controller
--- Decompile time: 2.54 ms
+-- Decompile time: 1.95 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

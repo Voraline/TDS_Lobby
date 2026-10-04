@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Champion Templar.Animator.ChampionTemplarAnimationStates
--- Decompile time: 7.57 ms
+-- Decompile time: 7.29 ms
 
 local Debris = game:GetService("Debris")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

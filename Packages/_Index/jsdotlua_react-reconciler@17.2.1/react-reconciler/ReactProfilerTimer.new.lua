@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactProfilerTimer.new
--- Decompile time: 2.04 ms
+-- Decompile time: 2.44 ms
 
 require(script.Parent:WaitForChild("ReactInternalTypes"))
 local ReactFeatureFlags = require(script.Parent.Parent:WaitForChild("shared")).ReactFeatureFlags

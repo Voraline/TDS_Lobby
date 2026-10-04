@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Breaker.Stats
--- Decompile time: 0.19 ms
+-- Decompile time: 0.13 ms
 
 return {
     Speed = 5.35,

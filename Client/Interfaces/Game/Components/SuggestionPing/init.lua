@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.SuggestionPing
--- Decompile time: 6.00 ms
+-- Decompile time: 11.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CommunicationConfig = require(ReplicatedStorage.Shared.Data.CommunicationConfig)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Warden.Stats-PVP
--- Decompile time: 1.93 ms
+-- Decompile time: 1.91 ms
 
 local BadgeService = game:GetService("BadgeService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Island Chaos.Animator.Events.ThunderStorm
--- Decompile time: 2.11 ms
+-- Decompile time: 2.25 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Create = require(ReplicatedStorage.Shared.Modules.Standalone.Create)

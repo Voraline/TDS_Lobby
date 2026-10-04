@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.EagleScreech
--- Decompile time: 0.81 ms
+-- Decompile time: 0.87 ms
 
 local v1 = {id = "tower", skin = "Base 1776", tower = "Military Base", type = "tower"}
 return (((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("🦅 Eagle Screech")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, productId = 3321973621})).objective({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Wess.Data
--- Decompile time: 0.10 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "This is embarassing. Turn the other way.",

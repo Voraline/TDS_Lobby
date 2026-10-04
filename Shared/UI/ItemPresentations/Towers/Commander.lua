@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ItemPresentations.Towers.Commander
--- Decompile time: 0.16 ms
+-- Decompile time: 0.28 ms
 
 return {
     Init = function(a1, a2, a3) -- Line: 2

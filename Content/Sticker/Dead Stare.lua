@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Dead Stare
--- Decompile time: 0.16 ms
+-- Decompile time: 0.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

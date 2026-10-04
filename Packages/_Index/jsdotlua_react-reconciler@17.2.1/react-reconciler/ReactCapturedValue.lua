@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactCapturedValue
--- Decompile time: 0.23 ms
+-- Decompile time: 0.18 ms
 
 require(script.Parent:WaitForChild("ReactInternalTypes"))
 local getStackByFiberInDevAndProd = require(script.Parent:WaitForChild("ReactFiberComponentStack")).getStackByFiberInDevAndProd

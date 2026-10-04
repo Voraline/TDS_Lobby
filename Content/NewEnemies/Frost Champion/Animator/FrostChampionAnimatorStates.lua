@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Frost Champion.Animator.FrostChampionAnimatorStates
--- Decompile time: 8.38 ms
+-- Decompile time: 7.66 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

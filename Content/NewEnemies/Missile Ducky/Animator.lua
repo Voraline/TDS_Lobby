@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Missile Ducky.Animator
--- Decompile time: 2.92 ms
+-- Decompile time: 2.68 ms
 
 local Debris = game:GetService("Debris")
 local HttpService = game:GetService("HttpService")

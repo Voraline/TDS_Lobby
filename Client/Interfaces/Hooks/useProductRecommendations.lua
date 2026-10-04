@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useProductRecommendations
--- Decompile time: 2.91 ms
+-- Decompile time: 6.12 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ProductRecs = ReplicatedStorage.Shared.Modules.ProductRecs

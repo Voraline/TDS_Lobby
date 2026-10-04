@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Minigunner.Stats
--- Decompile time: 0.32 ms
+-- Decompile time: 0.20 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

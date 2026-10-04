@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.ReactSharedInternals.ReactDebugCurrentFrame
--- Decompile time: 0.43 ms
+-- Decompile time: 0.31 ms
 
 local u0 = {}
 local u1 = nil

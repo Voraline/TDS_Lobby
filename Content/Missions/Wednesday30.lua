@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.Wednesday30
--- Decompile time: 0.80 ms
+-- Decompile time: 0.76 ms
 
 local v1 = {id = "tower", skin = "Jason", tower = "Slasher", type = "tower"}
 return (((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Wednesday the 30th")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, productId = 2567509563})).objective({

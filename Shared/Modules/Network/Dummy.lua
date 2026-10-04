@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Network.Dummy
--- Decompile time: 0.20 ms
+-- Decompile time: 0.16 ms
 
 local v1 = {}
 v1.__index = v1

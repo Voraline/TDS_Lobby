@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.PlaytimeRewardData
--- Decompile time: 0.15 ms
+-- Decompile time: 0.13 ms
 
 return {
     {seconds = 300, reward = "LowTierChest", amount = 1},

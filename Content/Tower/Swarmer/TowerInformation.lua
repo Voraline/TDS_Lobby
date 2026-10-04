@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Swarmer.TowerInformation
--- Decompile time: 1.09 ms
+-- Decompile time: 0.88 ms
 
 return {
     ToolTip = {

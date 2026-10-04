@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.getComponentName
--- Decompile time: 3.17 ms
+-- Decompile time: 3.07 ms
 
 local getComponentName
 local console = require(script.Parent:WaitForChild("console"))

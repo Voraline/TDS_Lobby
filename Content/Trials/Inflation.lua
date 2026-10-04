@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Trials.Inflation
--- Decompile time: 0.15 ms
+-- Decompile time: 0.12 ms
 
 return {
     title = "Inflation",

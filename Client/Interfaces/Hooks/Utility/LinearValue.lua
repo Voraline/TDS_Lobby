@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.Utility.LinearValue
--- Decompile time: 1.86 ms
+-- Decompile time: 3.93 ms
 
 local u0 = {}
 

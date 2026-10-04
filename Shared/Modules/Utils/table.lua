@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Utils.table
--- Decompile time: 4.93 ms
+-- Decompile time: 6.33 ms
 
 local u2 = newproxy(true)
 local v1 = {none = u2, NONE = u2}

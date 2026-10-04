@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Totem.Electroshocker Jellyfish
--- Decompile time: 0.06 ms
+-- Decompile time: 0.08 ms
 
 return {
     Name = "Electroshocker Jellyfish",

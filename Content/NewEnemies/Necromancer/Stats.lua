@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Necromancer.Stats
--- Decompile time: 0.22 ms
+-- Decompile time: 0.18 ms
 
 return {
     Speed = 2.8,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.Range
--- Decompile time: 30.10 ms
+-- Decompile time: 69.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local NewTowerRange = require(ReplicatedStorage.Client.Interfaces.Game.Components.NewTowerRange)

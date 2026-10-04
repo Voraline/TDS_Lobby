@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Gamemodes.Security Guard
--- Decompile time: 0.13 ms
+-- Decompile time: 0.11 ms
 
 return {
     title = "Security Guard",

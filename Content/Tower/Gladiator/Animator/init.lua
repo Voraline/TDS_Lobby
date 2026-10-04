@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Gladiator.Animator
--- Decompile time: 7.12 ms
+-- Decompile time: 6.97 ms
 
 local destroySounds
 local Debris = game:GetService("Debris")

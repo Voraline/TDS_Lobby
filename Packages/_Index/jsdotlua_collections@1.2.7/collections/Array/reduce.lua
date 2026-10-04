@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.Array.reduce
--- Decompile time: 0.64 ms
+-- Decompile time: 0.67 ms
 
 local __DEV__ = _G.__DEV__
 require(script.Parent.Parent.Parent:WaitForChild("es7-types"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.SkillTreeController.SkillTree.HexTree.HexTile
--- Decompile time: 11.56 ms
+-- Decompile time: 25.81 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Ducky D00M.Stats
--- Decompile time: 0.40 ms
+-- Decompile time: 0.21 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

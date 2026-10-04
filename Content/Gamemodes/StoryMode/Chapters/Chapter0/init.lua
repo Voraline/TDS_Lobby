@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.StoryMode.Chapters.Chapter0
--- Decompile time: 0.19 ms
+-- Decompile time: 0.14 ms
 
 return {
     Image = 16494074891,

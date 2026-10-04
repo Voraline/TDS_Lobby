@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useModifiers
--- Decompile time: 0.53 ms
+-- Decompile time: 0.99 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ClientGameMiddleware = require(ReplicatedStorage.Client.Modules.Replicators.ClientGameMiddleware)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-validate@3.10.0.jest-validate.utils
--- Decompile time: 0.56 ms
+-- Decompile time: 1.23 ms
 
 local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local Boolean = v1.Boolean

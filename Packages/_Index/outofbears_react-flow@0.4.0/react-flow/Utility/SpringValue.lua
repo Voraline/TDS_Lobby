@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Utility.SpringValue
--- Decompile time: 4.22 ms
+-- Decompile time: 3.97 ms
 
 local RunService = game:GetService("RunService")
 local LinearValue = require(script.Parent.LinearValue)

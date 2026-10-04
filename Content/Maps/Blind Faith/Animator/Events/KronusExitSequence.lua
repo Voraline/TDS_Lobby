@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Blind Faith.Animator.Events.KronusExitSequence
--- Decompile time: 4.64 ms
+-- Decompile time: 4.82 ms
 
 game:GetService("TweenService")
 local TweenService = game:GetService("TweenService")

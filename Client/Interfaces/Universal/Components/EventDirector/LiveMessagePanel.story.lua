@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.EventDirector.LiveMessagePanel.story
--- Decompile time: 0.81 ms
+-- Decompile time: 1.56 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Controls = require(script.Parent.Controls)

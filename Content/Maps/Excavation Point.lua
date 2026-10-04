@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Excavation Point
--- Decompile time: 0.20 ms
+-- Decompile time: 0.19 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

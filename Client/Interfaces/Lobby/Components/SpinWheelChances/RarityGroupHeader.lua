@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.SpinWheelChances.RarityGroupHeader
--- Decompile time: 1.43 ms
+-- Decompile time: 2.76 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u7 = require("../../Utility/SpinWheelChances/Constants")

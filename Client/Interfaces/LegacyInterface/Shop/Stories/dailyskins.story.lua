@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Stories.dailyskins.story
--- Decompile time: 0.21 ms
+-- Decompile time: 0.49 ms
 
 Components = script.Parent.Parent.Components
 DailySkins = require(Components.DailySkins)

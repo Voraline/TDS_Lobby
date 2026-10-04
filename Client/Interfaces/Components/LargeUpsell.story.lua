@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.LargeUpsell.story
--- Decompile time: 0.63 ms
+-- Decompile time: 1.29 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local LargeUpsell = require(script.Parent.LargeUpsell)

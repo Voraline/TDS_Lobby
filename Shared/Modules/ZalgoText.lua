@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.ZalgoText
--- Decompile time: 1.37 ms
+-- Decompile time: 1.50 ms
 
 local u0 = {}
 u0.RNG = Random.new()

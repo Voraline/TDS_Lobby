@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Outpost 32.Animator.Events.Rock
--- Decompile time: 4.30 ms
+-- Decompile time: 4.02 ms
 
 local ContentProvider = game:GetService("ContentProvider")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

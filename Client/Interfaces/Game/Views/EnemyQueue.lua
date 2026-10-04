@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.EnemyQueue
--- Decompile time: 0.65 ms
+-- Decompile time: 1.27 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EnemyQueue = require(ReplicatedStorage.Client.Interfaces.Game.Components.PVP.EnemyQueue)

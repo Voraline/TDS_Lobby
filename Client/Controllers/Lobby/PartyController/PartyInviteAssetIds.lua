@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.PartyController.PartyInviteAssetIds
--- Decompile time: 0.10 ms
+-- Decompile time: 0.23 ms
 
 return {
     PartyInvite1 = "6548b4e1-c191-6d4b-826e-bef740d57180",

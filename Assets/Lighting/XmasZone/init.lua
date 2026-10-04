@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Lighting.XmasZone
--- Decompile time: 0.16 ms
+-- Decompile time: 0.18 ms
 
 return {
     Brightness = 3,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_pretty-format@3.10.0.pretty-format.plugins.ReactTestComponent
--- Decompile time: 1.25 ms
+-- Decompile time: 1.52 ms
 
 local v1 = require(script.Parent.Parent.Parent:WaitForChild("luau-polyfill"))
 local Array = v1.Array

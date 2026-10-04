@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useGlobalModifiers
--- Decompile time: 0.75 ms
+-- Decompile time: 1.49 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local GameType = require(ReplicatedStorage.Shared.Modules.GameType)

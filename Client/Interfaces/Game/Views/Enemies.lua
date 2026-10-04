@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Views.Enemies
--- Decompile time: 1.39 ms
+-- Decompile time: 2.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Client.Interfaces.Stores.Game.EnemiesStore)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Nights.Templates.Christmas2025
--- Decompile time: 4.41 ms
+-- Decompile time: 4.22 ms
 
 local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")

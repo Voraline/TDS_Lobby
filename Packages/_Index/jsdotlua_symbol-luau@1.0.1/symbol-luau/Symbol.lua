@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_symbol-luau@1.0.1.symbol-luau.Symbol
--- Decompile time: 0.23 ms
+-- Decompile time: 0.21 ms
 
 return {
     new = function(a1) -- Line: 15 -- types: a1: string?

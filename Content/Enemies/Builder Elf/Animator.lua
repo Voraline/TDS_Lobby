@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Builder Elf.Animator
--- Decompile time: 0.42 ms
+-- Decompile time: 0.49 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("TweenService")

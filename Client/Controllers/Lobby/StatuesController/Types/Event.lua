@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.StatuesController.Types.Event
--- Decompile time: 3.14 ms
+-- Decompile time: 6.41 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

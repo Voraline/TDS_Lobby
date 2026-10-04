@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Gamemodes.Paladin
--- Decompile time: 0.13 ms
+-- Decompile time: 0.33 ms
 
 return {
     title = "Paladin",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Crab.Animator
--- Decompile time: 0.78 ms
+-- Decompile time: 0.66 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

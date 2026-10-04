@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Winter Express.Animator
--- Decompile time: 2.48 ms
+-- Decompile time: 2.68 ms
 
 local RunService = game:GetService("RunService")
 local TweenService = game:GetService("TweenService")

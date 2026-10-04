@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.removeValue.spec
--- Decompile time: 0.45 ms
+-- Decompile time: 0.39 ms
 
 return function() -- Line: 1
     local removeValue = require(script.Parent.removeValue)

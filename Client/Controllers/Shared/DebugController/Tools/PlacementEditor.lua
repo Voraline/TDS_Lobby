@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.DebugController.Tools.PlacementEditor
--- Decompile time: 1.90 ms
+-- Decompile time: 4.36 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(script.Parent.Types)

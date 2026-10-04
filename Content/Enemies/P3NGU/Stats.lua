@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.P3NGU.Stats
--- Decompile time: 0.23 ms
+-- Decompile time: 0.16 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Enum)

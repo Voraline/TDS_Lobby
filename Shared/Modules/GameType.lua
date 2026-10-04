@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.GameType
--- Decompile time: 0.42 ms
+-- Decompile time: 0.44 ms
 
 local v1 = {}
 local Type = workspace:WaitForChild("Type")

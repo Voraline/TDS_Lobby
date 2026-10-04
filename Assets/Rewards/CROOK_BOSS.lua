@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.CROOK_BOSS
--- Decompile time: 0.65 ms
+-- Decompile time: 0.55 ms
 
 return {
     Reward = "Crook Boss Tower",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Blind Faith.Animator
--- Decompile time: 1.69 ms
+-- Decompile time: 1.85 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

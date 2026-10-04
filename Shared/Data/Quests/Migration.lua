@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Quests.Migration
--- Decompile time: 44.14 ms
+-- Decompile time: 42.86 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Quests = require(ReplicatedStorage.Shared.Data.Quests)

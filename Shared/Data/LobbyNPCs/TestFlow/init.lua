@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.LobbyNPCs.TestFlow
--- Decompile time: 0.26 ms
+-- Decompile time: 0.31 ms
 
 local Dialogues = script.Dialogues
 return {

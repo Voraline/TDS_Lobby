@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Hooks.useAnimation
--- Decompile time: 1.51 ms
+-- Decompile time: 1.45 ms
 
 local Promise = require(script.Parent.Parent.Promise)
 local Animations = require(script.Parent.Parent.Animations)

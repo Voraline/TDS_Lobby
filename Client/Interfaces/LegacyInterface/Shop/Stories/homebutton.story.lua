@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Stories.homebutton.story
--- Decompile time: 0.25 ms
+-- Decompile time: 0.53 ms
 
 local HomeButton = require(script.Parent.Parent.Components.HomeButton)
 return function(a1) -- Line: 3 -- upvalues: HomeButton (val)

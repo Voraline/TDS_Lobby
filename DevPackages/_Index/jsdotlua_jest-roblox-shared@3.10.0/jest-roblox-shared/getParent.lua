@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-roblox-shared@3.10.0.jest-roblox-shared.getParent
--- Decompile time: 0.45 ms
+-- Decompile time: 0.88 ms
 
 return function(a1, a2) -- Line: 2 -- types: a1: string, a2: number?
     local v1 = a2 or 0

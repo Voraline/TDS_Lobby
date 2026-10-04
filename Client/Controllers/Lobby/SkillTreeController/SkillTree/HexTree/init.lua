@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.SkillTreeController.SkillTree.HexTree
--- Decompile time: 4.99 ms
+-- Decompile time: 11.77 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Charm = require(ReplicatedStorage.Packages.Charm)

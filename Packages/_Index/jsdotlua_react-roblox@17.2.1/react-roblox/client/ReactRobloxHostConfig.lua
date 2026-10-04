@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-roblox@17.2.1.react-roblox.client.ReactRobloxHostConfig
--- Decompile time: 4.21 ms
+-- Decompile time: 3.83 ms
 
 local function unimplemented(a1) -- Line: 13 -- types: a1: string
     print("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!")

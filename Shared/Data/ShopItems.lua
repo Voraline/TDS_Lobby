@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.ShopItems
--- Decompile time: 5.93 ms
+-- Decompile time: 6.09 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Handlers = ReplicatedStorage.Shared.Modules.Asset.Handlers

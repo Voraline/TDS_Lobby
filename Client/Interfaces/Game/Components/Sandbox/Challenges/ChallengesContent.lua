@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.Challenges.ChallengesContent
--- Decompile time: 2.07 ms
+-- Decompile time: 4.09 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ChallengesEntry = require(script.Parent.ChallengesEntry)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.ReactErrorUtils
--- Decompile time: 0.90 ms
+-- Decompile time: 0.73 ms
 
 local invariant = require(script.Parent:WaitForChild("invariant"))
 local invokeGuardedCallbackImpl = require(script.Parent:WaitForChild("invokeGuardedCallbackImpl"))

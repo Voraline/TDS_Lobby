@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useMediaQuery
--- Decompile time: 0.44 ms
+-- Decompile time: 0.92 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useViewportSize = require(ReplicatedStorage.Client.Interfaces.Hooks.useViewportSize)

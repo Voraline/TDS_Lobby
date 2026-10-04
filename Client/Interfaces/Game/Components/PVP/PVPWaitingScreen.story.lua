@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.PVP.PVPWaitingScreen.story
--- Decompile time: 0.87 ms
+-- Decompile time: 2.17 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PVPWaitingScreen = require(script.Parent.PVPWaitingScreen)

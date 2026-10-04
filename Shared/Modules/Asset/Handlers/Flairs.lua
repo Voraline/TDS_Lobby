@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Asset.Handlers.Flairs
--- Decompile time: 0.39 ms
+-- Decompile time: 0.44 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Flair = require(ReplicatedStorage.Shared.Modules.Content)("Flair")

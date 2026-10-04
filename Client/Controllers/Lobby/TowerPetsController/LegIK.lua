@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.TowerPetsController.LegIK
--- Decompile time: 1.35 ms
+-- Decompile time: 2.70 ms
 
 game:GetService("RunService")
 CFrame.new(-0.25, -0.45, 0)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Easter Egg.Data
--- Decompile time: 0.25 ms
+-- Decompile time: 0.17 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Types.ConsumableTypes)

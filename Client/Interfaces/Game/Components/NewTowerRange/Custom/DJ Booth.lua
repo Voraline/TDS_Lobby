@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewTowerRange.Custom.DJ Booth
--- Decompile time: 2.40 ms
+-- Decompile time: 2.85 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local DJRangeRing = require(ReplicatedStorage.Client.Interfaces.Game.Components.NewTowerRange.Classes.DJRangeRing)

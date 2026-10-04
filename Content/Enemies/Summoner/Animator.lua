@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Summoner.Animator
--- Decompile time: 0.55 ms
+-- Decompile time: 0.56 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

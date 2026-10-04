@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.FrostInvasion.Difficulties.Easy.DisplayInfo
--- Decompile time: 0.12 ms
+-- Decompile time: 0.13 ms
 
 return {
     Name = "Frost Invasion (Easy)",

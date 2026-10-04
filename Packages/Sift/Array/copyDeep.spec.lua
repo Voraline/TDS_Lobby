@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.copyDeep.spec
--- Decompile time: 0.95 ms
+-- Decompile time: 1.15 ms
 
 return function() -- Line: 1
     local copyDeep = require(script.Parent.copyDeep)

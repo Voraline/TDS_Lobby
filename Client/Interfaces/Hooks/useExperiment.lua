@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useExperiment
--- Decompile time: 0.40 ms
+-- Decompile time: 0.87 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ABController = require(ReplicatedStorage.Client.Controllers.Shared.ABController)

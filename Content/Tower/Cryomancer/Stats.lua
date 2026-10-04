@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Cryomancer.Stats
--- Decompile time: 1.45 ms
+-- Decompile time: 1.43 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

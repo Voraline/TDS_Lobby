@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.shallowEqual
--- Decompile time: 0.49 ms
+-- Decompile time: 0.41 ms
 
 local objectIs = require(script.Parent:WaitForChild("objectIs"))
 return function(a1, a2) -- Line: 18 -- upvalues: objectIs (val)

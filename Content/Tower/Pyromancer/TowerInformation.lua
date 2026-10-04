@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Pyromancer.TowerInformation
--- Decompile time: 1.99 ms
+-- Decompile time: 1.88 ms
 
 return {
     ToolTip = {

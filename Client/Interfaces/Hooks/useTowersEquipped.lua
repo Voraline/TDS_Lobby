@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useTowersEquipped
--- Decompile time: 0.28 ms
+-- Decompile time: 0.53 ms
 
 local Hooks = game:GetService("ReplicatedStorage").Client.Interfaces.Hooks
 local useCache = require(Hooks.useCache)

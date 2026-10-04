@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.Visuals.HiddenVisuals
--- Decompile time: 0.59 ms
+-- Decompile time: 1.19 ms
 
 return {
     onAdded = function(a1, a2) -- Line: 8

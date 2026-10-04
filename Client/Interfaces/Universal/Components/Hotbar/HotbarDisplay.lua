@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Hotbar.HotbarDisplay
--- Decompile time: 1.97 ms
+-- Decompile time: 4.04 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CircularProgressBar = require(ReplicatedStorage.Client.Interfaces.Universal.Components.CircularProgressBar)

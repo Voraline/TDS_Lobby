@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Winter2025.Nothing Fancy
--- Decompile time: 0.18 ms
+-- Decompile time: 0.16 ms
 
 return {
     title = "Nothing Fancy",

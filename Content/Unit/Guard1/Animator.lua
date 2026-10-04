@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Guard1.Animator
--- Decompile time: 3.97 ms
+-- Decompile time: 4.01 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")

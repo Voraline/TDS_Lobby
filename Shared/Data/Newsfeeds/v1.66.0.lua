@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Newsfeeds.v1.66.0
--- Decompile time: 0.50 ms
+-- Decompile time: 0.48 ms
 
 return {
     UpdateName = "🛒 Walmart Partnership",

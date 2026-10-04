@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.TowerPetsController.TowerPet
--- Decompile time: 16.33 ms
+-- Decompile time: 36.40 ms
 
 local Position, u112
 local HttpService = game:GetService("HttpService")

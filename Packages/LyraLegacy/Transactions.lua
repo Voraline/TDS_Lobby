@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.LyraLegacy.Transactions
--- Decompile time: 0.69 ms
+-- Decompile time: 0.79 ms
 
 local JsonPatch = require(script.Parent.JsonPatch)
 require(script.Parent.Types)

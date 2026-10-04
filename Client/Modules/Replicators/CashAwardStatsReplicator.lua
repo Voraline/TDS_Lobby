@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Replicators.CashAwardStatsReplicator
--- Decompile time: 2.98 ms
+-- Decompile time: 5.71 ms
 
 local Debris = game:GetService("Debris")
 local HttpService = game:GetService("HttpService")

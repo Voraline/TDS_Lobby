@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Flex.Data
--- Decompile time: 0.15 ms
+-- Decompile time: 0.11 ms
 
 return {
     Description = "FLEX THOSE MUSCLES!!!",

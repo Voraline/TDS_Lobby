@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.UAV.Animator
--- Decompile time: 1.25 ms
+-- Decompile time: 1.08 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

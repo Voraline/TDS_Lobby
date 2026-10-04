@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Utility.arePaidRandomItemsRestricted
--- Decompile time: 0.93 ms
+-- Decompile time: 2.09 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

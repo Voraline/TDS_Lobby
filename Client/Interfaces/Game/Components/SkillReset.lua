@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.SkillReset
--- Decompile time: 5.89 ms
+-- Decompile time: 13.57 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Comma = require(ReplicatedStorage.Shared.UI.Comma)

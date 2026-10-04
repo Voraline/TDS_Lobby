@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberThrow.new
--- Decompile time: 12.98 ms
+-- Decompile time: 12.52 ms
 
 local Object = (require((script.Parent.Parent:WaitForChild("luau-polyfill")))).Object
 local console = require(script.Parent.Parent:WaitForChild("shared")).console

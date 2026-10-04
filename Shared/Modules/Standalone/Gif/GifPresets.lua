@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Standalone.Gif.GifPresets
--- Decompile time: 0.14 ms
+-- Decompile time: 0.10 ms
 
 return {
     ["Nyan Cat"] = {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Lobby.MatchmakingStore
--- Decompile time: 13.16 ms
+-- Decompile time: 29.15 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

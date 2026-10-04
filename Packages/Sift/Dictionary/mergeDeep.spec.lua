@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.mergeDeep.spec
--- Decompile time: 1.27 ms
+-- Decompile time: 0.91 ms
 
 return function() -- Line: 1
     local mergeDeep = require(script.Parent.mergeDeep)

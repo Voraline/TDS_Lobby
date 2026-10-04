@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.kampfkarren_ultimate-list@0.3.2.ultimate-list.DataSources.DataSourceMethods
--- Decompile time: 1.68 ms
+-- Decompile time: 1.51 ms
 
 local v1 = script:FindFirstAncestor("ultimate-list")
 require(script.Parent)

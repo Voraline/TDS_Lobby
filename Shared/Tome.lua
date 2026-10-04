@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Tome
--- Decompile time: 12.90 ms
+-- Decompile time: 12.46 ms
 
 local evaluateComparison
 

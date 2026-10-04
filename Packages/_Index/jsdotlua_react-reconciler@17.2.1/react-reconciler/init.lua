@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler
--- Decompile time: 0.40 ms
+-- Decompile time: 0.33 ms
 
 require(script:WaitForChild("ReactInternalTypes"))
 require(script:WaitForChild("ReactRootTags"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.SuggestionPopup.SuggestionPopup.story
--- Decompile time: 4.30 ms
+-- Decompile time: 8.50 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.MORTAR
--- Decompile time: 0.65 ms
+-- Decompile time: 0.54 ms
 
 return {
     Reward = "Mortar Tower",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.pepeeltoro41_ui-labs@2.4.2.ui-labs.Controls.PrimitiveControls
--- Decompile time: 0.45 ms
+-- Decompile time: 0.43 ms
 
 local CreateBaseControl = require(script.Parent.Utils).CreateBaseControl
 local v1 = {

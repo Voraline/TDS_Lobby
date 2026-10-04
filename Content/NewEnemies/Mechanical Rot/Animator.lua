@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Mechanical Rot.Animator
--- Decompile time: 8.95 ms
+-- Decompile time: 8.54 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local JackoBot = ReplicatedStorage:WaitForChild("Assets"):WaitForChild("Effects"):WaitForChild("Mob"):WaitForChild("JackoBot")

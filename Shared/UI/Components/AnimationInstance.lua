@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.AnimationInstance
--- Decompile time: 0.43 ms
+-- Decompile time: 0.41 ms
 
 return function(a1) -- Line: 1
     local Track = a1.Track

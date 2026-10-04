@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.ShopRevamp.Catalog.Placement
--- Decompile time: 1.59 ms
+-- Decompile time: 4.61 ms
 
 require(script.Parent.Types)
 local u5 = {}

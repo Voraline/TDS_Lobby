@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.map
--- Decompile time: 0.34 ms
+-- Decompile time: 0.20 ms
 
 return function(a1, a2) -- Line: 20 -- types: a1: table, a2: function
     local v1

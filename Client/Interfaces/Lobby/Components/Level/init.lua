@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Level
--- Decompile time: 3.29 ms
+-- Decompile time: 6.09 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local LevelBar = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.Level.LevelBar)

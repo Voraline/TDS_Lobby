@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Snow Golem.Stats
--- Decompile time: 0.16 ms
+-- Decompile time: 0.19 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Enum)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Fish Spin.Animator
--- Decompile time: 0.53 ms
+-- Decompile time: 0.43 ms
 
 local v1 = {}
 v1.__index = v1

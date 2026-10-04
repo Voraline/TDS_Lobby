@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.Visuals.BloatedVisuals
--- Decompile time: 0.31 ms
+-- Decompile time: 0.62 ms
 
 return {
     onAdded = function(a1, a2) -- Line: 6

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ItemPresentations.Towers.Turret
--- Decompile time: 0.36 ms
+-- Decompile time: 0.32 ms
 
 return {
     Init = function(a1, a2, a3) -- Line: 2

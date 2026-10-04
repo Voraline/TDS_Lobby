@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.Prompts
--- Decompile time: 0.56 ms
+-- Decompile time: 0.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

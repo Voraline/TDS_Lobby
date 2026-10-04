@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_emittery@3.10.0.emittery
--- Decompile time: 25.99 ms
+-- Decompile time: 37.10 ms
 
 local v1 = require(script.Parent:WaitForChild("luau-polyfill"))
 local Array = v1.Array

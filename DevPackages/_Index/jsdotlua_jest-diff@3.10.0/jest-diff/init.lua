@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-diff@3.10.0.jest-diff
--- Decompile time: 3.82 ms
+-- Decompile time: 8.32 ms
 
 local v1 = require(script.Parent:WaitForChild("luau-polyfill"))
 local Object = v1.Object

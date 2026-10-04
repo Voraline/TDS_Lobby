@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ItemPresentations.Towers.Tesla
--- Decompile time: 0.32 ms
+-- Decompile time: 0.30 ms
 
 return {
     Init = function(a1, a2) -- Line: 2

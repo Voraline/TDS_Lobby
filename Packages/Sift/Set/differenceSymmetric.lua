@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.differenceSymmetric
--- Decompile time: 0.60 ms
+-- Decompile time: 0.50 ms
 
 require(script.Parent.Parent.Types)
 return function(a1, ...) -- Line: 21

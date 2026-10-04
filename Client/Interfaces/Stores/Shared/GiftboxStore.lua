@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Shared.GiftboxStore
--- Decompile time: 0.22 ms
+-- Decompile time: 0.36 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1, u12 = require(ReplicatedStorage.Packages.Charm).signal(false)

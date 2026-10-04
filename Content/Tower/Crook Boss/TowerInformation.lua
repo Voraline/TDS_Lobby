@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Crook Boss.TowerInformation
--- Decompile time: 2.43 ms
+-- Decompile time: 2.27 ms
 
 return {
     ToolTip = {

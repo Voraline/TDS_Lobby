@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Packed Ice.Stats
--- Decompile time: 0.21 ms
+-- Decompile time: 0.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Enum)

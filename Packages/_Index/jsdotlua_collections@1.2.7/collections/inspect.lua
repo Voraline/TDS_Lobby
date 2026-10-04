@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_collections@1.2.7.collections.inspect
--- Decompile time: 4.05 ms
+-- Decompile time: 3.87 ms
 
 local HttpService = game:GetService("HttpService")
 local isArray = require((script.Parent:WaitForChild("Array")):WaitForChild("isArray"))

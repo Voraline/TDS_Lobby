@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-roblox-shared@3.10.0.jest-roblox-shared.normalizePromiseError
--- Decompile time: 0.58 ms
+-- Decompile time: 1.14 ms
 
 local Boolean = require(script.Parent.Parent:WaitForChild("luau-polyfill")).Boolean
 

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Quests.MissionAdapter
--- Decompile time: 0.93 ms
+-- Decompile time: 0.87 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Types.QuestTypes)

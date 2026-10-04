@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Promise
--- Decompile time: 26.66 ms
+-- Decompile time: 24.50 ms
 
 local u0 = {__mode = "k"}
 

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.SkillTreeController.SkillTree.HexTree.HexTile.HexCoordinate
--- Decompile time: 1.51 ms
+-- Decompile time: 3.15 ms
 
 local u0 = {}
 u0.__index = u0

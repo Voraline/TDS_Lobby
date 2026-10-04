@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.SharedGameFunctions
--- Decompile time: 11.76 ms
+-- Decompile time: 10.50 ms
 
 local onNewMap, v1, v2, v3
 local ServerStorage = game:GetService("ServerStorage")

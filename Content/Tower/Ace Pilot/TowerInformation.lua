@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Ace Pilot.TowerInformation
--- Decompile time: 1.10 ms
+-- Decompile time: 1.23 ms
 
 return {
     ToolTip = {

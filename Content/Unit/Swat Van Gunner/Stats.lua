@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Swat Van Gunner.Stats
--- Decompile time: 0.35 ms
+-- Decompile time: 0.22 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

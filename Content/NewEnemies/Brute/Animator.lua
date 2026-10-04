@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Brute.Animator
--- Decompile time: 4.87 ms
+-- Decompile time: 4.75 ms
 
 local Debris = game:GetService("Debris")
 local HttpService = game:GetService("HttpService")

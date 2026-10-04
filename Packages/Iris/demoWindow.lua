@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Iris.demoWindow
--- Decompile time: 48.43 ms
+-- Decompile time: 56.36 ms
 
 require(script.Parent.Types)
 return function(a1) -- Line: 3

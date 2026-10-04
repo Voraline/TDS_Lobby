@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Trapper.UpgradeOptions
--- Decompile time: 0.32 ms
+-- Decompile time: 0.29 ms
 
 return {
     {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Views.Emotes.story
--- Decompile time: 0.22 ms
+-- Decompile time: 0.60 ms
 
 local Emotes = require(script.Parent.Emotes)
 return function(a1) -- Line: 3 -- upvalues: Emotes (val)

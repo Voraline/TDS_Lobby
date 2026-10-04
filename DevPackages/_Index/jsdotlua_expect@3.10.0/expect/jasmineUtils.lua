@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_expect@3.10.0.expect.jasmineUtils
--- Decompile time: 0.59 ms
+-- Decompile time: 1.21 ms
 
 local v1 = require(script.Parent.Parent:WaitForChild("jest-roblox-shared"))
 require(script.Parent.Parent:WaitForChild("luau-polyfill"))

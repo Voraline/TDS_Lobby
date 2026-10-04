@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Frost Blaster.Animator
--- Decompile time: 2.26 ms
+-- Decompile time: 1.86 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

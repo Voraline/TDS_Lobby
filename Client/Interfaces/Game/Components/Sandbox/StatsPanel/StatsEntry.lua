@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.StatsPanel.StatsEntry
--- Decompile time: 2.58 ms
+-- Decompile time: 5.56 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Container = require(ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade.Alignments.BaseComponents.Container)

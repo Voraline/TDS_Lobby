@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.FastSignal
--- Decompile time: 0.32 ms
+-- Decompile time: 0.37 ms
 
 local v1 = false
 local BindableEvent = Instance.new("BindableEvent")

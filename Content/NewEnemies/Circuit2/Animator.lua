@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Circuit2.Animator
--- Decompile time: 0.70 ms
+-- Decompile time: 0.91 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Laser = require(ReplicatedStorage.Client.Modules.Laser)

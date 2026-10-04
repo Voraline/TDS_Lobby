@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.is.spec
--- Decompile time: 0.56 ms
+-- Decompile time: 0.54 ms
 
 return function() -- Line: 1
     local is = require(script.Parent.is)

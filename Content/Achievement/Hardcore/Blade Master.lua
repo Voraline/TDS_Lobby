@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Hardcore.Blade Master
--- Decompile time: 0.17 ms
+-- Decompile time: 0.12 ms
 
 return {
     title = "Blade Master",

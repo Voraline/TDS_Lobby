@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Previews.CratePreview.story
--- Decompile time: 0.50 ms
+-- Decompile time: 1.05 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CratePreview = require(script.Parent.CratePreview)

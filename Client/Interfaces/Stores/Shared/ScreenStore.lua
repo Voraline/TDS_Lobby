@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Shared.ScreenStore
--- Decompile time: 0.58 ms
+-- Decompile time: 1.51 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u12, u13 = (require(ReplicatedStorage.Packages.Charm)).signal({isMobile = false, screenSize = Vector2.zero})

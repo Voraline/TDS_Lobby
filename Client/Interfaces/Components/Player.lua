@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Player
--- Decompile time: 3.57 ms
+-- Decompile time: 7.33 ms
 
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")

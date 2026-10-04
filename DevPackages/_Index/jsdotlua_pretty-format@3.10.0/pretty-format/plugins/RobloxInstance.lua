@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_pretty-format@3.10.0.pretty-format.plugins.RobloxInstance
--- Decompile time: 3.41 ms
+-- Decompile time: 3.65 ms
 
 local getType = require(script.Parent.Parent.Parent:WaitForChild("jest-get-type")).getType
 local v1 = require(script.Parent.Parent.Parent:WaitForChild("luau-polyfill"))

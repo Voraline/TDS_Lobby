@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Napalm Strike.Animator
--- Decompile time: 6.28 ms
+-- Decompile time: 6.12 ms
 
 game:GetService("DataStoreService")
 local Players = game:GetService("Players")

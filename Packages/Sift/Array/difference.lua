@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.difference
--- Decompile time: 0.46 ms
+-- Decompile time: 0.54 ms
 
 require(script.Parent.Parent.Types)
 local toSet = require(script.Parent.toSet)

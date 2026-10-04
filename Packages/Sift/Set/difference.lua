@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.difference
--- Decompile time: 0.42 ms
+-- Decompile time: 0.34 ms
 
 require(script.Parent.Parent.Types)
 return function(a1, ...) -- Line: 21

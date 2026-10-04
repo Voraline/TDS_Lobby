@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Gizmo.Gizmos.Cylinder
--- Decompile time: 2.52 ms
+-- Decompile time: 1.59 ms
 
 local u0 = {}
 u0.__index = u0

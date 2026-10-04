@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Narrator.Stats
--- Decompile time: 0.56 ms
+-- Decompile time: 0.37 ms
 
 return {
     RageModeDebounce = 5,

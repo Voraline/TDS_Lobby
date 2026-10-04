@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Cold Guard.Animator
--- Decompile time: 0.90 ms
+-- Decompile time: 0.65 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Void Caster.Stats
--- Decompile time: 0.66 ms
+-- Decompile time: 0.49 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

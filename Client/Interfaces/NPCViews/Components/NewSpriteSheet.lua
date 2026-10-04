@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.NPCViews.Components.NewSpriteSheet
--- Decompile time: 3.05 ms
+-- Decompile time: 5.53 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

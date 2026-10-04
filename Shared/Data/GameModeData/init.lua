@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.GameModeData
--- Decompile time: 0.17 ms
+-- Decompile time: 0.21 ms
 
 return {
     Frost = require(script.Frost),

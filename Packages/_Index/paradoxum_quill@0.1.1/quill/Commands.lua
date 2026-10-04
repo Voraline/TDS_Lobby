@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.Commands
--- Decompile time: 0.81 ms
+-- Decompile time: 0.53 ms
 
 local v1 = {}
 local u1 = {}

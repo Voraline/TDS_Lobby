@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Utility.restrictRead
--- Decompile time: 0.36 ms
+-- Decompile time: 0.34 ms
 
 local Parent_2 = script.Parent.Parent
 local logError = require(Parent_2.Logging.logError)

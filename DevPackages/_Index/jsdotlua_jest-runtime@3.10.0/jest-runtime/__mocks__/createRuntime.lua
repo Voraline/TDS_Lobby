@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-runtime@3.10.0.jest-runtime.__mocks__.createRuntime
--- Decompile time: 0.34 ms
+-- Decompile time: 0.73 ms
 
 local promise = require(script.Parent.Parent.Parent:WaitForChild("promise"))
 local Parent = require(script.Parent.Parent)

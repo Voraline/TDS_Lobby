@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Abbreviate
--- Decompile time: 0.49 ms
+-- Decompile time: 0.35 ms
 
 local u0 = {"K", "M", "B", "T", "Qd", "Qn", "Sx", "Sp", "O", "N"}
 return function(a1, a2) -- Line: 6 -- upvalues: u0 (val) -- types: a1: number, a2: number?

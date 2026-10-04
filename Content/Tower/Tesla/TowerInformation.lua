@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Tesla.TowerInformation
--- Decompile time: 0.93 ms
+-- Decompile time: 0.73 ms
 
 return {
     ToolTip = {

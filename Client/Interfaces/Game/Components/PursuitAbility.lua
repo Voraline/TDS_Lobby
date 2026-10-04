@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.PursuitAbility
--- Decompile time: 1.43 ms
+-- Decompile time: 2.82 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CircularRangeRing = require(ReplicatedStorage.Client.Interfaces.Game.Components.NewTowerRange.CircularRangeRing)

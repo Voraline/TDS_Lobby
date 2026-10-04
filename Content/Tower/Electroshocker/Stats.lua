@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Electroshocker.Stats
--- Decompile time: 1.96 ms
+-- Decompile time: 2.16 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

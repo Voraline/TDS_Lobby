@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LegacyMiddleware
--- Decompile time: 4.38 ms
+-- Decompile time: 3.92 ms
 
 local HttpService = game:GetService("HttpService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

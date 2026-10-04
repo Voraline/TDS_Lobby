@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Swamp Monster.Animator
--- Decompile time: 2.76 ms
+-- Decompile time: 2.91 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

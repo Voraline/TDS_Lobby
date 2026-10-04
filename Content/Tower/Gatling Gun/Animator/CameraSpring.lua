@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Gatling Gun.Animator.CameraSpring
--- Decompile time: 0.84 ms
+-- Decompile time: 0.81 ms
 
 return {
     new = function(a1, a2, a3, a4, a5) -- Line: 5

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_boolean@1.2.7.boolean.toJSBoolean
--- Decompile time: 0.27 ms
+-- Decompile time: 0.30 ms
 
 local number = require(script.Parent.Parent:WaitForChild("number"))
 return function(a1) -- Line: 4 -- upvalues: number (val)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Trials.FlyingEnemies
--- Decompile time: 0.17 ms
+-- Decompile time: 0.24 ms
 
 return {
     title = "Flying Enemies",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Banlands.Animator.Events.MapEffects
--- Decompile time: 12.11 ms
+-- Decompile time: 11.34 ms
 
 local TweenService = game:GetService("TweenService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

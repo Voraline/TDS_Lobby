@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Rifleman.Animator
--- Decompile time: 4.23 ms
+-- Decompile time: 4.11 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

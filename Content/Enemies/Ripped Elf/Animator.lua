@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Ripped Elf.Animator
--- Decompile time: 2.38 ms
+-- Decompile time: 2.83 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

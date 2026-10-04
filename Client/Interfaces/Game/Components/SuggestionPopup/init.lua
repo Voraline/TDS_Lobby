@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.SuggestionPopup
--- Decompile time: 8.43 ms
+-- Decompile time: 22.12 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Button = require(ReplicatedStorage.Client.Interfaces.Universal.Components.Inventory.Button)

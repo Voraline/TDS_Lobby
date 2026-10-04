@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.TowerAbilityIcons
--- Decompile time: 0.47 ms
+-- Decompile time: 0.39 ms
 
 return {
     getIcon = function(a1, a2, a3) -- Line: 8 -- types: a2: string?, a3: table?

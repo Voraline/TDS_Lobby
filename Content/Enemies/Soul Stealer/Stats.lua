@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Soul Stealer.Stats
--- Decompile time: 0.18 ms
+-- Decompile time: 0.15 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Enum)

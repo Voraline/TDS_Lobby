@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Airhorn.Animator
--- Decompile time: 1.35 ms
+-- Decompile time: 1.20 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

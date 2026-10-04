@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.P3NGU.Animator
--- Decompile time: 3.49 ms
+-- Decompile time: 3.39 ms
 
 local HttpService = game:GetService("HttpService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

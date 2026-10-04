@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.PVP.ZombieSpawnEntry
--- Decompile time: 10.25 ms
+-- Decompile time: 28.52 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CircularProgressBar = require(ReplicatedStorage.Client.Interfaces.Universal.Components.CircularProgressBar)

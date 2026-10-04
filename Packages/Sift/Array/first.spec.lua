@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.first.spec
--- Decompile time: 0.44 ms
+-- Decompile time: 0.22 ms
 
 return function() -- Line: 1
     local first = require(script.Parent.first)

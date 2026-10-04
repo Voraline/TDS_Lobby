@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_expect@3.10.0.expect.print
--- Decompile time: 4.44 ms
+-- Decompile time: 8.67 ms
 
 local Number = (require((script.Parent.Parent:WaitForChild("luau-polyfill")))).Number
 local v1 = require(script.Parent.Parent:WaitForChild("jest-matcher-utils"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Electroshocker.TowerInformation
--- Decompile time: 0.74 ms
+-- Decompile time: 0.79 ms
 
 return {
     ToolTip = {

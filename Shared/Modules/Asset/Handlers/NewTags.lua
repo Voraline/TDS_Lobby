@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Asset.Handlers.NewTags
--- Decompile time: 0.50 ms
+-- Decompile time: 0.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Nametag = require(ReplicatedStorage.Shared.Modules.Content)("Nametag")

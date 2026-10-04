@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.NewNetwork.ClientChannel
--- Decompile time: 1.92 ms
+-- Decompile time: 1.70 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u12 = game:GetService("RunService"):IsRunning()

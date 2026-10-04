@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.UI.DialogBubble
--- Decompile time: 2.66 ms
+-- Decompile time: 3.05 ms
 
 local TextService = game:GetService("TextService")
 local createElement = ((require(script.Parent.Parent.Dependencies)).get("React")).createElement

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.NewTween
--- Decompile time: 1.01 ms
+-- Decompile time: 1.07 ms
 
 local RunService = game:GetService("RunService")
 local TweenService = game:GetService("TweenService")

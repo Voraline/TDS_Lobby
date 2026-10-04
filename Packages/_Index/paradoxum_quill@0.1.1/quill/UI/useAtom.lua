@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.UI.useAtom
--- Decompile time: 0.45 ms
+-- Decompile time: 0.35 ms
 
 local Dependencies = require(script.Parent.Parent.Dependencies)
 local Charm = Dependencies.get("Charm")

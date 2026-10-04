@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useMerchStoreEnabled
--- Decompile time: 0.29 ms
+-- Decompile time: 0.61 ms
 
 local Hooks = (game:GetService("ReplicatedStorage")).Client.Interfaces.Hooks
 local usePolicies = require(Hooks.usePolicies)

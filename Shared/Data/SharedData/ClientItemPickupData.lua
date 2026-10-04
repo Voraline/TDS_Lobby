@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.SharedData.ClientItemPickupData
--- Decompile time: 5.40 ms
+-- Decompile time: 4.85 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Icons = require(ReplicatedStorage.Shared.Data.Icons)

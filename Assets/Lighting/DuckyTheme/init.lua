@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Lighting.DuckyTheme
--- Decompile time: 0.16 ms
+-- Decompile time: 0.19 ms
 
 return {
     Brightness = 1,

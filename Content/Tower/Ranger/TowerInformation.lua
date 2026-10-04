@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Ranger.TowerInformation
--- Decompile time: 0.48 ms
+-- Decompile time: 0.49 ms
 
 return {
     ToolTip = {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.ReactFiberHostConfig.WithNoPersistence
--- Decompile time: 0.19 ms
+-- Decompile time: 0.16 ms
 
 local invariant = require(script.Parent.Parent:WaitForChild("invariant"))
 

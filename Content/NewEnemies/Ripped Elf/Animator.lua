@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Ripped Elf.Animator
--- Decompile time: 2.59 ms
+-- Decompile time: 2.27 ms
 
 game:GetService("Lighting")
 game:GetService("Players")

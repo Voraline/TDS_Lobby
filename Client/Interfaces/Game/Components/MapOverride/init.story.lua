@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.MapOverride.init.story
--- Decompile time: 1.04 ms
+-- Decompile time: 1.14 ms
 
 local v1
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

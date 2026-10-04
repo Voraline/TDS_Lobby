@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.ViewHelpers.withTimescaleButtonLogic
--- Decompile time: 2.08 ms
+-- Decompile time: 4.15 ms
 
 local MarketplaceService = game:GetService("MarketplaceService")
 local Players = game:GetService("Players")

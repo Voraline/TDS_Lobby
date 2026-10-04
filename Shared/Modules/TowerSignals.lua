@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.TowerSignals
--- Decompile time: 0.19 ms
+-- Decompile time: 0.23 ms
 
 local v1 = {}
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

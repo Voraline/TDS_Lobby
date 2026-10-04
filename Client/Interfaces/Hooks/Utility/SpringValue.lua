@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.Utility.SpringValue
--- Decompile time: 2.67 ms
+-- Decompile time: 5.59 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local table = require(ReplicatedStorage.Shared.Modules.Utils.table)

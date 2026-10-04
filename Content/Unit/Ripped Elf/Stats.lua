@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Ripped Elf.Stats
--- Decompile time: 0.29 ms
+-- Decompile time: 0.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

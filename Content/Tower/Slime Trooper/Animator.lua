@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Slime Trooper.Animator
--- Decompile time: 5.66 ms
+-- Decompile time: 5.99 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CustomProjectile = require(ReplicatedStorage.Shared.Modules.CustomProjectile)

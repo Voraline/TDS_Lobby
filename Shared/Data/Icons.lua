@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Icons
--- Decompile time: 7.96 ms
+-- Decompile time: 8.24 ms
 
 return {
     Crates = {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.Graph
--- Decompile time: 10.24 ms
+-- Decompile time: 10.06 ms
 
 local deepClone
 require(script.Parent.Types)

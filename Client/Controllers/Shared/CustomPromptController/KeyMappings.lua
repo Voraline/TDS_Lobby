@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.CustomPromptController.KeyMappings
--- Decompile time: 0.35 ms
+-- Decompile time: 0.72 ms
 
 return {
     TouchTapIcon = "rbxasset://textures/ui/Controls/TouchTapIcon.png",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Cart.Animator
--- Decompile time: 0.92 ms
+-- Decompile time: 0.82 ms
 
 local v1 = {}
 v1.__index = v1

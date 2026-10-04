@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Effects
--- Decompile time: 0.31 ms
+-- Decompile time: 0.37 ms
 
 local v1, v2
 local v3 = {}

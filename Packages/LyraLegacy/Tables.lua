@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.LyraLegacy.Tables
--- Decompile time: 3.56 ms
+-- Decompile time: 3.36 ms
 
 local copyDeep, equalsDeep, freezeDeep, mergeDeep, reconcileDeep
 

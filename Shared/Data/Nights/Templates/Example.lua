@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Nights.Templates.Example
--- Decompile time: 1.52 ms
+-- Decompile time: 1.27 ms
 
 local TweenService = game:GetService("TweenService")
 local Parent = script.Parent.Parent

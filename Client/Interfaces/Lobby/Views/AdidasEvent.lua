@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.AdidasEvent
--- Decompile time: 3.77 ms
+-- Decompile time: 7.69 ms
 
 local BadgeService = game:GetService("BadgeService")
 local Players = game:GetService("Players")

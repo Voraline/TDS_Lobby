@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Tags.Static
--- Decompile time: 0.36 ms
+-- Decompile time: 0.32 ms
 
 game:GetService("BadgeService")
 return require(script.Parent.Parent.Parent.Types)({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Mechanical Rot.Stats
--- Decompile time: 0.65 ms
+-- Decompile time: 0.53 ms
 
 return {
     Description = "When the world went blank, the mechanical rot was cast into the Nil Zone. Memory stripped and soul hollowed, the actor rebuilt himself and his machine anew — not from purpose, but from the echo of what purpose once was.",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.News.MinimizeContainer
--- Decompile time: 1.83 ms
+-- Decompile time: 4.66 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local NewsButton = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.News.NewsButton)

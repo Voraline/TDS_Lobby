@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.DefendTheCenter.Difficulties.Act3.DisplayInfo
--- Decompile time: 0.17 ms
+-- Decompile time: 0.08 ms
 
 return {
     Name = "Lunar Overture (Act 3)",

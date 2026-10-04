@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.EvolvedKingpin.TowerInformation
--- Decompile time: 7.65 ms
+-- Decompile time: 2.30 ms
 
 return {
     ToolTip = {"Forget about it!"},

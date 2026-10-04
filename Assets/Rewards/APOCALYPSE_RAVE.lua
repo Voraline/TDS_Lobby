@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.APOCALYPSE_RAVE
--- Decompile time: 0.27 ms
+-- Decompile time: 0.35 ms
 
 return {
     Reward = "100 Exp",

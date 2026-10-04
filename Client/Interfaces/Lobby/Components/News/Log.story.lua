@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.News.Log.story
--- Decompile time: 0.69 ms
+-- Decompile time: 1.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Log = require(script.Parent.Log)

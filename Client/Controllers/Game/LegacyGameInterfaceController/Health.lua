@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.LegacyGameInterfaceController.Health
--- Decompile time: 1.57 ms
+-- Decompile time: 4.11 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local math = require(ReplicatedStorage.Shared.Modules.Utils.math)

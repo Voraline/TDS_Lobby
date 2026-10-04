@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.differenceSymmetric
--- Decompile time: 0.63 ms
+-- Decompile time: 0.40 ms
 
 require(script.Parent.Parent.Types)
 local toSet = require(script.Parent.toSet)

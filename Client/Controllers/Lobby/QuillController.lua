@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Lobby.QuillController
--- Decompile time: 0.28 ms
+-- Decompile time: 0.68 ms
 
 local Packages = game:GetService("ReplicatedStorage").Packages
 local Quill = Packages.Quill

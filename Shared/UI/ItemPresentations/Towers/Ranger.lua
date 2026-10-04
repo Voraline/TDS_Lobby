@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.ItemPresentations.Towers.Ranger
--- Decompile time: 0.29 ms
+-- Decompile time: 0.27 ms
 
 return {
     Init = function(a1, a2, a3) -- Line: 2

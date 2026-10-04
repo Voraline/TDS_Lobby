@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Sock Puppet.Animator
--- Decompile time: 0.67 ms
+-- Decompile time: 0.64 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local v1 = {}

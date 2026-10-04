@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_pretty-format@3.10.0.pretty-format
--- Decompile time: 8.58 ms
+-- Decompile time: 8.87 ms
 
 local v1 = require(script.Parent:WaitForChild("luau-polyfill"))
 local Error = v1.Error

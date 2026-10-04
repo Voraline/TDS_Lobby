@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Pulse Trooper.Stats
--- Decompile time: 1.37 ms
+-- Decompile time: 1.33 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

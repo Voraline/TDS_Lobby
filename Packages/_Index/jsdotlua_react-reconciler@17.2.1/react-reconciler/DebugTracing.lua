@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.DebugTracing
--- Decompile time: 2.85 ms
+-- Decompile time: 2.35 ms
 
 local console = require(script.Parent.Parent:WaitForChild("shared")).console
 local v1 = {}

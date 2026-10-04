@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-roblox@17.2.1.react-roblox.client.roblox.SingleEventManager
--- Decompile time: 1.87 ms
+-- Decompile time: 2.13 ms
 
 local console = (require((script.Parent.Parent.Parent.Parent:WaitForChild("shared")))).console
 local u13 = {}

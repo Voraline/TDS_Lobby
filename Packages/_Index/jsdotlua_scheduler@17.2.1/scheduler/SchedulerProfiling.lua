@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_scheduler@17.2.1.scheduler.SchedulerProfiling
--- Decompile time: 1.97 ms
+-- Decompile time: 4.01 ms
 
 local console = require(script.Parent.Parent:WaitForChild("shared")).console
 local u10 = {}

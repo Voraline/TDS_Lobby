@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.removeValue
--- Decompile time: 0.26 ms
+-- Decompile time: 0.17 ms
 
 return function(a1, a2) -- Line: 18 -- types: a1: table
     local v1 = {}

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.some
--- Decompile time: 0.23 ms
+-- Decompile time: 0.14 ms
 
 return function(a1, a2) -- Line: 24 -- types: a1: table, a2: function
     for k, v in pairs(a1) do

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.DropShadow
--- Decompile time: 0.34 ms
+-- Decompile time: 0.84 ms
 
 local React = require(game:GetService("ReplicatedStorage").Shared.UI.React)
 require(((game:GetService("ReplicatedStorage")):WaitForChild("rbxts")):WaitForChild("RuntimeLib"))

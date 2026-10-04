@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Bloxy Cola.Data
--- Decompile time: 0.09 ms
+-- Decompile time: 0.08 ms
 
 return {
     Description = "Pick up your trash!!!",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.DuckyWentGeorgia
--- Decompile time: 0.80 ms
+-- Decompile time: 0.86 ms
 
 local v1 = {id = "nametag", tag = "DuckyBath", type = "nametag"}
 return (((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("The Ducky went down to Georgia")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, productId = 3272686149})).objective({

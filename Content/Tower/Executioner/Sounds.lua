@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Executioner.Sounds
--- Decompile time: 0.18 ms
+-- Decompile time: 0.17 ms
 
 return {
     Default = {

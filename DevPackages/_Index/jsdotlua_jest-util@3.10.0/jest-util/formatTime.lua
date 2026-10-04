@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-util@3.10.0.jest-util.formatTime
--- Decompile time: 0.75 ms
+-- Decompile time: 2.30 ms
 
 local v1 = {}
 

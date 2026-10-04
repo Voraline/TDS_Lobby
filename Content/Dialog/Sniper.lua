@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.Sniper
--- Decompile time: 0.22 ms
+-- Decompile time: 0.18 ms
 
 return {
     Poses = {

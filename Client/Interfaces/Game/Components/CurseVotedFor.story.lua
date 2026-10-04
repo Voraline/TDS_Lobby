@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.CurseVotedFor.story
--- Decompile time: 0.82 ms
+-- Decompile time: 0.89 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CurseVotedFor = require(script.Parent.CurseVotedFor)

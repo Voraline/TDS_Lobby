@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Types.ConsumableTypes
--- Decompile time: 0.15 ms
+-- Decompile time: 0.10 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Types.PromiseTypes)

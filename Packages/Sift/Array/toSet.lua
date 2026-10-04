@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.toSet
--- Decompile time: 0.35 ms
+-- Decompile time: 0.21 ms
 
 local Parent_2 = script.Parent.Parent
 require(Parent_2.Types)

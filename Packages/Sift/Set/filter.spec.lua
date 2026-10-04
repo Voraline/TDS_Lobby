@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.filter.spec
--- Decompile time: 0.50 ms
+-- Decompile time: 0.61 ms
 
 return function() -- Line: 1
     local filter = require(script.Parent.filter)

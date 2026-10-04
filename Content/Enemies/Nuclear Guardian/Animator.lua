@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Nuclear Guardian.Animator
--- Decompile time: 2.59 ms
+-- Decompile time: 2.69 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

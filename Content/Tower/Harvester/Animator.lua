@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Harvester.Animator
--- Decompile time: 11.30 ms
+-- Decompile time: 11.92 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

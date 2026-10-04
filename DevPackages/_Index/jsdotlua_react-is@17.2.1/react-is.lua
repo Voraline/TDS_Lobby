@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_react-is@17.2.1.react-is
--- Decompile time: 2.59 ms
+-- Decompile time: 3.09 ms
 
 local console = require(script.Parent:WaitForChild("shared")).console
 local v1 = {}

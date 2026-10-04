@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Soccer Head.Stats
--- Decompile time: 0.25 ms
+-- Decompile time: 0.21 ms
 
 return {
     Speed = 4.5,

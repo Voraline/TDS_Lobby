@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Moon Walk.Animator
--- Decompile time: 1.50 ms
+-- Decompile time: 1.73 ms
 
 local RunService = game:GetService("RunService")
 local v1 = {}

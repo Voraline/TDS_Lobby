@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Frozen.Effects
--- Decompile time: 0.90 ms
+-- Decompile time: 0.83 ms
 
 local TweenService = game:GetService("TweenService")
 return {

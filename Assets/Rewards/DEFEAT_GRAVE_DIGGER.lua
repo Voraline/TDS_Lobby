@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Rewards.DEFEAT_GRAVE_DIGGER
--- Decompile time: 0.28 ms
+-- Decompile time: 0.20 ms
 
 return {
     Reward = "75 Exp",

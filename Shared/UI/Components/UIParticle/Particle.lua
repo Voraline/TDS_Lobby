@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.UIParticle.Particle
--- Decompile time: 3.92 ms
+-- Decompile time: 3.73 ms
 
 require(script.Parent.Types)
 local Helpers = require(script.Parent.Helpers)

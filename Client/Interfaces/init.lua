@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces
--- Decompile time: 1.65 ms
+-- Decompile time: 1.72 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

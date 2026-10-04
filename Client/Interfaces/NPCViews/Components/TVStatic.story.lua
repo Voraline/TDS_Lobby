@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.NPCViews.Components.TVStatic.story
--- Decompile time: 1.21 ms
+-- Decompile time: 2.51 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ChromaticAberration = require(script.Parent.ChromaticAberration)

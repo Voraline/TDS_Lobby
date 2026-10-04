@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Game.LegacyGameInterfaceController.Menu.Container.Modules.Music
--- Decompile time: 2.40 ms
+-- Decompile time: 4.96 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 game:GetService("ContentProvider")

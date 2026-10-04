@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Timezone
--- Decompile time: 0.37 ms
+-- Decompile time: 0.23 ms
 
 local u0 = {UTC = 1, EST = -4, CST = -5, PST = -7}
 return function(a1) -- Line: 15 -- upvalues: u0 (val) -- types: a1: string

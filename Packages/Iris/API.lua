@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Iris.API
--- Decompile time: 4.74 ms
+-- Decompile time: 5.89 ms
 
 require(script.Parent.Types)
 return function(a1) -- Line: 3

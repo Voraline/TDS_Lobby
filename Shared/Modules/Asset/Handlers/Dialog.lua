@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Asset.Handlers.Dialog
--- Decompile time: 0.38 ms
+-- Decompile time: 0.41 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Dialog = require(ReplicatedStorage.Shared.Modules.Content)("Dialog")

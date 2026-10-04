@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Lyra.Log
--- Decompile time: 1.12 ms
+-- Decompile time: 1.04 ms
 
 local u0 = {"fatal", "error", "warn", "info", "debug", "trace"}
 local u7 = {level = "info"}

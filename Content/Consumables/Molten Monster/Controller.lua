@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Molten Monster.Controller
--- Decompile time: 0.78 ms
+-- Decompile time: 0.77 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

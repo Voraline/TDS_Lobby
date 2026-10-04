@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Party.PlayerParty.PartyTitle
--- Decompile time: 0.77 ms
+-- Decompile time: 1.72 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PartyContext = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.Party.PartyContext)

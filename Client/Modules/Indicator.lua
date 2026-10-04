@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Indicator
--- Decompile time: 1.51 ms
+-- Decompile time: 2.57 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.FastSignal.Immediate
--- Decompile time: 0.86 ms
+-- Decompile time: 1.00 ms
 
 local Deferred = require(script.Parent.Deferred)
 local u5 = {}

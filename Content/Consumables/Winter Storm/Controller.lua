@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Winter Storm.Controller
--- Decompile time: 1.43 ms
+-- Decompile time: 1.44 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.TowerBuffs.story
--- Decompile time: 1.93 ms
+-- Decompile time: 4.03 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerBuffs = require(script.Parent.TowerBuffs)

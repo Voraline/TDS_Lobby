@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Firework.Effects
--- Decompile time: 2.21 ms
+-- Decompile time: 2.53 ms
 
 local TweenService = game:GetService("TweenService")
 

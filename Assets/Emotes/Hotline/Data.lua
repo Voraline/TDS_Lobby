@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Hotline.Data
--- Decompile time: 0.10 ms
+-- Decompile time: 0.08 ms
 
 return {
     Description = "I know when that hotline bling, that can only mean one thing.",

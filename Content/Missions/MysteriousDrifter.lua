@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.MysteriousDrifter
--- Decompile time: 0.60 ms
+-- Decompile time: 0.54 ms
 
 local v1 = {id = "tower", skin = "Badlands", tower = "Ranger", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("A Mysterious Drifter")).cost({amount = 650, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1893636527})).objective({

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react@17.2.1.react.ReactLazy
--- Decompile time: 1.70 ms
+-- Decompile time: 1.52 ms
 
 local console = require(script.Parent.Parent:WaitForChild("shared")).console
 local inspect = require(script.Parent.Parent:WaitForChild("luau-polyfill")).util.inspect

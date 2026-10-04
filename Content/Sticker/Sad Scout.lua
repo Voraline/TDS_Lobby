@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Sticker.Sad Scout
--- Decompile time: 0.22 ms
+-- Decompile time: 0.35 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.SharedUniversalFunctions
--- Decompile time: 3.20 ms
+-- Decompile time: 2.89 ms
 
 local v1 = {
     getBoundingBox = function(a1, a2, a3) -- Line: 3 -- types: a1: userdata, a2: function?, a3: boolean?

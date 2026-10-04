@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Turkey Leg.Animator
--- Decompile time: 1.99 ms
+-- Decompile time: 2.08 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

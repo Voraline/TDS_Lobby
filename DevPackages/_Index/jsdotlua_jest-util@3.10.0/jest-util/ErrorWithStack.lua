@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-util@3.10.0.jest-util.ErrorWithStack
--- Decompile time: 0.55 ms
+-- Decompile time: 1.41 ms
 
 local v1 = require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local Boolean = v1.Boolean

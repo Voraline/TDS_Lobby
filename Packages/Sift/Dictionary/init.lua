@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary
--- Decompile time: 1.04 ms
+-- Decompile time: 0.32 ms
 
 local v1 = {
     copy = require(script.copy),

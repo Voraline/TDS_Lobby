@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Views.Hunt2025Event
--- Decompile time: 0.32 ms
+-- Decompile time: 0.55 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Client.Interfaces.Lobby.Components.EventSplashScreen)

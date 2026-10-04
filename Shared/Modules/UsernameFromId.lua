@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.UsernameFromId
--- Decompile time: 0.99 ms
+-- Decompile time: 0.94 ms
 
 local Players = game:GetService("Players")
 local u5 = {}

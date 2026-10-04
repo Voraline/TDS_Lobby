@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Map2Adidas.Data
--- Decompile time: 0.45 ms
+-- Decompile time: 0.22 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

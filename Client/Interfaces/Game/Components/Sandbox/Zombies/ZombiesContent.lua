@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.Zombies.ZombiesContent
--- Decompile time: 4.80 ms
+-- Decompile time: 10.87 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Collapsible = require(ReplicatedStorage.Client.Interfaces.Game.Components.Sandbox.Collapsible)

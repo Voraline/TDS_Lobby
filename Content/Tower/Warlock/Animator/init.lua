@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Warlock.Animator
--- Decompile time: 13.59 ms
+-- Decompile time: 9.02 ms
 
 local ContentProvider = game:GetService("ContentProvider")
 local HttpService = game:GetService("HttpService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.RotatedRegion3.Vertices
--- Decompile time: 4.15 ms
+-- Decompile time: 4.92 ms
 
 local u0 = {}
 u0[1] = (Vector3.new(1, 1, 1))

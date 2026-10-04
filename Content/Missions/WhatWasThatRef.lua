@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.WhatWasThatRef
--- Decompile time: 0.62 ms
+-- Decompile time: 0.56 ms
 
 local v1 = {id = "tower", skin = "Crew", tower = "Assassin", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("What was that Ref?!")).cost({amount = 525, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, missionSection = "adidas", productId = 3594835830})).objective({

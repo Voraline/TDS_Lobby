@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useModifierVoteLocked
--- Decompile time: 0.29 ms
+-- Decompile time: 0.56 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useReplicatedState = require(ReplicatedStorage.Client.Interfaces.Hooks.useReplicatedState)

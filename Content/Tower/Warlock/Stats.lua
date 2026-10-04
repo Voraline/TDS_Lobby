@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Warlock.Stats
--- Decompile time: 2.15 ms
+-- Decompile time: 1.86 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Towers.Cowboy
--- Decompile time: 0.24 ms
+-- Decompile time: 0.23 ms
 
 game:GetService("MarketplaceService")
 return require(script.Parent.Parent.Parent.Types)({

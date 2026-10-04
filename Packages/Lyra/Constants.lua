@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Lyra.Constants
--- Decompile time: 0.09 ms
+-- Decompile time: 0.08 ms
 
 return {
     RECORD_SCOPE = "lyra/records",

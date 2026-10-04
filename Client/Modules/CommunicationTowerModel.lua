@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.CommunicationTowerModel
--- Decompile time: 0.88 ms
+-- Decompile time: 1.62 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Yeti.Animator
--- Decompile time: 1.22 ms
+-- Decompile time: 1.26 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Animation = require(ReplicatedStorage.Shared.Modules.Animation)

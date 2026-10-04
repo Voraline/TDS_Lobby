@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.WindShake.Settings
--- Decompile time: 1.44 ms
+-- Decompile time: 1.29 ms
 
 return {
     new = function(a1) -- Line: 10 -- types: a1: userdata

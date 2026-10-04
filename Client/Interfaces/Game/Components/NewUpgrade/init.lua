@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade
--- Decompile time: 61.30 ms
+-- Decompile time: 83.90 ms
 
 local deepAssign, getBuffedValues, getDeltaTable, u39
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

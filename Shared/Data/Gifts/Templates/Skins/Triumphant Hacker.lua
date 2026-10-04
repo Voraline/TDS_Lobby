@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Skins.Triumphant Hacker
--- Decompile time: 0.41 ms
+-- Decompile time: 0.61 ms
 
 local u7 = {
     19004289,

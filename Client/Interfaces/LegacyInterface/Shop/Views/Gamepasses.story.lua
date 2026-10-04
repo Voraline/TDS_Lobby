@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Views.Gamepasses.story
--- Decompile time: 0.41 ms
+-- Decompile time: 0.79 ms
 
 local Value = (require(game.ReplicatedStorage.Shared.UI.Fusion)).Value
 local Gamepasses = require(script.Parent.Gamepasses)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react@17.2.1.react.ReactForwardRef
--- Decompile time: 1.18 ms
+-- Decompile time: 1.24 ms
 
 local console = require(script.Parent.Parent:WaitForChild("shared")).console
 local ReactSymbols = require(script.Parent.Parent:WaitForChild("shared")).ReactSymbols

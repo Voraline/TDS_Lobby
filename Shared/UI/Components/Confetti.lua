@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.Confetti
--- Decompile time: 3.30 ms
+-- Decompile time: 3.06 ms
 
 local RunService = game:GetService("RunService")
 local u5 = {}

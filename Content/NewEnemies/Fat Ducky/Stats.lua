@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Fat Ducky.Stats
--- Decompile time: 0.12 ms
+-- Decompile time: 0.11 ms
 
 return {
     Description = "Made up of 99.99% of bread. We’re unsure about the last 0.01%",

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Lighting.NilZone
--- Decompile time: 0.15 ms
+-- Decompile time: 0.18 ms
 
 return {
     Ambient = Color3.fromRGB(72, 0, 113),

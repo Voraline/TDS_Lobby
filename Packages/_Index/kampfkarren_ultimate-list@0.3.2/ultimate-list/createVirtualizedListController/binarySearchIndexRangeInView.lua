@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.kampfkarren_ultimate-list@0.3.2.ultimate-list.createVirtualizedListController.binarySearchIndexRangeInView
--- Decompile time: 1.85 ms
+-- Decompile time: 2.37 ms
 
 local v1 = script:FindFirstAncestor("ultimate-list")
 local DataSourceMethods = require(v1.DataSources.DataSourceMethods)

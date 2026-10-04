@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.zip.spec
--- Decompile time: 1.16 ms
+-- Decompile time: 0.80 ms
 
 return function() -- Line: 1
     local zip = require(script.Parent.zip)

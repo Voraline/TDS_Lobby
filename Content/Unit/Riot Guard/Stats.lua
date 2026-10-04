@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Riot Guard.Stats
--- Decompile time: 0.55 ms
+-- Decompile time: 0.37 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

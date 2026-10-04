@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Firework Technician.TowerInformation
--- Decompile time: 1.05 ms
+-- Decompile time: 0.89 ms
 
 return {
     ToolTip = {

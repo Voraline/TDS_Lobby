@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.AirStrike.Controller
--- Decompile time: 3.73 ms
+-- Decompile time: 3.26 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

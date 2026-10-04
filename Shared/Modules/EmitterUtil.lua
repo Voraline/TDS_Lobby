@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.EmitterUtil
--- Decompile time: 6.47 ms
+-- Decompile time: 6.49 ms
 
 local v1 = {}
 

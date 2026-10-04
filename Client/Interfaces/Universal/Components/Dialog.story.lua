@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Dialog.story
--- Decompile time: 0.81 ms
+-- Decompile time: 1.84 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Dialog = require(script.Parent.Dialog)

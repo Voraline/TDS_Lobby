@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Utility.ReactUtil
--- Decompile time: 0.24 ms
+-- Decompile time: 0.35 ms
 
 return {
     updateReactChild = function(a1) -- Line: 6

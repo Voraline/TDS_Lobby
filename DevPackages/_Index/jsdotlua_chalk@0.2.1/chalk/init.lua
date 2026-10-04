@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_chalk@0.2.1.chalk
--- Decompile time: 5.44 ms
+-- Decompile time: 14.17 ms
 
 local v1
 

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Frost Blaster.Upgrade
--- Decompile time: 1.17 ms
+-- Decompile time: 1.09 ms
 
 local RunService = game:GetService("RunService")
 return {

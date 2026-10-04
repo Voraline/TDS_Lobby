@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.HazardousHaste
--- Decompile time: 0.73 ms
+-- Decompile time: 0.67 ms
 
 local v1 = {id = "tower", skin = "Nuclear", tower = "Accelerator", type = "tower"}
 return ((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Hazardous Haste")).cost({amount = 1000, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1893635956})).objective({

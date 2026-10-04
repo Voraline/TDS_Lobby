@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.NoYield
--- Decompile time: 0.35 ms
+-- Decompile time: 0.33 ms
 
 local function resultHandler(a1, a2, ...) -- Line: 10
     if not a2 then

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Pursuit.Stats-PVP
--- Decompile time: 2.92 ms
+-- Decompile time: 3.40 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Ducky.Stats
--- Decompile time: 0.12 ms
+-- Decompile time: 0.13 ms
 
 return {
     Description = "A new duckling filled with gentle quacks and boundless possibilities. Could they become an Agent? A Pilot? A Spy? The road ahead is bright with few obstacles in their path. With determination in their heart and curiosity in their eyes, they waddle forward into countless adventures. The future holds endless potential!",

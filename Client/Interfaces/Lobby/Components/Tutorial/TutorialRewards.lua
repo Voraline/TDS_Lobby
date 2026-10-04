@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Tutorial.TutorialRewards
--- Decompile time: 0.76 ms
+-- Decompile time: 1.62 ms
 
 local React = require(game:GetService("ReplicatedStorage").Shared.UI.React)
 local u37 = (require((((game:GetService("ReplicatedStorage")):WaitForChild("rbxts")):WaitForChild("RuntimeLib")))).import(

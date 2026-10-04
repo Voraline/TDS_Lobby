@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.PointerArrow
--- Decompile time: 1.82 ms
+-- Decompile time: 4.00 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

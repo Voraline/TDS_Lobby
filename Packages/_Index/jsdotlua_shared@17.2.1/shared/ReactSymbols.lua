@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_shared@17.2.1.shared.ReactSymbols
--- Decompile time: 0.49 ms
+-- Decompile time: 0.42 ms
 
 local u0 = {
     REACT_ELEMENT_TYPE = 60103,

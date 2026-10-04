@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.BhristtSpring
--- Decompile time: 3.49 ms
+-- Decompile time: 3.11 ms
 
 local Eq = require(script:WaitForChild("Eq"))
 local sqrt = math.sqrt

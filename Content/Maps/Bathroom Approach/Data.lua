@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Bathroom Approach.Data
--- Decompile time: 0.24 ms
+-- Decompile time: 0.28 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Enum = require(ReplicatedStorage.Shared.Modules.Enum)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.pepeeltoro41_ui-labs@2.4.2.ui-labs.Utils
--- Decompile time: 0.69 ms
+-- Decompile time: 0.68 ms
 
 local u0 = {}
 require(script.Parent.Types)

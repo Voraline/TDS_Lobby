@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Paintballer.Stats
--- Decompile time: 1.09 ms
+-- Decompile time: 1.03 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

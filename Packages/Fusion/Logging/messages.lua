@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Logging.messages
--- Decompile time: 0.21 ms
+-- Decompile time: 0.36 ms
 
 return {
     applyPropsNilRef = "`applyInstanceProps` got a nil ref! (this is an internal issue)",

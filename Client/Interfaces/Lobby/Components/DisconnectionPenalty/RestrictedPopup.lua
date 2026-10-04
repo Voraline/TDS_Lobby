@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.DisconnectionPenalty.RestrictedPopup
--- Decompile time: 5.29 ms
+-- Decompile time: 13.22 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local React = require(ReplicatedStorage.Shared.UI.React)

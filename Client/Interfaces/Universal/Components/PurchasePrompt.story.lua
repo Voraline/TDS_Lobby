@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.PurchasePrompt.story
--- Decompile time: 1.16 ms
+-- Decompile time: 9.42 ms
 
 local Shared = game:GetService("ReplicatedStorage").Shared
 local Modules = Shared.Modules

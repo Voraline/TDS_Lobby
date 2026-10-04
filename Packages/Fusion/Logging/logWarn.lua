@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Logging.logWarn
--- Decompile time: 0.33 ms
+-- Decompile time: 0.42 ms
 
 local Parent_2 = script.Parent.Parent
 local messages = require(Parent_2.Logging.messages)

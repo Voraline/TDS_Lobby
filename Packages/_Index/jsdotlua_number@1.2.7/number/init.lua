@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_number@1.2.7.number
--- Decompile time: 0.22 ms
+-- Decompile time: 0.30 ms
 
 return {
     NaN = (0 / 0),

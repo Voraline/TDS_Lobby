@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Fusion.Instances.Hydrate
--- Decompile time: 0.24 ms
+-- Decompile time: 0.40 ms
 
 local Parent = script.Parent.Parent
 require(Parent.PubTypes)

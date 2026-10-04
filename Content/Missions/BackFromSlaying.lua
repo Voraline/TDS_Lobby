@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.BackFromSlaying
--- Decompile time: 0.61 ms
+-- Decompile time: 0.54 ms
 
 local v1 = {id = "tower", skin = "Slayer", tower = "Shotgunner", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Back From Infernal")).cost({amount = 525, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true, productId = 1893634677})).objective({

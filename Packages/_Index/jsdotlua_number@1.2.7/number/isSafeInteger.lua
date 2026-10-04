@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_number@1.2.7.number.isSafeInteger
--- Decompile time: 0.23 ms
+-- Decompile time: 0.21 ms
 
 local isInteger = require(script.Parent:WaitForChild("isInteger"))
 local MAX_SAFE_INTEGER = require(script.Parent:WaitForChild("MAX_SAFE_INTEGER"))

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Halloween2024.Difficulties.Act3Easy.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.08 ms
 
 return {
     Name = "Lunar Overture 2024 (Act 3 Easy)",

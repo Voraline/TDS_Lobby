@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Hooks.useTick
--- Decompile time: 0.69 ms
+-- Decompile time: 1.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local useReactBinding = require(ReplicatedStorage.Client.Interfaces.Hooks.useReactBinding)

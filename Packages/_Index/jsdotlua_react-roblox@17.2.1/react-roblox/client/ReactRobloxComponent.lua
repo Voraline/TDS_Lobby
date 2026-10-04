@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-roblox@17.2.1.react-roblox.client.ReactRobloxComponent
--- Decompile time: 0.84 ms
+-- Decompile time: 0.79 ms
 
 local Object = (require((script.Parent.Parent.Parent:WaitForChild("luau-polyfill")))).Object
 local RobloxComponentProps = require((script.Parent:WaitForChild("roblox")):WaitForChild("RobloxComponentProps"))

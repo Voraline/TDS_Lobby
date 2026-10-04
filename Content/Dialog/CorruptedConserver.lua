@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.CorruptedConserver
--- Decompile time: 0.14 ms
+-- Decompile time: 0.15 ms
 
 return {
     DisplayName = "Corrupted Conserver",

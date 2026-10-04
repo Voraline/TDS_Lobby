@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.LightingController
--- Decompile time: 5.45 ms
+-- Decompile time: 12.02 ms
 
 local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Iris.config
--- Decompile time: 1.85 ms
+-- Decompile time: 2.09 ms
 
 return {
     colorDark = {

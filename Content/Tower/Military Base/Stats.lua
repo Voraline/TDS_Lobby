@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Military Base.Stats
--- Decompile time: 2.04 ms
+-- Decompile time: 2.11 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

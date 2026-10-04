@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.A Dark Tale.Animator
--- Decompile time: 5.54 ms
+-- Decompile time: 5.46 ms
 
 game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

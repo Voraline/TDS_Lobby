@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.paradoxum_quill@0.1.1.quill.UI.useDialogRevealText
--- Decompile time: 1.84 ms
+-- Decompile time: 1.96 ms
 
 local Dependencies = require(script.Parent.Parent.Dependencies)
 local ReactFlow = Dependencies.get("ReactFlow")

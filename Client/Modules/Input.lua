@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.Input
--- Decompile time: 0.59 ms
+-- Decompile time: 1.12 ms
 
 local UserInputService = game:GetService("UserInputService")
 local v1 = {}

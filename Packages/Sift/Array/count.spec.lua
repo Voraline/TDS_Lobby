@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.count.spec
--- Decompile time: 0.71 ms
+-- Decompile time: 0.61 ms
 
 return function() -- Line: 1
     local count = require(script.Parent.count)

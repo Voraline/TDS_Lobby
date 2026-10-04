@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Cat Dance.Data
--- Decompile time: 0.08 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "Funni Cat & may mays!",

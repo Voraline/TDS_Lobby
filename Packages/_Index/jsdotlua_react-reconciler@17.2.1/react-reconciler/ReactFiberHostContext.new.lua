@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberHostContext.new
--- Decompile time: 1.16 ms
+-- Decompile time: 1.57 ms
 
 require(script.Parent:WaitForChild("ReactInternalTypes"))
 local v1 = require(script.Parent:WaitForChild("ReactFiberStack.new"))

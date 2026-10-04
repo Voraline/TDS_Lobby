@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_path@3.10.0.path
--- Decompile time: 0.21 ms
+-- Decompile time: 0.47 ms
 
 local Path = require(script:WaitForChild("path")).Path
 

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Farm.Animator
--- Decompile time: 22.27 ms
+-- Decompile time: 22.91 ms
 
 local Debris = game:GetService("Debris")
 local Players = game:GetService("Players")

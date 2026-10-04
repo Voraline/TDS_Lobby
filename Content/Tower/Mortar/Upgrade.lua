@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Mortar.Upgrade
--- Decompile time: 1.10 ms
+-- Decompile time: 1.01 ms
 
 local RunService = game:GetService("RunService")
 return {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.NPCViews.Hooks.useNPCReplicators
--- Decompile time: 0.81 ms
+-- Decompile time: 2.07 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Maid = require(ReplicatedStorage.Shared.Modules.Maid)

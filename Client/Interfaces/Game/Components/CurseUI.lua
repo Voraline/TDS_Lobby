@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.CurseUI
--- Decompile time: 3.68 ms
+-- Decompile time: 4.06 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CurseCard = require(script.Parent.CurseCard)

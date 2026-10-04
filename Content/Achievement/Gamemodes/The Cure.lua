@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Gamemodes.The Cure
--- Decompile time: 0.16 ms
+-- Decompile time: 0.17 ms
 
 return {
     title = "The Cure",

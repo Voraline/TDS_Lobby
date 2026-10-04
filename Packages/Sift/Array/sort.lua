@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.sort
--- Decompile time: 0.23 ms
+-- Decompile time: 0.13 ms
 
 local copy = require(script.Parent.copy)
 return function(a1, a2) -- Line: 22 -- upvalues: copy (val) -- types: a1: table, a2: function?

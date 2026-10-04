@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.LyraLegacy.MockMemoryStoreService
--- Decompile time: 8.25 ms
+-- Decompile time: 7.17 ms
 
 local HttpService = game:GetService("HttpService")
 local Tables = require(script.Parent.Tables)

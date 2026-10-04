@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.kampfkarren_ultimate-list@0.3.2.ultimate-list.Util.createDebugLogger
--- Decompile time: 0.44 ms
+-- Decompile time: 0.45 ms
 
 local v1 = script:FindFirstAncestor("ultimate-list")
 local DebugFlags = require(v1.DebugFlags)

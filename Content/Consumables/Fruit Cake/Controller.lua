@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Fruit Cake.Controller
--- Decompile time: 0.75 ms
+-- Decompile time: 0.60 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Void Grave Digger.Stats
--- Decompile time: 0.69 ms
+-- Decompile time: 0.50 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

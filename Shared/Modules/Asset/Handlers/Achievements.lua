@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Asset.Handlers.Achievements
--- Decompile time: 0.43 ms
+-- Decompile time: 0.39 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Achievement = require(ReplicatedStorage.Shared.Modules.Content)("Achievement")

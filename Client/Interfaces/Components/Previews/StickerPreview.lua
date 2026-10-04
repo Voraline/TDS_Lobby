@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Previews.StickerPreview
--- Decompile time: 1.72 ms
+-- Decompile time: 3.17 ms
 
 game:GetService("HttpService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

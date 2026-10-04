@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.LinearPath
--- Decompile time: 4.20 ms
+-- Decompile time: 3.67 ms
 
 local u0 = {}
 u0.__index = u0

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Util.isEmpty
--- Decompile time: 0.18 ms
+-- Decompile time: 0.11 ms
 
 require(script.Parent.Parent.Types)
 return function(a1) -- Line: 22

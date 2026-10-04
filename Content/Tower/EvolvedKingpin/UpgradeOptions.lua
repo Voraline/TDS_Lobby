@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.EvolvedKingpin.UpgradeOptions
--- Decompile time: 0.49 ms
+-- Decompile time: 0.41 ms
 
 local KingpinTooltips = require(script.Parent.Stats.KingpinTooltips)
 

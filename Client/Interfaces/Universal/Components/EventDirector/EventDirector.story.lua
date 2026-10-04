@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.EventDirector.EventDirector.story
--- Decompile time: 3.37 ms
+-- Decompile time: 6.91 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Definitions = require(ReplicatedStorage.Shared.Modules.LiveEvents.Definitions)

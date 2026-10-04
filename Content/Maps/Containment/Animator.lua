@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Containment.Animator
--- Decompile time: 5.32 ms
+-- Decompile time: 4.42 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

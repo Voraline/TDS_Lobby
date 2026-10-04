@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Riot Guard.Animator
--- Decompile time: 4.47 ms
+-- Decompile time: 4.01 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

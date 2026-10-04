@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Challenges.ClassicRobloxPart1
--- Decompile time: 0.78 ms
+-- Decompile time: 0.71 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ServerStorage = game:GetService("ServerStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Elf Camp.TowerInformation
--- Decompile time: 1.70 ms
+-- Decompile time: 1.63 ms
 
 return {
     ToolTip = {

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-roblox-shared@3.10.0.jest-roblox-shared.Writeable
--- Decompile time: 0.35 ms
+-- Decompile time: 0.66 ms
 
 local u0 = {}
 u0.__index = u0

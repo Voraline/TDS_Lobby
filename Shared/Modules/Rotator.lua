@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Rotator
--- Decompile time: 1.77 ms
+-- Decompile time: 1.36 ms
 
 local band = bit32.band
 local bxor = bit32.bxor

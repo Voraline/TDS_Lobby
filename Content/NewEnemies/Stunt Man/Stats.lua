@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Stunt Man.Stats
--- Decompile time: 0.13 ms
+-- Decompile time: 0.12 ms
 
 return {
     Speed = 5.5,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.Hud.HudPartyMember.story
--- Decompile time: 1.13 ms
+-- Decompile time: 2.45 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local HudPartyMember = require(script.Parent.HudPartyMember)

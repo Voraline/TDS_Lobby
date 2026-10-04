@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Iris.widgets.Menu
--- Decompile time: 9.78 ms
+-- Decompile time: 9.99 ms
 
 require(script.Parent.Parent.Types)
 return function(a1, a2) -- Line: 3

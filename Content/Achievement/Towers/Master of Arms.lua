@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Towers.Master of Arms
--- Decompile time: 0.14 ms
+-- Decompile time: 0.11 ms
 
 return {
     title = "Master of Arms",

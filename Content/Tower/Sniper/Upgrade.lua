@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Sniper.Upgrade
--- Decompile time: 0.88 ms
+-- Decompile time: 1.18 ms
 
 local RunService = game:GetService("RunService")
 return {

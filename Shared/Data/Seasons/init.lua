@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Seasons
--- Decompile time: 2.75 ms
+-- Decompile time: 3.16 ms
 
 local v1
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

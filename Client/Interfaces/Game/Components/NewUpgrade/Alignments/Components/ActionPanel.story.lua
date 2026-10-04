@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewUpgrade.Alignments.Components.ActionPanel.story
--- Decompile time: 1.90 ms
+-- Decompile time: 5.68 ms
 
 local UI = game:GetService("ReplicatedStorage").Shared.UI
 local ActionPanel = require(script.Parent.ActionPanel)

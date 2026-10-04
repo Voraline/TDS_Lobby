@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.LiveEventVisuals.BlackHole
--- Decompile time: 13.94 ms
+-- Decompile time: 31.65 ms
 
 local Lighting = game:GetService("Lighting")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

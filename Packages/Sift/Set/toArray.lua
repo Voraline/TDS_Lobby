@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Set.toArray
--- Decompile time: 0.26 ms
+-- Decompile time: 0.13 ms
 
 return function(a1) -- Line: 17 -- types: a1: table
     local v1 = {}

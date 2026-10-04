@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.StatusEffects.Visuals.AggroVisuals
--- Decompile time: 1.00 ms
+-- Decompile time: 1.77 ms
 
 local Buffs = game:GetService("ReplicatedStorage"):WaitForChild("Assets"):WaitForChild("Effects"):WaitForChild("Buffs")
 return {

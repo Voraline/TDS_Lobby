@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.TutorialMatch
--- Decompile time: 0.20 ms
+-- Decompile time: 0.15 ms
 
 return function(a1, a2, a3) -- Line: 3 -- types: a1: boolean?, a2: number?, a3: string?
     local v1 = true

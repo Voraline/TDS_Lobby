@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Toy Soldier.Stats
--- Decompile time: 0.17 ms
+-- Decompile time: 0.13 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Enum)

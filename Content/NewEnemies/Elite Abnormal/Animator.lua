@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Elite Abnormal.Animator
--- Decompile time: 0.09 ms
+-- Decompile time: 0.11 ms
 
 local v1 = {}
 v1.__index = v1

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Lunar Shard.Stats
--- Decompile time: 0.18 ms
+-- Decompile time: 0.10 ms
 
 return {
     Scale = 1.1,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Jolly Tree.Animator
--- Decompile time: 2.54 ms
+-- Decompile time: 2.40 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

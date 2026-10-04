@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Achoo.Animator
--- Decompile time: 1.50 ms
+-- Decompile time: 1.44 ms
 
 local RunService = game:GetService("RunService")
 local v1 = {}

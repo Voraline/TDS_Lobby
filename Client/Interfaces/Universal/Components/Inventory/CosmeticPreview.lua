@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.Inventory.CosmeticPreview
--- Decompile time: 1.75 ms
+-- Decompile time: 4.43 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local CharmPreview = require(ReplicatedStorage.Client.Interfaces.Components.Previews.CharmPreview)

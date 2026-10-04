@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Ranger.Upgrade
--- Decompile time: 1.75 ms
+-- Decompile time: 2.11 ms
 
 local RunService = game:GetService("RunService")
 return {

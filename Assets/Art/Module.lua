@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Art.Module
--- Decompile time: 0.73 ms
+-- Decompile time: 0.83 ms
 
 return {
     {"Hunting Season | Art | 1st Place", 9744663417},

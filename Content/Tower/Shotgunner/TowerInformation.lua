@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Shotgunner.TowerInformation
--- Decompile time: 0.58 ms
+-- Decompile time: 1.05 ms
 
 return {
     ToolTip = {

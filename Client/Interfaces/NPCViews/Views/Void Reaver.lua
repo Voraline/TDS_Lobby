@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.NPCViews.Views.Void Reaver
--- Decompile time: 2.80 ms
+-- Decompile time: 6.18 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ChromaticAberration = require(ReplicatedStorage.Client.Interfaces.NPCViews.Components.ChromaticAberration)

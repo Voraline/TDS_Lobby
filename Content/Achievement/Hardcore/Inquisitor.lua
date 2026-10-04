@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Hardcore.Inquisitor
--- Decompile time: 0.16 ms
+-- Decompile time: 0.14 ms
 
 return {
     title = "Inquisitor",

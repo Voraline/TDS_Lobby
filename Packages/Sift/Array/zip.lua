@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.zip
--- Decompile time: 0.75 ms
+-- Decompile time: 0.50 ms
 
 local reduce = require(script.Parent.reduce)
 return function(...) -- Line: 20 -- upvalues: reduce (val)

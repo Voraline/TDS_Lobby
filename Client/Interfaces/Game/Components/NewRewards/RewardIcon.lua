@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.NewRewards.RewardIcon
--- Decompile time: 1.22 ms
+-- Decompile time: 1.53 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local BattlepassItem = require(ReplicatedStorage.Client.Interfaces.Lobby.Components.Battlepass.BattlepassItem)

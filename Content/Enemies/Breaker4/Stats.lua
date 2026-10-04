@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Breaker4.Stats
--- Decompile time: 0.17 ms
+-- Decompile time: 0.20 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 require(ReplicatedStorage.Shared.Modules.Enum)

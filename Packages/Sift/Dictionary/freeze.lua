@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.freeze
--- Decompile time: 0.19 ms
+-- Decompile time: 0.14 ms
 
 require(script.Parent.Parent.Types)
 local copy = require(script.Parent.copy)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.ExecutionerTiming
--- Decompile time: 0.14 ms
+-- Decompile time: 0.26 ms
 
 return table.freeze({
     Windup = 1,

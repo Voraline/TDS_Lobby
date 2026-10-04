@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Railgun Tank.Stats
--- Decompile time: 0.31 ms
+-- Decompile time: 0.23 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

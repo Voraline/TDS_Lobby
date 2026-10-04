@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.outofbears_react-flow@0.4.0.react-flow.Animations
--- Decompile time: 0.24 ms
+-- Decompile time: 0.23 ms
 
 local Symbols = require(script.Symbols)
 local u4 = {}

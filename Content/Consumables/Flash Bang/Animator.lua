@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Flash Bang.Animator
--- Decompile time: 3.29 ms
+-- Decompile time: 2.64 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Present3.Animator
--- Decompile time: 0.12 ms
+-- Decompile time: 0.09 ms
 
 local v1 = {}
 v1.__index = v1

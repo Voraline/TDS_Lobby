@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.RichText.Particles
--- Decompile time: 2.91 ms
+-- Decompile time: 2.69 ms
 
 local v1
 local CollectionService = game:GetService("CollectionService")

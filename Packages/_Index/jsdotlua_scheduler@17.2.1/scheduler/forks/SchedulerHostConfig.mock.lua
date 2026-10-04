@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_scheduler@17.2.1.scheduler.forks.SchedulerHostConfig.mock
--- Decompile time: 3.03 ms
+-- Decompile time: 2.53 ms
 
 local u0 = {}
 local u1 = 0

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.SpinWheelChances.RewardTile
--- Decompile time: 2.32 ms
+-- Decompile time: 5.53 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u7 = require("../../Utility/SpinWheelChances/Constants")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.unshift.spec
--- Decompile time: 1.06 ms
+-- Decompile time: 1.19 ms
 
 return function() -- Line: 1
     local unshift = require(script.Parent.unshift)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Gamemodes.Slayer
--- Decompile time: 0.13 ms
+-- Decompile time: 0.14 ms
 
 return {
     title = "Slayer",

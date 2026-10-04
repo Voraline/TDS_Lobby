@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Flair.PVPRank.Lieutenant III
--- Decompile time: 0.23 ms
+-- Decompile time: 0.17 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

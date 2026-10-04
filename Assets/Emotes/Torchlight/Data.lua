@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Torchlight.Data
--- Decompile time: 0.11 ms
+-- Decompile time: 0.09 ms
 
 return {
     Description = "A light to bright up your night.",

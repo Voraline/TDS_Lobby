@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Unit.Gunner APC.Animator
--- Decompile time: 3.16 ms
+-- Decompile time: 3.31 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

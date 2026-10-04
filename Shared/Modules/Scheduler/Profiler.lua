@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.Scheduler.Profiler
--- Decompile time: 0.61 ms
+-- Decompile time: 0.51 ms
 
 local u0 = {}
 return {

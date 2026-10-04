@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.CutsceneSequenceUtils
--- Decompile time: 6.85 ms
+-- Decompile time: 6.47 ms
 
 local v1 = {}
 

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.StoryMode.Chapters.Chapter0.Mission3
--- Decompile time: 0.16 ms
+-- Decompile time: 0.18 ms
 
 return {
     Id = "breach-protocol",

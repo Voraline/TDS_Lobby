@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.copyDeep
--- Decompile time: 0.25 ms
+-- Decompile time: 0.36 ms
 
 local copyDeep
 

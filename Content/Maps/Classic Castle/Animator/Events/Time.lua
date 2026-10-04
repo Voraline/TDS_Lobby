@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Classic Castle.Animator.Events.Time
--- Decompile time: 2.06 ms
+-- Decompile time: 2.25 ms
 
 local Lighting = game:GetService("Lighting")
 local RunService = game:GetService("RunService")

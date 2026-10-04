@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.LargeUpsell
--- Decompile time: 5.49 ms
+-- Decompile time: 11.83 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ActionButton = require(ReplicatedStorage.Client.Interfaces.Components.ActionButton)

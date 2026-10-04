@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-snapshot@3.10.0.jest-snapshot.dedentLines
--- Decompile time: 2.55 ms
+-- Decompile time: 6.63 ms
 
 require(script.Parent.Parent:WaitForChild("luau-polyfill"))
 local dedentMarkup = nil

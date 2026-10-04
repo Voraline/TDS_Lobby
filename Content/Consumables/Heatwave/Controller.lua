@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Heatwave.Controller
--- Decompile time: 1.70 ms
+-- Decompile time: 1.51 ms
 
 game:GetService("Lighting")
 local Players = game:GetService("Players")

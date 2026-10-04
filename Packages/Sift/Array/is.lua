@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Array.is
--- Decompile time: 0.21 ms
+-- Decompile time: 0.19 ms
 
 return function(a1) -- Line: 21
     local v1 = false

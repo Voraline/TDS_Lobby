@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Militant.Animator.MilitantSkinConfig
--- Decompile time: 3.04 ms
+-- Decompile time: 1.54 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TweenService = game:GetService("TweenService")

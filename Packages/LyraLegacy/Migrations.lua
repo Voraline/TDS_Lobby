@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.LyraLegacy.Migrations
--- Decompile time: 1.64 ms
+-- Decompile time: 1.72 ms
 
 require(script.Parent.Log)
 local Promise = require(script.Parent.Promise)

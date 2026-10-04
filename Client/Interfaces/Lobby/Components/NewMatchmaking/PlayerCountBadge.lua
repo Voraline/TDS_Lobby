@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.NewMatchmaking.PlayerCountBadge
--- Decompile time: 1.37 ms
+-- Decompile time: 3.21 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Abbreviate = require(ReplicatedStorage.Shared.Modules.Abbreviate)

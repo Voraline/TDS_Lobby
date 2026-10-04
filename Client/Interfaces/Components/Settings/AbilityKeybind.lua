@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Components.Settings.AbilityKeybind
--- Decompile time: 2.46 ms
+-- Decompile time: 4.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local table = require(ReplicatedStorage.Shared.Modules.Utils.table)

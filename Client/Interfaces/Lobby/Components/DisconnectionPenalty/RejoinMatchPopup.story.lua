@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Lobby.Components.DisconnectionPenalty.RejoinMatchPopup.story
--- Decompile time: 0.57 ms
+-- Decompile time: 1.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RejoinMatchPopup = require(script.Parent.RejoinMatchPopup)

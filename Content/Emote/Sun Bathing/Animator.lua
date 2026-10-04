@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Emote.Sun Bathing.Animator
--- Decompile time: 0.89 ms
+-- Decompile time: 0.87 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local EasySound = require(ReplicatedStorage.Shared.Modules.EasySound)

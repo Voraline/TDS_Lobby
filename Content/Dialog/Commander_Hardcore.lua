@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.Commander_Hardcore
--- Decompile time: 0.34 ms
+-- Decompile time: 0.31 ms
 
 return {
     DisplayName = "Commander",

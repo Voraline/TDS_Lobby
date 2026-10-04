@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Modules.TransientVFX
--- Decompile time: 4.37 ms
+-- Decompile time: 12.93 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

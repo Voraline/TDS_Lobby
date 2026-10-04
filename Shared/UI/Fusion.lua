@@ -1,4 +1,4 @@
 -- Script path: ReplicatedStorage.Shared.UI.Fusion
--- Decompile time: 0.11 ms
+-- Decompile time: 0.13 ms
 
 return require(((game:GetService("ReplicatedStorage")):WaitForChild("Packages")):WaitForChild("Fusion"))

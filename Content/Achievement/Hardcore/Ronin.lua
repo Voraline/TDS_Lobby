@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Hardcore.Ronin
--- Decompile time: 0.16 ms
+-- Decompile time: 0.11 ms
 
 return {
     title = "Ronin",

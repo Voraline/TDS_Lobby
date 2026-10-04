@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Slingshot.Animator
--- Decompile time: 1.27 ms
+-- Decompile time: 1.45 ms
 
 local Players = game:GetService("Players")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")

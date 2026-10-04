@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.DevPackages._Index.jsdotlua_jest-matcher-utils@3.10.0.jest-matcher-utils.Replaceable
--- Decompile time: 0.71 ms
+-- Decompile time: 1.53 ms
 
 local getType = require(script.Parent.Parent:WaitForChild("jest-get-type")).getType
 local u10 = {}

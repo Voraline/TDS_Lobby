@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_string@1.2.7.string.findOr
--- Decompile time: 0.87 ms
+-- Decompile time: 0.95 ms
 
 local u8 = "([" .. (("$%^()-[].?"):gsub("(.)", "%%%1")) .. "])"
 return function(a1, a2, a3) -- Line: 9 -- upvalues: u8 (val) -- types: a1: string, a2: table, a3: number?

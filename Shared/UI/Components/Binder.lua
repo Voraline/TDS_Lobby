@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.UI.Components.Binder
--- Decompile time: 0.29 ms
+-- Decompile time: 0.27 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Observer = require(ReplicatedStorage.Shared.UI.Fusion).Observer

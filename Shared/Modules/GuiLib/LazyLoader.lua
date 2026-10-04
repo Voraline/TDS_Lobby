@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Modules.GuiLib.LazyLoader
--- Decompile time: 0.54 ms
+-- Decompile time: 0.46 ms
 
 local getLoaderOf
 local u2 = {Folder = true, ModuleScript = true}

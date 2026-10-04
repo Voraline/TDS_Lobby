@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Arrow.Animator
--- Decompile time: 1.80 ms
+-- Decompile time: 2.28 ms
 
 local RunService = game:GetService("RunService")
 local v1 = {}

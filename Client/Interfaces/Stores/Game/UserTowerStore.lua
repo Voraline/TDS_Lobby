@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Game.UserTowerStore
--- Decompile time: 1.35 ms
+-- Decompile time: 2.74 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local Cache = require(ReplicatedStorage:WaitForChild("Client").Modules.Cache)

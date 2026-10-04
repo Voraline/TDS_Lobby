@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Operator Ducky.Stats
--- Decompile time: 0.21 ms
+-- Decompile time: 0.11 ms
 
 return {
     Description = "Operator Ducky is a dedicated \"War Head\" who eats grenades for breakfast and military tactics for lunch. Their idea of a relaxation is planning elaborate military operations while wearing full military gear. Many of the ducks believe he's LARPing as his hand-eye coordination is as bad as Missile Ducky's inability to not blow something up.",

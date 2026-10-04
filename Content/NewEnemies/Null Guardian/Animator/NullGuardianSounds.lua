@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.NewEnemies.Null Guardian.Animator.NullGuardianSounds
--- Decompile time: 0.14 ms
+-- Decompile time: 0.08 ms
 
 return {
     SwitchPathIntro = 111745785644299,

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Shared.Data.Gifts.Templates.Towers.War Machine
--- Decompile time: 0.39 ms
+-- Decompile time: 0.36 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local SharedGameConstants = require(ReplicatedStorage.Shared.Modules.SharedGameConstants)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Components.EventDirector.CommandsPanel
--- Decompile time: 23.19 ms
+-- Decompile time: 51.89 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local ActionFields = require(script.Parent.ActionFields)

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Nuke.Controller
--- Decompile time: 2.93 ms
+-- Decompile time: 2.77 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Lobby.ShopFocusStore
--- Decompile time: 0.31 ms
+-- Decompile time: 0.65 ms
 
 local Packages = (game:GetService("ReplicatedStorage")).Packages
 local v1, u12 = require(Packages.Charm).signal({})

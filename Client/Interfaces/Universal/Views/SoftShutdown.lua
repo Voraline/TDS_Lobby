@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Universal.Views.SoftShutdown
--- Decompile time: 1.24 ms
+-- Decompile time: 2.57 ms
 
 local Lighting = game:GetService("Lighting")
 local Players = game:GetService("Players")

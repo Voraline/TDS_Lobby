@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Enemies.Gatekeeper.Animator
--- Decompile time: 3.13 ms
+-- Decompile time: 3.23 ms
 
 game:GetService("Lighting")
 game:GetService("Players")

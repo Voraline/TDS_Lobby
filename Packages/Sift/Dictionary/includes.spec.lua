@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.includes.spec
--- Decompile time: 0.38 ms
+-- Decompile time: 0.30 ms
 
 return function() -- Line: 1
     local includes = require(script.Parent.includes)

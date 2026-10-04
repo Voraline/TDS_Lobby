@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.TechTactician
--- Decompile time: 0.59 ms
+-- Decompile time: 0.65 ms
 
 local v1 = {id = "tower", skin = "Phantom", tower = "Commander", type = "tower"}
 return (((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Tech Tactician")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "RETAIN", permanent = true})).objective({

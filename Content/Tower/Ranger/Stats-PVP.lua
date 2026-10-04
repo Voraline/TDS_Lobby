@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Ranger.Stats-PVP
--- Decompile time: 1.59 ms
+-- Decompile time: 1.42 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local TowerDPS = require(ReplicatedStorage.Shared.Modules.TowerDPS)

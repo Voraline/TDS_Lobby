@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Achievement.Winter2025.Show Stopper
--- Decompile time: 0.18 ms
+-- Decompile time: 0.17 ms
 
 return {
     title = "Show Stopper",

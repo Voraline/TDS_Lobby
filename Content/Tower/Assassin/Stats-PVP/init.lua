@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Tower.Assassin.Stats-PVP
--- Decompile time: 1.15 ms
+-- Decompile time: 1.50 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local AssassinTooltips = require(script.AssassinTooltips)

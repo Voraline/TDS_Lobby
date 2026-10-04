@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Dialog.Trapper
--- Decompile time: 0.19 ms
+-- Decompile time: 0.20 ms
 
 return {
     Poses = {

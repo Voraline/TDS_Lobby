@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages._Index.jsdotlua_react-reconciler@17.2.1.react-reconciler.ReactFiberWorkInProgress
--- Decompile time: 0.27 ms
+-- Decompile time: 0.28 ms
 
 local ReactFiberLane = require(script.Parent:WaitForChild("ReactFiberLane"))
 local NoLanes = ReactFiberLane.NoLanes

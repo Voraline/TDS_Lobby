@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Game.Components.MapOverride.List
--- Decompile time: 2.52 ms
+-- Decompile time: 5.07 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local MapItem = require(script.Parent.MapItem)

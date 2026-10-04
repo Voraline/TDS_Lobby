@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Controllers.Shared.ToastController
--- Decompile time: 0.35 ms
+-- Decompile time: 0.63 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u11 = require(ReplicatedStorage.Shared.Modules.Signal).new()

@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Maps.Tutorial
--- Decompile time: 0.19 ms
+-- Decompile time: 0.25 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 return {

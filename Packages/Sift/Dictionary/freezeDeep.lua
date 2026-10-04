@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Packages.Sift.Dictionary.freezeDeep
--- Decompile time: 0.44 ms
+-- Decompile time: 0.35 ms
 
 local freezeDeep
 require(script.Parent.Parent.Types)

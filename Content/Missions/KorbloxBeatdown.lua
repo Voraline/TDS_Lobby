@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Missions.KorbloxBeatdown
--- Decompile time: 0.82 ms
+-- Decompile time: 0.78 ms
 
 local v1 = {id = "tower", skin = "Korblox", tower = "Warden", type = "tower"}
 return (((((((((require((game:GetService("ReplicatedStorage")).Shared.Tome)).create()).name("Korblox Beatdown")).cost({amount = 825, currency = "coins"})).withMetadata({expirationPolicy = "REMOVE", disabled = true, productId = 3238792676})).objective({

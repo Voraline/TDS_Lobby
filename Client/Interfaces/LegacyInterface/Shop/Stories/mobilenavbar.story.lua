@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.LegacyInterface.Shop.Stories.mobilenavbar.story
--- Decompile time: 0.59 ms
+-- Decompile time: 1.14 ms
 
 local Value = (require(game.ReplicatedStorage.Shared.UI.Fusion)).Value
 Components = script.Parent.Parent.Components

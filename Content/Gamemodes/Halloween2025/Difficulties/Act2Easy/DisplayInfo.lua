@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Gamemodes.Halloween2025.Difficulties.Act2Easy.DisplayInfo
--- Decompile time: 0.11 ms
+-- Decompile time: 0.08 ms
 
 return {
     Name = "Halloween 2025 (Act 2 Easy)",

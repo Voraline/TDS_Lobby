@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Content.Consumables.Festive Tree.Animator
--- Decompile time: 3.72 ms
+-- Decompile time: 3.30 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local RunService = game:GetService("RunService")

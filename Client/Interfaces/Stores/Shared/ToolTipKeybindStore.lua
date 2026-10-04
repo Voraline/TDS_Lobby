@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Client.Interfaces.Stores.Shared.ToolTipKeybindStore
--- Decompile time: 0.62 ms
+-- Decompile time: 1.60 ms
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local u13, u14 = (require(ReplicatedStorage.Packages.Charm)).signal({binds = {}})

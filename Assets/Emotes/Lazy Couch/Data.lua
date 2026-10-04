@@ -1,5 +1,5 @@
 -- Script path: ReplicatedStorage.Assets.Emotes.Lazy Couch.Data
--- Decompile time: 0.09 ms
+-- Decompile time: 0.07 ms
 
 return {
     Description = "The best way to get into the Holiday spirit!",
